@@ -9,7 +9,7 @@
 
   <title>
     Contact Me - Modern&#39;s man life
-
+    
   </title>
 
   <meta name="description" content="A Blog by Javier Freire about different topics of life">
@@ -59,16 +59,16 @@
   <!-- Page Header -->
 
 <header class="masthead" style="background-image: url('/img/bg-contact.jpg')">
-
+  
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
             <h1>Contact Me</h1>
-
+            
             <span class="subheading">Have questions? I have answers.</span>
-
+            
           </div>
         </div>
       </div>
@@ -131,7 +131,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <ul class="list-inline text-center">
-
+          
           <li class="list-inline-item">
             <a href="mailto:vonfreiren@protonmail.com">
               <span class="fa-stack fa-lg">
@@ -140,8 +140,8 @@
               </span>
             </a>
           </li>
-
-
+          
+          
           <li class="list-inline-item">
             <a href="https://twitter.com/vonfreiren">
               <span class="fa-stack fa-lg">
@@ -150,8 +150,8 @@
               </span>
             </a>
           </li>
-
-
+          
+          
           <li class="list-inline-item">
             <a href="https://www.facebook.com/vonfreiren">
               <span class="fa-stack fa-lg">
@@ -160,8 +160,8 @@
               </span>
             </a>
           </li>
-
-
+          
+          
           <li class="list-inline-item">
             <a href="https://www.linkedin.com/in/jfreirea">
               <span class="fa-stack fa-lg">
@@ -170,8 +170,8 @@
               </span>
             </a>
           </li>
-
-
+          
+          
           <li class="list-inline-item">
             <a href="https://github.com/vonfreiren">
               <span class="fa-stack fa-lg">
@@ -180,8 +180,8 @@
               </span>
             </a>
           </li>
-
-
+          
+          
           <li class="list-inline-item">
             <a href="https://instagram.com/vonfreiren">
               <span class="fa-stack fa-lg">
@@ -190,7 +190,7 @@
               </span>
             </a>
           </li>
-
+          
         </ul>
         <p class="copyright text-muted">Copyright &copy; Javier Freire 2022</p>
       </div>
@@ -232,9 +232,8 @@
           $this = $("#sendMessageButton");
           $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           $.ajax({
-            url: "https://formspree.io/f/mknybwdv",
-            method: "POST",
-            dataType: "json"
+            url: "//formspree.io/vonfreiren@protonmail.com",
+            type: "POST",
             data: {
               name: name,
               phone: phone,
