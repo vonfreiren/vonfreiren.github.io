@@ -1,35 +1,216 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-27T00:49:04+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modern’s man life</title><subtitle>A Blog by Javier Freire about different topics of life</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Dinosaurs are extinct today</title><link href="http://localhost:4000/2022/01/27/dinosaurs.html" rel="alternate" type="text/html" title="Dinosaurs are extinct today" /><published>2022-01-27T04:45:13+01:00</published><updated>2022-01-27T04:45:13+01:00</updated><id>http://localhost:4000/2022/01/27/dinosaurs</id><content type="html" xml:base="http://localhost:4000/2022/01/27/dinosaurs.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-27T16:19:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modern’s man life</title><subtitle>A Blog by Javier Freire about different topics of life</subtitle><author><name>Javier Freire</name></author><entry><title type="html">DeFi: Anchor Protocol</title><link href="http://localhost:4000/2022/02/11/dinosaurs.html" rel="alternate" type="text/html" title="DeFi: Anchor Protocol" /><published>2022-02-11T04:45:13+01:00</published><updated>2022-02-11T04:45:13+01:00</updated><id>http://localhost:4000/2022/02/11/dinosaurs</id><content type="html" xml:base="http://localhost:4000/2022/02/11/dinosaurs.html"><![CDATA[<h2 class="section-heading">Introduction</h2>
+<p>
+    In the recent years, we have been suffering a 0% interest rate policy in
+    our deposits. In some cases, this has been translated even into negative
+    interest into some countries or abusive custody or management fees.
+    Further, apart from having to pay to give our money to the bank, we are
+    also losing acquisition power every year due to the high inflation and lack
+    of reaction from central banks.
+</p>
+<p>
+    I have been always not happy about this topic, since we are lending our
+    money to the banks (in some cases charging us for that money) and with that
+    money, they lend it to other customers, for which they charge an abusive
+    interest rate. I understand that they are companies and they need to have
+    benefits. However, they should innovate and provide added value for these
+    services. It should not be the case that for literally doing nothing they
+    are first charging us, and later using our money to lend it to other
+    customers and charging them with high interest and big penalties in case of
+</p>
+<p>
+    Although in the past decades there has not been any breakthrough in
+    traditional finance (I just think about ATMs and credit cards), for the
+    past years a new concept known as DeFi has been introduced and it’s getting
+    more traction. Every year, there are several projects related to it, mainly
+    linked to blockchains and different crypto currencies.
+</p>
+<p>
+    The purpose of this article is not praising the different benefits of DeFi
+    and criticising the traditional finance. The goal is just to show that
+    there are more alternatives to depositing the money in the bank, giving us
+    a 0% on it.
+</p>
 
-<p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+<h2 class="section-heading">Wha'ts Anchor?</h2>
 
-<p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+<p>
+    For that, I am showing those who are not aware of Anchor Protocol. What’s
+    this? Anchor is a platform that offers both savings account and a lending
+    platform.
+</p>
+<p>
+    In this article we are just focusing on the savings account, for which
+    depositors get approximately an APY of 19.5%.
+</p>
+<p>
+    The deposits are in TerraUSD (UST) , which is the Terra stable coin. The
+    value of this coin is pegged to the USD and there is a mechanism to make
+    sure that the value keeps pegged to the UST. There are some interesting
+    videos about this algorithm (and other projects such as White Whale that
+    use it to get additional APY on the arbitrage
+</p>
+<p>
+    This means that with a deposit of 10,000 UST, we will get around 2,000 UST
+    after one year. The UST is compounded daily and reflected in your deposit.
+    For example, in one week, you get around 38 UST with the example above.
+</p>
+<p>
+    Please note that the APY slightly varies and it is likely the case that
+    once there are several adopters of UST, the APY will reduced.
+</p>
 
-<p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+<h2 class="section-heading">How to deposit into Anchor Protocol</h2>
 
-<p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+<p>
+    We have said that the Anchor works with UST. You cannot deposit fiat or any
+    other stable coins. Some months ago, it was more difficult to get UST.
+    Fortunately, it is now more and more extended and there are more and more
+    different options. The last exchange that listed UST was Kraken. In terms
+    of fees, this may be also the most convenient one if you are living in
+    Europe.
+</p>
+<p>
+    Before explaining briefly the different alternatives, you will need a Terra
+    Station wallet. This wallet is the official one from TerraForm Labs and
+    it’s used to manage the different Terra tokens (UST, LUNA, etc.)
+</p>
+<p>
+    There are some Chrome extensions and mobile applications for it. Once you
+    have set it up, you will be able to send the UST (or LUNA) to your Terra
+    Station address.
+</p>
+<h2 class="section-heading">How to buy UST</h2>
 
-<h2 class="section-heading">The Final Frontier</h2>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-<img class="img-fluid" src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450" alt="Demo Image">
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-<p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://unsplash.com/">Unsplash</a>.</p>]]></content><author><name>Javier Freire</name></author><summary type="html"><![CDATA[Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.]]></summary></entry><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="http://localhost:4000/2020/01/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2020-01-31T15:45:13+01:00</published><updated>2020-01-31T15:45:13+01:00</updated><id>http://localhost:4000/2020/01/31/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2020/01/31/man-must-explore.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+<p>
+    There is an option to buy directly UST from Fiat in the Anchor protocol.
+    The service is called Transact and it is displayed in the Anchor Protocol
+    site. However, the conversion fees are quite high and there are cheaper
+    options explained below.
+</p>
+<p>
+    Preparing the document, I have just seen that there is a new option (more
+    and more exchanges are listing UST). This service is called Kado Ramp and
+    the fee (2 UST) seems more affordable than Transakt.
+</p>
+<p>
+    <strong>Kraken</strong>
+    <a href="https://www.kraken.com/">https://www.kraken.com/</a>
+</p>
+<p>
+    Kraken is one of the most famous exchanges. In this case, the fiat deposit
+    is free. You have options such as EUR and USD and you have pairs EUR/UST
+    and USD/UST, meaning that you don’t have to convert to another coin to get
+    UST.
+</p>
+<p>
+    The withdrawal fee to your Terra Station is 1 UST. The trading fees are
+    quite low and the details are in the website. Expect around 1 UST per 1,000
+    EUR.
+</p>
+<p>
+    <strong>Binance</strong>
+    <a href="https://www.binance.com/">https://www.binance.com/</a>
+</p>
+<p>
+    I cannot give my opinion about Binance US. The solution in Finance is
+    depositing USD, and you get BUSD (the stable coin from Binance). This means
+    that you are losing some part of the USD because the ratio is not exactly
+    1:1. Furthermore, you may also incur some transactions fees or exchange
+    rate fees if your account currency is not quoted in USD.
+</p>
+<p>
+    From there, you can buy UST with BUSD. In this exchange, the withdrawal fee
+    to the Terra Wallet is also 1 UST.
+</p>
+<p>
+    <strong>Coinbase</strong>
+    <a href="https://www.coinbase.com/">https://www.coinbase.com/</a>
+</p>
+<p>
+    Please note that UST is also available in Coinbase, but this is not native
+    UST and you cannot send it directly to Terra Station. You will need to
+    convert it (e.g. using MetaMask) and this will incur high fees.
+</p>
+<p>
+    What you can do in Coinbase (Coinbase Pro for smaller fees) is either buying XLM (Stellar) or LTC
+    (Litecoin) due to the low trading / transfer fees. You can send those to
+    KuCoin and convert them to another stable coin such as USDT in order to
+    convert them again to UST. The withdrawal fee in this case is 2 UST (it
+    used to be 4 UST).
+</p>
+<p>
+    In Kucoin there are also SOL/UST pairs, so you could buy Solana in Coinbase
+    and send it to KuCoin to the different transactions.
+</p>
+<p>
+    This option may be more expensive compared to the ones listed below.
+</p>
+<p>
+    Another option that exists is buying LUNA (TERRA) in any of the stock
+    exchanges and sending it to your Terra Station. Terra Station has an option
+    to swap LUNA / UST and the fee is 0.1%. This was the most convenient
+    approach when UST was not listed in many exchanges.
+</p>
+<p>
+    What Anchor brings is a new concept for people tired of traditional banks
+    and abusive rates. This is the crown of the jewell of the DeFi projects out
+    there. Furthermore, this is a more conservative approach than buying crypto
+    currencies, whose value fluctuates so much.
+</p>
+<p>
+    On the other hand, this is not a risk-free value and there may be some
+    risks to be evaluated:
+</p>
+<ul>
+    <li>
+        Smart contracts hack
+    </li>
+    <li>
+        Depeg of UST to USD
+    </li>
+    <li>
+        Losing the Wallet
+    </li>
+</ul>
+<p>
+    One of my pieces of advice is not putting all the eggs on the same nest,
+    regardless of the reputation of the protocol or asset type. In the next
+    weeks, I will introduce other DeFi protocols that could be interest to you.
+</p>
+<p>
+  <h2 class="section-heading">Useful links</h2>
+</p>
+<p>
+    You can get more information in the following links:
+</p>
+<p>
+    <strong></strong>
+    <br/>
+</p>
+<p>
+    <strong>Anchor Protocol</strong>
+</p>
+<p>
+    You can read more about this in <a href="https://www.anchorprotocol.com/"> https://www.anchorprotocol.com/</a>
+</p>
+<p>
+    <strong>Terra</strong>
+</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KqpGMoYZMhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+You can read more about this in <a href="https://www.terra.money/">https://www.terra.money/</a>
+</p>
+<p>
+    <strong>White Whale</strong>
+</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ttdYpSmSx4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+You can read more about this in <a href="https://www.whitewhale.money/">https://www.whitewhale.money/</a>
+</p>]]></content><author><name>Javier Freire</name></author><summary type="html"><![CDATA[Introduction In the recent years, we have been suffering a 0% interest rate policy in our deposits. In some cases, this has been translated even into negative interest into some countries or abusive custody or management fees. Further, apart from having to pay to give our money to the bank, we are also losing acquisition power every year due to the high inflation and lack of reaction from central banks. I have been always not happy about this topic, since we are lending our money to the banks (in some cases charging us for that money) and with that money, they lend it to other customers, for which they charge an abusive interest rate. I understand that they are companies and they need to have benefits. However, they should innovate and provide added value for these services. It should not be the case that for literally doing nothing they are first charging us, and later using our money to lend it to other customers and charging them with high interest and big penalties in case of Although in the past decades there has not been any breakthrough in traditional finance (I just think about ATMs and credit cards), for the past years a new concept known as DeFi has been introduced and it’s getting more traction. Every year, there are several projects related to it, mainly linked to blockchains and different crypto currencies. The purpose of this article is not praising the different benefits of DeFi and criticising the traditional finance. The goal is just to show that there are more alternatives to depositing the money in the bank, giving us a 0% on it.]]></summary></entry><entry><title type="html">Man must explore, and this is exploration at its greatest</title><link href="http://localhost:4000/2020/01/31/man-must-explore.html" rel="alternate" type="text/html" title="Man must explore, and this is exploration at its greatest" /><published>2020-01-31T15:45:13+01:00</published><updated>2020-01-31T15:45:13+01:00</updated><id>http://localhost:4000/2020/01/31/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2020/01/31/man-must-explore.html"><![CDATA[<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
 
 <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
