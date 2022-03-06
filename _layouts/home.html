@@ -37,11 +37,11 @@ layout: default
             <h2 class="post-title">{{ post.title }}</h2>
             {% if post.subtitle %}
             <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-            <h4>
-              {{ post.content | strip_html | truncatewords: 15 }}
-            </h4>
+            <h5>
+              {{ post.content | strip_html | truncatewords: 60 }}
+            </h5>
             {% else %}
-            <h3 class="post-subtitle">{{ post.content | strip_html | truncatewords: 40 }}</h3>
+            <h4 class="post-subtitle">{{ post.content | strip_html | truncatewords: 40 }}</h4>
             {% endif %}
           </a>
           <p class="post-meta">Posted by
