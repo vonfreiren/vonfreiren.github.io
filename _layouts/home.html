@@ -41,7 +41,7 @@ layout: default
               {{ post.excerpt | strip_html | truncatewords: 60 }}
             </h4>
             {% else %}
-            <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 40 }}</h4>
+            <h4 class="post-preview">{{ post.excerpt | strip_html | truncatewords: 40 }}</h4>
             {% endif %}
           </a>
           <p class="post-meta">Posted by
