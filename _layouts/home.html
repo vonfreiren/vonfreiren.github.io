@@ -53,11 +53,10 @@ layout: default
             on
             {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
           </p>
-          
-            {% if page.tags.size > 0 %}
+            {% if post.tags.size > 0 %}
                 <div class="post-tags">
                     <span class="post-share-title">Tags:</span>
-                    {% for tag in page.tags %} {% if forloop.index == page.tags.size %}
+                    {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
                     <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
                     {% else %}
                     <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
