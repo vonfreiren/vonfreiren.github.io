@@ -27,7 +27,7 @@ plugins:
   - jekyll/tagging
 
 tag_page_layout: tagpage
-tag_page_dir: tag
+tag_page_dir: tag_archive
 
 
 tag_permalink_style: pretty
