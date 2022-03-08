@@ -11,6 +11,7 @@ github_username:    vonfreiren
 facebook_username:  vonfreiren
 instagram_username: vonfreiren
 linkedin_username:  jfreirea
+rss: RSS
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   G-LXEKPLTM1K # out your google-analytics code
@@ -31,3 +32,5 @@ tag_page_dir: tag_archive
 
 
 tag_permalink_style: pretty
+
+permalink: pretty
