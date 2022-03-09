@@ -25,10 +25,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
   - jekyll-seo-tag
-  - jekyll/tagging
 
-tag_page_layout: tagpage
-tag_page_dir: tag_archive
 
 
 tag_permalink_style: pretty
