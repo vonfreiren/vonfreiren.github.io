@@ -17,8 +17,8 @@ post_dir = '_posts/'
 draft_dir = '_drafts/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*md')
-filenames = filenames + glob.glob(draft_dir + '*md')
+filenames = glob.glob(post_dir + '*html')
+filenames = filenames + glob.glob(draft_dir + '*html')
 
 total_tags = []
 for filename in filenames:
@@ -27,6 +27,7 @@ for filename in filenames:
     for line in f:
         if crawl:
             current_tags = line.strip().split(':') 
+            print(current_tags)
             if current_tags[0] == 'tags':
                 if (current_tags[1].strip().startswith('[')):
                     clean_tag = ''.join(c for c in current_tags[1] if c not in '[]')
