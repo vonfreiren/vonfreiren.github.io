@@ -23,11 +23,11 @@ h6 {
 }
 
 a {
-    color: $gray-900;
+    color: $teal;
 
     &:focus,
     &:hover {
-        color: $primary;
+        color: teal;
     }
 }
 
