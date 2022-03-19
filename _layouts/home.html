@@ -38,7 +38,7 @@ layout: default
             <h2 class="post-title">{{ post.title }}</h2>
             {% if post.subtitle %}
             <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-               <small class="post-preview">{{ post.content | strip_html | truncatewords: 150 }}</small>
+               <small class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</small>
             {% else %}
             <h3 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h3>
             {% endif %}
