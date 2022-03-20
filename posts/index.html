@@ -11,9 +11,9 @@ background: '/img/bg-post.jpg'
     <h2 class="post-title">{{ post.title }}</h2>
     {% if post.subtitle %}
     <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-    <small class="post-subtitle">{{ post.content | strip_html | truncatewords: 150 }}</small>
+    <small class="post-subtitle">{{ post.content | strip_html | truncatewords: 100 }}</small>
     {% else %}
-    <h3 class="post-subtitle">{{ post.content | strip_html | truncatewords: 150 }}</h3>
+    <h3 class="post-subtitle">{{ post.content | strip_html | truncatewords: 100 }}</h3>
     {% endif %}
   </a>
   <p class="post-meta">Posted by
