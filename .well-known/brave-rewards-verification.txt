@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mrfreire.net
+Token: 15965b741da7623c26fbd7c3ac04ef15a558ef3acc5b7b1247d5ca4974acba52
