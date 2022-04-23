@@ -29,6 +29,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+defaults:
+  -
+    scope:
+      path:            "tag"
+    values:
+      sitemap:         false
 
 
 tag_permalink_style: pretty
