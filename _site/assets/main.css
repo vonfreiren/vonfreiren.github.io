@@ -141,6 +141,8 @@ hr { margin-top: 1rem; margin-bottom: 1rem; border: 0; border-top: 1px solid rgb
 
 small, .small { font-size: 80%; font-weight: 400; }
 
+tiny, .tiny { font-size: 70%; font-weight: 400; }
+
 mark, .mark { padding: 0.2em; background-color: #fcf8e3; }
 
 .list-unstyled { padding-left: 0; list-style: none; }
