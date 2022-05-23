@@ -35,6 +35,10 @@ defaults:
       path:            "tag"
     values:
       sitemap:         false
+  - scope:
+      path: "posts"
+    values:
+      sitemap: false
 
 
 tag_permalink_style: pretty
