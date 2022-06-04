@@ -1,4 +1,1041 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-01T09:34:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Investing in Niche Sectors</title><link href="http://localhost:4000/2022/04/24/niche_sectors_investing/" rel="alternate" type="text/html" title="Investing in Niche Sectors" /><published>2022-04-24T14:01:13+02:00</published><updated>2022-04-24T14:01:13+02:00</updated><id>http://localhost:4000/2022/04/24/niche_sectors_investing</id><content type="html" xml:base="http://localhost:4000/2022/04/24/niche_sectors_investing/"><![CDATA[<h2 xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-04T18:52:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Blockchains Layer Explained</title><link href="http://localhost:4000/2022/06/03/blockchain_layers_explained/" rel="alternate" type="text/html" title="Blockchains Layer Explained" /><published>2022-06-03T14:01:13+02:00</published><updated>2022-06-03T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/03/blockchain_layers_explained</id><content type="html" xml:base="http://localhost:4000/2022/06/03/blockchain_layers_explained/"><![CDATA[<h2>
+    Introduction
+</h2>
+<p>
+    If you have been in the crypto or blockchain scene for some time, you may
+    be familiar with the different layers of the blockchain, their functions,
+    and how they interact one with another. However, if you are new, you may
+    hear terms such as L1 or L2 and you may ask yourself what these words are.
+    Don’t worry about this.
+</p>
+<p>
+    In this article we explain not just the different layers but also the
+    importance of each of it. It’s also important to note what they mean and
+    why some tokens may be correlated because they are part of the same layer.
+</p>
+<p>
+    As it occurs with the OSI and the Internet Protocol (TCP/IP) models, we
+    also have different layers in blockchains.
+    The different OSI layers are: Physical, Data Link, Network, Transport,
+    Session, Presentation, and Application.
+    The ones of the Interest Protocol are just 4: Link, Internet, Transport,
+    Application. A similar structure occurs in the Blockchains.
+</p>
+<p>
+    We can distinguish 4 different Blockchain layers, where each one has a
+    specific purpose. Each layer is essential and has some defined functions
+    and roles. They start with Layer 0 and the last one is Layer 3. In order to
+    see the different features, it’s better to see this with some examples.
+</p>
+<h2>
+    Layer 0
+</h2>
+<p>
+    This protocol is where everything starts and the bottom of the different
+    blockchain protocols that we see later. It’s like the foundations of the
+    building where the different infrastructure, hardware and internet are
+    provided. Although, the other layers would be useless without this initial
+    layer, it’s also the layer that cannot be seen and sometimes ignored.
+</p>
+<p>
+    They allow interconnectivity and integration between traditional and
+    blockchain network.
+</p>
+<p>
+    As mentioned, this is where everything starts. Therefore, they allow other
+    blockchains be built upon them and also that different blockchains are
+    operable between them. In other words, the chains that are created on the
+    layers above are interoperable and compatible thanks to the L0 protocols.
+</p>
+<p>
+    For these characteristics they can be seen as the data transfer layer of
+    the OSI model. Without this one, Bitcoin or Ethereum would not be able to
+    run. Basically, their objective is to interconnect different chains between
+    L1 protocols.
+</p>
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <p>
+            <h5>L0 Example</h5>
+            <h5>PolkaDot: Web3.0 Interoperability</h5>
+            <small> The most famous example is probably PolkaDot. The goal of the protocol is
+                like the one of a bridge between different L1 blockchains. It allows cross-blockchain transfers of any sort of data or asset, not just
+                tokens. Connecting to Polkadot offers users  the potential to interoperate
+                with a wide form of blockchains in the Polkadot network.<br>
+            <a href="https://www.vaneck.com/ch/en/espo/">
+                Additional information
+            </a>
+            </small>
+            </p>
+        </div>
+    </div>
+</div>
+</p>
+<h2>
+    Layer 1
+</h2>
+<p>
+    Layer 1 blockchains are probably the most famous ones for most of us. They
+    are also known as public chains because they have their own structure,
+    encryption, algorithms, technology and mechanisms. These are blockchains
+    that are used to process transactions on their own blockchain and have
+    different utilities.
+</p>
+<p>
+    This protocol consists of the following sublayers: Data layer, Network
+    layer, Consensus layer and Activating layer
+</p>
+<p>
+    Since the transactions need to be processed and validated, the famous
+    Consensus Mechanism (PoW, PoS, etc.) is also inherent to this layer.
+    However, there are also other technical aspects involved such as the block
+    time, the different rules and the dispute resolution. In this layer, we
+    also see different limitations such as scaling.
+</p>
+<p>
+    <img class="img-fluid" src="/img/posts/blockchain_layers/algorand.jpg" alt="Sustainable and scalable">
+    <span class="caption text-muted">Algorand is probably one of the most sustainable blockchain due to the technology and consensus mechanism</span>
+</p>
+<p>
+    The goal of Layer 1 blockchains is to achieve the following 3
+    characteristics:
+</p>
+<ul>
+    <li>
+        Decentralization
+    </li>
+    <li>
+        Security
+    </li>
+    <li>
+        Scalability
+    </li>
+</ul>
+<p>
+    There is a famous term called the Blockchain Trilemma, which says basically
+    that basic chains can just achieve 2 out of 3.
+</p>
+<p>
+    In order to achieve the first 2, scalability is sacrificed and left for
+    later. It’s here where Layer 2 plays a key role too.
+</p>
+<p>
+    Probably these blockchains are the most famous ones to you. Bitcoin,
+    Ethereum, Cardano or Solana are examples of this category and most
+    probably.
+</p>
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <p>
+            <h5>L1 Example</h5>
+            <h5>Algorand: Offsetting the Carbon Footprint</h5>
+            <small> As opposed to Ethereum, Algorand is a L1 chain, without needing L2
+                protocols for scability purposes. This is because the consensus mechanism
+                in the Algorand Network is quite different. In this case, a group of
+                validators is selected randomly each time, without needing to have the
+                majority. Algorand is also known as the Green Blockchain.<br>
+            <a href="https://www.algorand.com/">
+                Additional information
+            </a>
+            </small>
+            </p>
+        </div>
+    </div>
+</div>
+</p>
+<h2>
+    Layer 2
+</h2>
+<p>
+    In L1 blockchains, we have seen the Blockchain Trilemma and the problem
+    with scalability. Apart from the Blockchain Trilemma Bitcoin and Ethereum
+    are getting older and what was valid some years ago it is no longer enough,
+    mainly with the increasing number of users. .For example, we have several
+    problems in terms of scalability, speed and gas fees. For that reason, the
+    purpose of L2 blockchains is to enhance the L1 blockchains, with several
+    updates and applications. Via this layer, the processing of the different
+    transactions is also increased. This layer is seen as an auxiliary
+    extension of the L1 protocol .
+</p>
+<p>
+    For example, Ethereum is only able to process around 10 transactions per
+    second. Ethereum is famous for many benefits, but one of the disadvantages
+    is the gas fees. When the network is congested, there is a lot of
+    competition to process the different transactions and it’s when the gas
+    fees considerably increase – the law of supply and demand -. This problem
+    is becoming more often because of the adoption of Ethereum and the
+    applications within the ecosystem.
+</p>
+<p>
+    What the L2 protocol does is to free up Ethereum (L1) from this work. This
+    way, they can process thousands of transactions per second. Ethereum is the
+    layer with more L2 protocols.
+</p>
+<p>
+    Ethereum is famous for having many L2 solutions, but it also applies to
+    other L1 layers such as Bitcoin.There are some examples for Etherum:
+</p>
+<ul>
+    <li>
+        Polygon is one example running on top of Ethereum. The goal of the
+        Indian platform is to connect blockchains built on Ethereum.
+    </li>
+    <li>
+        Optimism is also developed for Ethereum in order to improve speed and
+        reduce fees in the Ethereum network
+    </li>
+    <li>
+        Immutable X is the second layer protocol used in the NFT Marketplace
+        OpenSea (built on ERC-721), that helps also reduce fees when
+        transacting in the blockchain.
+    </li>
+</ul>
+<p>
+
+</p>
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <p>
+            <h5>L2 Example</h5>
+            <h5>Lightning Network</h5>
+            <small>For the most famous chain, the Lightning Network is a L2 payment protocol layered on top
+                of Bitcoin. It permits fast transactions among participating nodes and has
+                been proposed as an approach to the bitcoin scalability trouble.<br>
+            <a href="https://lightning.network/">
+                Additional information
+            </a>
+            </small>
+            </p>
+        </div>
+    </div>
+</div>
+</p>
+<h2>
+    Layer 3
+</h2>
+<p>
+    We have seen that L1 and L2 layers are quite linked to each one, but there
+    are many differences between the different blockchains in these layers. The
+    reason is that they use completely different technologies and processes.
+    The purpose of the third layer is to abstract these differences and make
+    the things much easier for the user. With this, the different ecosystems
+    are interconnectable and can communicate regardless of the technical
+    differences that we can find among them
+</p>
+<p>
+    This is something similar to what’s done in the IP Internet Protocol and
+    the application layer. L3 is the protocol that hosts the DApps. These
+    applications are related to diverse topics such as DeFi, games, or storage
+    apps.
+</p>
+<p>
+    Although Bitcoin is the most known one here, Ethereum is the one that has
+    more applications and has a huge ecosystem. The different cases vary across
+    sectors:
+</p>
+<p>
+    Ethereum aside, Solana is also famous for having many consolidated
+    applications.
+</p>
+<p>
+<h3>
+    Examples of dApps
+</h3>
+<p>
+In order to understand the last layer, these are some examples of complete different applications accessible to users.
+</p>
+</p>
+<h4>
+    Uniswap (v2 and v3)
+</h4>
+<p>
+    <a href="https://uniswap.org/">
+        Uniswap</a> is one of the largest DEXs in the space and is powered by the Ethereum
+    blockchain. One of the main differences compared to Binance or Coinbase is
+    that Uniswap operates without an order book. Instead, it uses framework to
+    provide trading liquidity.
+</p>
+<h4>
+    OpenSea
+</h4>
+<p>
+    <a href="https://opensea.io/">
+        OpenSea</a> is the world’s largest Non-Fungible Token marketplace which is
+    based on Ethereum ERC-721.
+</p>
+<p>
+    <img class="img-fluid" src="/img/posts/blockchain_layers/opensea.jpg" alt="An art and collectible game-changer">
+    <span class="caption text-muted">OpenSea allows users to buy, sell, and discover exclusive digital items.</span>
+</p>
+<h4>
+    Orca
+</h4>
+<p>
+    <a href="https://www.orca.so/">
+        Orca</a> is the first user-friendly cryptocurrency exchange built on Solana. It
+    offers minimal fees and latency compared to Ethereum.
+</p>
+<h4>
+    PancakeSwap
+</h4>
+<p>
+    <a href="https://pancakeswap.finance/">
+       PancakeSwap</a> an be seen as an alternative to UniSwap.
+    As this one, is a decentralized exchange, which allows for
+    trading cryptocurrencies and tokens without an intermediary, and runs on
+    Binance Smart Chain. It is built on an automated market maker system, which
+    relies on liquidity pools between token pairs to enable crypto trades.
+
+</p>]]></content><author><name>Javier Freire</name></author><category term="layers" /><category term="blockchain" /><category term="l1" /><category term="l2" /><category term="l3" /><category term="l0" /><category term="bitcoin" /><category term="ethereum" /><category term="algorand" /><category term="polkadot" /><category term="uniswap" /><summary type="html"><![CDATA[The utilities and functions of each Blockchain Layer (L0, L1, L2, L3) explained with several real examples]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/blockchain_layers/layers.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/blockchain_layers/layers.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What DAO you want?</title><link href="http://localhost:4000/2022/05/08/what_dao_you_want/" rel="alternate" type="text/html" title="What DAO you want?" /><published>2022-05-08T14:01:13+02:00</published><updated>2022-05-08T14:01:13+02:00</updated><id>http://localhost:4000/2022/05/08/what_dao_you_want</id><content type="html" xml:base="http://localhost:4000/2022/05/08/what_dao_you_want/"><![CDATA[<h2>
+    Introduction
+</h2>
+<p>
+    You have been probably hearing the term DAO for some time, but some topics may
+    not be clear yet to you. A DAO is a Decentralized Autonomous
+    Organization. In other words, it is an organization that is controlled
+    by algorithms or smart contracts, it is not bound by any particular law
+    since it is controlled by a blockchain and smart contracts. In other
+    words, what it is looking for is to get rid of intermediaries, just as
+    bitcoin did when it was created more than 10 years ago. The purpose of
+    a DAO is also the one for a company or an institution to be able to
+    function without hierarchical management.
+</p>
+<p>
+    To give you an example, bitcoin can be considered a primitive DAO,
+    since it works with a series of given rules, is autonomous, and is
+    managed in a decentralized way following a consensus protocol.
+    Although, the use of Smart contracts, typical of DAOs, did not reach
+    the Ethereum platform, which allowed their creation, and has given them
+    their current structure.
+</p>
+<p>
+    Initially, Bitcoin was considered the first fully functional DAO, as it
+    has a set of pre-programmed rules, works autonomously, and is
+    coordinated through a distributed consensus protocol. Since then, the
+    use of smart contracts and dApps has been made possible by the Ethereum
+    platform, which has brought the creation of DAOs closer to the general
+    public and shaped their current look.
+</p>
+<h2>
+    How it works
+</h2>
+<p>
+    The launch of development of a DAO is composed of 3 different steps easy to understand. This is how DAOs work and the distinct phases before it becomes totally decentralized.
+</p>
+<h3>
+    First phase
+</h3>
+<p>
+    The first phase is setting the rules according to which it will work.
+    Those rules are codes as a smart contract, existing autonomously on the
+    Internet, but at the same time requiring developers to perform some
+    specific tasks.
+</p>
+<h3>
+    Second phase
+</h3>
+<p>
+    Once the rules are established, the next phase is the financing phase.
+    This is a very important milestone part for two reasons. First of all,
+    a DAO has to have some kind of internal property. In this case, these
+    are tokens that can be spent by the organization or used to reward
+    certain activities within it.
+</p>
+<p>
+    Second, by investing in a DAO, users gain voting rights, as if they
+    owned the shares of a company. Consequently, you can give your opinion
+    and take part in the decisions of the DAO.
+</p>
+<h3>
+    Third phase
+</h3>
+<p>
+    Once the funding period ends and a DAO is deployed, it becomes a fully
+    autonomous body and completely independent from its creators, as well
+    as from anyone else. They are open-source, which means their code can
+    be viewed by anyone. Also, all financial rules and transactions are
+    recorded on the blockchain. This makes DAOs transparent, immutable, and
+    incorruptible.
+</p>
+<p>
+    Once the DAO is up and running, all decisions about where and how to
+    spend your funds are made by consensus. Everyone who bought a stake in
+    a DAO can make proposals about its future. To prevent the network from
+    being spammed with proposals, a monetary deposit may be required to
+    submit such a proposal.
+</p>
+<p>
+    Subsequently, the interested parties vote on the proposal. To perform
+    any action, the majority needs to agree to do it. The percentage
+    required to reach that majority may vary depending on each DAO, as may
+    be specified in its code.
+</p>
+<p>
+    Essentially, DAOs allow people to exchange their funds with anyone in
+    the world. This can be done in the form of an investment, a charitable
+    donation, fundraisers, loans, etc. all without a middleman. One
+    potentially important problem with the voting system is that even if a
+    security hole was detected in early code, it cannot be fixed until the
+    majority votes on it. While the vote is taking place, such hackers can
+    exploit a bug in the code.
+</p>
+<p>
+    <img class="img-fluid" src="/img/posts/dao/dao_types.jpg" alt="Diversity of DAOs">
+    <span class="caption text-muted">There are diverse DAO categories and more and more DAOs created in those</span>
+</p>
+<h2>
+    How to invest
+</h2>
+<p>
+    Investing in a DAO is relatively easy, especially if we know have
+    experience buying other cryptocurrencies and we already have a wallet
+    to store the coins. All we really need to do is buy tokens of a
+    particular DAO. As described before, buying tokens would be the
+    equivalent of buying shares of Amazon, Apple, or Microsoft. In some
+    cases, there are dedicated channels like Discord where some interesting
+    information is shared.
+</p>
+<p>
+    Once the financing phase is over, we will be able to make proposals,
+    vote on them and even obtain benefits. The number of tokens purchased
+    will correlate to the amount of voting power we will get within the
+    DAO.
+</p>
+<p>
+    However, before investing, we must be sure about the project to know
+    exactly what we are getting into. DAOs are completely transparent and
+    their underlying code is always open source, which means that only we
+    have the opportunity to review the code to make sure there are no bugs
+    in it.
+</p>
+<p>
+    It is undeniable that the very concept of DAOs is extremely exciting as
+    it strives to solve everything that is wrong with the way modern
+    organizations are managed. A perfectly structured DAO gives each
+    investor the opportunity to shape the organization. There is no
+    hierarchical structure, which means that each innovative idea can be
+    submitted by anyone and considered by the entire organization. With a
+    set of pre-written rules that every investor knows before joining the
+    organization, as well as the voting system, they leave no room for
+    discussion.
+</p>
+<p>
+    Furthermore, since both submitting a proposal and voting in favor of it
+    require the investor to spend a certain amount of money, it pushes him
+    to evaluate his decisions and not waste time on ineffective solutions.
+    Finally, as all the rules, as well as each of the financial
+    transactions, are registered in the Blockchain, available for review by
+    anyone, the DAOs are completely transparent. Everyone who participates
+    helps decide how to spend the funds and can track how those funds are
+    spent.
+</p>
+<h2>
+     Examples
+</h2>
+<p>
+    Depending on the purpose, there are several types of DAOs. Some of them
+    are the following ones:
+</p>
+<ul>
+    <li>
+        Investment DAOs
+    </li>
+    <li>
+        Collector DAOs
+    </li>
+    <li>
+        Entertainment DAOs
+    </li>
+    <li>
+        Grant DAOs
+    </li>
+    <li>
+        Protocol DAOS
+    </li>
+</ul>
+<p>
+    In this article, we will focus on some names related to different DAO
+    categories, with no preferential order.
+</p>
+<h3>
+    Maker DAO
+</h3>
+<p>
+    This is probably one of the most famous DAO out there. We have seen
+    that with DeFi, we can reach the democratization of finance and we can
+    make many products available to almost everyone around the world
+</p>
+<p>
+    MakerDao, not to be confused with DAO Maker, has world’s first unbiased
+    currency, Dai, which is a Maker Dao’s star product. DAI is a stable,
+    decentralized currency that does not discriminate. Any individual or
+    business can take benefit from the advantages of digital money.
+</p>
+<p>
+    Dai is a stable coin, hence there is no volatility and for that reason,
+    it is used in different financing projects. With this coin, you can
+    exchange your assets for Dai and use this money in various aspects of
+    finance.
+</p>
+<p>
+    Regarding governance, a community of MKR token holders governs the
+    Maker Protocol, the smart contracts that power the stable coin Dai.
+</p>
+<p>
+    Over 400 apps and services such as wallets, DeFi platforms, or games
+    have integrated Dai as an allowed payment method.
+</p>
+
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <h5>Maker DAO Information</h5>
+                <strong>Site: </strong> <a href="https://makerdao.com/en/">https://makerdao.com/en/
+            <a/> <br>
+                <strong>Price: </strong> <a href="https://coinmarketcap.com/currencies/maker/">MKR</a>
+        </div>
+    </div>
+</div>
+</p>
+
+<h3>
+    KlimaDAO
+</h3>
+<p>
+    With the importance of climate change and small reactivity from some
+    governments and companies, it is time that we do something about it.
+    While our actions may not have had much positive impact in the past. we
+    can start pushing for a change with KlimaDao
+</p>
+<p>
+    With KlimaDAO, users can make a better more sustainable and greener
+    world, by fighting against climate change. Via this mechanism, owners
+    of this token can earn rewards with the KLIMA token. KLIMA is a digital
+    currency backed by real carbon assets.
+</p>
+<p>
+    They have started a decentralized and open market for carbon. Besides,
+    the KLIMA token incentivizes investors, citizens, and organizations to
+    participate in and govern this new economy.
+</p>
+<p>
+    By increasing access and demand for carbon offsets, KlimaDAO makes
+    pro-climate projects more profitable. At the same time, this process
+    forces companies to adapt faster to climate change.
+</p>
+
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <h5>KlimaDAO Information</h5>
+                <Strong>Site: </Strong>
+                <a href="https://www.klimadao.finance/">
+                    https://www.klimadao.finance/
+                </a><br>
+                <Strong>Price: </Strong>
+                <a
+                        href="https:/coinmarketcap.com/currencies/klimadao/"
+                >
+                    KLIMA
+                </a>
+        </div>
+    </div>
+</div>
+</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/dao/klima.jpg" alt="Time to Act">
+    <span class="caption text-muted">KlimaDAO's goal is fighting the climate change global problem and at the same time profit from fighting against it.</span>
+</p>
+
+<h3>
+    Olympus DAO
+</h3>
+<p>
+    With all the central banks printing money and excessive Quantitative
+    Easing, these actions have led to many negative consequences. For
+    example, it has caused the devaluation of our currencies and assets in
+    most countries.
+</p>
+<p>
+    Olympus is building a community-owned, decentralized, and
+    censorship-resistant reserve currency that is deeply liquid,
+    asset-backed, and used widely. The name of this currency is OHM.
+</p>
+<p>
+    With the rise of decentralized finance and economy, these concepts will
+    also need a decentralized reserve currency. In other words, we need a
+    currency that is not pegged to any central bank or fiat system
+</p>
+<p>
+    Via this, Olympus DAO’s goal is to build a stable but independent
+    currency that achieves purchasing power, broad acceptance, and high
+    utility for all users.
+</p>
+
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <h5>Olympus DAO Information</h5>
+                <strong>Site: </strong>
+                <a href="https://www.olympusdao.finance/">
+                    https://www.olympusdao.finance/
+                </a><br>
+                <strong>Price: </strong> <a href="https://coinmarketcap.com/currencies/olympus/">OHM</a>
+        </div>
+    </div>
+</div>
+</p>
+
+
+<h2>
+    Seed Club
+</h2>
+<p>
+    Seed Club is a DAO whose mechanisms are similar to those of a modern
+    incubator or accelerator, investing in start-ups. You can make an
+    enormous impact when it comes to deciding what your favorite projects
+    and start-ups are and finance those thanks to Seed Club
+</p>
+<p>
+    They also state that their goal is to support and help projects for the
+    long-term, and they are not looking for short-term wins.
+</p>
+<p>
+    Overall, Seed Club is a DAO that builds and invests in communities
+    investing in early projects. One of their focuses is on Web3
+    communities. They have financed to date more than 30 projects and one
+    of their flagship communities is included below.
+</p>
+
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <h5>Seed Club Information</h5>
+                <strong>Site: </strong> <a href="https://www.seedclub.xyz/">https://www.seedclub.xyz/</a><br>
+                <strong>Price: </strong>
+                <a
+                        href="https:/coinmarketcap.com/currencies/seed/"
+                >
+                    SEED
+                </a>
+        </div>
+    </div>
+</div>
+</p>
+
+
+<h3>
+    Krause House
+</h3>
+<p>
+    Krause House is one of the projects financed thanks to Seed Club. If
+    you like basketball and the best league of the world, you may be
+    interested in this DAO whose goal is to buy an NBA franchise.
+</p>
+<p>
+    Krause House is a Decentralized Autonomous Organization (DAO) ruled
+    through a network of enthusiasts, basketball enthusiasts, and purists.
+    Together, we can write the consensus regulations as an effective way to
+    bring the primary fan-ruled group to the NBA. The collective of
+    formidable participants whose purpose is to very own an NBA crew
+    describes the underlying mission of DAOs in its purest form:
+</p>
+<p>
+    They will permit our contributors to take part in selections affecting
+    the running approaches of a National Basketball Association (NBA) crew
+    along with however now not restrained to a standard control, ticketing,
+    merchandising, and partnership.
+</p>
+<p>
+    This means that you can be the owner of an NBA team without being Mark
+    Cuban or Steve Ballmer. Imagine signing the next free agent or picking
+    your favorite prospect in the NBA draft? This will be soon possible.
+</p>
+
+
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <h5>Krause House Information</h5>
+                <strong>Site: </strong> <a href="https://www.krausehouse.club/">
+                https://www.krausehouse.club/
+            </a><br>
+                <strong>Price: </strong> <a href="https://coinmarketcap.com/currencies/krause/">KRAUSE</a>
+        </div>
+    </div>
+</div>
+</p>
+
+<h3>
+    Jenny Metaverse DAO
+</h3>
+<p>
+    Related to collector DAOs, the goal of the Jenny Metaverse DAO is to
+    build the most amazing NFT collection in the world. In this
+    contemporary art collection, Jenny DAO gives you the chance to be a
+    visitor, user, and director at the same time.
+</p>
+<p>
+    Jenny DAO is built on Unicly and collaborates with different prominent
+    digital artists and influencers. Thanks to these. they have an
+    exclusive collection of unique artworks and photographs.
+</p>
+<p>
+    This is how it works: The DAO pool funds into the treasury, and these
+    funds are later used be used to purchase different NFTs art
+    collections.
+</p>
+<p>
+    In this digital gallery, you may find unique and exclusive art
+    collectibles, such as BAYC, Crypto Punks, Meebits, CyberKong VX or Tom Sachs Rocket Factory.
+</p>
+
+
+<p>
+<div class="container">
+    <div class="post-heading">
+        <div class="card-header">
+            <h5>Jenny Metaverse DAO Information</h5>
+                <strong>Site :</strong> <a href="https://www.jennynft.io/">https://www.jennynft.io/</a><br>
+                <strong>Price :</strong>
+                <a
+                        href="https://coinmarketcap.com/currencies/jenny-metaverse-dao-token/"
+                >
+                    UJENNY
+                </a>
+        </div>
+    </div>
+</div>
+</p>
+
+<h2>
+    Conclusion
+</h2>
+<p>
+    DAOs and crypto in general have brought different benefits to users.
+    Some of them are access, costs, or transparency. We are happy about the
+    fact that are more opportunities that focus on our goals and that via
+    pooling individuals with the same objectives we can achieve our desired
+    goal. At the same time, there is also criticism related to the level of
+    experience the members may have. The comment is that as opposed to
+    traditional organizations, where a specific number of experience people
+    (e.g. board of directors) make the decisions, granting all members of a
+    DAO the power to make any change may not be the best generating the
+    best results for these autonomous organizations in the long-term.
+</p>
+<p>
+    However, what is certain is that DAOs have created disruption and could
+    shake in the long-term the current organization design and how the
+    interactions within these.
+</p>
+<p>
+    Although there has been an increase in the number of DAOs, we will see
+    many more interesting in the next years. In case you would like to
+    investigate further, please note that the code of these DAOs is
+    accessible. Therefore, please analyze in deep the content and the data
+    in order to detect any problem independent of the topic/goal of the
+    chosen one.
+</p>]]></content><author><name>Javier Freire</name></author><category term="dao" /><category term="investment" /><category term="dapps" /><category term="smart-contracts" /><category term="autonomous" /><category term="crypto" /><category term="ethereum" /><category term="bitcoin" /><summary type="html"><![CDATA[What do NBA, climate change or an art gallery have in common? DAO is the answer for this. In this article we explain briefly 6 interesting projects related to DAOs]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/dao/daos.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/dao/daos.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Web3 Is Coming</title><link href="http://localhost:4000/2022/05/06/web3_is_coming/" rel="alternate" type="text/html" title="Web3 Is Coming" /><published>2022-05-06T14:01:13+02:00</published><updated>2022-05-06T14:01:13+02:00</updated><id>http://localhost:4000/2022/05/06/web3_is_coming</id><content type="html" xml:base="http://localhost:4000/2022/05/06/web3_is_coming/"><![CDATA[<h2>
+    Introduction
+</h2>
+<p>
+    If you are already up to date with concepts such as the ones of blockchain,
+    DeFi, or metaverse, now is the time to find out about Web3. This term has
+    gained traction in 2021 and 2022 and continues to be mentioned in articles
+    that discuss about topics such NFTs, cryptocurrencies, or decentralized
+    finance. However, Web3 (or Web 3.0) is far more than that as you will see
+    below.
+</p>
+<p>
+    On top of the latest trends and news, I see more ads, courses and job
+    offers related to Web3. That is related to the growth and how the corporate
+    world can benefit from this generation.
+</p>
+<p>
+    Web3 is the third generation of Internet services for web site and
+    applications. This concept focuses on the use of machine-based data
+    understanding to provide a semantic and data-centric Web. The final goal of
+    Web3 is to create smarter, more connected, and more open websites. Not just
+    that, but the goal of Web3, as we will see later, is also to give back the
+    prominence to the users.
+</p>
+<p>
+    Web3 is not implemented yet, so there is no clear definition about various
+    aspects yet. To give you an idea, making the transition from the original
+    web, from Web 1.0 to Web 2.0, took more than one decade. Nowadays, we are
+    still working with Web 2.0 and there may be still years to come until we
+    see the full capabilities of Web3.
+</p>
+<h2>
+    History of the Internet
+</h2>
+<p>
+    To give you some history about the internet, we can see that each topic for
+    each of the Web version:
+</p>
+<h3>
+    Web 1.0
+</h3>
+<p>
+    If the early web, called 1.0, everything worked around hyperlinks. Web 1.0,
+    also known as the World Wide Web, appeared first. Some of us will remember
+    those days when connecting to the Internet was a still a slow process and
+    there were still not many options yet.
+</p>
+<h3>
+    Web 2.0
+</h3>
+<p>
+    Next, we have Web2.0. This one was around social networks.
+</p>
+<p>
+    As more people began to use the Internet, the potential it had was
+    understood globally. For this reason, new infrastructures were created to
+    promote it. The Internet became faster and allowed for heavier applications
+    and websites, which gave rise to the era of social networks and huge
+    platforms such as Netflix, YouTube, Facebook, or Amazon.
+</p>
+<p>
+    Today, people from all over the world can share information and be
+    entertained, shop, find answers to their questions and interact with each
+    other thanks to Web 2.0.
+</p>
+<h3>
+    Web3
+</h3>
+<p>
+    The last generation, Web 3.0, is based on tokens, the digital units of
+    exchange for blockchain technologies.
+</p>
+<p>
+    There are already some Web3 examples. On one hand, we have Apple's Siri,
+    which
+    <strong>
+        uses voice recognition techniques and artificial intelligence to bring
+        results and perform actions
+    </strong>
+    . To give us an idea of the improvement that this entails, Webs 1.0 and 2.0
+    carry out word-by-word matches of the text in relation to what is published
+    on the network. This often brings with it an information bias.
+</p>
+<p>
+    Web3 systems, however, seek contextualized knowledge to help people in
+    their searches, pointing to a series of analyses and potentially useful
+    information. One of the distinctions of the Web 3.0 search engine is the
+    time the user needs to spend navigating through a universe of data to find
+    what they really want resolved.
+</p>
+<p>
+    Companies like Amazon, Apple and IBM have been investing heavily in Web 3.0
+    technologies. For example, Google Inc. over the last decade has made
+    several acquisitions of companies in the Semantic Web area, such as Applied
+    Semantics and Metaweb Technologies, Inc, among others.
+</p>
+<p>
+    On the other hand, not everything will take so long to arrive to our daily
+    lives. There are some technologies that will define this new web that are
+    already being developed. For example, smart home and home automation
+    applications using wireless networks and IoT are examples of how Web3 is
+    already impacting technology.
+</p>
+<p>
+    If we go to existing devices: Apple's Siri or Amazon’s Alexa are examples
+    of Web3 since they combine artificial intelligence with voice recognition.
+    This network is still developing and there is still a long way to go.
+    Another important player in Web3 is the Brave Browser and some interesting
+    reward mechanisms such as BAT tokens.
+</p>
+<p>
+    <img class="img-fluid" src="/img/posts/web3/web3_2.webp" alt="Tokens">
+    <span class="caption text-muted">Users and content creators will gain power via tokenization and rewards in Web3</span>
+</p>
+<h2>
+    Characteristics of Web3
+</h2>
+<p>
+    First, Web 3.0 will be primarily data centric. This data is endless and for
+    that reason it is necessary to design an appropriate storage architecture
+    and technology. Although Big Data seems to be the way to go, there is still
+    research to be done on the most effective use of technology to store and
+    manage this data, as privacy issues could arise in the future too.
+</p>
+<h4>
+    Tokenization
+</h4>
+<p>
+    This new web model has many services based on the token economy, so that
+    the ownership and control of these services would be distributed among the
+    owners of the tokens, who are also users. The tokens, as we know, have
+    exchange value, so this means that users can collect these tokens whenever
+    they want. Therefore, Web3 and DeFi may also come hand in hand.
+</p>
+<p>
+    What it does seem is that Web 3.0 will be primarily data centric. This data
+    is infinite and therefore it is necessary to design an appropriate storage
+    architecture and technology. Although Big Data seems to be the way to go,
+    there is still a lot of research to be done on the most effective use of
+    technology to store data, as privacy issues could arise.
+</p>
+<h4>
+    Robustness
+</h4>
+<p>
+    This network will give creators and users more freedom in general. It will
+    ensure that the latter always have control over their online data by using
+    decentralized networks. The next version of the Internet is also expected
+    to be more reliable given its decentralized nature, which eliminates the
+    possibility of a single point of failure
+</p>
+<h4>
+    Democratization
+</h4>
+<p>
+    It does not need to be controlled by a single entity. The largest companies
+    may no longer have full control over the Internet. As a result,
+    decentralized applications or apps cannot be censored or restricted in any
+    way.
+</p>
+<p>
+    What is going on now with Web 2.0 is that users create but it is the
+    technology companies that monetize this content
+</p>
+<h4>
+    Customization
+</h4>
+<p>
+    We will also be able to personalize our browsing experience because this
+    type of website will be able to understand our preferences and tastes. This
+    will also allow us to navigate more productively, focusing on what we are
+    really interested in.
+</p>
+<h4>
+    Commerce
+</h4>
+<p>
+    The same way Web3 will help users, this version will also help businesses,
+    and this will cause eCommerce to continue growing. Sellers will better
+    understand our purchasing needs and will show us those products and
+    services that we are interested in buying with the help of artificial
+    intelligence. This will allow us to see better, more relevant ads that are
+    more likely to be beneficial to us.
+</p>
+<h4>
+    Better connectivity
+</h4>
+<p>
+    In the past years, we have seen cases that because of interruptions in the
+    service, we have lost access to some sites or services for hours.
+</p>
+<p>
+    Since the data will be stored in distributed databases by decentralization,
+    users will not have to worry about service interruptions or account
+    suspensions for technical reasons.
+</p>
+<h4>
+    Decentralization
+</h4>
+<p>
+    As we have commented in the previous point, one of the key characteristics
+    of web 3.0 is decentralization. In this new version, the data will be
+    connected in a decentralized way, unlike 2.0, in which it is mainly stored
+    in centralized places. Therefore, the data will not be kept in the
+    datacentres of big corporations anymore.
+</p>
+<p>
+    We saw with the explosion of web 2.0 brings social networks and
+    interactivity with the user, which creates most of its content. It is the
+    era of companies like Facebook, Google, Apple, Amazon, creating silo,
+    centralized services dependent on these corporations.
+</p>
+<p>
+    <strong> </strong>
+</p>
+<h2>
+    The role of corporations
+</h2>
+<p>
+    The impact of Web 3.0 on companies will take place in different ways. In
+    some cases,    <strong>it will make them highly user-centric and more transparent</strong>
+    . Everything that was wrong in terms of user data will undergo a radical
+    transformation.
+</p>
+<p>
+    Traditional and new businesses alike will welcome Blockchain technology and
+    all the possibilities it brings. You will see that your applications will
+    receive blockchain updates in which everything will be made public and
+    accessible.
+</p>
+<p>
+    Web 3.0 will bring about a major change in how the Internet works by
+    focusing on user privacy. In fact, this is a problem that has been
+    discussed for a long time but has not been effectively solved.
+</p>
+<p>
+    Web3 uses blockchain technology, unlike Web 2.0, which takes advantage of
+    the Internet to develop applications. It is technically safer to store
+    customer data on a blockchain as it is decentralized and its use by
+    businesses is transparent, thus protecting it from hackers. Some experts
+    say the transfer of data ownership to consumers could disrupt the
+    technology sector. And this is because many technology companies would lose
+    access to the data that has given them a competitive advantage until now.
+</p>
+<p>
+    Also, thanks to blockchain technology, visitors to a website will have a
+    more pleasant login experience. Think how many times you have logged into
+    websites using your Facebook profile. Blockchain technology employs the
+    same principle as Facebook, which already owns the user's information.
+    However,
+    <strong>
+        by using Blockchain, you will be the sole owner of your information.
+    </strong>
+</p>
+<p>
+    <strong> </strong>
+</p>
+<h2>
+    Conclusion
+</h2>
+<p>
+    <strong>To sump up, in Web</strong>
+    <strong>3</strong>
+    <strong>
+        , users will also be able to interact with data thanks to the use of
+        artificial intelligence and machine learning technology.
+    </strong>
+    That is, it will combine the concepts of the Semantic Web with AI.
+</p>
+<p>
+    On the other hand, the use of artificial intelligence will allow data much
+    faster to users and that these data will be more relevant and personified.
+    We are starting to see the use of this technology on the Internet
+    <strong>
+        through algorithms that are used to suggest products or videos to users
+        based on their previous searches
+    </strong>
+    .
+</p>
+<p>
+    However, this will be even more advanced, and we have still to see a wide
+    range of new possibilities in the upcoming years.
+</p>
+<p>
+    We could say that with Web3 we come back to where the Internet started and
+    the original idea: a decentralized internet, where there is no control from
+    central authorities and the power is given back to the users and consumers.
+    However, the full potential of Web3 is still to be seen.
+</p>]]></content><author><name>Javier Freire</name></author><category term="web" /><category term="token" /><category term="internet" /><category term="web3" /><category term="web2.0" /><category term="ai" /><category term="semantic" /><summary type="html"><![CDATA[Web3 contains different advantages and will include many changes in our daily life and in many organizations]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/web3/web3_1.webp" /><media:content medium="image" url="http://localhost:4000/img/posts/web3/web3_1.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Investing in Niche Sectors</title><link href="http://localhost:4000/2022/04/24/niche_sectors_investing/" rel="alternate" type="text/html" title="Investing in Niche Sectors" /><published>2022-04-24T14:01:13+02:00</published><updated>2022-04-24T14:01:13+02:00</updated><id>http://localhost:4000/2022/04/24/niche_sectors_investing</id><content type="html" xml:base="http://localhost:4000/2022/04/24/niche_sectors_investing/"><![CDATA[<h2 xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
     Introduction
 </h2>
 <p>
@@ -1590,729 +2627,4 @@ Achieving Economic Independence</a>
 <h2>Other Classics Coming Soon</h2>
 <p>
     We have come to the end of this post and we have mainly focused on PS4 games. However, we will talk soon about other classic games that you could consider.
-</p>]]></content><author><name>Javier Freire</name></author><category term="witcher" /><category term="god" /><category term="war" /><category term="last" /><category term="us" /><category term="games" /><category term="uncharted" /><category term="ps4" /><category term="ps5" /><category term="videogames" /><summary type="html"><![CDATA[4 classic video games that you should buy if you don't have them: Witcher, God of War, The Last of Us, Uncharted 4]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/games/uncharted.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/games/uncharted.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">4 Italian Luxury Brands to Know</title><link href="http://localhost:4000/2022/03/23/italian-luxury-brands-know/" rel="alternate" type="text/html" title="4 Italian Luxury Brands to Know" /><published>2022-03-23T20:45:13+01:00</published><updated>2022-03-23T20:45:13+01:00</updated><id>http://localhost:4000/2022/03/23/italian-luxury-brands-know</id><content type="html" xml:base="http://localhost:4000/2022/03/23/italian-luxury-brands-know/"><![CDATA[<h2>
-    Introduction
-</h2>
-<p>
-    Some posts ago we talked about different stores and brands. In those cases,
-    the prices were mainly affordable since the brands, although offer very
-    good quality, they are far from being considered luxury brands.
-</p>
-<p>
-    In this article, I present you 4 Italian brands that are the
-    exemplification of classic, sophisticated style combined with a delicate
-    treatment of the different materials. They have been for some years
-    selecting the best materials, and while other brands have preferred to
-    focus on other aspects such as the latest trends, finding the best fabrics
-    around the world continues to be one of th
-    brands.
-</p>
-<p>
-    The prices are of course high, but as opposed to other brands, when it
-    comes to the attention to details, quality of fabric and country of
-    manufacturing, this can of course be a valid justification.
-</p>
-<h2>
-    Zegna
-</h2>
-<p>
-    One of the staples from Zegna is the suit. Founded in the north of Italy,
-    Trivero more specifically, Ermenegildo Zegna created the company in the
-    1910s. However, he did not do this alone and his two brothers Mario and
-    Edoardo helped him with the task of creating the company and its vision.
-    The objective from Zegna was already clear in its inception, more than 100
-    years ago:
-</p>
-<p>
-    On one hand, they wanted to always find the best fabrics for each garment
-    and each occasion. For that, they used to track different regions in search
-    of the best product
-</p>
-<p>
-    On another hand, innovation was already an important pillar of the company,
-    combining it together with the best fabrics.
-</p>
-<p>
-    Fortunately for the consumers, the vision of the original founder remains
-    unchanged today and they have not been transitioned to other styles or
-    politics, as it has happened unfortunately with other classic houses.
-</p>
-<p>
-    In Zegna, all materials such as wool and cashmere are carefully selected so
-    they are perfect for suits and sweaters. Nonetheless, you will see
-    exquisite products such as ties, shirts, or accessories to complete one
-    man’s wardrobe.
-</p>
-<p>
-    Although their style is classic, keeping the traditional tailoring as a
-    service, called <em>Su Misura</em>, they also have collaborated with other
-    brands on the crest of the wave, such as <strong>Fear of God</strong>. Further, thanks to different technologies they have also created the <strong>Tech Merino</strong> collection.
-</p>
-<p>
-    Although the prices are in the top, it is possible to see the quality of
-    the different garments from miles away, and you will not be wrong if you go
-    for this option.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/italy/zegna.jpg" alt="More than 100 years of history">
-    <span class="caption text-muted"> You can find <a href="https://www.zegna.com/">Zegna</a> in their website or
-    other pages such as Mr Porter</span>
-</p>
-<h2>
-    Canali
-</h2>
-<p>
-    2 hours away from Trivero, close to Monza, Canali was founded just a few
-    years before the second world war in Triuggio. It was founded by two
-    brothers: Giacomo and Giovanni Canali, and the family still plays an
-    important role in the company today. A family-owned based company, the
-    focus on Canali lies on traditional menswear such as knitwear, suits, and
-    shoes.
-</p>
-<p>
-    The idea behind Canali is to keep a classic style but modernize it with
-    minor enhancements constantly, also adapting the look to the contemporary
-    times. They call it <strong>“modern elegance”</strong> and this term is very appropriate in
-    his blog.
-</p>
-<p>
-    Customers also play an important role in Canali’s history and they are
-    important for them regardless of who they are. As it occurs with Zegna,
-    they also offer an exclusive made to measure service, so you can see that
-    the classic style is one of their signatures.
-</p>
-<p>
-    Although it has less history than Zegna, and it is also probably less known,
-    you cannot go wrong either if you decide to visit the shop from the
-    province of Monza.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/italy/canali.jpg" alt="Modern Classic">
-    <span class="caption text-muted">   Modern Elegance is how <a href="https://www.canali.com/">Canali</a> define their style and you can see an example
-    above.</span>
-</p>
-<p>
-
-</p>
-<h2>
-    E. Marinella
-</h2>
-<p>
-    Since we have introduced two Italian brands from the north, it would be
-    fair also to travel to see a different style from the South of Italy. And
-    not, we are not checking Dolce &amp; Gabbana or similar. This brand is
-    rather unknown and due to the relaxation of the outfits in last years
-    (COVID-19 may have something to do), it may have lost presence in the
-    recent years.
-</p>
-<p>
-    We are talking about E. Marinella, which was found as Zegna in the 1910s.
-    However, the company was created in Naples, where they started with a tiny
-    20-meter shop. Marinella means “From the Sea” in Italian and you could
-    guess that the shop is related to the Gulf of Naples or the Mediterranean
-    Sea. However, the company owes its name to the creator Eugenio Marinella.
-</p>
-<p>
-    However, if you don’t know E. Marinella is focused mainly on ties and
-    handkerchiefs and what they wanted to achieve was replicating some of the
-    British products and style in Italy. Since the usage of ties is less common
-    nowadays, that’s why it may not be as famous one as the other brands listed
-    here.
-</p>
-<p>
-    As it occurs with Zegna and Canali, E. Marinella is focused on two
-    different aspects:
-</p>
-<p>
-    <strong> Materials </strong>: The characteristic prints and pattern of the ties are designed
-    carefully and produced with the best silk prepared exclusively just for
-    them.
-</p>
-<p>
-    <strong> Craftsmanship </strong>: Although they have invested in different technological
-    machinery, some part of the fabrication is still manual, where the works
-    prepare the ties with the utmost care. The ties are folded 5, 7 or 9 times to
-    themselves, and you can note it when touching them.
-</p>
-<p>
-    Although the format attire is losing more and more presence, we all must
-    attend special occasions. For these events, the ties from E Marinella will
-    for sure elevate your outfit and you will create an excellent impression to
-    the hosts and other guests.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/italy/marinella.jpg" alt="Unique category of products">
-    <span class="caption text-muted">    Even if it is just a picture, you can notice the quality of the ties from    <a href="https://www.emarinella.eu/">E. Marinella</a>.
-    above.</span>
-</p>
-<h2>
-    Bottega Veneta
-</h2>
-<p>
-    This one is probably the most famous company, especially for women. If you
-    know about Italian, you can see that in this case the name is quite simple:
-    Bottega means shop and Veneta means Venetian – yes, we have come back to
-    the North of Italy for this last section -. This is the only company listed
-    in this post that does not have the origin in the founder of the company.
-</p>
-<p>
-    As opposed to other brands, Bottega Veneta is focused more on women’s
-    attires, or at least they have more options. Nonetheless, since we have
-    already talked about different garments, it’s the time to focus on
-    accessories for the daily activities. Bags, wallets, backpacks. This way,
-    we complete the list, and we can have an outlook composed of just these
-    brands.
-</p>
-<p>
-    Their instant hit was the Intreciatto leather, technique that had been
-    tried to replicate or imitated in some brands. It’s also the main
-    characteristic today, giving the different accessories a unique feel.
-    Intrecciato is called like that because of the way the leather is weaved.
-    In the past, in the region the company was created, they were used to work
-    just with clothes and the machinery were adapted to garments. In order to
-    be able to recycle these machines, the leather had to be super thin. Once
-    completed, the workers had to wove with this characteristic pattern to make
-    the accessory more resistant.
-</p>
-<p>
-    Although them were acquired 20 years ago approximately, they have not been
-    corrupted and they have kept their unique design and exquisite
-    craftsmanship. You can also see some of these pieces of art below.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/italy/bottega.jpg" alt="Intrecciatto is their signature">
-    <span class="caption text-muted">        Classic and unique is what accessories from    <a href="http://www.bottegaveneta.com/">Bottega Veneta</a> are.
-    above.</span>
-</p>
-<h2>
-    Alla prossima
-</h2>
-<p>
-    There are more Italian and non-Italian brands to come. For example, there
-    are some brands from Italy which will be included in the future are the
-    ones like <a href="https://www.bogliolimilano.com/">Boglioli</a>,<a href="https://www.corneliani.com/">Corneliani</a>,<a href="https://www.palzileri.com/fr/">Pal Zileri</a> or    <a href="https://www.slowear.com/">Incotex</a> (Slowear group). For the
-    moment, we have seen a few and I hope that you have discovered at least one
-    interesting company.
-</p>]]></content><author><name>Javier Freire</name></author><category term="zegna" /><category term="canali" /><category term="bottega" /><category term="veneta" /><category term="canali" /><category term="marinella" /><category term="ermenegildo" /><category term="italy" /><category term="monza" /><category term="italian" /><category term="fashion" /><category term="modern" /><category term="classic" /><category term="style" /><summary type="html"><![CDATA[4 brands Made in Italy that modern men have to know and that combine a unique, classic and elegant style.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/italy/italy.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/italy/italy.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Watches for a Lifetime</title><link href="http://localhost:4000/2022/03/21/watches-for-a-lifetime/" rel="alternate" type="text/html" title="Watches for a Lifetime" /><published>2022-03-21T23:45:13+01:00</published><updated>2022-03-21T23:45:13+01:00</updated><id>http://localhost:4000/2022/03/21/watches-for-a-lifetime</id><content type="html" xml:base="http://localhost:4000/2022/03/21/watches-for-a-lifetime/"><![CDATA[<h2>
-    Introduction
-</h2>
-<p>
-    When it comes to accessories, I’m of the opinion that men should keep it
-    simple. When I was young, I was taught that jewels are for women. On the
-    other hand, men should keep it simple. There are different reasons for
-    that:
-</p>
-<ul>
-    <li>
-        Too many accessories will steal attention to your look.
-    </li>
-    <li>
-        Less is more when it comes to men’s fashion. Keep it simple.
-    </li>
-    <li>
-        Unless you are a rapper, probably putting too many accessories will not
-        look nice in your daily activities.
-    </li>
-</ul>
-<p>
-    From what you have read, you may already guess that I am not a fan rings,
-    earrings or necklaces on men’s looks. However, a watch is something that
-    every man should try to wear.
-</p>
-<p>
-    Affordable or exclusive, some watches are undeniable icons and pieces of
-    art. In next posts, I will talk about more affordable watches and modern
-    classics. However, in this one we focus on models with some history and
-    that unfortunately the price may also be exorbitant in some cases. This
-    means that they are not for all pockets and even if so, you may prefer to
-    spend that money in something else or investing as explained in this
-    article.
-</p>
-<p>
-    Here it is a small description of each watch, but you will not see any
-    price listed. Please note that for some of them, there is a waiting list
-    which could be excessive.
-</p>
-<h2>
-    Rolex submariner
-</h2>
-<p>
-    Introduced in the 1950s, the Submariner Is probably the most famous watch
-    in the luxury models. Although it had seen several improvements in terms of
-    movements and water resistance, it has kept is essence. Due to its
-    versatility and the good marketing, many brands used this design to create
-    similar divers.
-</p>
-<p>
-    One of the most know famous campaigns was in the James Bond movies: Dr No
-    and From Russia with Love. It remains a classic nowadays and there are
-    different versions, material, and colors of it.
-</p>
-<p>
-    Apart from inspiring models from other brands, Rolex has also created new
-    models out of the Submariner. A clear example of this is the <strong>Sea-Dweller</strong> introduced in the late 1960s.
-</p>
-<p>
-    For the stated reasons, it is probably one of the most recognizable watches
-    in the planet. Since it’s a classic, it may take some time until you can
-    buy it from your authorized dealer. On the other hand, we have already said
-    that many brands have used this model as inspiration. For this reason,
-    there are some alternatives in case you are looking for something more
-    affordable
-</p>
-<ul>
-    <li>
-        Orient Mako
-    </li>
-    <li>
-        Casio Duro
-    </li>
-    <li>
-        Omega Seamaster
-    </li>
-</ul>
-<p>
-    <img class="img-fluid" src="/img/posts/watches/sea.jpg" alt="Rolex Sea Dweller">
-    <span class="caption text-muted">The Rolex Sea-Dweller is the muscled version of the Submariner</span>
-</p>
-<h2>
-    Audemars Piguet Royal Oak
-</h2>
-<p>
-    The watch house from Le Brassus owes too much to the Royal Oak model.
-    Mainly, because without this model, the company would probably not exist
-    today. In the 1970’s the Swiss company realized that they would go bankrupt
-    if they did not introduce a disrupting model. It was in full era of the
-    quartz crisis, triggered by Japanese makers when Audemars Piguet realized
-    that they had to disrupt the market.
-</p>
-<p>
-    At that time, the watch company hired Gerald Genta to create something
-    unique and completely different to previous watches the house had created.
-    This was the creation of a steel sports watch, integrated into a bracelet
-    and completely in stainless steel.
-</p>
-<p>
-    Although Audemars Piguet had already a reputation back then, and focused on
-    classic dress watches, the Royal Oak is the insignia from this house.
-    Today, there are multiple versions of this watch, such as limited editions.
-    Furthermore, other companies have taken inspirate from this model.
-    Initially just in stainless steel, you may find different variations of
-    this model in precious metals, alligator, or rubber strap.
-</p>
-<p>
-    The Royal Oak has appreciated in the last years and the waiting list
-    average is 8 years. For that reason, these are some alternatives in
-    different price ranges.
-</p>
-<ul>
-    <li>
-        G Shock GA-2100 (Casioak)
-    </li>
-    <li>
-        Tissot PRX Powermatic 80
-    </li>
-</ul>
-<p>
-    <img class="img-fluid" src="/img/posts/watches/ap.jpg" alt="Blue Royal Oak">
-    <span class="caption text-muted">The model with the blue dial is the most iconic version of this watch</span>
-</p>
-<h2>
-    Zenith el Primero
-</h2>
-<p>
-    Although it is not considered in the top tier list of watches, it’s one of
-    the most famous watch companies and Zenith has indeed a lot of horological
-    history.
-</p>
-<p>
-    However, as it occurs with many topics, the model we are discussing today
-    was a total failure on the early stages and there are different reasons for
-    this unsatisfactory project.
-</p>
-<p>
-    Zenith started developing some years before the release the first automatic
-    chronograph. They released it finally in 1969, with a total project
-    duration of 7 years. Just before the release, on the same year, other two
-    companies release a Chronograph, being Seiko and Chronographic in that
-    order. For that reason. It is not correct to call it “El Primero” (the
-    first one). Nonetheless, out of these 3 chronographs, El Primero is the
-    most sophisticated and complex one. That’s why it included in the history
-    books, and you can find today different versions and reinterpretations of
-    it, such as the Skeleton version.
-</p>
-<p>
-    It’s not as sporty as the other models, but you can put it with almost
-    anything. In case you would like to buy it, it is less exclusive than the
-    other ones listed in this post. You can even buy it from Mr Porter, shop
-    that was included in this <a href="https://mrfreire.net/2022/03/06/shops-for-the-modern-man-part-I/">post</a>post. If you want to look for alternative
-    chronographs, some of models that are similar to El Primero are the following ones:
-</p>
-<ul>
-    <li>
-        Rolex Daytona - this is pricier than the Zenith Model and we will talk
-        soon about it.
-    </li>
-    <li>
-        Orient panda
-    </li>
-</ul>
-<p>
-    <img class="img-fluid" src="/img/posts/watches/zen.jpg" alt="Multiple versions">
-    <span class="caption text-muted">Multiple reworks and versions of El Primero exist today</span>
-</p>
-<h2>
-    Patek Philippe Nautilus
-</h2>
-<p>
-    Having seen the success of the Royal Oak, another member of the Holy
-    Trinity (the other member being Vacheron Constantin) did not want to be
-    second to none and they asked the creator of the AP model, Gerald Genta, to
-    design a steel and sports watch. If you know about the company from Geneva,
-    you will know that they have and were focused on more classic models such
-    as the dress watch Calatrava.
-</p>
-<p>
-    Genta was inspired in a ship’s porthole to create the Nautilus, name also
-    linked to Captain Nemo’s submarine in the Jules Vern Twenty Thousand
-    Leagues Under the Sea novel. When it was created in the mid 70s, the watch
-    looked huge and for that reason the success was not immediate. However, the
-    undeniable elegant, sporty, and modern design grew slowly on watch lovers
-    and has finally become a legend.
-</p>
-<p>
-    Therefore, today’s price is even higher than the one of Royal Oak (not
-    going into details about the price) if you can afford it. As it occurred
-    with the Royal Oak, during these years, there have been different versions
-    of the watch in terms of size, caliber, and different limited editions.
-    Another top model from this house is the Aquanaut model, which has
-</p>
-<p>
-    The Nautilus is by far the most exclusive watch in this list, but again, we
-    are not talking about the price. Furthermore, the waiting list may be
-    comparable to the one of the Royal Oak.
-</p>
-<p>
-    Although the design of the Nautilus is unique, here are some alternatives,
-    although these ones are not precisely cheap.
-</p>
-<ul>
-    <li>
-        Girrard Perregaux Laureato
-    </li>
-    <li>
-        Bulgari Octo Finissimo
-    </li>
-</ul>
-<p>
-    <img class="img-fluid" src="/img/posts/watches/patek.jpg" alt="Most famous Patek">
-    <span class="caption text-muted">The Nautilus is the most famous model of the house and there is a model for every taste</span>
-</p>
-<h2>
-    More classics to come
-</h2>
-<p>
-    We have been talking about classic sport watches that you could wear in
-    almost every occasion. You may have noticed that there are no dress watches
-    in this list. Although I really like them, like happened with the video
-    killing the radio star, sport watches seem to have killed the dress
-    watches.
-</p>
-<p>
-    Maybe not killing, but the presence of classic dress watches has been
-    reduced considerably in the last years. Who knows if they will be on the top again
-    in a few years from now? However, for the moment, we have described 4 more
-    sport watches that can also fit with any look. If you wear one of these or
-    their alternative modes, there is no need to at all to add any jewel or
-    extravagant accessories to your look
-</p>]]></content><author><name>Javier Freire</name></author><category term="rolex" /><category term="watches" /><category term="submariner" /><category term="fashion" /><category term="patek" /><category term="philippe" /><category term="nautilus" /><category term="primero" /><category term="zenith" /><category term="daytona" /><category term="seadweller" /><category term="royal" /><category term="aok" /><category term="audemars" /><category term="piguet" /><summary type="html"><![CDATA[4 classic iconic watches with some history, including some alternatives to these, for which you will not need additional accessories in your outfit]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/watches/back.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/watches/back.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Debit Cards for the Nomad Man</title><link href="http://localhost:4000/2022/03/18/cards-nomad-man/" rel="alternate" type="text/html" title="Debit Cards for the Nomad Man" /><published>2022-03-18T23:45:13+01:00</published><updated>2022-03-18T23:45:13+01:00</updated><id>http://localhost:4000/2022/03/18/cards-nomad-man</id><content type="html" xml:base="http://localhost:4000/2022/03/18/cards-nomad-man/"><![CDATA[<h2>
-    Introduction
-</h2>
-<p>
-    Cash is less and less used and the different technologies, the regulations
-    and COVID-19 have all something to do with this. Although the future may
-    not be necessarily in the hands of cards, which are a product that has
-    barely evolved in the recent years, they are still the preferred paying
-    method.
-</p>
-<p>
-    In this post, we are including the best cards that you can find in the
-    market. When I mention the best, I’m referring to the best quality price
-    relationship. Therefore, if you are looking for products such as the
-    American Express Centurion or alike, you will have to wait.
-</p>
-<p>
-    Please note that due to the banking licenses and regulations, some of these
-    cards may not be available in some countries. This is because I just
-    recommend what I use, or I have used.
-</p>
-<h2>
-    Revolut
-</h2>
-<p>
-    Revolut is one of the most valuable FinTech in the world and the most
-    valuable fintech in UK, where it is based. It’s also probably the most
-    famous company in this list.
-</p>
-<p>
-    Aside debit cards, they also offer other financial products such as vaults,
-    trading and crypto. However, nothing against these services, but I think
-    there are much better options out there if for example you are thinking on
-    trading stocks or crypto.
-</p>
-<p>
-    Revolut has been growing exponentially in the last years thanks to their
-    inexistent or low fees, application design and associated benefits.
-</p>
-<p>
-    The most known characteristic of Revolut is that there are no currency
-    conversion fees on card payments.
-</p>
-<p>
-    Nonetheless, on weekends, the exchange rate fee is increased. In any case,
-    even if there are some fees on the weekends, the rate is favorable than
-    more traditional services.
-</p>
-<p>
-    Besides, if you use premium, you have unlimited transfer of foreign
-    currencies.
-    If you are abroad, you can also withdraw money from ATMs, up to a certain
-    limit for free.
-</p>
-<p>
-    These characteristics make Revolut the perfect card for travelling and
-    short stays in foreign countries. Furthermore, there were some great news
-    at the end of 2021 since Revolut was granted the full banking license by
-    the European Central Bank.
-</p>
-<p>
-    There are some options (Premium, Metal) for which the service will not be
-    free and depending on your situation, it may be worth to check these. For
-    example, if you transfer every month considerable amounts of foreign
-    currency, it may be important to upgrade. At least on my case, this is more
-    beneficial.
-</p>
-<h3>
-    Revolut Business case
-</h3>
-<p>
-    The most obvious case is for travelling to foreign countries, but there are
-    many more usages.
-</p>
-<p>
-    Compared to other banks, one of the things I like most about Revolut is the
-    instant transfer of money. If I transfer to my other accounts, the money is
-    there in milliseconds. The other situation relevant on my case is to
-    transfer different currencies. For example, if you can just deposit USD in
-    your broker (e.g., crypto), this is a way method to transfer your local
-    currency into USD without hidden fees.
-</p>
-<h3>
-    Revolut Features
-</h3>
-<ul>
-    <li>
-        Nice design of the app
-    </li>
-    <li>
-        No currency conversion fees (except weekends) in transfers and card
-        payments
-    </li>
-    <li>
-        Immediate transfers without fees
-    </li>
-    <li>
-        Excellent security management
-    </li>
-    <li>
-        Different partnerships for cash back
-    </li>
-    <li>
-        Getting more and more banking license (e.g., EU license)
-    </li>
-</ul>
-<p>
-    In case you would like to open an account, you can open it from this    <a href="https://www.revolut.com/">link</a>. You will receive a reward of
-    70 in your local currency when opening it with this link and following some
-    steps:
-    <a href="https://revolut.com/referral/javiertc8p!MAR1-22-AR">
-        70 Referral
-    </a>
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/cards/revolut.jpg" alt="Revolut">
-    <span class="caption text-muted">The usage of the real exchange rates is one of the most notories features of Revolut.</span>
-</p>
-<h2>
-    N26
-</h2>
-<p>
-    The origin of the name comes from the number of smaller cubes in a Rubik’s
-    cube. Founded in 2013 in Munich, N26 is a German neobank with a huge
-    customer base in Europe and the US.
-</p>
-<p>
-    N26 offers a basic account and a debit card in the entry level. For these
-    products, there are no fees. The customer can add more services (N26 You
-    and N26 Metal) if needed and for these ones, there will be a monthly fee.
-</p>
-<p>
-    If you want to open the account, the registration will take around 10
-    minutes.
-</p>
-<p>
-    ATM withdrawals are also free up to a certain amount per month.
-</p>
-<p>
-    They will also send the card for free when you top up your account for the
-    first time. In most countries you can also use your mobile to pay since it
-    is compatible with Apple Pay and Google Pay.
-</p>
-<p>
-    In the case of exchange rates, there rate may be slightly worse than the
-    ones from Revolut. However, the conversion is constant on all days of the
-    week. For foreign currency transfers, they are since a few months with
-    Wise.
-</p>
-<h3>
-    N26 Business case
-</h3>
-<p>
-    In my case, I use it as a daily card in Europe. One trick I use is the
-    following one. DAZN is a streaming service from Germany and available in
-    many locations. However, the offering of DAZN Germany is much better than
-    the one for other countries. For that reason, I have an account in DAZN
-    Germany and I use my N26 to pay with it, since they detect that it is a
-    German bank.
-</p>
-<h3>
-    N26 Features
-</h3>
-<ul>
-    <li>
-        Great app
-    </li>
-    <li>
-        No currency conversion fees card
-    </li>
-    <li>
-        Cheap foreign currency transfers
-    </li>
-    <li>
-        Good security management
-    </li>
-    <li>
-        EU banking license
-    </li>
-    <li>
-        Since it is a German account, you may use it to access services in
-        Germany (e.g., DAZN DE offers)
-    </li>
-</ul>
-<p>
-    At the moment, there is no current promotion, but you may open an account
-    from their <a href="https://n26.com/en-eu">website</a>.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/cards/n26.jpg" alt="N26">
-    <span class="caption text-muted">N26 is one of the application that has grown considerably in Europe.</span>
-</p>
-<h2>
-    Neon
-</h2>
-<p>
-    The last one in the list is a Swiss digital bank, and it is just restricted
-    to people living in Switzerland. Neon offers a bank, a phone application,
-    and a debit card. Everything for free. Apart from not having any expenses,
-    you can also have up to two ATM withdrawals per month.
-</p>
-<p>
-    Neon is also compatible with Apple Pay and Google Play. On top of this,
-    Neon is also compatible with TWINT (if you are in Switzerland, you know
-    what this is).
-</p>
-<p>
-    Although Neon does not have a banking license the Hypothekarbank Lenzburg
-    manages the different accounts. For that reason, under the Swiss Banking
-    Law, the deposited is insured up to 100,000 CHF.
-</p>
-<p>
-    If you are abroad, you don’t pay exchange rate fees in card transactions.
-    On the other hand, for cash withdrawals in foreign currency, there is a
-    1.5% fee.
-</p>
-<p>
-    Neon also offers a more premium account, which is called Neon Green. The
-    features of Neon Green are not focused mainly on the customer, but the
-    society. For each Neon Green user, Neon plants 35trees every month.
-    Further, for every 100 CHF spent, an additional tree is planted. For
-    example, if you spend 4,000 CHF, they will plan 45 trees in one single
-    month.
-</p>
-<p>
-    On top of that, you also have an extended warranty of 3 years, thanks that
-    they have a partnership with hanks to our partner, Europäische
-    Reiseversicherung (ERV) . All this is just for 5 CHF, which makes is quite reasonable.
-</p>
-<p>
-    Please note that even the registration process takes 10 minutes, you will
-    need to show residency permit (e.g., if you just arrived in Switzerland).
-</p>
-<h3>
-    Neon Business case
-</h3>
-<p>
-    In my case, if you have Neon Green, you get a 3-year warranty extension for
-    all electronic and electrical products. You always have two-year warrant
-    for your products, so this means that you will have a total    <strong>warranty of 5 years.</strong> Despite the different technological
-    breakthroughs, planned obsolescence is at the order of the day. This way,
-    we are more than covered.
-</p>
-<h3>
-    Neon Features
-</h3>
-<ul>
-    <li>
-        Beautiful app
-    </li>
-    <li>
-        Integration with mobile payments
-    </li>
-    <li>
-        No exchange rate fees
-    </li>
-    <li>
-        Cheap foreign currency transfers
-    </li>
-    <li>
-        Neon green
-    </li>
-    <li>
-        Integration with <a href="https://www.twint.ch/en/">TWINT</a>.
-    </li>
-</ul>
-<p>
-    You can download neon via this <a href="https://www.neon-free.ch/en/">link</a>.
-    If you want to start with 20 CHF, you can use code <strong>LTM55N</strong> when you
-    register.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/cards/neon.jpg" alt="Neon">
-    <span class="caption text-muted">If you live in Switzerland, Neon is a must for you.</span>
-</p>
-<h2>
-    Conclusion
-</h2>
-<p>
-    In all these cases, for the basic service (account and debit card), there
-    are no monthly fees or any disadvantage for using them. In my case I have
-    all of these, but you can of course select just the one that suits you
-    best. In case of emergency card, it is always a possibility to have others.
-</p>
-<p>
-    Please note that the promotions may vary from time to time and the amounts
-    may also be bigger or lower. In all cases, if any reward, you and I get the
-    same amount. However, the purpose of this article is just showing different
-    advantages and help people move away from other banks with abusive fees and
-    less benefits.
-</p>]]></content><author><name>Javier Freire</name></author><category term="finance" /><category term="revolut" /><category term="n26" /><category term="neon" /><category term="fees" /><category term="currency" /><category term="travel" /><category term="nomad" /><summary type="html"><![CDATA[Multiple debit cards that you can use for free for multiple purposes: foreign currency, transfers, travels, stays abrod, etc.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/cards/bangkok.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/cards/bangkok.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</p>]]></content><author><name>Javier Freire</name></author><category term="witcher" /><category term="god" /><category term="war" /><category term="last" /><category term="us" /><category term="games" /><category term="uncharted" /><category term="ps4" /><category term="ps5" /><category term="videogames" /><summary type="html"><![CDATA[4 classic video games that you should buy if you don't have them: Witcher, God of War, The Last of Us, Uncharted 4]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/games/uncharted.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/games/uncharted.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

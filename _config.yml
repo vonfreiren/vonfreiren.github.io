@@ -36,9 +36,9 @@ defaults:
     values:
       sitemap:         false
   - scope:
-      path: "posts"
+      path:             "posts"
     values:
-      sitemap: false
+      sitemap:          false
 
 
 tag_permalink_style: pretty
