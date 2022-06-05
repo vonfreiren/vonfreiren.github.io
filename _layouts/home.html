@@ -4,7 +4,9 @@ layout: default
 
 <!-- Page Header -->
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+<header class="masthead"
+        style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
+        xmlns="http://www.w3.org/1999/html">
   {% else %}
   <header class="masthead">
     {% endif %}
@@ -25,34 +27,49 @@ layout: default
 
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="col-lg-18 col-md-20 mx-auto">
 
         {{ content }}
 
-        <!-- Home Post List -->
-        {% for post in site.posts limit : 10 %}
+        <div class="bg-white">
+          <div class="container">
+            <div class="row text-center mb-5">
+              <div class="col">
+                <span class="h1 d-block font-weight-bold">Javier Freire's Posts</span>
+              </div>
+            </div>
+            <div class="row">
 
+        <!-- Home Post List -->
+        {% for post in site.posts limit : 36 %}
+              <div class="col-12 col-md-6 col-lg-4 d-flex">
+                <div class="card border shadow">
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <p>
-            <h2 class="post-title">{{ post.title }}</h2>
+              <img class="card-img-top" src="{{post.background}}">
+              <div class="card-body py-3">
+              <h5 class="post-title">{{ post.title }}</h5>
             {% if post.subtitle %}
-            <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-               <small class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</small>
-            {% else %}
-            <h3 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h3>
+            <h7 class="post-subtitle">{{ post.subtitle }}</h7>
+              <section>
+               <small class="post-preview">{{ post.content | strip_html | truncatewords: 30 }}</small>
+              </section>
+                  {% else %}
+            <h7 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h7>
             {% endif %}
+          </div>
           </a>
-          <p>
-          <p class="post-meta">Posted by
+<!--            <div class="card-body py-3">
+            <p class="post-meta"> <small>Posted by
             {% if post.author %}
             {{ post.author }}
             {% else %}
             {{ site.author }}
             {% endif %}
             on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}            
-          </p>
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+        </small></p>
             {% if post.tags.size > 0 %}
                 <div class="caption">
                     <span class="post-share-title">Tags:</span>
@@ -64,12 +81,18 @@ layout: default
                     {% endfor %}
                 </div>
                 {% endif %}
-        </article>
-
-        <hr>
+                </div>-->
+                  </article>
+                </div>
+                </div>
 
         {% endfor %}
-
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
         <!-- Pager -->
         <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
