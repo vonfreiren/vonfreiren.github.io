@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-15T20:41:13+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Blockchain Layers Explained</title><link href="http://localhost:4000/2022/06/03/blockchain_layers_explained/" rel="alternate" type="text/html" title="Blockchain Layers Explained" /><published>2022-06-03T14:01:13+02:00</published><updated>2022-06-03T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/03/blockchain_layers_explained</id><content type="html" xml:base="http://localhost:4000/2022/06/03/blockchain_layers_explained/"><![CDATA[<h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-15T23:40:28+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Blockchain Layers Explained</title><link href="http://localhost:4000/2022/06/03/blockchain_layers_explained/" rel="alternate" type="text/html" title="Blockchain Layers Explained" /><published>2022-06-03T14:01:13+02:00</published><updated>2022-06-03T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/03/blockchain_layers_explained</id><content type="html" xml:base="http://localhost:4000/2022/06/03/blockchain_layers_explained/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     If you have been in the crypto or blockchain scene for some time, you may
     be familiar with the different layers of the blockchain, their functions,
     and how they interact one with another. However, if you are new, you may
     hear terms such as L1 or L2 and you may ask yourself what these words are.
     Don’t worry about this.
-</p>
+</div>
 <p>
     In this article we explain not just the different layers but also the
     importance of each of it. It’s also important to note what they mean and
@@ -295,7 +295,7 @@ In order to understand the last layer, these are some examples of complete diffe
 </p>]]></content><author><name>Javier Freire</name></author><category term="layers" /><category term="blockchain" /><category term="l1" /><category term="l2" /><category term="l3" /><category term="l0" /><category term="bitcoin" /><category term="ethereum" /><category term="algorand" /><category term="polkadot" /><category term="uniswap" /><summary type="html"><![CDATA[The utilities and functions of each Blockchain Layer (L0, L1, L2, L3) explained with several real examples]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/blockchain_layers/layers.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/blockchain_layers/layers.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What DAO you want?</title><link href="http://localhost:4000/2022/05/08/what_dao_you_want/" rel="alternate" type="text/html" title="What DAO you want?" /><published>2022-05-08T14:01:13+02:00</published><updated>2022-05-08T14:01:13+02:00</updated><id>http://localhost:4000/2022/05/08/what_dao_you_want</id><content type="html" xml:base="http://localhost:4000/2022/05/08/what_dao_you_want/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     You have been probably hearing the term DAO for some time, but some topics may
     not be clear yet to you. A DAO is a Decentralized Autonomous
     Organization. In other words, it is an organization that is controlled
@@ -305,7 +305,7 @@ In order to understand the last layer, these are some examples of complete diffe
     bitcoin did when it was created more than 10 years ago. The purpose of
     a DAO is also the one for a company or an institution to be able to
     function without hierarchical management.
-</p>
+</div>
 <p>
     To give you an example, bitcoin can be considered a primitive DAO,
     since it works with a series of given rules, is autonomous, and is
@@ -464,7 +464,7 @@ In order to understand the last layer, these are some examples of complete diffe
     categories, with no preferential order.
 </p>
 <h3>
-    Maker DAO
+    1. Maker DAO
 </h3>
 <p>
     This is probably one of the most famous DAO out there. We have seen
@@ -506,7 +506,7 @@ In order to understand the last layer, these are some examples of complete diffe
 </p>
 
 <h3>
-    KlimaDAO
+    2. KlimaDAO
 </h3>
 <p>
     With the importance of climate change and small reactivity from some
@@ -557,7 +557,7 @@ In order to understand the last layer, these are some examples of complete diffe
 </p>
 
 <h3>
-    Olympus DAO
+    3. Olympus DAO
 </h3>
 <p>
     With all the central banks printing money and excessive Quantitative
@@ -598,7 +598,7 @@ In order to understand the last layer, these are some examples of complete diffe
 
 
 <h2>
-    Seed Club
+    4. Seed Club
 </h2>
 <p>
     Seed Club is a DAO whose mechanisms are similar to those of a modern
@@ -636,7 +636,7 @@ In order to understand the last layer, these are some examples of complete diffe
 
 
 <h3>
-    Krause House
+    5. Krause House
 </h3>
 <p>
     Krause House is one of the projects financed thanks to Seed Club. If
@@ -750,14 +750,14 @@ In order to understand the last layer, these are some examples of complete diffe
 </p>]]></content><author><name>Javier Freire</name></author><category term="dao" /><category term="investment" /><category term="dapps" /><category term="smart-contracts" /><category term="autonomous" /><category term="crypto" /><category term="ethereum" /><category term="bitcoin" /><summary type="html"><![CDATA[What do NBA, climate change or an art gallery have in common? DAO is the answer for this. In this article we explain briefly 6 interesting projects related to DAOs]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/dao/daos.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/dao/daos.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Web3 Is Coming</title><link href="http://localhost:4000/2022/05/06/web3_is_coming/" rel="alternate" type="text/html" title="Web3 Is Coming" /><published>2022-05-06T14:01:13+02:00</published><updated>2022-05-06T14:01:13+02:00</updated><id>http://localhost:4000/2022/05/06/web3_is_coming</id><content type="html" xml:base="http://localhost:4000/2022/05/06/web3_is_coming/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     If you are already up to date with concepts such as the ones of blockchain,
     DeFi, or metaverse, now is the time to find out about Web3. This term has
     gained traction in 2021 and 2022 and continues to be mentioned in articles
     that discuss about topics such NFTs, cryptocurrencies, or decentralized
     finance. However, Web3 (or Web 3.0) is far more than that as you will see
     below.
-</p>
+</div>
 <p>
     On top of the latest trends and news, I see more ads, courses and job
     offers related to Web3. That is related to the growth and how the corporate
@@ -1038,12 +1038,12 @@ In order to understand the last layer, these are some examples of complete diffe
 </p>]]></content><author><name>Javier Freire</name></author><category term="web" /><category term="token" /><category term="internet" /><category term="web3" /><category term="web2.0" /><category term="ai" /><category term="semantic" /><summary type="html"><![CDATA[Web3 contains different advantages and will include many changes in our daily life and in many organizations]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/web3/web3_1.webp" /><media:content medium="image" url="http://localhost:4000/img/posts/web3/web3_1.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Investing in Niche Sectors</title><link href="http://localhost:4000/2022/04/24/niche_sectors_investing/" rel="alternate" type="text/html" title="Investing in Niche Sectors" /><published>2022-04-24T14:01:13+02:00</published><updated>2022-04-24T14:01:13+02:00</updated><id>http://localhost:4000/2022/04/24/niche_sectors_investing</id><content type="html" xml:base="http://localhost:4000/2022/04/24/niche_sectors_investing/"><![CDATA[<h2 xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
     Introduction
 </h2>
-<p>
-    In previous posts we introduced some investment funds or ETFs focusing on
+<div class="text-article">
+    Some weeks ago, we introduced some investment funds or ETFs focusing on
     specific countries or indexes such as the S&amp;P500 or the Nasdaq. We also
     went further and analyzed some interesting regions with a considerable
     expected growth for the following years.
-</p>
+</div>
 <p>
     I have also said that I prefer to focus on these broad investment vehicles
     in order to get the best possible returns with the lowest possible risk,
@@ -1364,7 +1364,7 @@ Achieving Economic Independence</a>
 </nav>]]></content><author><name>Javier Freire</name></author><category term="investment" /><category term="etf" /><category term="fund" /><category term="videogames" /><category term="cannabis" /><category term="ai" /><category term="ecommerce" /><category term="water" /><summary type="html"><![CDATA[From videogames to water or cannabis: Top 5 industries with high expected growth for the next years where you can invest]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/niche/water.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/niche/water.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Algorand Governance</title><link href="http://localhost:4000/2022/04/16/algorand_goverance_defi/" rel="alternate" type="text/html" title="Algorand Governance" /><published>2022-04-16T12:01:13+02:00</published><updated>2022-04-16T12:01:13+02:00</updated><id>http://localhost:4000/2022/04/16/algorand_goverance_defi</id><content type="html" xml:base="http://localhost:4000/2022/04/16/algorand_goverance_defi/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     In previous posts, we have explained different alternatives for our
     investments, and related to this one, we have also explained some ones
     focused on crypto or DeFi. The Algorand Foundation is another way to
@@ -1372,7 +1372,7 @@ Achieving Economic Independence</a>
     the Algorand ecosystem. Connected to this, the Algorand Governance second
     period ended some days ago (31 March) and the third period just started
     some days ago
-</p>
+</div>
 <p>
     But, what’s Algorand, and what is this Governance? For several people, these
     terms may be completely unknown.
@@ -1527,10 +1527,10 @@ Achieving Economic Independence</a>
 </p>]]></content><author><name>Javier Freire</name></author><category term="defi" /><category term="governance" /><category term="algorand" /><category term="passive" /><category term="income" /><summary type="html"><![CDATA[Algorand Governance: Take part in the decisions of the future of DeFi]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/algorand/algorand.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/algorand/algorand.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5 Products for great Eyes and Look</title><link href="http://localhost:4000/2022/04/05/products-protect-eyes-look/" rel="alternate" type="text/html" title="5 Products for great Eyes and Look" /><published>2022-04-05T19:01:13+02:00</published><updated>2022-04-05T19:01:13+02:00</updated><id>http://localhost:4000/2022/04/05/products-protect-eyes-look</id><content type="html" xml:base="http://localhost:4000/2022/04/05/products-protect-eyes-look/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<<div class="text-article">>
     It’s said that eyes are the soul's reflection and they are totally right.
     Our look can say man things about how we feel, our emotions and our energy.
-</p>
+</div>
 <p>
     Nobody can’t disagree to this statement, but then, why we don’t pay
     attention to these two organs and the muscles around them? The technology
@@ -1730,7 +1730,7 @@ Achieving Economic Independence</a>
 </p>]]></content><author><name>Javier Freire</name></author><category term="beauty" /><category term="men" /><category term="creams" /><category term="eyes" /><summary type="html"><![CDATA[5 Creams and products to enhance our look and protect our eyes]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/eye/tiger.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/eye/tiger.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Crypto Staking and Ethereum Merge</title><link href="http://localhost:4000/2022/04/03/staking-ethereum-merge/" rel="alternate" type="text/html" title="Crypto Staking and Ethereum Merge" /><published>2022-04-03T12:01:13+02:00</published><updated>2022-04-03T12:01:13+02:00</updated><id>http://localhost:4000/2022/04/03/staking-ethereum-merge</id><content type="html" xml:base="http://localhost:4000/2022/04/03/staking-ethereum-merge/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     The world of crypto assets or cryptocurrencies is an ever-changing process
     that, like many others, is looking for the next big trend to continue
     generating digital and real value. This new trend could be Staking, the
@@ -1740,7 +1740,7 @@ Achieving Economic Independence</a>
     proof-to-stake, some investors are already earning quite considerable
     annual percentage return while generating substantial passive income
     without efforts.
-</p>
+</div>
 <h2>
     PoW vs PoS
 </h2>
@@ -1901,11 +1901,11 @@ Achieving Economic Independence</a>
 </p>]]></content><author><name>Javier Freire</name></author><category term="staking" /><category term="crypto" /><category term="ethereum" /><category term="bitcoin" /><category term="algorand" /><category term="passive" /><category term="income" /><summary type="html"><![CDATA[Staking: the next big thing in Crypto and what Ethereum Merge will mean]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/staking/staking.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/staking/staking.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">5 Pieces of the Massimo Dutti SS22 Limited Edition Collection</title><link href="http://localhost:4000/2022/04/02/massimo-dutti-spring-summer-limited-edition/" rel="alternate" type="text/html" title="5 Pieces of the Massimo Dutti SS22 Limited Edition Collection" /><published>2022-04-02T12:01:13+02:00</published><updated>2022-04-02T12:01:13+02:00</updated><id>http://localhost:4000/2022/04/02/massimo-dutti-spring-summer-limited-edition</id><content type="html" xml:base="http://localhost:4000/2022/04/02/massimo-dutti-spring-summer-limited-edition/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     Since temperatures go up, we are already in Spring, and we will be soon in
     summer, the fashion companies have started adapting their
     collections.
-</p>
+</div>
 <p>
     For that reason, Massimo Dutti, as every almost every year, has launcher
     their limited edition for the Spring Summer, with a clear nod to summer and
@@ -2107,12 +2107,12 @@ Achieving Economic Independence</a>
 </p>]]></content><author><name>Javier Freire</name></author><category term="massimo" /><category term="dutti" /><category term="limited" /><category term="edition" /><category term="blazer" /><category term="bag" /><category term="espadrilles" /><category term="suede" /><category term="overshirt" /><category term="cardigan" /><category term="cotton" /><category term="linen" /><summary type="html"><![CDATA[the most iconic articles of the Massimo Dutti Spring Summer 2022 Limited Edition collection]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/md22/limited.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/md22/limited.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">8 Benefits of Intermittent Fasting</title><link href="http://localhost:4000/2022/03/28/benefits-intermittent-fasting/" rel="alternate" type="text/html" title="8 Benefits of Intermittent Fasting" /><published>2022-03-28T21:01:13+02:00</published><updated>2022-03-28T21:01:13+02:00</updated><id>http://localhost:4000/2022/03/28/benefits-intermittent-fasting</id><content type="html" xml:base="http://localhost:4000/2022/03/28/benefits-intermittent-fasting/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     Intermittent fasting brings several benefits in different aspects such as
     health, recovery, or weight loss. While this trend has been very famous recently in the western culture,
     there are some benefits of the 16/8 rule (26 hours fasting and 8 hours for having meals).
     Due to the different advantages, some different cultures of the world have been applying this for centuries.
-</p>
+</div>
 <p>
     In this post we discuss some of the benefits that intermittent fasting can
     bring to our life. We had also tried to validate most of the benefits with
@@ -2373,13 +2373,13 @@ Achieving Economic Independence</a>
 </p>]]></content><author><name>Javier Freire</name></author><category term="witcher" /><category term="intermittent" /><category term="fasting" /><category term="brain" /><category term="hormones" /><category term="weight" /><category term="fat" /><category term="recovery" /><category term="health" /><summary type="html"><![CDATA[8 healthy benefits of intermittent fasting in your life and health]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/fasting/healthy.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/fasting/healthy.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Classic Adventure Video Games</title><link href="http://localhost:4000/2022/03/27/adventure-video-games/" rel="alternate" type="text/html" title="Classic Adventure Video Games" /><published>2022-03-27T15:01:13+02:00</published><updated>2022-03-27T15:01:13+02:00</updated><id>http://localhost:4000/2022/03/27/adventure-video-games</id><content type="html" xml:base="http://localhost:4000/2022/03/27/adventure-video-games/"><![CDATA[<h2>
     Introduction
 </h2>
-<p>
+<div class="text-article">
     While everybody is waiting for the most anticipated games in 2022 and it
     seems that it will be one of the best years in history with the likes of
     God of War: <strong>Ragnarok</strong>, <strong>Elden Ring</strong> or <strong>Horizon Forbidden West</strong>, today we are
     discussing some modern classics. Some of them were already released some
     years ago.
-</p>
+</div>
 <p>
     All of them are playable in PS4 and in some cases you can also play in the
     PS5. The good news is that since they were released many years ago, you
