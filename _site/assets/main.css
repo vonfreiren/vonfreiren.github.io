@@ -2492,9 +2492,9 @@ header.masthead { margin-bottom: 50px; background: no-repeat center center; back
 
 header.masthead .overlay { position: absolute; top: 0; left: 0; height: 100%; width: 100%; background-color: #212529; opacity: 0.5; }
 
-header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 60px 0 60px; color: white; }
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 50px 0 50px; color: white; }
 
-@media only screen and (min-width: 768px) { header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 60px 0; } }
+@media only screen and (min-width: 768px) { header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 50px 0; } }
 
 header.masthead .page-heading, header.masthead .site-heading { text-align: center; }
 
