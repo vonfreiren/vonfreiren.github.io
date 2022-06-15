@@ -2412,7 +2412,7 @@ p { line-height: 1.7; margin-top: 20px; margin-bottom: 20px; }
 
 p a { text-decoration: underline; }
 
-.text-article { color: #000; }
+.text-article { color: #000; margin-top: 20px; margin-bottom: 20px; }
 
 .text-article:first-letter { float: left; font-weight: bold; font-size: 70px; font-size: 7rem; line-height: 50px; line-height: 5rem; height: 5rem; text-transform: uppercase; padding-right: 10px; }
 
