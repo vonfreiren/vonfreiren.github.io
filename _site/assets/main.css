@@ -2416,13 +2416,13 @@ p a { text-decoration: underline; }
 
 .text-article:first-letter { float: left; font-weight: bold; font-size: 70px; font-size: 7rem; line-height: 50px; line-height: 5rem; height: 5rem; text-transform: uppercase; padding-right: 10px; }
 
-h1 { font-weight: 800; font-size: 28px; }
+h1 { font-weight: 800; font-size: 28px; text-align: center; }
 
-h2 { font-weight: 800; font-size: 24px; }
+h2 { font-weight: 800; font-size: 24px; text-align: center; }
 
-h3 { font-weight: 800; font-size: 22px; }
+h3 { font-weight: 800; font-size: 22px; text-align: center; }
 
-h4 { font-weight: 800; font-size: 20px; }
+h4 { font-weight: 800; font-size: 20px; text-align: center; }
 
 h5 { font-weight: 800; font-size: 18px; }
 
@@ -2492,9 +2492,9 @@ header.masthead { margin-bottom: 50px; background: no-repeat center center; back
 
 header.masthead .overlay { position: absolute; top: 0; left: 0; height: 100%; width: 100%; background-color: #212529; opacity: 0.5; }
 
-header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 70px 0 70px; color: white; }
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 60px 0 60px; color: white; }
 
-@media only screen and (min-width: 768px) { header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 70px 0; } }
+@media only screen and (min-width: 768px) { header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading { padding: 60px 0; } }
 
 header.masthead .page-heading, header.masthead .site-heading { text-align: center; }
 
