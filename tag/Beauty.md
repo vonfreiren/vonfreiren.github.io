@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: Finance"
-tag: Finance
+title: "Tag: Beauty"
+tag: Beauty
 robots: noindex
 ---
