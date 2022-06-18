@@ -14,6 +14,16 @@ p {
     }
 }
 
+.big {
+    line-height: 0.5;
+    margin-top: 50px;
+    margin-bottom : 50px;
+
+    a {
+        text-decoration: underline;
+    }
+}
+
 .text-article {
     color: #000;
     margin-top: 20px;

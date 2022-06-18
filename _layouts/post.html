@@ -13,16 +13,16 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
-            <h1>{{ page.title }}</h1>
+            <h1 class ="subheading"> {{ page.title }} </h1>
             {% if page.subtitle %}
-            <h2 class="subheading">{{ page.subtitle }}</h2>
+            <h3> {{ page.subtitle }}</h3>
             {% endif %}
-            <small class="post-preview">{{ post.content | strip_html | truncatewords: 150 }}</small>
-            <span class="meta">Posted by
+            <h3 class="font-italic"> {{ post.content | strip_html | truncatewords: 150 }}</h3>
+            <h4 class="font-italic align-self-center" Posted by>
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
               on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
               content=page.content %}
-            </span>
+            </h4>
           </div>
         </div>
       </div>

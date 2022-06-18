@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-16T20:28:37+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Blockchain Layers Explained</title><link href="http://localhost:4000/2022/06/03/blockchain_layers_explained/" rel="alternate" type="text/html" title="Blockchain Layers Explained" /><published>2022-06-03T14:01:13+02:00</published><updated>2022-06-03T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/03/blockchain_layers_explained</id><content type="html" xml:base="http://localhost:4000/2022/06/03/blockchain_layers_explained/"><![CDATA[<h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-18T14:06:43+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">Blockchain Layers Explained</title><link href="http://localhost:4000/2022/06/03/blockchain_layers_explained/" rel="alternate" type="text/html" title="Blockchain Layers Explained" /><published>2022-06-03T14:01:13+02:00</published><updated>2022-06-03T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/03/blockchain_layers_explained</id><content type="html" xml:base="http://localhost:4000/2022/06/03/blockchain_layers_explained/"><![CDATA[<h2>
     Introduction
 </h2>
 <div class="text-article">
@@ -778,6 +778,9 @@ In order to understand the last layer, these are some examples of complete diffe
     still working with Web 2.0 and there may be still years to come until we
     see the full capabilities of Web3.
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
 <h2>
     History of the Internet
 </h2>
@@ -798,7 +801,7 @@ In order to understand the last layer, these are some examples of complete diffe
     Web 2.0
 </h3>
 <p>
-    Next, we have Web2.0. This one was around social networks.
+    Next, we have Web2.0. This one was around social networks. This is the term you have been hearing in the last years with the boom of Facebook, Twitter and other companies.
 </p>
 <p>
     As more people began to use the Internet, the potential it had was
@@ -860,6 +863,9 @@ In order to understand the last layer, these are some examples of complete diffe
 <p>
     <img class="img-fluid" src="/img/posts/web3/web3_2.webp" alt="Tokens">
     <span class="caption text-muted">Users and content creators will gain power via tokenization and rewards in Web3</span>
+</p>
+<p class="big">
+<hr class="bigHr">
 </p>
 <h2>
     Characteristics of Web3
@@ -959,9 +965,6 @@ In order to understand the last layer, these are some examples of complete diffe
     era of companies like Facebook, Google, Apple, Amazon, creating silo,
     centralized services dependent on these corporations.
 </p>
-<p>
-    <strong> </strong>
-</p>
 <h2>
     The role of corporations
 </h2>
@@ -1004,8 +1007,11 @@ In order to understand the last layer, these are some examples of complete diffe
 <p>
     <strong> </strong>
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
 <h2>
-    Conclusion
+    What's next?
 </h2>
 <p>
     <strong>To sump up, in Web</strong>
