@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: markets"
-tag: markets
+title: "Tag: semantic"
+tag: semantic
 robots: noindex
 ---

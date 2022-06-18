@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: thailand"
-tag: thailand
+title: "Tag: cannabis"
+tag: cannabis
 robots: noindex
 ---

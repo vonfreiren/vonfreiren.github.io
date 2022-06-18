@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: china"
-tag: china
+title: "Tag: internet"
+tag: internet
 robots: noindex
 ---

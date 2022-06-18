@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: funds"
-tag: funds
+title: "Tag: dao"
+tag: dao
 robots: noindex
 ---

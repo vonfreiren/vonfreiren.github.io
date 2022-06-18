@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: emerging"
-tag: emerging
+title: "Tag: web3"
+tag: web3
 robots: noindex
 ---
