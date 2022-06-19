@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-18T20:30:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">How to Handle Stress</title><link href="http://localhost:4000/2022/06/18/how_to_handle_stress/" rel="alternate" type="text/html" title="How to Handle Stress" /><published>2022-06-18T14:01:13+02:00</published><updated>2022-06-18T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/18/how_to_handle_stress</id><content type="html" xml:base="http://localhost:4000/2022/06/18/how_to_handle_stress/"><![CDATA[<h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-19T17:33:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html">How to Handle Stress</title><link href="http://localhost:4000/2022/06/18/how_to_handle_stress/" rel="alternate" type="text/html" title="How to Handle Stress" /><published>2022-06-18T14:01:13+02:00</published><updated>2022-06-18T14:01:13+02:00</updated><id>http://localhost:4000/2022/06/18/how_to_handle_stress</id><content type="html" xml:base="http://localhost:4000/2022/06/18/how_to_handle_stress/"><![CDATA[<h2>
     Introduction
 </h2>
 <div class="text-article">
@@ -303,6 +303,9 @@
     and roles. They start with Layer 0 and the last one is Layer 3. In order to
     see the different features, it’s better to see this with some examples.
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
 <h2>
     Layer 0
 </h2>
@@ -337,17 +340,21 @@
             <h5>L0 Example</h5>
             <h5>PolkaDot: Web3.0 Interoperability</h5>
             <small> The most famous example is probably PolkaDot. The goal of the protocol is
-                like the one of a bridge between different L1 blockchains. It allows cross-blockchain transfers of any sort of data or asset, not just
-                tokens. Connecting to Polkadot offers users  the potential to interoperate
+                like the one of a bridge between different L1 blockchains. It allows cross-blockchain transfers of any
+                sort of data or asset, not just
+                tokens. Connecting to Polkadot offers users the potential to interoperate
                 with a wide form of blockchains in the Polkadot network.<br>
-            <a href="https://polkadot.network/">
-                Additional information
-            </a>
+                <a href="https://polkadot.network/">
+                    Additional information
+                </a>
             </small>
             </p>
         </div>
     </div>
 </div>
+</p>
+<p class="big">
+<hr class="bigHr">
 </p>
 <h2>
     Layer 1
@@ -371,7 +378,7 @@
     also see different limitations such as scaling.
 </p>
 <p>
-    <img class="mx-auto d-block" src="/img/posts/blockchain_layers/algorand.png"  alt="Sustainable and scalable">
+    <img class="mx-auto d-block" src="/img/posts/blockchain_layers/algorand.png" alt="Sustainable and scalable">
     <span class="caption text-muted">Algorand is probably one of the most sustainable blockchain due to the technology and consensus mechanism</span>
 </p>
 <p>
@@ -414,14 +421,17 @@
                 in the Algorand Network is quite different. In this case, a group of
                 validators is selected randomly each time, without needing to have the
                 majority. Algorand is also known as the Green Blockchain.<br>
-            <a href="https://www.algorand.com/">
-                Additional information
-            </a>
+                <a href="https://www.algorand.com/">
+                    Additional information
+                </a>
             </small>
             </p>
         </div>
     </div>
 </div>
+</p>
+<p class="big">
+<hr class="bigHr">
 </p>
 <h2>
     Layer 2
@@ -483,14 +493,17 @@
             <small>For the most famous chain, the Lightning Network is a L2 payment protocol layered on top
                 of Bitcoin. It permits fast transactions among participating nodes and has
                 been proposed as an approach to the bitcoin scalability trouble.<br>
-            <a href="https://lightning.network/">
-                Additional information
-            </a>
+                <a href="https://lightning.network/">
+                    Additional information
+                </a>
             </small>
             </p>
         </div>
     </div>
 </div>
+</p>
+<p class="big">
+<hr class="bigHr">
 </p>
 <h2>
     Layer 3
@@ -524,11 +537,12 @@
     Examples of dApps
 </h3>
 <p>
-In order to understand the last layer, these are some examples of complete different applications accessible to users.
+    In order to understand the last layer, these are some examples of complete different applications accessible to
+    users.
 </p>
 </p>
 <h4>
-    Uniswap (v2 and v3)
+    1. Uniswap (v2 and v3)
 </h4>
 <p>
     <a href="https://uniswap.org/">
@@ -538,31 +552,33 @@ In order to understand the last layer, these are some examples of complete diffe
     provide trading liquidity.
 </p>
 <h4>
-    OpenSea
+    2. OpenSea
 </h4>
 <p>
     <a href="https://opensea.io/">
         OpenSea</a> is the world’s largest Non-Fungible Token marketplace which is
-    based on Ethereum ERC-721.
+    based on Ethereum ERC-721. In this platform all users can buy, sell, or exchange different items, such as collectibles, gaming articles and other type of goods.
 </p>
 <p>
     <img class="img-fluid" src="/img/posts/blockchain_layers/opensea.jpg" alt="An art and collectible game-changer">
     <span class="caption text-muted">OpenSea allows users to buy, sell, and discover exclusive digital items.</span>
 </p>
 <h4>
-    Orca
+    3. Orca
 </h4>
 <p>
     <a href="https://www.orca.so/">
         Orca</a> is the first user-friendly cryptocurrency exchange built on Solana. It
-    offers minimal fees and latency compared to Ethereum.
+    offers minimal fees and latency compared to Ethereum. There, users can exchange tokens with minimal transaction fees
+    and lower latency than any decentralized exchange on Ethereum. Apart from that, users
+    can provide liquidity to a trading pool to earn a share of trading fees.
 </p>
 <h4>
-    PancakeSwap
+    4. PancakeSwap
 </h4>
 <p>
     <a href="https://pancakeswap.finance/">
-       PancakeSwap</a> an be seen as an alternative to UniSwap.
+        PancakeSwap</a> an be seen as an alternative to UniSwap.
     As this one, is a decentralized exchange, which allows for
     trading cryptocurrencies and tokens without an intermediary, and runs on
     Binance Smart Chain. It is built on an automated market maker system, which
@@ -597,6 +613,9 @@ In order to understand the last layer, these are some examples of complete diffe
     use of smart contracts and dApps has been made possible by the Ethereum
     platform, which has brought the creation of DAOs closer to the general
     public and shaped their current look.
+</p>
+<p class="big">
+<hr class="bigHr">
 </p>
 <h2>
     How it works
@@ -665,6 +684,9 @@ In order to understand the last layer, these are some examples of complete diffe
     <img class="img-fluid" src="/img/posts/dao/dao_types.jpg" alt="Diversity of DAOs">
     <span class="caption text-muted">There are diverse DAO categories and more and more DAOs created in those</span>
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
 <h2>
     How to invest
 </h2>
@@ -710,6 +732,9 @@ In order to understand the last layer, these are some examples of complete diffe
     anyone, the DAOs are completely transparent. Everyone who participates
     helps decide how to spend the funds and can track how those funds are
     spent.
+</p>
+<p class="big">
+<hr class="bigHr">
 </p>
 <h2>
      Examples
@@ -995,7 +1020,9 @@ In order to understand the last layer, these are some examples of complete diffe
     </div>
 </div>
 </p>
-
+<p class="big">
+<hr class="bigHr">
+</p>
 <h2>
     Conclusion
 </h2>
@@ -1350,6 +1377,9 @@ In order to understand the last layer, these are some examples of complete diffe
     considerable impact in the years to come, and for that reason it may be
     worth to have some of our portfolio destined to any of these sectors.
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
 <h2>
     1. Videogames
 </h2>
@@ -1603,6 +1633,9 @@ In order to understand the last layer, these are some examples of complete diffe
     </div>
 </div>
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
 
     <h2>
         Conclusion
@@ -1696,9 +1729,12 @@ Achieving Economic Independence</a>
     that facilitate the deployment of decentralized applications and all the
     infrastructure necessary for their operation.
 </p>
-<h3>
+<p class="big">
+<hr class="bigHr">
+</p>
+<h2>
     How does Algorand work?
-</h3>
+</h2>
 <p>
     As we discussed a moment ago, Algorand is a permissionless blockchain and
     network. This first point is vital to eliminate any type of barrier in the
@@ -1739,9 +1775,12 @@ Achieving Economic Independence</a>
     <img class="img-fluid" src="/img/posts/algorand/gov.jpg" alt="Governance Period 3">
     <span class="caption text-muted">The main dates for the third Governance period are included above</span>
 </p>
-<h3>
+<p class="big">
+<hr class="bigHr">
+</p>
+<h2>
     Algorand Governance
-</h3>
+</h2>
 <p>
     Before introducing the Governance period, we have described how Algorand
     works and the different benefits. Furthermore, the purpose of the
@@ -1779,6 +1818,10 @@ Achieving Economic Independence</a>
     </li>
 </ul>
 </p>
+<p class="big">
+<hr class="bigHr">
+</p>
+
 <h3>
     Conclusion
 </h3>

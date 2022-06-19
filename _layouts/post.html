@@ -16,17 +16,17 @@ layout: default
                     <div class="post-heading">
                         <h1 class="subheading"> {{ page.title }} </h1>
                         {% if page.subtitle %}
-                        <h3> {{ page.subtitle }}</h3>
+                        <h4> {{ page.subtitle }}</h4>
                         {% endif %}
                         <h3 class="font-italic"> {{ post.content | strip_html | truncatewords: 150 }}</h3>
-                        <h4 class="font-italic align-self-center" Posted by>
-                            <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
+                        <p  class="font-italic align-content-center" style="text-align: center" Posted by>
+                            {% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}
                             on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
                             content=page.content %}
-                        </h4>
-                        <h4><span>
+                        </p>
+                        <h4>
   {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}</span>
+    {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
 </h4>
