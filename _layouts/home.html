@@ -7,6 +7,7 @@ layout: default
 <header class="masthead"
         style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
         xmlns="http://www.w3.org/1999/html">
+
   {% else %}
   <header class="masthead">
     {% endif %}
@@ -36,12 +37,17 @@ layout: default
             <div class="row text-center mb-5">
               <div class="col">
                 <span class="h1 d-block font-weight-bold">Javier Freire's Posts</span>
+                <a class="btn btn-sm float-right" href="{{"/posts_spanish" | relative_url }}">Artículos en Español &rarr;</a>
               </div>
             </div>
+
             <div class="row">
+
 
         <!-- Home Post List -->
         {% for post in site.posts limit : 36 %}
+              {% if post.lang == 'en' %}
+
               <div class="col-12 col-md-6 col-lg-4 d-flex">
                 <div class="card border shadow">
         <article class="post-preview">
@@ -58,7 +64,7 @@ layout: default
                   {% else %}
             <h7 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h7>
             {% endif %}
-            <h7  class="post-title">{{ post.date | date: '%B %d, %Y' }} </h7>
+            <h7  class="post-title"> Posted on {{ post.date | date: '%B %d, %Y' }} </h7>
           </div>
           </a>
 <!--            <div class="card-body py-3">
@@ -86,7 +92,7 @@ layout: default
                   </article>
                 </div>
                 </div>
-
+              {% endif %}
         {% endfor %}
             </div>
           </div>
