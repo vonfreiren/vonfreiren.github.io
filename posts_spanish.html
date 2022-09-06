@@ -66,8 +66,10 @@ background: '/img/bg-spain.jpg'
                       {% else %}
                       <h7 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h7>
                       {% endif %}
-                      <h7  class="post-title">{{ post.date | date: '%B %d, %Y' }} </h7>
-                    </div>
+                    <span style="height: 100px;"/>
+                    <br>
+                    <small class="post-title"> {{ post.date | date: '%B %d, %Y' }} </small>
+                  </div>
                   </a>
                   <!--            <div class="card-body py-3">
                               <p class="post-meta"> <small>Posted by

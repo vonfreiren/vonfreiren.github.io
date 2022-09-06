@@ -44,3 +44,13 @@ defaults:
 tag_permalink_style: pretty
 
 permalink: pretty
+
+
+en:
+  label: English
+  icon: 🇬🇧
+  read_it_in: "Read it in"
+es:
+  label: Español
+  icon: 🇪🇸
+  read_it_in: "Léelo en"
