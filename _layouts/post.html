@@ -20,17 +20,19 @@ layout: default
                         {% endif %}
                         <h3 class="font-italic"> {{ post.content | strip_html | truncatewords: 150 }}</h3>
                         <br>
-                        <small  class="font-italic align-content-center" style="text-align: center" Posted by>
+                        <small class="font-italic align-content-center" style="text-align: center" Posted by>
                             {% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}
                             on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
                             content=page.content %}
                         </small>
                         <h4>
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-</h4>
+                            {% for tag in page.tags %}
+                            {% capture tag_name %}{{ tag }}{% endcapture %}
+                            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
+                                <nobr>{{ tag_name }}</nobr>
+                            </code>&nbsp;</a>
+                            {% endfor %}
+                        </h4>
                     </div>
                 </div>
             </div>
