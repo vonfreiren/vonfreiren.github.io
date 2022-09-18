@@ -1,4 +1,265 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-16T22:44:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="enn"><title type="html">10 Benefits of HIIT</title><link href="http://localhost:4000/2022/09/11/benefits_10_hiit/" rel="alternate" type="text/html" title="10 Benefits of HIIT" /><published>2022-09-11T04:01:13+02:00</published><updated>2022-09-11T04:01:13+02:00</updated><id>http://localhost:4000/2022/09/11/benefits_10_hiit</id><content type="html" xml:base="http://localhost:4000/2022/09/11/benefits_10_hiit/"><![CDATA[<h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-19T00:01:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">The Ethereum Merge Explained</title><link href="http://localhost:4000/the-ethereum-merge-explained/" rel="alternate" type="text/html" title="The Ethereum Merge Explained" /><published>2022-09-18T14:01:13+02:00</published><updated>2022-09-18T14:01:13+02:00</updated><id>http://localhost:4000/the-ethereum-merge-explained</id><content type="html" xml:base="http://localhost:4000/the-ethereum-merge-explained/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<div class="text-article">
+In the last weeks we have seen a lot of excitement coming from different places in regards to  what’s called the event of the year in crypto world. I’m
+referring to Ethereum and what is not a gamechanger just for Ethereum itself for the whole crypto industry as as result of the big changes that this fork carries.
+</div>
+
+<p>The Ethereum Merge has been one of the most ambitious and awaited changes in the network. Long-awaited because there
+first plans about this software upgrade data back to 2014, and the upgrade occurred on 15 September 2022, almost 10
+years later. The fork also opens new opportunities for the usage of blockchain in different components and standards,
+due to the problems and inefficiency that the new consensus mechanism brings.</p>
+
+<p>Furthermore, although Ethereum is the already network with more utilities and business cases, this can boost the
+commerciality of this network and push it to thew next level with the entry of new players.</p>
+
+<p>Besides, this event can be the one that turn the tables in order to recover the lost trust and see that there are
+different projects trying to enhance the utilities of the different chains</p>
+
+<p>Nonetheless, even if some sources said that this Merge will fix some of the known issues in the Ethereum network, they
+don’t have any impact on them. We will need to see additional upgrades in order to see if these topics are modified.</p>
+
+<p>This is basically the points that this network upgrade entails and what, in order to avoid misunderstandings, problems
+that are not tackled with this modification in this software change.</p>
+
+<h2 id="what-are-the-main-changes">What are the main changes?</h2>
+
+<h3 id="1-energy">1. Energy</h3>
+
+<p>Switching from the Proof of Work to Proof Stake protocols means that the energy consumption will decline approximated by
+99%.</p>
+
+<p>Energy waste and efficiency has been one of the topics that some crypto detractors such as regulators have included as
+one of the disadvantages of the growth of blockchain.</p>
+
+<p>Several have criticized some of the PoW blockchains such as Bitcoin or Ethereum because of the negative environmental
+impact they had and the excessive usage of energy to validate the transactions in the network.</p>
+
+<p>Some of the most known - and controversial - usages of Ethereum is the minting of NFTs using ERC-721. This change will
+have a much better impact on the volatile market of the NFTs because of the drop of the energy usage to mint them,
+enabling the growth of this business.</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/ethereum/sustainable.jpeg" alt="Thinking about the future" />
+    <span class="caption text-muted">Regardless of the other technical details, it is a great milestone to reduce the energy usage on around 99% thanks to the Merge
+</span>
+</p>
+
+<h3 id="2-more-democratic-rewards">2. More democratic rewards</h3>
+
+<p>Apart from the change in the energy efficiency, the switch to Proof of Work also means that via this mechanism, the
+staking rewards for validating and securing the network that were reserved for those with powerful computers is over.</p>
+
+<p>Please note you will need at least 32 ETH (around 48,000 USD at the time of writing) plus the computer to perform
+staking on your own. However, there are more used options such as liquidity staking, using ERC-20, where you may
+allocate part of your ETH tokens to a pool (in order to reach the minimum of 32 ETH).</p>
+
+<p>In case you are not happy with none of these options, despite not being that popular, another possibility in order to
+receive staking rewards for your share are staking them via a centralized exchange.</p>
+
+<p>As with all these cases, please do your own research before delegating your tokens.</p>
+
+<h3 id="3-price-and-value">3. Price and value</h3>
+
+<p>Price and value must not be understood in the wrong way. This is also not a good or bad thing coming from the Merge.</p>
+
+<p>Although the Merge has been waited for years, the truth is that Ether has lost around 60% of its market value during 2022.
+However, if we use the CMC 200 index as reference, the price drop is also aligned with the drop in the CMC 200
+index.</p>
+
+<p>On the other hand, for instance, it had an increase of 100%, when the prices went in August from 1,000 USD to 2,000 USD.</p>
+
+<p>As discussed in other topics, there has not been a drastic change – upwards or downwards- in Ethereum’s price on the
+date the fork was completed. As with other assets, the price is already discounted when these big events occur. As you
+may have noticed, there were a surge on the price in the months prior to the Merge.</p>
+
+<p>In the future, Ethereum will be transition to a deflationary asset. Before the Merge and with the PoW, 13,000 new Ether
+tokens were issued on a daily basis. The change changes this and from 13,000 we will see around 1,600 Ether tokens per
+day.</p>
+
+<p>The less tokens there are, the higher the price should be for Ether tokens, being an alternative deflationary asset.</p>
+
+<h2 id="aspects-that-remain-unchanged">Aspects that remain unchanged</h2>
+
+<p>Probably some of the most common topics when it comes to Ethereum are fees. The bad news is that the logic for these remains unchanged.
+These are other problems that Ethereum Merge does not solve or haven’t been modified with the Merge.</p>
+
+<h3 id="1-fees">1. Fees</h3>
+
+<p>“The fork will definitely make the gas fees cheaper.” This is wrong and the changes that occurred in the network did not
+have any consequences on the fees that must be paid on each blockchain transaction to reward the validators of the
+transactions occurring in the chain. The last change in the network that affected how the Wei that must be paid per
+transaction was the London Upgrade in 2021.</p>
+
+<h3 id="2-speed">2. Speed</h3>
+
+<p>Related to the blockchain dilemma, the Merge does not make the speed faster neither increases that number of
+transactions that can be processed per minute. There may be a slight improvement in the speed, but it will be
+unnoticeable for users. For the speed changes, we will have to wait in case this modification arrives one day.</p>
+
+<h2 id="key-takeaways">Key takeaways</h2>
+
+<p>There has been a lot of hype because of this Merge milestone, and it has been waited for some time now. Due to all the
+news surrounding this topic for the last year, these are the main facts that we can say in order to conclude and see how
+this topic evolves.</p>
+
+<h3 id="environmental-impact">Environmental impact</h3>
+
+<p>This is definitely the biggest changes and main advantage of the software upgrade. Not just related to the current energy crisis, this is a huge step in order to protect our
+planet with a more sensible and responsible usage of electricity. This can be a key milestone for a reaching
+sustainability in the crypto industry (although for example there are no plans for example for Bitcoin and switching
+from PoW to PoS in this case) because of the new possibilities on the different networks and standards that enables.</p>
+
+<h3 id="staking-for-all-users">Staking for all users</h3>
+
+<p>While validating and securing the network was an action reserved for those with more computing power, hence the rewards
+were just for them, the change to PoS means that all of us can take part securing the transactions and getting rewarded
+for the Ether tokens we use to achieve that.</p>
+
+<h3 id="commercial-impact">Commercial impact</h3>
+
+<p>Having reduced the energy usage and improving the energy efficiency has also opened new ideas to Ethereum, which already had many apps
+around this ecosystem. Furthermore, this is not just important to Ethereum, but other chains, and it also means that the
+evolution of the different blockchains will lead to a better experience for the users and more business ideas that some
+years ago were unthinkable because of sustainable issues.</p>
+
+<hr />
+
+<p>Having explained the most important changes and having also denied things that the Merge does not change, it’s true that some of these changes can boost Ethereum and the crypto sector. 
+At the same time, it cannot be denied that some users have been disappointed because they were expecting much more. Time will tell.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The changes that the Ethereum Merge, including the impact they create and what aspects are not modified with this fork in the network]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/ether.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/ether.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">El Ethereum Merge Explicado</title><link href="http://localhost:4000/el-ethereum-merge-explicado/" rel="alternate" type="text/html" title="El Ethereum Merge Explicado" /><published>2022-09-18T14:01:13+02:00</published><updated>2022-09-18T14:01:13+02:00</updated><id>http://localhost:4000/el-ethereum-merge-explicado</id><content type="html" xml:base="http://localhost:4000/el-ethereum-merge-explicado/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<div class="text-article">
+En las últimas semanas hemos visto mucho entusiasmo proveniente de diferentes lugares con respecto a lo que se llama el evento del año en el mundo crypto. 
+Me refiero a Ethereum y lo que no es un cambio de juego solo para Ethereum en sí mismo para toda la industria crypto como resultado de los grandes cambios que conlleva esta bifurcación.
+</div>
+
+<p>El Ethereum Merge ha sido uno de los cambios más ambiciosos y esperados en la red. Muy esperado porque los primeros
+planes sobre los datos de actualización de este software se remontan a 2014, y la actualización se produjo el 15 de
+septiembre de 2022, casi 10 años después. El fork también abre nuevas oportunidades para el uso de blockchain en
+diferentes componentes y estándares, debido a los problemas y la ineficiencia que trae consigo el nuevo mecanismo de
+consenso.</p>
+
+<p>Además, aunque Ethereum ya es la red con más utilidades y casos de negocios, esto puede impulsar la comercialidad de
+esta red y llevarla al siguiente nivel con la entrada de nuevos jugadores.</p>
+
+<p>Sin ir más lejos, este evento puede ser también el que cambie las tornas para recuperar la confianza perdida y ver que hay
+diferentes proyectos intentando potenciar las utilidades de las distintas cadenas.</p>
+
+<p>No obstante, incluso si algunas fuentes dijeron que esta fusión solucionará algunos de los problemas conocidos en la red
+Ethereum, no tienen ningún impacto en ellos. Tendremos que ver actualizaciones adicionales para ver si estos temas se
+modifican.</p>
+
+<p>Estos son básicamente los puntos que conlleva esta actualización de red y cuáles, para evitar malentendidos, problemas
+que no se abordan con esta modificación en este cambio de software.</p>
+
+<h2 id="cuáles-son-los-principales-cambios">¿Cuáles son los principales cambios?</h2>
+
+<h3 id="1-energía">1. Energía</h3>
+
+<p>Cambiar de los protocolos de Proof of Work a Proof of Stake significa que el consumo de energía se reducirá
+aproximadamente en un 99 %.</p>
+
+<p>El derroche y la eficiencia energética ha sido uno de los temas que algunos criptodetractores como los reguladores han
+incluido como una de las desventajas del crecimiento de blockchain.</p>
+
+<p>Varios han criticado algunas de las cadenas de bloques PoW como Bitcoin o Ethereum por el impacto ambiental negativo que
+tenían y el uso excesivo de energía para validar las transacciones en la red.</p>
+
+<p>Algunos de los usos más conocidos y controvertidos de Ethereum son la acuñación de NFT utilizando ERC-721. Este cambio
+tendrá un impacto mucho mayor en el mercado volátil de los NFT debido a la caída del uso de energía para acuñarlos, lo
+que permitirá el crecimiento de este negocio.</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/ethereum/sustainable.jpeg" alt="Thinking about the future" />
+    <span class="caption text-muted">Independientemente de los otros detalles técnicos, es un gran hito reducir el uso de energía en alrededor del 99 % gracias a Merge.
+</span>
+</p>
+
+<h3 id="2-recompensas-más-democráticas">2. Recompensas más democráticas</h3>
+
+<p>Además del cambio en la eficiencia energética, el cambio a la Proof of Stake también significa que, a través de este
+mecanismo, se terminaron las recompensas por validar y asegurar la red que estaban reservadas para aquellos con
+computadoras potentes.</p>
+
+<p>Hay que tener en cuenta que se necesita al menos 32 ETH (alrededor de 48 000 USD al momento de escribir este artículo) más la
+computadora para realizar el staking por su cuenta. Sin embargo, existen opciones más utilizadas, como el liquidity staking,
+utilizando ERC-20, donde puede asignar parte de sus tokens ETH a un grupo (para alcanzar el mínimo de 32 ETH).</p>
+
+<p>En caso de que no esté satisfecho con ninguna de estas opciones, a pesar de no ser tan popular, otra posibilidad para
+recibir recompensas de apuesta por su parte es apostarlas a través de un intercambio centralizado.</p>
+
+<p>Al igual que con todos estos casos, investiga por tu cuenta antes de delegar tus tokens.</p>
+
+<h3 id="3-precio-y-valor">3. Precio y valor</h3>
+
+<p>El orecio y valor de  un activo no deben entenderse de forma equivocada. Esto tampoco es algo bueno o malo proveniente del Merge</p>
+
+<p>Aunque el Merge se ha esperado durante años, lo cierto es que Ether ha perdido alrededor del 60% de su valor de mercado
+durante 2022. Sin embargo, si tomamos como referencia el índice CMC 200, la caída del precio también está alineada con
+la caída de este.</p>
+
+<p>En cambio, por ejemplo, Ethereum tuvo un incremento del 100%, cuando los precios en agosto pasaron de 1.000 USD a 2.000 USD.</p>
+
+<p>Como se discutió en otros temas, no ha habido un cambio drástico, al alza o a la baja, en el precio de Ethereum en la
+fecha en que se completó la bifurcación. Al igual que con otros activos, el precio ya está descontado cuando ocurren
+estos grandes eventos. Como habrás notado, hubo un aumento en el precio en los meses previos a la Fusión.</p>
+
+<p>En el futuro, Ethereum pasará a ser un activo deflacionario. Antes de la fusión y con el PoW, se emitían diariamente 13
+000 nuevos tokens de Ether. El cambio cambia esto y de 13.000 veremos alrededor de 1.600 tokens de Ether por día.</p>
+
+<p>Cuantos menos tokens haya, mayor debería ser el precio de los tokens Ether, siendo un activo deflacionario alternativo.</p>
+
+<h2 id="aspects-that-remain-unchanged">Aspects that remain unchanged</h2>
+
+<p>Probablemente, algunos de los temas más comunes cuando se trata de Ethereum son las tarifas. La mala noticia es que la
+lógica de estos permanece sin cambios. Estos son otros problemas que Ethereum Merge no resuelve o no se han modificado
+con Merge.</p>
+
+<h3 id="1-tarifas">1. Tarifas</h3>
+
+<p>“La bifurcación definitivamente hará que las tarifas del gas sean más baratas”. Esto es erróneo y los cambios que
+ocurrieron en la red no tuvieron ninguna consecuencia en las tarifas que se deben pagar en cada transacción de
+blockchain para recompensar a los validadores de las transacciones que ocurren en la cadena. El último cambio en la red
+que afectó cómo se debe pagar el Wei por transacción fue el London Upgrade en 2021.</p>
+
+<h3 id="2-velocidad">2. Velocidad</h3>
+
+<p>Relacionado con el dilema de blockchain, el Merge no aumenta la velocidad ni aumenta la cantidad de transacciones que se
+pueden procesar por minuto. Puede haber una ligera mejora en la velocidad, pero será imperceptible para los usuarios.
+Para los cambios de velocidad habrá que esperar por si algún día llega esta modificación.</p>
+
+<h2 id="conclusiones-clave">Conclusiones clave</h2>
+
+<p>Ha habido mucha expectación debido a este hito del Merge, y se ha esperado durante algún tiempo. Debido a todas las
+noticias en torno a este tema durante el último año, estos son los principales datos que podemos decir para concluir y
+ver cómo evoluciona este tema.</p>
+
+<h3 id="impacto-medioambiental">Impacto medioambiental</h3>
+
+<p>Este es definitivamente el mayor cambio y la principal ventaja de la actualización del software. No solo relacionado con
+la crisis energética actual, este es un gran paso para proteger nuestro planeta con un uso más sensato y responsable de
+la electricidad. Esto puede ser un hito clave para alcanzar la sostenibilidad en la industria crypto (aunque, por
+ejemplo, no hay planes, por ejemplo, para Bitcoin y cambiar de PoW a PoS en este caso) debido a las nuevas posibilidades
+en las diferentes redes y estándares que permite.</p>
+
+<h3 id="staking-para-todos">Staking para todos</h3>
+
+<p>Si bien validar y asegurar la red era una acción reservada para aquellos con más poder de cómputo, por lo que las
+recompensas eran solo para ellos, el cambio a PoS significa que todos podemos participar asegurando las transacciones y
+siendo recompensados ​​por los tokens de Ether que usamos para lograr eso</p>
+
+<h3 id="impacto-comercial">Impacto comercial</h3>
+
+<p>Haber reducido el uso de energía y mejorar la eficiencia energética también ha abierto nuevas ideas para Ethereum, que
+ya tenía muchas aplicaciones en este ecosistema. Además, esto no solo es importante para Ethereum, sino para otras
+cadenas, y también significa que la evolución de las diferentes cadenas de bloques conducirá a una mejor experiencia
+para los usuarios y a más ideas de negocios que hace algunos años eran impensables por cuestiones de sostenibilidad.</p>
+
+<hr />
+
+<p>Habiendo explicado los cambios más importantes y también negado cosas que el Merge no cambia, es cierto que algunos de
+estos cambios pueden impulsar a Ethereum y al sector de las criptomonedas. Al mismo tiempo, no se puede negar que
+algunos usuarios se han decepcionado porque esperaban mucho más. El tiempo dirá.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Los cambios que el Ethereum Merge, incluyendo el impacto que crean y qué aspectos no se modifican con este fork en la red]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/ether.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/ether.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="enn"><title type="html">10 Benefits of HIIT</title><link href="http://localhost:4000/2022/09/11/benefits_10_hiit/" rel="alternate" type="text/html" title="10 Benefits of HIIT" /><published>2022-09-11T04:01:13+02:00</published><updated>2022-09-11T04:01:13+02:00</updated><id>http://localhost:4000/2022/09/11/benefits_10_hiit</id><content type="html" xml:base="http://localhost:4000/2022/09/11/benefits_10_hiit/"><![CDATA[<h2>
     Introduction
 </h2>
 <div class="text-article">
@@ -3025,647 +3286,4 @@
     setting up some alerts where I can see the different prices and the price
     evolution. Remember that time is against you, so the moment you find a good
     deal after having performed the different steps, just go for it.
-</p>]]></content><author><name>Javier Freire</name></author><category term="Lifestyle" /><summary type="html"><![CDATA[The benefits of flying and travelling can be immense. Therefore, why not doing more and see some hacks to make this done?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">Beneficios de viajar y cómo conseguir vuelos baratos</title><link href="http://localhost:4000/beneficios_viajar_conseguir_vuelos_baratos/" rel="alternate" type="text/html" title="Beneficios de viajar y cómo conseguir vuelos baratos" /><published>2022-08-18T04:01:13+02:00</published><updated>2022-08-18T04:01:13+02:00</updated><id>http://localhost:4000/beneficios_viajar_conseguir_vuelos_baratos</id><content type="html" xml:base="http://localhost:4000/beneficios_viajar_conseguir_vuelos_baratos/"><![CDATA[<h2>
-    Introducción
-</h2>
-<div class="text-article">
-    <p>
-        Estamos en esta época de la temporada donde los aeropuertos están repletos y hay un pico de vuelos cuando todos están tomando uno o más vuelos para ir al destino planeado algunas semanas antes. A pesar del precio de la gasolina, las diferentes huelgas y otros inconvenientes, después de dos años de la pandemia de COVID, los niveles de vuelo han vuelto a los niveles de 2019 y las predicciones para los próximos años son bastante optimistas.
-    </p>
-</div>
-
-<p>
-    Esto se puede explicar por los beneficios que trae volar y las limitaciones y restricciones. hemos tenido en los últimos 2 años. La libertad que nos quitaron nos hizo valorar más la posibilidad de tener ahora la posibilidad de elegir a dónde ir.
-</p>
-<p>
-    Relacionado con esto, lo primero que sabemos es que las experiencias son mejores que las posesiones. Con los millennials, hemos visto una priorización cada vez mayor de estas experiencias sobre posesiones como casas o automóviles.
-</p>
-<p>
-    El viaje de nuestros sueños es algo que anhelamos y nuestro objetivo es cómo volar más y cómo encontrar buenas ofertas cuando buscamos estos viajes. Es algo que incluimos en los deseos para el próximo año.
-</p>
-<p>
-    Aunque algunos gobiernos inútiles andan ahora con la idea de reducir el número de vuelos u otras regulaciones sin sentido, ¿a quién le importa lo que digan? Aunque temas como la contaminación o la gestión energética son problemas constantes, quizás deberían ser los primeros en aplicar estas normas y evitar sus habituales viajes inútiles.
-</p>
-<p>
-    Por tanto, ¿por qué no beneficiarse de más y más asequibles viajes durante el año? Para lograr esto, hay algunos pasos que debemos considerar.
-</p>
-<p>
-    No son nada complejos, pero estos son algunos trucos para ayudarte en tu próximo viaje.
-</p>
-<h2>
-    Planificación
-</h2>
-<p>
-    La primera fase es la fase de planificación inicial. No requiere un gran esfuerzo pero dejar todo sin planificar o para última hora generará un estrés innecesario que puede arruinar nuestro viaje. Si se planifica en consecuencia, esto resolverá diferentes situaciones y le permitirá obtener un mejor precio, vuelo y estadía. En este caso, una sugerencia sería comenzar a buscar vuelos algunos meses antes del viaje. Esto asegurará que pueda analizar las diferentes opciones y mitigar los posibles riesgos.
-</p>
-<p>
-    Una de las preguntas más escuchadas es si es mejor pasar 1 mes en un lugar o hacer 3 viajes en diferentes lugares.
-</p>
-<p>
-    Aunque en general prefiero la calidad a la calidad, cuando se trata de viajes es todo lo contrario. Estoy a favor de
-    tener más de uno. Esto se puede lograr seleccionando cuidadosamente opciones asequibles. En mi opinión, elegir 3
-    vuelos de 300 en lugar de 1 de 1000 será una mejor opción.
-</p>
-<p>
-    Sin embargo, esta opinión no se basa en el aspecto del precio, sino también en la diversificación. Por ejemplo, si
-    vas a un destino durante 1 mes y por la razón que sea no te gusta, hace muy mal tiempo, etc. se arruina el único
-    viaje del año. Con más opciones, diversificas más y si viajas 3 o 4 veces al año, no es probable que todas sean una
-    mala elección.
-</p>
-<h2>
-    Adaptarse a las opciones
-</h2>
-<p>
-    Si estás buscando un destino exacto y de repente te sale un precio súper barato, puede que te parezca lo mejor del
-    mundo. Sin embargo, este no será siempre el caso.
-</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/cheap_flights/google_flights.jpg" alt="Essential application">
-    <span class="caption text-muted">Como podemos ver en el listado de herramientas, contar con soporte tecnológico adicional es imprescindible para nuestra búsqueda
-</span>
-</p>
-<p>
-    A pesar de que esto puede ser lo que pretendemos lograr, si intenta acertar en medio de la diana, es posible que
-    pase toda la vida esperándolo. La flexibilidad es la moneda que puede utilizar para obtener más viajes con mejores
-    precios.
-</p>
-<p>
-    Es todo lo contrario. El consejo aquí debería ser comenzar a buscar ubicaciones económicas y asequibles. De esa
-    lista, probablemente encontrarás varios destinos que pueden resultarte atractivos.
-</p>
-<p>
-    Puede comenzar seleccionando diferentes rangos de precios dentro de su presupuesto. De todos los destinos, puede
-    seleccionar los que tienen los precios más bajos y desde allí puede comenzar a seleccionar los destinos que pueden
-    encajar más. Incluso si algunos de ellos pueden no ser muy atractivos, esta puede ser una buena oportunidad para
-    descubrir la próxima joya.
-</p>
-<p>
-    Muchas veces es donde vemos que la gente va a los mismos destinos: París, Madrid, Londres, etc. Estos lugares
-    normalmente están masificados y es probable que ya los hayas visitado. ¿Por qué no buscar algo menos convencional?
-</p>
-<p>
-    Como se dijo antes, ser flexible es el atributo que abrirá más puertas y obtendrá mejores ofertas. En primer lugar:
-    los vuelos directos pueden ser más caros. En este caso, existen diferentes opciones como diferentes vuelos,
-    compañías, fechas o incluso métodos de transporte alternativos.
-</p>
-<p>
-    Cuando se trata de vuelos cortos, una alternativa podría ser ir en coche/tren/autobús a un aeropuerto cercano. Puede
-    tener la opción de estacionar, quedarse en casa de algún amigo o incluso visitar otra ciudad antes del vuelo.
-</p>
-<p>
-    En algunos países, el tren será bastante barato si se reserva con antelación y, si buscas un vuelo internacional,
-    otra posibilidad sería utilizar 2 compañías e ir primero al punto de conexión. Allí se puede visitar la ciudad
-    (viaje de 1 día). Normalmente, estas ciudades tienen muchos habitantes, y es posible que conozcas a alguien a quien
-    puedas visitar o incluso que te deje pasar la noche.
-</p>
-<p>
-    El truco en estos casos es tener un buen margen entre el primer y segundo vuelo. Si por alguna razón no te queda
-    tiempo para salir del aeropuerto para una visita corta a la ciudad, otro consejo es que te hagas con algunos
-    accesorios que harán tu viaje mucho más fácil:
-</p>
-<p>
-    Cargador de batería, eBook o libro y auriculares. Otro truco es que sin o con mala conexión utilices el portátil
-    para trabajar en el trabajo o proyecto personal. Si no tiene conexión a Internet, las notificaciones constantes no
-    lo molestarán.
-</p>
-<p>
-    En los últimos 21 días, los precios se dispararán. Puede que hayas visto demasiados episodios de Los Simpson (por
-    ejemplo, cuando van a Japón), pero es poco probable que consigas una oferta de última hora. Estos precios son altos
-    porque están más enfocados a los viajeros de negocios que no tienen otra alternativa y ellos (la empresa) pagarán la
-    tarifa del billete.
-</p>
-<h2>
-Algunas herramientas
-</h2>
-<p>
-    Cuando se trata de ayuda adicional, hay cientos de herramientas en Internet que se pueden usar para realizar un
-    seguimiento de las diferentes ofertas. Por ejemplo: Kayak, Skyscanner, Google Trips o tus propias herramientas.
-</p>
-<p>
-    Por ejemplo, en mi caso usando Python y MongoDB, he creado una herramienta que verifica vuelos con múltiples
-    combinaciones de destino y fechas y almacenará la mejor opción (duración y precio) para cada combinación en cada
-    día. Se almacena la opción más barata de cada día y en el momento en que baja el precio te envía una alerta. Jugar
-    con alertas en el servicio que puede usar no es esencial.
-</p>
-<p>
-    Como hablábamos de la flexibilidad, descubrí que Google Vuelos permite incluir muchos aeropuertos de origen y
-    destino en la misma búsqueda. Con esta útil función, puede obtener las mejores ofertas con una sola búsqueda.
-    También puede agregar notificaciones. La desventaja de Google Vuelos es que algunos vuelos pueden no aparecer.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/cheap_flights/mongodb.jpg" alt="Basic but working">
-    <span class="caption text-muted">Esta es la aplicación básica que solo recopila la información del vuelo, como el precio, la duración, el destino y el origen. Una vez que hay una disminución en el precio, envía un correo electrónico para informar sobre el cambio.
-</span>
-</p>
-<p>
-    Otro truco es reservar en aquellas compañías aéreas que ofrecen cancelación gratuita. De esta manera te aseguras que
-    el precio más alto que pagarás en tu búsqueda será el que ya tenías y todo lo que obtengas por debajo de eso es tu
-    ganancia.
-</p>
-<h2>
-    Otros trucos
-</h2>
-<p>
-    Ahorrar en vuelos significa que tu presupuesto se destina a hacer otros viajes, restaurantes. En lugar de ir a un
-    restaurante de 4 estrellas, puede terminar en un hotel de 5 estrellas e ir a restaurantes con estrellas Michelin.
-    Por lo tanto, debes invertir en planificación y flexibilidad porque así puedes gastar el dinero en cosas más
-    importantes.
-</p>
-<p>
-    Aunque te suene extraño con el reciente aumento de los boletos de viaje debido a la inflación, las huelgas y los
-    precios de la gasolina, los precios son cada año más bajos. Esto se debe a la gran competencia en la industria de
-    las aerolíneas. Es un sector regulado con varios años de historia y desde la Segunda Guerra Mundial los precios han
-    ido bajando -después de ajustar el precio considerando las inflaciones-
-</p>
-<p>
-    Entonces, ¿cómo ganan dinero las aerolíneas? Si bien volar era un lujo hace algunos años, afortunadamente ha sido
-    accesible para más y más personas. Las fuentes de ingresos también han cambiado. A diferencia de hace unas décadas,
-    sabemos que los ingresos no provienen principalmente del billete, sino de otros extras como equipaje, asiento, otros
-    productos, paquetes, viajes de empresa, etc.
-</p>
-<p>
-    Otra pregunta que te habrás hecho es en qué día reservar el vuelo. ¿Cómo funciona este algoritmo?
-</p>
-<p>
-    No hay un día ni una hora concreta en la que puedas encontrar el mejor precio. Aunque es posible que haya escuchado
-    diferentes opiniones basadas en diferentes fuentes, no hay un momento específico en el que obtendrá el mejor precio.
-
-</p>
-<p>
-    Sin embargo, una cosa es a considerar. Los lunes y viernes suelen ser los días más caros porque son los días en los
-    que se realizan los viajes de negocios. Las personas subirán al avión a un destino específico y regresarán el
-    viernes. Para viajes cortos, este es también el mejor momento para pasar todo el fin de semana en el extranjero.
-</p>
-<p>
-    Excluyendo estos días, los mejores días son martes, miércoles y sábado. Nuevamente, esto no significa que siempre
-    serán los vuelos más baratos.
-</p>
-<p>
-    Cuando se trata de meses, agosto es tradicionalmente el mes más caro (algunas personas no tienen otra opción para
-    las vacaciones) y Navidad. Por lo tanto, seleccionar las fechas correctas también puede ser un factor relevante.
-</p>
-<p>
-    TABLA DE DíAS
-</p>
-<table border="1" cellspacing="0" cellpadding="0">
-    <tbody>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                <strong>Factor</strong>
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                <strong>Probabilidad de vuelos caros</strong>
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                <strong>Probabilidad de vuelos asequibles</strong>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Día de la semana
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Lunes, Viernes</p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Martes, Miércoles, Sábado
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Duración
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Menos de 7 días
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Más de 7 días
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Temporada
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-               Verano, Navidad, Semana Santa
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Otros períodos de tiempo
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Reserva
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                21 días o menos antes de la salida
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Meses antes de la salida
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Vuelos solo de ida
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Sí
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                No
-            </p>
-        </td>
-    </tr>
-    </tbody>
-</table>
-<p>
-    Las reglas anteriores son bastante generales y no hay una regla escrita. Puede ser que un día un billete de avión de
-    Net York a Ámsterdam cueste 600 y al día siguiente 300 EUR. Por esta razón, es importante aprovechar la tecnología y
-    su herramienta favorita y hacerse notar tan pronto como se produzca este cambio.
-</p>
-<h2>
-    Conclusiones clave
-</h2>
-<h3>
-    Planificar y planificar
-</h3>
-<p>
-    No dejes las cosas para última hora. Tener una buena planificación tendrá beneficios tanto en el estrés como en el
-    precio que terminarás pagando por las entradas o cualquier otro servicio que puedas necesitar.
-</p>
-<p>
-    Empezar a buscar con antelación también es clave. Dependiendo del tipo de vuelo, debes empezar a buscar entre 2 a 8
-    meses de anticipación.
-</p>
-<p>
-    Reservar en la fecha más temprana no siempre significa el precio más barato, pero esperar al último minuto siempre
-    significará un precio alto..
-</p>
-<h3>
-    Flexibilidad
-</h3>
-<p>
-    Si deseas viajar tanto como sea posible durante el año, sé flexible. No empieces a buscar un solo destino. Abre tu
-    mente y busca lugares asequibles que quizás ni siquiera sepas que existen. Aprende sobre ellos. Como se mencionó
-    anteriormente, es clave planificar en consecuencia. Una vez que haya investigado si le gustaría ir a uno de los
-    lugares que aparecieron, vea si este es el lugar donde le gustaría quedarse. En muchos casos, debido a las bajas
-    expectativas, estos pueden ser una sorpresa total y es posible que desee volver al año siguiente.
-</p>
-<h3>
-    Herramientas
-</h3>
-<p>
-    Use la tecnología con muchas herramientas disponibles, realmente podemos beneficiarnos de las notificaciones
-    instantáneas cuando encontramos una buena oferta. En algunos casos, puede ser difícil configurar algunas alertas,
-    pero es algo que aprenderemos con el tiempo
-</p>
-<h3>
-    Práctica
-</h3>
-<p>
-    ¿Cuál es el precio correcto? ¿Cómo debo arriesgarme? ¿Cuándo debo apretar el gatillo? Estas preguntas requieren
-    práctica y conocer las diferentes rutas o compañías. Aunque no tengo planes de volar, lo que hago normalmente
-    también es configurar algunas alertas donde puedo ver los diferentes precios y la evolución de los precios. Recuerda
-    que el tiempo corre en tu contra, así que en el momento en que encuentres una buena oferta después de haber
-    realizado los diferentes pasos, lánzate a por ella.
-</p>]]></content><author><name>Javier Freire</name></author><category term="Lifestyle" /><summary type="html"><![CDATA[Beneficios de viajar y cómo conseguir vuelos baratos]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="enn"><title type="html">Affordable Watches Loved by Collectors</title><link href="http://localhost:4000/2022/07/31/affordable_watches_loved_collectors/" rel="alternate" type="text/html" title="Affordable Watches Loved by Collectors" /><published>2022-07-31T05:01:13+02:00</published><updated>2022-07-31T05:01:13+02:00</updated><id>http://localhost:4000/2022/07/31/affordable_watches_loved_collectors</id><content type="html" xml:base="http://localhost:4000/2022/07/31/affordable_watches_loved_collectors/"><![CDATA[<h2>
-    Introduction
-</h2>
-<div class="text-article">
-    <p>
-        It’s true that some of the most wanted and known watches will be out of
-        budget for most of us. We have seen that the prices of luxury watches have
-        gone to the roof in the last years. They have been mainly used for
-        investment, hedging and protection against inflation, similar to what’s
-        done with other alternative assets. That’s main reason for having seen the
-        prices in primary and secondary markets skyrocketed. Although even if it
-        said that watches are an investment on many occasions, in most cases this
-        will not be true and even if you are an experienced professional, it would
-        not be advisable to follow these steps.
-    </p>
-</div>
-<p>
-    Anyway, the topic of this article is not to discuss luxury articles
-    or investments, but the opposite. In this post, the focus is to show some
-    affordable but good-looking watches that will look like a luxury watch and
-    will not disappoint any watch collector.
-</p>
-</p>
-</p>
-<h2>
-    1. Orient Bambino
-</h2>
-<p>
-    We start the list with a fine piece coming from Japan. It may be a
-    non-famous brand for some, but Orient belongs to the Seiko group
-</p>
-<p>
-    The Orient Bambino is possibly one of the best affordable automatic dress
-    watches available on the market today. A piece appreciated even by the most
-    demanding collectors, despite not being a high value jewel.
-</p>
-<p>
-    Essentially, we are dealing in this case with a vintage-style watch with a
-    clean and traditional design equipped with a precise mechanism, whose
-    quality is endorsed by Orient, a Japanese watch brand whose tradition dates
-    back to 1950, although it currently belongs to Seiko, another guarantee of
-    quality.
-</p>
-<p>
-    The best thing about the Orient Bambino is that they move in a fairly
-    affordable price range, so they are an excellent starting point for those
-    who want to start collecting watches without spending a fortune, but who
-    also want to be recognized among others. the connoisseurs in watches.
-</p>
-<p>
-    Due to the success and the sales of the Bambino, there are around 10
-    version of this watch. If I had to choose one, my favorite one will be the
-    one with the blue dial.
-</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/affordable_watches/orient_bambino.jpeg" alt="Classic and elegant">
-    <span class="caption text-muted">If you are starting with your collection, the Orient Bambino will be ideal as a dress watch </span>
-</p>
-<p>
-    From the first glance you will be fascinated by the contrast of the dial of
-    this Orient Bambino v4 fac08004d model. The dial is characterized by an
-    ocean blue color in the central part that gradually intensifies until it
-    reaches the edges, where it reaches a contrasting black.
-</p>
-<p>
-    The strap is black and made of high-quality leather, a feature that makes
-    it extremely comfortable and easy to wear.
-</p>
-<p>
-    The diameter of the case is 42.5 mm, ideal for any type of wrist, both
-    small and large, the case has a perfectly round shape that is very
-    reminiscent of vintage watches.
-</p>
-<p>
-    All bambino versions are water-resistant up to 30 meters. However, since it
-    is a dress watch and because of the leather strap, swimming with it will
-    not be recommendable.
-</p>
-<p>
-    If you are looking for a classic watch, the best value for money out there
-    may be the Bambino and one of their versions.
-</p>
-<p>
-<div class="container">
-    <div class="post-heading">
-        <div class="card-header">
-            <h5>Orient Bambino Information</h5>
-            Watch Type: <Strong>Dress-watch </Strong></br>
-            Price Range: <Strong>150 $</Strong></br>
-            Site:
-            <a
-                    href="https://orient-watch.com/"
-            >
-                Orient Watch
-            </a>
-        </div>
-    </div>
-</div>
-</p>
-</p>
-</p>
-
-<h2>
-    2. Seiko Save the Ocean Series
-</h2>
-<p>
-    Since we have introduced one Orient model, there is no doubt we would be
-    also taking about Seiko. If we are presenting affordable and quality
-    watches, there is no doubt that Seiko must be on the list. As it would be
-    impossible to include the different models that could be included in this
-    list, we have decided to include a limited edition of Seiko, which not be
-    known to some.
-</p>
-<p>
-    The new Seiko Prospex Save the Ocean are another example of how Seiko
-    continues to dive deeper and deeper into its passion for underwater
-    watchmaking, of which we have already seen some examples). Back in 2018, at
-    Baselworld, the Japanese manufacturer announced Fabien Cousteau as the new
-    ambassador, grandson of the legendary Jacques Cousteau, the French
-    biologist and oceanographer who taught us to love the oceans.
-</p>
-<p>
-    If you have realized about the name, you may guess that here we are talking
-    about a watch related to the sea. When it comes to orology, this is of
-    course related to diver watches, which also means that they are certified.
-</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/affordable_watches/seiko_ocean.jpeg" alt="Ideal for Summer">
-    <span class="caption text-muted">The Save the Ocean models are ideal for wearing on the beach (or pool)</span>
-</p>
-<p>
-    There are so many unique models in this limited edition and for that reason
-    it is not possible to focus on all of them. That’s why I will focus on my
-    favorite version of this edition is the Seiko Save the Ocean Black Series.
-    Since they a covered by black PVC, they have a more elegant look
-</p>
-<p>
-    We have already said that there are different models, colors, and type of
-    watches: Turtle, Samurai and these models will adapt to your wrist.
-    Therefore, in this collection you will find multiple versatile options for
-    your collection.
-</p>
-<p>
-<div class="container">
-    <div class="post-heading">
-        <div class="card-header">
-            <h5>Seiko Save the Ocean</h5>
-            Watch Type: <Strong>Diver</Strong></br>
-            Price Range: <Strong>500 $</Strong></br>
-            Site:
-            <a
-                    href="https://www.seikowatches.com/es-es/products/prospex/special/keepgoingforward/savetheocean"
-            >
-                Seiko Save The Ocean
-            </a>
-        </div>
-    </div>
-</div>
-</p>
-</p>
-</p>
-<h2>
-</h2>
-<h2>
-    3. G-Shock GA-2100
-</h2>
-<p>
-    We end our trip to Japan, with a low-cost but high-quality company producer
-    Casio. In the 80s, a small team of engineers from Casio led by Ibe Kikuo
-    started working a new project. Due to the fragility and delicacy of the
-    watches at that time, their goal was to create an indestructible watch that
-    would be valid for different occasions. One of them was the one related to
-    those workers in the industry.
-</p>
-<p>
-    With not very success at the start, mainly because the sales on the home
-    country did not bring the attention of the Japanese, it started
-    surprisingly to catch the eye of Americans and Europeans. It has now become
-    one of the watches that almost every collector and part of a niche-market.
-</p>
-
-<p>
-    Ever since, they have brought different breakthroughs to the watch
-    industry. From solar energy to Bluetooth connectivity, it has always
-    remained at the forefront of technology, design, and functionality,
-    accompanying its evolution.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/affordable_watches/casioak.jpeg" alt="Future Classic">
-    <span class="caption text-muted">The same that happened with other Casio models, there is no doubt that the GA-2100 will become a classic</span>
-</p>
-<p>
-    G-Shock has created different iconic watches over the years. One of the most
-    recent ones, Nicknamed the CasioOak for having a similar - but much more
-    affordable - design (octogonal shape too) to the one of the Royal Oak from the Audemars Piguet,
-    the G-Shock was an instant hit when it was released in 2020.
-</p>
-<p>
-    The G-Shock GA-2100 is not as rough as other G-Shock models. It’s quite thin. For instance:
-    example: at 11.8mm, it's the thinnest G-Shock currently makes. It's also a
-    predominantly analog piece, with two hands and a physical day indicator. On
-    the other hand, it also has a number of digital complications, including a
-    timer, stopwatch, world time, calendar, and LED light. The most iconic
-    version is the total black CasioOak, and that my seem that it is not easy
-    to read, this is not true once you try it.
-</p>
-<p>
-    In the past, one of the characteristics for which G-Shock had some
-    detractors, is that their design was not the most sophisticated and elegant
-    one. However, with the GA-2100, this is not an argument they may use. The
-    GA-2100 model combines both elegance and robustness, making it an
-    indestructible yet beautiful piece.
-</p>
-<p>
-<div class="container">
-    <div class="post-heading">
-        <div class="card-header">
-            <h5>G-Shock GA-2100 Information</h5>
-            Watch Type: <Strong>Sports watch</Strong></br>
-            Price Range: <Strong>100 $</Strong></br>
-            Site:
-            <a
-                    href="https://de.casio-shop.eu/p/ga-2100-1a1er/"
-            >
-                Casio
-            </a>
-        </div>
-    </div>
-</div>
-</p>
-</p>
-</p>
-<h2>
-    4. Tissot PRX
-</h2>
-<p>
-    The decades of 70s and 80s were good decades for music lovers with special
-    mention to disco music. In 1978, the first Superman was released in the
-    cinemas and Argentina – without Maradona- won their first football world
-    cup home. It was also in 1978 when the Swiss manufacturer Tissot released
-    the PRX.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/affordable_watches/tissot.jpeg" alt="A Blast from the Past">
-    <span class="caption text-muted">Tissot is making very interesting products in the last years and the PRX is probably the most relevant surprise</span>
-</p>
-<p>
-    The PRX had an integrated steel bracelet, a barrel-shaped case which evoked
-    a classic and clean design. In 2021, Tissot decided to reedit this model
-    and generated very good reviews and good opinions.
-</p>
-<p>
-    The name maybe a bit unknown for the users, but they are synonyms of:
-</p>
-<ul>
-    <li>
-        P: Precise
-    </li>
-    <li>
-        R: Robust
-    </li>
-    <li>
-        X: It’s a reference to the water resistance of 10 (X) bars.
-    </li>
-</ul>
-<p>
-    The reedition of this watch was an instant hit. It can be used as both
-    dress or sports watch, and it also has some similarities with the Audemars
-    Piguet Royal Oak or the Vacheron Constantin Overseas. Because of the good
-    feedback, Tissot had also the idea of having new versions in 2022, like the
-    chronographer, which is slightly bigger
-</p>
-<p>
-    Either for a classic version or one of the latest versions, you will get a
-    polyvalent and elegant watch that will not disappoint.
-</p>
-<p>
-<div class="container">
-    <div class="post-heading">
-        <div class="card-header">
-            <h5>Tissot PRX Information</h5>
-            Watch Type: <Strong>Sports watch</Strong></br>
-            Price Range: <Strong>700 $</Strong></br>
-            Site:
-            <a
-                    href="https://www.tissotwatches.com/en-en/tissot-prx.html"
-            >
-                Tissot
-            </a>
-        </div>
-    </div>
-</div>
-</p>
-</p>
-</p>
-<h2>Conclusion</h2>
-<p>
-    We have seen watches from different types: sport, dress, or a combination of both. They have been
-    selected taking into account the quality, design and affordable. If you are
-    interested on some luxury watches, there is a link to some classic watches
-    in this <a href="https://mrfreire.net/2022/03/21/watches-for-a-lifetime/">
-    article</a> too, but these will also excellent and very good looking in your wrist. In following weeks, we will try
-    to show other affordable watches that will also grab the attention of many watch lovers.
-</p>]]></content><author><name>Javier Freire</name></author><category term="Lifestyle" /><summary type="html"><![CDATA[Different fine pieces that can increase the quality of your collection]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/affordable_watches/affordable_watches.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/affordable_watches/affordable_watches.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</p>]]></content><author><name>Javier Freire</name></author><category term="Lifestyle" /><summary type="html"><![CDATA[The benefits of flying and travelling can be immense. Therefore, why not doing more and see some hacks to make this done?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
