@@ -75,7 +75,7 @@ Tinyman is a decentralized exchange where swappers trade different assets and po
 pools. What’s the objective of doing so? In this DEX, Poolers get a part of the fees that swappers pay when exchanging
 the different tokens.
 
-[Tinyman site](https://tinyman.org/)
+[Tinyman](https://tinyman.org/)
 
 ### 2. Folks Finance
 Folks Finance is built on top of the Algorand chain and it’s used to grant users the possibility
