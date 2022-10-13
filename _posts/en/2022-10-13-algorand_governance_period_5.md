@@ -3,7 +3,7 @@ layout: post
 title: "Algorand Governance Period 5"
 permalink: /:title/
 subtitle: "The Algorand Governance Period is about to start. These are some of the most important topics to consider."
-date: 2022-09-18 12:01:13
+date: 2022-10-13 12:01:13
 background: '/img/posts/algorand_5/algorand.jpg'
 thumbnail: '/img/posts/algorand_5/algorand.jpg'
 image: '/img/posts/algorand_5/algorand.jpg'
