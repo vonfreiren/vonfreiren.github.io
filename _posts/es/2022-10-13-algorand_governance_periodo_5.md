@@ -6,7 +6,8 @@ date: 2022-10-13 12:01:13 background: '/img/posts/algorand_5/algorand.jpg' thumb
 /img/posts/algorand_5/algorand.jpg' image: '/img/posts/algorand_5/algorand.jpg'
 description: "El periodo de gobernanza de Algorand está a punto de comenzar. Estos son algunos de los temas más importantes a tener en cuenta, incluyendo  
 algunos de las wallets en esta blockchain"."
-tags: Crypto lang: es
+tags: Crypto 
+lang: es
 
 ---
 
