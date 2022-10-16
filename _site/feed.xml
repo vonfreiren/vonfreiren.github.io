@@ -1,4 +1,156 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-14T00:25:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Algorand Governance Period 5</title><link href="http://localhost:4000/algorand_governance_period_5/" rel="alternate" type="text/html" title="Algorand Governance Period 5" /><published>2022-10-13T14:01:13+02:00</published><updated>2022-10-13T14:01:13+02:00</updated><id>http://localhost:4000/algorand_governance_period_5</id><content type="html" xml:base="http://localhost:4000/algorand_governance_period_5/"><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-16T13:06:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry><title type="html"></title><link href="http://localhost:4000/2022/10/16/2022-10-13-algorand-governance_periodo-5/" rel="alternate" type="text/html" title="" /><published>2022-10-16T13:06:07+02:00</published><updated>2022-10-16T13:06:07+02:00</updated><id>http://localhost:4000/2022/10/16/2022-10-13-algorand-governance_periodo-5</id><content type="html" xml:base="http://localhost:4000/2022/10/16/2022-10-13-algorand-governance_periodo-5/"><![CDATA[<h2 id="introducción">Introducción</h2>
+
+<div class="text-article">
+El quinto periodo de Governance de Algorand está a punto de comenzar y hay algunos cambios que se introducen en esta fase. El registro se cerrará el 20 de octubre y las recompensas se pagarán una vez que el período termine el 31 de diciembre. 
+Al igual que en las gobernaciones anteriores, el pago de las recompensas se realizará la primera semana de enero y, dependiendo del monedero que utilices, también podrás recibir un NFT.
+</div>
+<div>
+<p>
+A continuación se incluye la página donde puedes conectar tu monedero:
+           <a href="https://governance.algorand.foundation/governance-period-5">Algorand Governance Period 5</a></p></div>
+
+<p>Sin embargo, antes de continuar, puede ser relevante saber más sobre su funcionamiento.</p>
+
+<h2 id="proceso">Proceso</h2>
+
+<p>Tal y como se describió hace unos meses, en el Periodo de Gobernanza puedes votar y participar en las geniales
+iniciativas que propone la Fundación Algorand. Al votar en las diferentes propuestas, obtienes una recompensa. Es
+importante tener en cuenta que durante el periodo de 3 meses, la cantidad de tokens ALGO que comprometas debe ser
+intacta. Reducir el saldo significa perder el acceso a la recompensa. Además de mantener, es clave que votes por tu
+opción preferida. Por ejemplo, un usuario que comprometa 20.000 ALGO y venda 100 ALGO el último día no obtendrá nada. En
+cambio, otro usuario que comprometa 1.000 ALGO y mantenga esa cantidad o más se llevará la recompensa. Por lo tanto, es
+importante prestar atención a la cantidad comprometida y sólo incluir allí lo que está seguro de poder mantener. No
+ocurre nada si asignas más de los ALGO comprometidos una vez que el periodo de gobernanza ha comenzado el 15 de octubre.
+Las recompensas que se obtienen se calculan dividiendo el número total de tokens (70,5 millones) por el número de ALGO
+comprometidos de todos los gobernantes. También puede ver las estadísticas en la siguiente
+página: <a href="https://www.algorandstats.com/governance-period-5">https://www.algorandstats.com/governance-period-5</a></p>
+
+<h2 id="crítica">Crítica</h2>
+
+<p>Uno de los puntos que han aportado algunos usuarios es que garantizar una rentabilidad sin riesgo del 10% (alrededor del
+2,5% cada trimestre) canibaliza otros proyectos DeFi en torno a Algorand. Este fue uno de los temas en las sesiones de
+votación anteriores, donde hubo algunas iniciativas para impulsar diferentes proyectos DeFi y FutureFi, dando algunos
+beneficios a estos proyectos.</p>
+
+<p>Para responder a esto, una de las medidas fue incentivar a los usuarios de DeFi para impulsar diferentes proyectos y
+asignar 7M de tokens ALGO a los gobernadores de DeFi. Esta fue la opción que apoyó la Fundación para la Gobernanza en el
+último periodo de Gobernanza.</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/algorand_5/timeline.jpg" alt="Steps" />
+   <span class="caption text-muted">Los diferentes 4 pasos pueden ser definidos arriba para el quinto período
+</span>
+</p>
+
+<h2 id="proyectos-clave">Proyectos clave</h2>
+
+<p>Como recordarás de este artículo, los 3 pilares principales del uso de Algorand son</p>
+
+<ul>
+  <li>Pagos</li>
+  <li>NFTs</li>
+  <li>Stablecoins</li>
+</ul>
+
+<p>La mayoría de los proyectos construidos en la red Algorand están relacionados con DeFi y algunos de ellos también se han
+desarrollado gracias a las subvenciones de la fundación Algorand. Conociendo los temas más importantes, es también el
+momento de hablar de los proyectos más populares. Algunos de los proyectos más conocidos que utilizan la red Algorand
+son los siguientes</p>
+
+<h3 id="1-tinyman">1. Tinyman</h3>
+
+<p>Tinyman es un exchange descentralizado en la que los “swappers” comercian con diferentes activos y los “poolers” proporcionan
+liquidez a los pools. ¿Cuál es el objetivo de hacerlo? En este DEX, los poolers obtienen una parte de las comisiones que
+los swappers pagan al intercambiar los diferentes tokens.</p>
+
+<p><a href="https://tinyman.org/">Tinyman</a></p>
+
+<h3 id="2-folks-finance">2. Folks Finance</h3>
+
+<p>Folks Finance está construida sobre la chain Algorand y se utiliza para conceder a los usuarios la posibilidad de
+prestar y tomar prestados activos en esta plataforma. Una de las ventajas de esta plataforma es que los usuarios pueden
+seguir participando en la sesión de gobierno de Algorand sin renunciar a la liquidez. Esto se consigue con un token
+gemelo de ALGO llamado gALGO con una equivalencia de 1 a 1.</p>
+
+<p><a href="https://folks.finance/">Folks Finance</a></p>
+
+<h3 id="3-algofi">3. AlgoFI</h3>
+
+<p>AlgoFi es también un intercambio descentralizado y un protocolo de préstamo. Al prestar diferentes activos, los
+propietarios pueden ser recompensados con algún interés. Los prestatarios de estos activos depositan algunos activos
+como garantía. Una de las ventajas de esto es que incluso si se utiliza como garantía, los tokens ALGO pueden
+comprometerse con el Gobierno de Algorand.</p>
+
+<p><a href="AlgoFI">AlgoFI</a></p>
+
+<h3 id="4-algoswap">4. AlgoSwap</h3>
+
+<p>AlgoSwap es otro intercambio descentralizado que se puede integrar en diferentes dApps con sólo unas pocas líneas de
+código. Esto lo convierte en una gran herramienta de integración que permite a los usuarios construir sus plataformas
+DEX con el mínimo esfuerzo.</p>
+
+<p><a href="https://algopay.finance/algoswap/">AlgoFI</a></p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/algorand_5/folks_finance.jpg" alt="Folks Finance" />
+   <span class="caption text-muted">Por su innovación, Folks Finance es una de las estrellas clave apoyadas por la Fundación Algorand
+</span>
+</p>
+
+<h2 id="monederos">Monederos</h2>
+
+<p>Siguiendo con los siguientes pasos y el proceso de Gobierno, es hora de centrarse en cómo almacenar nuestros ALGOtokens.
+Como has visto, hay muchos proyectos en torno a Algorand y muchas formas de depositar tus tokens ALGO. Algunos de los
+monederos más populares que existen son</p>
+
+<h3 id="a-myalgo">a) MyAlgo</h3>
+
+<p>MyAlgo es uno de los monederos más intuitivos que existen, con algunas características avanzadas como la firma de
+múltiples transacciones al mismo tiempo o la agrupación de transacciones.</p>
+
+<p><a href="https://wallet.myalgo.com/">MyAlgo</a></p>
+
+<h3 id="b-perawallet">b) PeraWallet</h3>
+
+<p>PeraWallet es un monedero descentralizado, fácilmente utilizable tanto en el móvil como en el portátil, con soporte de
+ledger también.Es fácil acceder al historial de transacciones, holdings o NFTs.</p>
+
+<p><a href="https://perawallet.app/">PeraWallet</a></p>
+
+<h3 id="c-algosigner">c) AlgoSigner</h3>
+
+<p>AlgoSigner es una extensión para Chrome que puede utilizarse como monedero Algorand. Permite a los usuarios aprobar y
+firmar las transacciones generadas por las aplicaciones de Algorand. La ventaja de AlgoSigner es que se puede conceder
+acceso a diferentes dApps sin darles acceso a tus claves y que se puede integrar fácilmente en DEX.</p>
+
+<p><a href="https://chrome.google.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm">AlgoSigner</a></p>
+
+<p>En cuanto a la obtención de ALGO, se encuentra en los intercambios centralizados más populares como Binance, Coinbase o
+Kraken. Por lo tanto, no debería ser un problema conseguirlo en tu plataforma preferida. Al igual que con las
+criptomonedas, es recomendable que en cuanto lo consigas, si no estás operando con él, lo muevas a uno de los monederos
+mencionados para participar en el Goveranceperiod o en tu monedero frío.</p>
+
+<h2 id="medidas-y-otros">Medidas y otros</h2>
+
+<p>En relación con las votaciones, las medidas que se propondrán en el próximo periodo todavía no son y no se espera nada
+hasta noviembre. No obstante, teniendo en cuenta las últimas propuestas y los proyectos en curso en torno aAlgorand, no
+sería de extrañar que las votaciones vayan en la dirección de potenciar el poder de DeFi y FutureFi.</p>
+
+<p>En este periodo de gobernanza, parece que hay algunas personas que envían algunas pequeñas cantidades a los diferentes
+gobernantes, que incluyen algunos mensajes y que no provienen de la Fundación oficial Algorand. Lo más importante es no
+hacer clic en ellos porque son mensajes de spam.</p>
+
+<h2 id="participación">Participación</h2>
+
+<p>Participando en el periodo de Gobernanza, estás contribuyendo al futuro de las finanzas. Algorand, una de las cadenas
+más sostenibles, es una prueba de participación, y hemos visto el impacto positivo en el medio ambiente que tiene este
+mecanismo con la fusión de Ethereum. Otros beneficios de la red Algorand son las bajas tasas, la velocidad y su tiempo
+de inactividad cero, que no se puede decir de otras redes como Solana. Por lo tanto, si quieres formar parte de esta
+aventura, no olvides comprometer tu ALGO antes de la fecha límite del 21 de octubre.</p>
+
+<p>Una vez que se publique la sesión de votaciones, no te olvides de votar, ya que sólo los usuarios que hayan votado por
+alguna de las opciones podrán recibir una participación de los 70,5 millones de tokens ALGO que se pagarán a principios
+de enero.</p>]]></content><author><name>Javier Freire</name></author></entry><entry xml:lang="en"><title type="html">Algorand Governance Period 5</title><link href="http://localhost:4000/algorand-governance-period-5/" rel="alternate" type="text/html" title="Algorand Governance Period 5" /><published>2022-10-13T14:01:13+02:00</published><updated>2022-10-13T14:01:13+02:00</updated><id>http://localhost:4000/algorand-governance-period-5</id><content type="html" xml:base="http://localhost:4000/algorand-governance-period-5/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
 The fifth period of the Algorand Governance is about to start and there are some changes being introduced in this phase. The registration will close on October 20th and the rewards will be paid once the period ends on December 31st. 
@@ -136,7 +288,135 @@ adventure, don’t forget to commit your ALGO before the deadline on 21 October.
 
 <p>Once the voting session is published, you
 should not forget to vote, since just users who voted for any of the options will be eligible to receive a stake of the
-70.5 million ALGO tokens to be paid on beginning of January</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The Algorand Governance Period is about to start. These are some of the most important topics to consider, including some of the most important wallets in this blockchan]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/algorand_5/algorand.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/algorand_5/algorand.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">El Ethereum Merge Explicado</title><link href="http://localhost:4000/el-ethereum-merge-explicado/" rel="alternate" type="text/html" title="El Ethereum Merge Explicado" /><published>2022-09-18T14:01:13+02:00</published><updated>2022-09-18T14:01:13+02:00</updated><id>http://localhost:4000/el-ethereum-merge-explicado</id><content type="html" xml:base="http://localhost:4000/el-ethereum-merge-explicado/"><![CDATA[<h2 id="introduction">Introduction</h2>
+70.5 million ALGO tokens to be paid on beginning of January</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The Algorand Governance Period is about to start. These are some of the most important topics to consider, including some of the most important wallets in this blockchain]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/algorand_5/algorand.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/algorand_5/algorand.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">The Ethereum Merge Explained</title><link href="http://localhost:4000/the-ethereum-merge-explained/" rel="alternate" type="text/html" title="The Ethereum Merge Explained" /><published>2022-09-18T14:01:13+02:00</published><updated>2022-09-18T14:01:13+02:00</updated><id>http://localhost:4000/the-ethereum-merge-explained</id><content type="html" xml:base="http://localhost:4000/the-ethereum-merge-explained/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<div class="text-article">
+In the last weeks we have seen a lot of excitement coming from different places in regards to  what’s called the event of the year in crypto world. I’m
+referring to Ethereum and what is not a gamechanger just for Ethereum itself for the whole crypto industry as as result of the big changes that this fork carries.
+</div>
+
+<p>The Ethereum Merge has been one of the most ambitious and awaited changes in the network. Long-awaited because there
+first plans about this software upgrade data back to 2014, and the upgrade occurred on 15 September 2022, almost 10
+years later. The fork also opens new opportunities for the usage of blockchain in different components and standards,
+due to the problems and inefficiency that the new consensus mechanism brings.</p>
+
+<p>Furthermore, although Ethereum is the already network with more utilities and business cases, this can boost the
+commerciality of this network and push it to thew next level with the entry of new players.</p>
+
+<p>Besides, this event can be the one that turn the tables in order to recover the lost trust and see that there are
+different projects trying to enhance the utilities of the different chains</p>
+
+<p>Nonetheless, even if some sources said that this Merge will fix some of the known issues in the Ethereum network, they
+don’t have any impact on them. We will need to see additional upgrades in order to see if these topics are modified.</p>
+
+<p>This is basically the points that this network upgrade entails and what, in order to avoid misunderstandings, problems
+that are not tackled with this modification in this software change.</p>
+
+<h2 id="what-are-the-main-changes">What are the main changes?</h2>
+
+<h3 id="1-energy">1. Energy</h3>
+
+<p>Switching from the Proof of Work to Proof Stake protocols means that the energy consumption will decline approximated by
+99%.</p>
+
+<p>Energy waste and efficiency has been one of the topics that some crypto detractors such as regulators have included as
+one of the disadvantages of the growth of blockchain.</p>
+
+<p>Several have criticized some of the PoW blockchains such as Bitcoin or Ethereum because of the negative environmental
+impact they had and the excessive usage of energy to validate the transactions in the network.</p>
+
+<p>Some of the most known - and controversial - usages of Ethereum is the minting of NFTs using ERC-721. This change will
+have a much better impact on the volatile market of the NFTs because of the drop of the energy usage to mint them,
+enabling the growth of this business.</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/ethereum/sustainable.jpeg" alt="Thinking about the future" />
+    <span class="caption text-muted">Regardless of the other technical details, it is a great milestone to reduce the energy usage on around 99% thanks to the Merge
+</span>
+</p>
+
+<h3 id="2-more-democratic-rewards">2. More democratic rewards</h3>
+
+<p>Apart from the change in the energy efficiency, the switch to Proof of Work also means that via this mechanism, the
+staking rewards for validating and securing the network that were reserved for those with powerful computers is over.</p>
+
+<p>Please note you will need at least 32 ETH (around 48,000 USD at the time of writing) plus the computer to perform
+staking on your own. However, there are more used options such as liquidity staking, using ERC-20, where you may
+allocate part of your ETH tokens to a pool (in order to reach the minimum of 32 ETH).</p>
+
+<p>In case you are not happy with none of these options, despite not being that popular, another possibility in order to
+receive staking rewards for your share are staking them via a centralized exchange.</p>
+
+<p>As with all these cases, please do your own research before delegating your tokens.</p>
+
+<h3 id="3-price-and-value">3. Price and value</h3>
+
+<p>Price and value must not be understood in the wrong way. This is also not a good or bad thing coming from the Merge.</p>
+
+<p>Although the Merge has been waited for years, the truth is that Ether has lost around 60% of its market value during 2022.
+However, if we use the CMC 200 index as reference, the price drop is also aligned with the drop in the CMC 200
+index.</p>
+
+<p>On the other hand, for instance, it had an increase of 100%, when the prices went in August from 1,000 USD to 2,000 USD.</p>
+
+<p>As discussed in other topics, there has not been a drastic change – upwards or downwards- in Ethereum’s price on the
+date the fork was completed. As with other assets, the price is already discounted when these big events occur. As you
+may have noticed, there were a surge on the price in the months prior to the Merge.</p>
+
+<p>In the future, Ethereum will be transition to a deflationary asset. Before the Merge and with the PoW, 13,000 new Ether
+tokens were issued on a daily basis. The change changes this and from 13,000 we will see around 1,600 Ether tokens per
+day.</p>
+
+<p>The less tokens there are, the higher the price should be for Ether tokens, being an alternative deflationary asset.</p>
+
+<h2 id="aspects-that-remain-unchanged">Aspects that remain unchanged</h2>
+
+<p>Probably some of the most common topics when it comes to Ethereum are fees. The bad news is that the logic for these remains unchanged.
+These are other problems that Ethereum Merge does not solve or haven’t been modified with the Merge.</p>
+
+<h3 id="1-fees">1. Fees</h3>
+
+<p>“The fork will definitely make the gas fees cheaper.” This is wrong and the changes that occurred in the network did not
+have any consequences on the fees that must be paid on each blockchain transaction to reward the validators of the
+transactions occurring in the chain. The last change in the network that affected how the Wei that must be paid per
+transaction was the London Upgrade in 2021.</p>
+
+<h3 id="2-speed">2. Speed</h3>
+
+<p>Related to the blockchain dilemma, the Merge does not make the speed faster neither increases that number of
+transactions that can be processed per minute. There may be a slight improvement in the speed, but it will be
+unnoticeable for users. For the speed changes, we will have to wait in case this modification arrives one day.</p>
+
+<h2 id="key-takeaways">Key takeaways</h2>
+
+<p>There has been a lot of hype because of this Merge milestone, and it has been waited for some time now. Due to all the
+news surrounding this topic for the last year, these are the main facts that we can say in order to conclude and see how
+this topic evolves.</p>
+
+<h3 id="environmental-impact">Environmental impact</h3>
+
+<p>This is definitely the biggest changes and main advantage of the software upgrade. Not just related to the current energy crisis, this is a huge step in order to protect our
+planet with a more sensible and responsible usage of electricity. This can be a key milestone for a reaching
+sustainability in the crypto industry (although for example there are no plans for example for Bitcoin and switching
+from PoW to PoS in this case) because of the new possibilities on the different networks and standards that enables.</p>
+
+<h3 id="staking-for-all-users">Staking for all users</h3>
+
+<p>While validating and securing the network was an action reserved for those with more computing power, hence the rewards
+were just for them, the change to PoS means that all of us can take part securing the transactions and getting rewarded
+for the Ether tokens we use to achieve that.</p>
+
+<h3 id="commercial-impact">Commercial impact</h3>
+
+<p>Having reduced the energy usage and improving the energy efficiency has also opened new ideas to Ethereum, which already had many apps
+around this ecosystem. Furthermore, this is not just important to Ethereum, but other chains, and it also means that the
+evolution of the different blockchains will lead to a better experience for the users and more business ideas that some
+years ago were unthinkable because of sustainable issues.</p>
+
+<hr />
+
+<p>Having explained the most important changes and having also denied things that the Merge does not change, it’s true that some of these changes can boost Ethereum and the crypto sector. 
+At the same time, it cannot be denied that some users have been disappointed because they were expecting much more. Time will tell.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The changes that the Ethereum Merge, including the impact they create and what aspects are not modified with this fork in the network]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/ether.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/ether.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">El Ethereum Merge Explicado</title><link href="http://localhost:4000/el-ethereum-merge-explicado/" rel="alternate" type="text/html" title="El Ethereum Merge Explicado" /><published>2022-09-18T14:01:13+02:00</published><updated>2022-09-18T14:01:13+02:00</updated><id>http://localhost:4000/el-ethereum-merge-explicado</id><content type="html" xml:base="http://localhost:4000/el-ethereum-merge-explicado/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
 En las últimas semanas hemos visto mucho entusiasmo proveniente de diferentes lugares con respecto a lo que se llama el evento del año en el mundo crypto. 
@@ -269,135 +549,7 @@ para los usuarios y a más ideas de negocios que hace algunos años eran impensa
 
 <p>Habiendo explicado los cambios más importantes y también negado cosas que el Merge no cambia, es cierto que algunos de
 estos cambios pueden impulsar a Ethereum y al sector de las criptomonedas. Al mismo tiempo, no se puede negar que
-algunos usuarios se han decepcionado porque esperaban mucho más. El tiempo dirá.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Los cambios que el Ethereum Merge, incluyendo el impacto que crean y qué aspectos no se modifican con este fork en la red]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/ether.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/ether.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">The Ethereum Merge Explained</title><link href="http://localhost:4000/the-ethereum-merge-explained/" rel="alternate" type="text/html" title="The Ethereum Merge Explained" /><published>2022-09-18T14:01:13+02:00</published><updated>2022-09-18T14:01:13+02:00</updated><id>http://localhost:4000/the-ethereum-merge-explained</id><content type="html" xml:base="http://localhost:4000/the-ethereum-merge-explained/"><![CDATA[<h2 id="introduction">Introduction</h2>
-
-<div class="text-article">
-In the last weeks we have seen a lot of excitement coming from different places in regards to  what’s called the event of the year in crypto world. I’m
-referring to Ethereum and what is not a gamechanger just for Ethereum itself for the whole crypto industry as as result of the big changes that this fork carries.
-</div>
-
-<p>The Ethereum Merge has been one of the most ambitious and awaited changes in the network. Long-awaited because there
-first plans about this software upgrade data back to 2014, and the upgrade occurred on 15 September 2022, almost 10
-years later. The fork also opens new opportunities for the usage of blockchain in different components and standards,
-due to the problems and inefficiency that the new consensus mechanism brings.</p>
-
-<p>Furthermore, although Ethereum is the already network with more utilities and business cases, this can boost the
-commerciality of this network and push it to thew next level with the entry of new players.</p>
-
-<p>Besides, this event can be the one that turn the tables in order to recover the lost trust and see that there are
-different projects trying to enhance the utilities of the different chains</p>
-
-<p>Nonetheless, even if some sources said that this Merge will fix some of the known issues in the Ethereum network, they
-don’t have any impact on them. We will need to see additional upgrades in order to see if these topics are modified.</p>
-
-<p>This is basically the points that this network upgrade entails and what, in order to avoid misunderstandings, problems
-that are not tackled with this modification in this software change.</p>
-
-<h2 id="what-are-the-main-changes">What are the main changes?</h2>
-
-<h3 id="1-energy">1. Energy</h3>
-
-<p>Switching from the Proof of Work to Proof Stake protocols means that the energy consumption will decline approximated by
-99%.</p>
-
-<p>Energy waste and efficiency has been one of the topics that some crypto detractors such as regulators have included as
-one of the disadvantages of the growth of blockchain.</p>
-
-<p>Several have criticized some of the PoW blockchains such as Bitcoin or Ethereum because of the negative environmental
-impact they had and the excessive usage of energy to validate the transactions in the network.</p>
-
-<p>Some of the most known - and controversial - usages of Ethereum is the minting of NFTs using ERC-721. This change will
-have a much better impact on the volatile market of the NFTs because of the drop of the energy usage to mint them,
-enabling the growth of this business.</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/ethereum/sustainable.jpeg" alt="Thinking about the future" />
-    <span class="caption text-muted">Regardless of the other technical details, it is a great milestone to reduce the energy usage on around 99% thanks to the Merge
-</span>
-</p>
-
-<h3 id="2-more-democratic-rewards">2. More democratic rewards</h3>
-
-<p>Apart from the change in the energy efficiency, the switch to Proof of Work also means that via this mechanism, the
-staking rewards for validating and securing the network that were reserved for those with powerful computers is over.</p>
-
-<p>Please note you will need at least 32 ETH (around 48,000 USD at the time of writing) plus the computer to perform
-staking on your own. However, there are more used options such as liquidity staking, using ERC-20, where you may
-allocate part of your ETH tokens to a pool (in order to reach the minimum of 32 ETH).</p>
-
-<p>In case you are not happy with none of these options, despite not being that popular, another possibility in order to
-receive staking rewards for your share are staking them via a centralized exchange.</p>
-
-<p>As with all these cases, please do your own research before delegating your tokens.</p>
-
-<h3 id="3-price-and-value">3. Price and value</h3>
-
-<p>Price and value must not be understood in the wrong way. This is also not a good or bad thing coming from the Merge.</p>
-
-<p>Although the Merge has been waited for years, the truth is that Ether has lost around 60% of its market value during 2022.
-However, if we use the CMC 200 index as reference, the price drop is also aligned with the drop in the CMC 200
-index.</p>
-
-<p>On the other hand, for instance, it had an increase of 100%, when the prices went in August from 1,000 USD to 2,000 USD.</p>
-
-<p>As discussed in other topics, there has not been a drastic change – upwards or downwards- in Ethereum’s price on the
-date the fork was completed. As with other assets, the price is already discounted when these big events occur. As you
-may have noticed, there were a surge on the price in the months prior to the Merge.</p>
-
-<p>In the future, Ethereum will be transition to a deflationary asset. Before the Merge and with the PoW, 13,000 new Ether
-tokens were issued on a daily basis. The change changes this and from 13,000 we will see around 1,600 Ether tokens per
-day.</p>
-
-<p>The less tokens there are, the higher the price should be for Ether tokens, being an alternative deflationary asset.</p>
-
-<h2 id="aspects-that-remain-unchanged">Aspects that remain unchanged</h2>
-
-<p>Probably some of the most common topics when it comes to Ethereum are fees. The bad news is that the logic for these remains unchanged.
-These are other problems that Ethereum Merge does not solve or haven’t been modified with the Merge.</p>
-
-<h3 id="1-fees">1. Fees</h3>
-
-<p>“The fork will definitely make the gas fees cheaper.” This is wrong and the changes that occurred in the network did not
-have any consequences on the fees that must be paid on each blockchain transaction to reward the validators of the
-transactions occurring in the chain. The last change in the network that affected how the Wei that must be paid per
-transaction was the London Upgrade in 2021.</p>
-
-<h3 id="2-speed">2. Speed</h3>
-
-<p>Related to the blockchain dilemma, the Merge does not make the speed faster neither increases that number of
-transactions that can be processed per minute. There may be a slight improvement in the speed, but it will be
-unnoticeable for users. For the speed changes, we will have to wait in case this modification arrives one day.</p>
-
-<h2 id="key-takeaways">Key takeaways</h2>
-
-<p>There has been a lot of hype because of this Merge milestone, and it has been waited for some time now. Due to all the
-news surrounding this topic for the last year, these are the main facts that we can say in order to conclude and see how
-this topic evolves.</p>
-
-<h3 id="environmental-impact">Environmental impact</h3>
-
-<p>This is definitely the biggest changes and main advantage of the software upgrade. Not just related to the current energy crisis, this is a huge step in order to protect our
-planet with a more sensible and responsible usage of electricity. This can be a key milestone for a reaching
-sustainability in the crypto industry (although for example there are no plans for example for Bitcoin and switching
-from PoW to PoS in this case) because of the new possibilities on the different networks and standards that enables.</p>
-
-<h3 id="staking-for-all-users">Staking for all users</h3>
-
-<p>While validating and securing the network was an action reserved for those with more computing power, hence the rewards
-were just for them, the change to PoS means that all of us can take part securing the transactions and getting rewarded
-for the Ether tokens we use to achieve that.</p>
-
-<h3 id="commercial-impact">Commercial impact</h3>
-
-<p>Having reduced the energy usage and improving the energy efficiency has also opened new ideas to Ethereum, which already had many apps
-around this ecosystem. Furthermore, this is not just important to Ethereum, but other chains, and it also means that the
-evolution of the different blockchains will lead to a better experience for the users and more business ideas that some
-years ago were unthinkable because of sustainable issues.</p>
-
-<hr />
-
-<p>Having explained the most important changes and having also denied things that the Merge does not change, it’s true that some of these changes can boost Ethereum and the crypto sector. 
-At the same time, it cannot be denied that some users have been disappointed because they were expecting much more. Time will tell.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The changes that the Ethereum Merge, including the impact they create and what aspects are not modified with this fork in the network]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/ether.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/ether.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="enn"><title type="html">10 Benefits of HIIT</title><link href="http://localhost:4000/2022/09/11/benefits_10_hiit/" rel="alternate" type="text/html" title="10 Benefits of HIIT" /><published>2022-09-11T04:01:13+02:00</published><updated>2022-09-11T04:01:13+02:00</updated><id>http://localhost:4000/2022/09/11/benefits_10_hiit</id><content type="html" xml:base="http://localhost:4000/2022/09/11/benefits_10_hiit/"><![CDATA[<h2>
+algunos usuarios se han decepcionado porque esperaban mucho más. El tiempo dirá.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Los cambios que el Ethereum Merge, incluyendo el impacto que crean y qué aspectos no se modifican con este fork en la red]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/ether.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/ether.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="enn"><title type="html">10 Benefits of HIIT</title><link href="http://localhost:4000/2022/09/11/benefits_10_hiit/" rel="alternate" type="text/html" title="10 Benefits of HIIT" /><published>2022-09-11T04:01:13+02:00</published><updated>2022-09-11T04:01:13+02:00</updated><id>http://localhost:4000/2022/09/11/benefits_10_hiit</id><content type="html" xml:base="http://localhost:4000/2022/09/11/benefits_10_hiit/"><![CDATA[<h2>
     Introduction
 </h2>
 <div class="text-article">
@@ -2626,403 +2778,4 @@ At the same time, it cannot be denied that some users have been disappointed bec
     </em>
     — <strong>Mahatma Gandhi</strong>
 </p>
-<br>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Aprende sobre crypto y sea recompensado por tu conocimiento]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/learn_earn/learn_earn.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/learn_earn/learn_earn.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="enn"><title type="html">Benefits of Traveling and How To Get Cheap Flights</title><link href="http://localhost:4000/2022/08/18/benefits_traveling_how_to_get_cheap_flights/" rel="alternate" type="text/html" title="Benefits of Traveling and How To Get Cheap Flights" /><published>2022-08-18T04:01:13+02:00</published><updated>2022-08-18T04:01:13+02:00</updated><id>http://localhost:4000/2022/08/18/benefits_traveling_how_to_get_cheap_flights</id><content type="html" xml:base="http://localhost:4000/2022/08/18/benefits_traveling_how_to_get_cheap_flights/"><![CDATA[<h2>
-    Introduction
-</h2>
-<div class="text-article">
-    <p>
-        We are in this time of the season where airports are packed and there is a
-        peak of flights when everybody is taking one or more flights to go to the
-        planned destination some weeks before. Despite the petrol price, different
-        strikes, and other inconveniences, after two years of the COVID pandemic,
-        the flight levels are back to 2019 levels and the predictions for the next
-        years are quite optimistic.
-    </p>
-</div>
-
-<p>
-    This can be explained by the benefits that flying brings and the
-    limitations and restrictions. we had in the last 2 years. The freedom that
-    was taken from us made us value more the possibility of having now the
-    possibility to choose where to go.
-</p>
-<p>
-    Related to this, the first thing we know is that experiences are better
-    than possessions. With the millennials, we have been an increasing
-    prioritization of these experiences over possessions such as houses or
-    cars.
-</p>
-<p>
-    The trip of our dreams is something that we look forward to and our goals
-    is how to fly more and how to find good deals when looking for these trips.
-    It’s something we include in the wishes for the next year.
-</p>
-<p>
-    Although some useless governments are now with the idea of reducing the
-    number of flights or other nonsense regulations, who cares about what they
-    say? Although topics such as pollution or energy management are constant
-    problems, maybe they should be the first ones to apply these rules and
-    avoid their usual useless trips.
-</p>
-<p>
-    Therefore, why not benefit from more and affordable trips during the year?
-    In order to achieve this, there are some steps that we need to consider.
-</p>
-<p>
-    They are not complex at all, but these are some tricks in order to help you
-    with your next trip.
-</p>
-<h2>
-    Planning
-</h2>
-<p>
-    The first phase is the initial planning phase. It does not require a big
-    effort but leaving everything unplanned or for the last minute will
-    generate unnecessary stress that may ruin our trip. If planned accordingly,
-    this will solve different situations and will get you a better price,
-    flight and stay. In this case, one suggestion would be to start looking for
-    flights some months before the trip. This will ensure that you can analyze
-    the different options and mitigate possible risks.
-</p>
-<p>
-    One of the most heard questions is whether is better to spend 1 month in a
-    location or have 3 trips in different locations.
-</p>
-<p>
-    Although I prefer in general quality over quality, when it comes to trips
-    it is just the opposite. I’m in favor of having more than one. This can be
-    achieved by carefully selecting affordable options. Picking 3 flights of
-    300 instead of 1 of 1,000 will in my opinion a better choice.
-</p>
-<p>
-    However, this opinion is not based on the price aspect, but also on
-    diversification. For example, if you go to one destination for 1 month and
-    for whatever reason you don’t like it, the weather is very bad, etc. the
-    single trip for the year is ruined. With more options, you diversify more
-    and if you travel 3 or 4 times per year, it’s not likely that all of them
-    will be a bad choice.
-</p>
-<h2>
-    Adapt to the options
-</h2>
-<p>
-    If you are looking for an exact destination and you suddenly come with a
-    super cheap price, It may look the best thing in the world. However, this
-    will not be always the case.
-</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/cheap_flights/google_flights.jpg" alt="Essential application">
-    <span class="caption text-muted">As we can see in the list of tools, having additional technological support is a must for our search</span>
-</p>
-<p>
-    Despite this may be what we are aiming to achieve, ff you try to hit in the
-    middle of the bullseye, you may be a lifetime waiting for it. Flexibility
-    is the currency that you may use to get more trips with better prices.
-</p>
-<p>
-    It’s just the opposite. The piece of advice here should be starting to look
-    for cheap affordable locations. From that list, you will probably find
-    several destinations that may be attractive to you.
-</p>
-<p>
-    You may start by selecting different price ranges within your budget. Out
-    of all destinations, you may select the ones with the lowest prices and
-    from there you can start selecting which destinations may fit more. Even if
-    some of them may not be very attractive, this can be a good opportunity to
-    discover the next gem.
-</p>
-<p>
-    It’s often where we see that people go to the same destinations: Paris,
-    Madrid, London, etc. These places are normally overcrowded, and it’s likely
-    that you have already visited. Why not looking something less mainstream?
-</p>
-<p>
-    As said before, being flexible is the attribute that will open more doors
-    and get you better deals. First: direct flights may be more
-    expensive. In this case, there are different options such as different
-    flights, companies, dates or even alternative transport methods.
-</p>
-<p>
-    When it comes to short flights, one alternative could be going by
-    car/train/bus to a close airport. You may have the option of the parking,
-    staying at some friend’s place or even visiting another city before the
-    flight.
-</p>
-<p>
-    In some countries, the train will be quite cheap if booked in advance and,
-    if you are looking for an international flight, another possibility would
-    be to use 2 companies and go first to the connection point. There, you can
-    visit the city (1 day trip). Normally, these cities have many inhabitants,
-    and you may know someone who you can visit or even he may let you stay for
-    the night.
-</p>
-<p>
-    The trick in these cases is to have a good margin between the first and
-    second flight. If for some reason, there is no time left to leave the
-    airport for a short visit to the city, another advice is to get some
-    accessories that will make your trip much easier:
-</p>
-<p>
-    Battery charger, eBook or book, and headphones. Another trick is that
-    without or bad connection to use the laptop to work on work or personal
-    project. If you don’t have Internet connection, you will not get disturbed
-    by constants notifications.
-</p>
-<p>
-    In the last 21 days, prices will skyrocket. You may have seen too many The
-    Simpsons episodes (e.g., when they go to Japan), but it is unlikely that
-    you will get a last-minute deal. These prices are high because are more
-    focused on business travelers who don’t have any other alternative and they
-    (the company) will pay the ticket fare.
-</p>
-<h2>
-    Some tools
-</h2>
-<p>
-    When it comes to additional help, there are hundreds of tools on the
-    Internet that can be used to keep track the different offers. For example:
-    Kayak, Skyscanner, Google Trips or your own tools.
-</p>
-<p>
-    For example, in my case using Python and MongoDB I have created a tool that
-    checks flights with multiple destination and dates combinations and will
-    store the best option (duration and price) for each combination on each
-    day. The cheapest option on each day is stored and the moment the price
-    goes down, it sends you an alert. Playing with alerts on the service you
-    may use is off the essence.
-</p>
-<p>
-    Since we were discussing the flexibility, I have found that Google Flights
-    allows including many origin and destination airports on the same search.
-    With this useful feature, you can get the best deals with one single
-    search. You can also add notifications. The disadvantage with Google
-    Flights is that some flights may not appear.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/cheap_flights/mongodb.jpg" alt="Basic but working">
-    <span class="caption text-muted">This is the basic application that just collects the flight information such as the price, duration, destination and origin. Once there is a decrease in the price, it sends an email to inform about the change.</span>
-</p>
-<p>
-    Another trick is to book on those airline companies that offer free
-    cancellation. This way you make sure that the highest price you will pay in
-    your search will be the one you already had and everything you get below
-    that is your gain.
-</p>
-<h2>
-    Other tricks
-</h2>
-<p>
-    Saving in flights means that your budget for doing other trips,
-    restaurants. Instead of going to a 4-start restaurant, you may end up in a
-    5-star hotel and go to Michelin-starred restaurants. Therefore, you should
-    invest in planning and flexibility because this way you can spend the money
-    in more important things.
-</p>
-<p>
-    Although it may sound strange to you with the recent surge in travel
-    tickets due to inflation, strikes and gas prices, prices are each year
-    lower. This is due to big competition in the airline industry. It’s a
-    regulated sector with several years of history and since World War II
-    prices have been decreasing – after adjusting the price considering
-    inflations –
-</p>
-<p>
-    Then, how do airlines make money? While flying was a premium some years
-    ago, luckily it has been accessible to more and more people. The revenue
-    sources have changed too. As opposed to some decades ago, we that revenues
-    do not come mainly from the ticket, but from other extras such as baggage
-    fees, seat fees, other products, bundles, business trips, etc.
-</p>
-<p>
-    Another question you may have seen is on which day to book the flight. How
-    does this algorithm work?
-</p>
-<p>
-    There is no specific day or hour when you may find the best price.
-    Although you may have heard different opinions based on different sources,
-    there is no specific time when you will get the best price.
-</p>
-<p>
-    However, one thing is to consider. Mondays and Fridays are normally the
-    most expensive days because these are the days when business trips take
-    place. People will get on the plane to a specific destination and come back
-    on Friday. For short trips, this is also the best time in order to spend
-    the whole weekend abroad.
-</p>
-<p>
-    Excluding these days, the best days are Tuesday, Wednesday, and Saturday.
-    Again, this does not mean that they will be always the cheapest flights.
-</p>
-<p>
-    When it comes to months, August is traditionally the most expensive month
-    (some people don’t have any choice for holidays) and Christmas. Therefore,
-    selecting the correct dates may also be a relevant factor.
-</p>
-<p>
-    TABLE OF DAYS
-</p>
-<table border="1" cellspacing="0" cellpadding="0">
-    <tbody>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                <strong>Factor</strong>
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                <strong>Probability of Expensive Flights</strong>
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                <strong>Probability of Affordable Flights</strong>
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Day of the week
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Monday, Friday
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Tuesday, Wednesday, Saturday
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Duration
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Less than 7 days
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                More than 7 days
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Season
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Summer, Christmas, Easter
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Other than the ones in the left
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                Booking
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                21 days or less before departure
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Months before departure
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td width="200" valign="top">
-            <p>
-                One-way flights
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                Yes
-            </p>
-        </td>
-        <td width="200" valign="top">
-            <p>
-                No
-            </p>
-        </td>
-    </tr>
-    </tbody>
-</table>
-<p>
-    The rules above are quite general and there is no written rule. It may be
-    that one day a flight ticket from Net York to Amsterdam is 600 and the day
-    after is 300 EUR. For this reason, it’s important to benefit from
-    technology and your favorite tool and get noticed as soon as this change
-    occurs.
-</p>
-<h2>
-    Key takeaways
-</h2>
-<h3>
-    Plan and plan
-</h3>
-<p>
-    Don’t leave things for the last minute. Have a good planning will have
-    benefits on both the stress and the price you will end paying for the
-    tickets or any other service you may need.
-</p>
-<p>
-    Start looking in advance is also key. Depending on the type of flight, you
-    should start looking between 2 and 8 months in advance.
-</p>
-<p>
-    Booking at the earliest date does not always mean the cheapest price but
-    waiting for the last minute will always mean a high price.
-</p>
-<h3>
-    Flexibility
-</h3>
-<p>
-    If you want to travel as much as possible during the year, be flexible.
-    Don’t start looking for one single destination. Open your mind and look for
-    affordable places you may not even know they exist. Learn about them. As
-    mentioned above, it’s key to plan accordingly. Once you have investigated
-    if you would like to go to one of the placed that popped up, see if this is
-    the place where you would like to stay. In many cases, because of the low
-    expectations, these can be a total surprise, and you may want to come the
-    year after again.
-</p>
-<h3>
-    Tools
-</h3>
-<p>
-    Use technology with some many tools available, we can really benefit of
-    instant notifications when we find a good deal. In some cases, it may be
-    difficult to configure some alerts, but it's something we will learn the more we use this feature.
-</p>
-<h3>
-    Practice
-</h3>
-<p>
-    What’s I the right price? How should I risk? When should I pull the
-    trigger? These questions require practice and knowing the different routes
-    or companies. Even if I have no plans to fly, what I normally do is also
-    setting up some alerts where I can see the different prices and the price
-    evolution. Remember that time is against you, so the moment you find a good
-    deal after having performed the different steps, just go for it.
-</p>]]></content><author><name>Javier Freire</name></author><category term="Lifestyle" /><summary type="html"><![CDATA[Benefits of Traveling and How To Get Cheap Flights]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/cheap_flights/cheap_flights.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<br>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Aprende sobre crypto y sea recompensado por tu conocimiento]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/learn_earn/learn_earn.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/learn_earn/learn_earn.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
