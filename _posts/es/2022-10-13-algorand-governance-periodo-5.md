@@ -7,21 +7,14 @@ date: 2022-10-13 12:01:13
 background: '/img/posts/algorand_5/algorand.jpg' 
 thumbnail: '/img/posts/algorand_5/algorand.jpg' 
 image: '/img/posts/algorand_5/algorand.jpg'
-description: "El periodo de gobernanza de Algorand está a punto de comenzar. Estos son algunos de los temas más importantes a tener en cuenta, incluyendo algunos de las wallets en esta blockchain"."
+description: "El periodo de gobernanza de Algorand está a punto de comenzar. Estos son algunos de los temas más importantes a tener en cuenta, incluyendo algunos de las wallets en esta blockchain."
 tags: Crypto 
 lang: es
 ---
 
 ## Introducción
 
-<div class="text-article">
-El quinto periodo de Governance de Algorand está a punto de comenzar y hay algunos cambios que se introducen en esta fase. El registro se cerrará el 20 de octubre y las recompensas se pagarán una vez que el período termine el 31 de diciembre. 
-Al igual que en las gobernaciones anteriores, el pago de las recompensas se realizará la primera semana de enero y, dependiendo del monedero que utilices, también podrás recibir un NFT.
-</div>
-<div>
-<p>
-A continuación se incluye la página donde puedes conectar tu monedero:
-           <a href="https://governance.algorand.foundation/governance-period-5">Algorand Governance Period 5</a></p></div>
+
 
 Sin embargo, antes de continuar, puede ser relevante saber más sobre su funcionamiento.
 
