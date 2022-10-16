@@ -7,7 +7,7 @@ date: 2022-10-13 12:01:13
 background: '/img/posts/algorand_5/algorand.jpg'
 thumbnail: '/img/posts/algorand_5/algorand.jpg'
 image: '/img/posts/algorand_5/algorand.jpg'
-description: "The Algorand Governance Period is about to start. These are some of the most important topics to consider, including some of the most important wallets in this blockchan"
+description: "The Algorand Governance Period is about to start. These are some of the most important topics to consider, including some of the most important wallets in this blockchain"
 tags: Crypto
 lang: en
 
