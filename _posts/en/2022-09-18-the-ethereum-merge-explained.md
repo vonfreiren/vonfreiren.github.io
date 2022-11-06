@@ -4,9 +4,9 @@ title: "The Ethereum Merge Explained"
 permalink: /:title/
 subtitle: "Everything that the Merge brings to the Ethereum network"
 date: 2022-09-18 12:01:13
-background: '/img/posts/ethereum/ether.jpg'
-thumbnail: '/img/posts/ethereum/ether.jpg'
-image: '/img/posts/ethereum/ether.jpg'
+background: '/img/posts/ethereum/eth.jpg'
+thumbnail: '/img/posts/ethereum/eth.jpg'
+image: '/img/posts/ethereum/eth.jpg'
 description: "The changes that the Ethereum Merge, including the impact they create and what aspects are not modified with this fork in the network"
 tags: Crypto
 lang: en

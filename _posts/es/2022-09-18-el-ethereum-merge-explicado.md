@@ -4,9 +4,9 @@ title: "El Ethereum Merge Explicado"
 permalink: /:title/
 subtitle: Todo lo que aporta el Merge a la red Ethereum"
 date: 2022-09-18 12:01:13
-background: '/img/posts/ethereum/ether.jpg'
-thumbnail: '/img/posts/ethereum/ether.jpg'
-image: '/img/posts/ethereum/ether.jpg'
+background: '/img/posts/ethereum/eth.jpg'
+thumbnail: '/img/posts/ethereum/eth.jpg'
+image: '/img/posts/ethereum/eth.jpg'
 description: "Los cambios que el Ethereum Merge, incluyendo el impacto que crean y qué aspectos no se modifican con este
 fork en la red"
 tags: Crypto
