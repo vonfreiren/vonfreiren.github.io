@@ -148,7 +148,7 @@ item. Some blockchains you may consider are Ethereum, Polygon, Solana, Tezos. Th
 in the site or platform where you want to show your NFTs. As with the wallet, the marketplace you choose in the second
 point is also linked to this step.
 
-### Selecting the NFT marketplace.
+### Selecting the NFT marketplace
 
 Some of the most famous sites to trade NFTs are OpenSea, Magic Eden or Rarible and they offer different However, as we
 discussed in the introduction, you see more and more often new places dedicated to certain niche markets.
@@ -167,7 +167,7 @@ Once you have linked your wallet to the desired site, you can just show your col
 to add to your collection. In this example, I just included the basic steps, but of course the industry is constantly
 evolving, and you will see new wallets, marketplaces and chains.
 
-If you want to have a look at my collection, you can just go here:
+If you want to have a look at my collection, you can just go to the links below:
 
 [https://opensea.io/collection/animals-badass](https://opensea.io/collection/animals-badass)
 
