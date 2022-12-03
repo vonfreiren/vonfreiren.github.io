@@ -2,7 +2,7 @@
 layout: post
 title: "NFT Utilities and How To Create Them"
 permalink: /:title/
-subtitle: "Different busines cases of NFTs and steps to create them"
+subtitle: "Different business cases of NFTs and steps to create them"
 date: 2022-12-03 12:01:13
 background: '/img/posts/nfts/nfts.jpg'
 thumbnail: '/img/posts/nfts/nfts.jpg'
@@ -22,6 +22,7 @@ lang: en
 ERC-721 standard created back in 2018. This trend seems that has diminished recently in the current crypto bear market,
 but contrary to what some people thought we have more and more marketplaces and sites that offer you the chance to
 discover your next collectible.</div>
+
 
 
 Although NFTs are known for art and just some characteristic images, this article will not be focused merely on the
