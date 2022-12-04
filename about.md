@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Javier Freire
+title: About Javier Freire Alvarez
 description: These are the kind of things I like to do
 background: '/img/bg-about.jpg'
 ---
@@ -21,6 +21,6 @@ In my spare time you will, these are some of the activities I enjoy most:
 - Body workout
 - Swimming
 - Reading
-- Learning new topics
+- Learning
 - Cycling
 - Trail

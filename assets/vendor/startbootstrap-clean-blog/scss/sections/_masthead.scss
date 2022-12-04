@@ -34,12 +34,12 @@ header.masthead {
         text-align: center;
 
         h1 {
-            font-size: 42px;
+            font-size: 34px;
             margin-top: 0;
         }
 
         .subheading {
-            font-size: 24px;
+            font-size: 22px;
             font-weight: 300;
             line-height: 1.1;
             display: block;
@@ -49,14 +49,14 @@ header.masthead {
 
         @media only screen and (min-width: 768px) {
             h1 {
-                font-size: 80px;
+                font-size: 34px;
             }
         }
     }
 
     .post-heading {
         h1 {
-            font-size: 35px;
+            font-size: 34px;
         }
 
         .meta,

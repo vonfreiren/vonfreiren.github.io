@@ -2474,7 +2474,7 @@ img::-moz-selection { color: #fff; background: transparent; }
 
 .floating-label-form-group { font-size: 14px; position: relative; margin-bottom: 0; padding-bottom: 0.5em; border-bottom: 1px solid #dee2e6; }
 
-.floating-label-form-group input, .floating-label-form-group textarea { font-size: 1.5em; position: relative; z-index: 1; padding: 0; resize: none; border: none; border-radius: 0; background: none; box-shadow: none !important; }
+.floating-label-form-group input, .floating-label-form-group textarea { font-size: 1.2em; position: relative; z-index: 1; padding: 0; resize: none; border: none; border-radius: 0; background: none; box-shadow: none !important; }
 
 .floating-label-form-group input::-webkit-input-placeholder, .floating-label-form-group textarea::-webkit-input-placeholder { color: #6c757d; }
 
@@ -2504,13 +2504,13 @@ header.masthead .page-heading, header.masthead .post-heading, header.masthead .s
 
 header.masthead .page-heading, header.masthead .site-heading { text-align: center; }
 
-header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 42px; margin-top: 0; }
+header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 34px; margin-top: 0; }
 
-header.masthead .page-heading .subheading, header.masthead .site-heading .subheading { font-size: 24px; font-weight: 300; line-height: 1.1; display: block; margin: 10px 0 0; font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
+header.masthead .page-heading .subheading, header.masthead .site-heading .subheading { font-size: 22px; font-weight: 300; line-height: 1.1; display: block; margin: 10px 0 0; font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; }
 
-@media only screen and (min-width: 768px) { header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 80px; } }
+@media only screen and (min-width: 768px) { header.masthead .page-heading h1, header.masthead .site-heading h1 { font-size: 34px; } }
 
-header.masthead .post-heading h1 { font-size: 35px; }
+header.masthead .post-heading h1 { font-size: 34px; }
 
 header.masthead .post-heading .meta, header.masthead .post-heading .subheading { line-height: 1.1; display: block; }
 
