@@ -42,7 +42,7 @@ investment background and this phenomenon opened many doors in the retail indust
 investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the past changed
 their mind and some of these firms started also offering these alternative assets to their clients.
 
-On one hand, the central banks low-interest or quantitative easing policies caused a huge increase of the different
+On one hand, the central banks low-interest or quantitative easing policies caused a huge increase on the price of the different
 crypto assets. Another topic that helped with this was the creation of different communities such as Bored Apples or
 CryptoPunks
 

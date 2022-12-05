@@ -104,7 +104,7 @@ para ayudarnos con una perfecta nutrición encaminada a conseguir el mejor rendi
 Cuando se trata de comida, como en muchos otros aspectos de la vida, no se puede improvisar. Tener la nevera vacía e ir
 a la última
 minuto al supermercado, y te puedo asegurar que probablemente terminarás con comida post procesada y de baja calidad.
-nutrientes Este definitivamente no es el camino. Otro beneficio es que con esta técnica puedes evitar
+Este definitivamente no es el camino. Otro beneficio es que con esta técnica puedes evitar
 productos en el supermercado y ahorrar una cantidad considerable de dinero.
 
 ### Sé constante
