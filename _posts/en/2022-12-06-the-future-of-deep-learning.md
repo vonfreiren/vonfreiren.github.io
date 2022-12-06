@@ -126,4 +126,5 @@ Overall, the future of deep learning looks very promising, with the potential to
 and applications. As deep learning algorithms continue to evolve and become more powerful, we can expect to see even
 more exciting other useful applications in this field.
 
-For example, if you have noticed this article is just an example of what Deep Learning can achieve generating the text you have just read.
+For example, if you have noticed,this article is just an example of what Deep Learning can achieve generating the text you have just read. 
+Therefore, the future we are describing above may not be that far away.
