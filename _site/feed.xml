@@ -1,4 +1,282 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-06T19:34:54+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="es"><title type="html">Utilidades de los NFT y cómo crearlos</title><link href="http://localhost:4000/Utilidades-NFT-y-como-crearlos/" rel="alternate" type="text/html" title="Utilidades de los NFT y cómo crearlos" /><published>2022-12-03T13:01:13+01:00</published><updated>2022-12-03T13:01:13+01:00</updated><id>http://localhost:4000/Utilidades-NFT-y-como-crearlos</id><content type="html" xml:base="http://localhost:4000/Utilidades-NFT-y-como-crearlos/"><![CDATA[<h1 id="utilities-of-nfts">Utilities of NFTs</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-06T19:35:33+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">The Future of Deep Learning</title><link href="http://localhost:4000/the-future-of-deep-learning/" rel="alternate" type="text/html" title="The Future of Deep Learning" /><published>2022-12-06T13:01:13+01:00</published><updated>2022-12-06T13:01:13+01:00</updated><id>http://localhost:4000/the-future-of-deep-learning</id><content type="html" xml:base="http://localhost:4000/the-future-of-deep-learning/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<div class="text-article">
+Artificial Intelligence (AI) and Deep Learning are two closely related fields that have garnered a lot of attention in
+recent years. AI is a broad term that refers to the ability of a machine or computer program to simulate human
+intelligence and perform tasks that typically require human cognition, such as learning, problem-solving, and
+decision-making.</div>
+
+<p>Deep learning, on the other hand, is a subset of AI that uses large neural networks with multiple layers of processing
+to learn and make decisions based on data.</p>
+
+<p>The history of AI can be traced back to the 1950s, when researchers began exploring the possibility of creating machines
+that could perform tasks that required human intelligence.</p>
+
+<p>Early AI research focused on creating algorithms that could mimic human decision-making processes and problem-solving
+abilities. However, the limitations of computing power at the time meant that these early AI systems were not able to
+handle the large amounts of data and complex calculations required for more advanced tasks.</p>
+
+<p>The rise of the internet and the availability of large datasets in the 1990s provided a major boost to AI research. This
+led to the development of new algorithms and techniques, such as decision trees and support vector machines, that could
+handle large amounts of data and make more accurate predictions. However, these algorithms still relied on human input
+to define the rules and criteria used to make decisions, which limited their ability to learn and adapt to new
+situations.</p>
+
+<p>Deep learning, on the other hand, uses large neural networks with multiple layers of processing to learn and make
+decisions based on data. These networks are inspired by the structure of the human brain, with each layer of neurons
+performing a specific function and passing information to the next layer for further processing. Unlike traditional AI
+algorithms, deep learning algorithms do not require human input to define the rules and criteria used to make decisions.
+Instead, they are able to learn from the data they are given and improve their performance over time.</p>
+
+<h2 id="deep-learning">Deep Learning</h2>
+
+<p>One of the key advantages of deep learning is its ability to handle unstructured data, such as images, audio, and text.
+This has made it particularly useful in fields such as computer vision, natural language processing, and speech
+recognition, where traditional AI algorithms struggle to make sense of complex and unstructured data. For example, deep
+learning algorithms have been used to develop image recognition systems that can accurately identify objects in images,
+and language translation systems that can accurately translate text from one language to another.</p>
+
+<p>Deep learning has also been used in a variety of other fields, including healthcare, finance, and transportation. In
+healthcare, deep learning algorithms have been used to identify patterns in medical images that may indicate the
+presence of certain diseases, such as cancer. In finance, deep learning algorithms have been used to analyze large
+amounts of market data and make predictions about stock prices and other asset classes.</p>
+
+<p>Despite these advantages, there are also challenges and limitations to the use of deep learning. One of the main
+challenges is the need for large amounts of data to train the algorithms, which can be difficult to obtain in some
+applications. In addition, deep learning algorithms can be complex and difficult to interpret, making it difficult to
+understand why they make certain predictions or decisions. This can be a problem in applications where explainability is
+important, such as in medical diagnosis or financial decision-making.</p>
+
+<h2 id="utilities">Utilities</h2>
+
+<p>The future of deep learning looks bright, with researchers and companies continuing to invest in this field to develop
+new applications and technologies. In the next few years, we can expect to see deep learning algorithms become even more
+powerful and versatile, with the ability to handle even larger and more complex datasets.</p>
+
+<p>One of the key areas where deep learning is expected to have a significant impact is in healthcare. Deep learning
+algorithms are already being used to analyze medical images and identify patterns that may indicate the presence of
+certain diseases. In the future, we can expect to see these algorithms become even more accurate and able to handle a
+wider range of medical data, such as genomics and electronic health records. This could potentially lead to more
+personalized and effective treatments for patients, and help healthcare providers to diagnose and treat diseases more
+efficiently.</p>
+
+<p>Another area where deep learning is expected to have a major impact is in transportation. Deep learning algorithms are
+already being used in self-driving cars to enable them to navigate roads and avoid obstacles. In the future, we can
+expect to see these algorithms become even more advanced, with the ability to handle a wider range of driving conditions
+and scenarios. This could potentially lead to the development of safer and more efficient self-driving cars, and pave
+the way for the widespread adoption of autonomous vehicles.</p>
+
+<p>In addition, deep learning is also expected to play a significant role in the development of smart cities. Deep learning
+algorithms can be used to analyze large amounts of data from sensors and other sources to identify patterns and trends,
+and help city planners and policymakers to make more informed decisions. For example, deep learning algorithms could be
+used to analyze traffic data to optimize the flow of vehicles on roads, or to monitor energy usage in buildings to
+improve efficiency.</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/deep_learning/surgeon.jpg" alt="Medicine and Deep Learning" />
+    <span class="caption text-muted">In fields such as Medicine, Deep Learning is already being used to analyze medical images and identify patterns that may indicate the presence of certain diseases.</span>
+</p>
+
+<h2 id="deep-learning-and-the-workforce">Deep Learning and the workforce</h2>
+
+<p>The rise of deep learning has had a significant impact on the workforce, with many companies and industries starting to
+adopt this technology to improve efficiency and productivity. Deep learning algorithms are able to learn from large
+amounts of data and make predictions and decisions based on that data, which makes them well-suited for a wide range of
+tasks and applications.</p>
+
+<p>One of the key ways that deep learning is being used in the workforce is in automating tasks that were previously
+performed by humans. Many companies are using deep learning algorithms to automate repetitive and time-consuming tasks,
+such as data entry and analysis, customer service, and scheduling. This allows employees to focus on more complex and
+value-added tasks, and can improve overall productivity and efficiency.</p>
+
+<p>However, the widespread adoption of deep learning in the workforce has also raised concerns about job displacement. As
+deep learning algorithms become more advanced and are able to perform more tasks, there is a risk that they could
+replace human workers in many industries. This could potentially lead to job losses and increased unemployment, and
+could have a negative impact on the economy.</p>
+
+<p>To address this concern, it is important for companies and policymakers to invest in training and education programs
+that can help workers acquire the skills and knowledge necessary to work alongside deep learning algorithms and adapt to
+new technologies. This could include training programs in areas such as data analysis, programming, and machine
+learning, which can help workers to develop the skills needed to work with deep learning algorithms and other emerging
+technologies.</p>
+
+<p>In conclusion, deep learning is having a significant impact on the workforce, with many companies using this technology
+to automate tasks and improve efficiency. While this has the potential to bring many benefits, it also raises concerns
+about job displacement and the need for workers to adapt to new technologies. To address these challenges, it is
+important for companies and policymakers to invest in training and education programs that can help.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Overall, the future of deep learning looks very promising, with the potential to transform a wide range of industries
+and applications. As deep learning algorithms continue to evolve and become more powerful, we can expect to see even
+more exciting other useful applications in this field.</p>
+
+<p>For example, if you have noticed this article is just an example of what Deep Learning can achieve generating the text you have just read.</p>]]></content><author><name>Javier Freire</name></author><category term="Technology" /><summary type="html"><![CDATA[Different examples of how Deep Learning works, including some cases such as this article]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/deep_learning/deep.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/deep_learning/deep.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">NFT Utilities and How To Create Them</title><link href="http://localhost:4000/NFT-utilities-and-how-to-create-them/" rel="alternate" type="text/html" title="NFT Utilities and How To Create Them" /><published>2022-12-03T13:01:13+01:00</published><updated>2022-12-03T13:01:13+01:00</updated><id>http://localhost:4000/NFT-utilities-and-how-to-create-them</id><content type="html" xml:base="http://localhost:4000/NFT-utilities-and-how-to-create-them/"><![CDATA[<h1 id="utilities-of-nfts">Utilities of NFTs</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<div class="text-article">
+2021 was the year of the NFTs where we saw a boom in the Non-Fungible Token trading transaction volume thanks to the
+ERC-721 standard created back in 2018. This trend seems that has diminished recently in the current crypto bear market,
+but contrary to what some people thought we have more and more marketplaces and sites that offer you the chance to
+discover your next collectible.</div>
+
+<p>Although NFTs are known for art and just some characteristic images, this article will not be focused merely on the
+artistic side, but also other utilities that Non-Fungible Tokens can bring to your entertainment and lifestyle.</p>
+
+<p>The term Non-Fungible Token means that this item is unique and cannot be duplicated. If you are the owner of an NFT,
+this piece belongs just to you and this ownership is reflected in the blockchain network. Different Blockchain network
+such as the mentioned one from Ethereum or others such as Avalanche, or Solana make this possible.</p>
+
+<h2 id="origins-of-nfts">Origins of NFTs</h2>
+
+<p>It all happened in 2021. There is no exact reason for the boom of NFTs during this year, but there some events that most
+probably had something to do with the rise of NFTs.</p>
+
+<p>During this period, more and more people jumped into the crypto world. In some cases, they did not have a previous
+investment background and this phenomenon opened many doors in the retail industry. Furthermore, some famous people and
+investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the past changed
+their mind and some of these firms started also offering these alternative assets to their clients.</p>
+
+<p>On one hand, the central banks low-interest or quantitative easing policies caused a huge increase on the price of the different
+crypto assets. Another topic that helped with this was the creation of different communities such as Bored Apples or
+CryptoPunks</p>
+
+<p>If we put everything into the mix, we saw what we saw with the explosion of NFTs that occurred some years ago and the
+adoption of these in the society.</p>
+
+<h2 id="utilities">Utilities</h2>
+
+<p>However, although NFTs may be linked to pictures or avatars, there are a lot of areas beyond this topic where NFTs can
+play a great role, either now or in the years to come. Although it may seem interesting too, we will not talk about the
+several millions that were paid to acquire some NFTs in auction houses such as Christie’s or on-chain.</p>
+
+<p>If you have not realized about the potential across sectors that NFTs have, you will probably see that these will impact
+for good these sectors in the future.</p>
+
+<h3 id="art">Art</h3>
+
+<p>With the democratization of art, this means that all artists can promote their creativity and by doing so, they are also
+able to reach to more people. With NFTs, you and only you are the owner of these unique pieces. Who know where the next
+Picasso or Dali will be? This means that art lovers and the search of the next gem is not limited to just some
+privileged collectors with good connections, but to everyone who loves art and beauty.</p>
+
+<h3 id="videogames">Videogames</h3>
+
+<p>Non-Fungible Tokens have a lot of possibilities when it comes to the gaming industry. The boom of online video games,
+e-sports and open world games have helped achieve this. If we think about the most iconic series, several utilities can
+be proposed.</p>
+
+<p>For example, in MOBA games such as League of Legends, having a unique skin and spell effects for you character could not
+just improve your gaming experience but also trade with them after you get tired of it.</p>
+
+<p>Although the normal price of skins is considerably low, this means that they are not unique, and you may see all the
+time the same ones when playing the game. Knowing the number of fanatic gamers, it would be interesting for some of them
+to have a unique skin that would make other players jealous. For companies, it would need to be checked whether this
+business model makes sense (high volume and low price or selling just one single skin for several thousands of dollars)</p>
+
+<h3 id="music">Music</h3>
+
+<p>Instead of collecting limited edition vinyl records or CDs, the next step in our constantly changing world could be
+having the original copy or even special edition versions or unreleased remixes of top hits. Instead of having the
+physical copy you would have it registered in the blockchain.</p>
+
+<p>For musicians and DJs, this can be a great very interesting mechanism, same as art makers, to promote their job and
+access to different users around the world. This also removes intermediaries that take a big piece of the cake.</p>
+
+<p>For example, if you like EDM and you go to festivals often, you may have noticed that recently the songs that the
+different DJs play are the ones that are being played everywhere, and they tend to play the latest hits. You may have
+seen this in festivals such as Ultra or Tomorrowland. This makes the music sessions not as original as before.</p>
+
+<p>If you attend one of these sets, this can be the only time you can hear a specific unreleased song because they are the
+sole owners of this one. Some collectors may be interested on this specific version and request the artist to buy it.</p>
+
+<p>In connection to the commercial side of this feature, since you are the owner of this song, you could set a
+subscription/reproduction fee if someone wants to play your song.</p>
+
+<p>
+    <img class="img-fluid" src="/img/posts/nfts/dog-vinyls.jpg" alt="The new collection method" />
+    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting music in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
+</span>
+</p>
+
+<h3 id="videos">Videos</h3>
+
+<p>The movies sector didn’t change much in the last decade until Covid arrived. Starting 2020, since people could not go
+out, there were several days for some long-awaited movies. In other cases, that they allowed was to offer the movies via
+some streaming platforms.</p>
+
+<p>However, what could really revolutionize the art of collecting records of the different movies would be the chance of
+having original and unique recordings, such as shorts or cut scenes of your favorite movie. If you think about fans of
+the most well-known sagas such as Star Wars or the Godfather, these items could have an exponential increase in a few
+years from now.</p>
+
+<h3 id="tickets">Tickets</h3>
+
+<p>Imagine going to a football game or concert. This is nothing unusual and something that everyone has done. If you for
+example go to a world cup final, you may record videos, etc., but one of the things probably you will want to keep it
+for this unique experience will be the tickets of the match you attended.</p>
+
+<p>The same could be applied to other events. Imagine going to last tour of your favorite music band before they split or
+retire. This is also something quite unique that would like to keep, and it’s probably that something will increase their
+value with the years should you want to sell it later.</p>
+
+<h3 id="creating-and-minting-nfts">Creating and minting NFTs</h3>
+
+<p>The good thing about the NFTs is that the steps to create them are quite easy. It’s not correct that in order to take
+part in these topics you are required to have a technical profile. You may have heard the term “Mint”. This is basically
+registering the NFT on the blockchain, which in this case will show that belong to your wallet. Obviously, you will need
+to create something unique, for which you will need to show some creativity and originality. However, once you completed
+your first work, the steps can be summarized as follows:</p>
+
+<h3 id="creating-a-wallet">Creating a Wallet</h3>
+
+<p>If you are new to the crypto world, don’t be afraid of terms. Creating a wallet is something that not many people do at
+the moment, but I can guarantee that as with other technologies, in the future everyone will have their own wallet where
+they can keep and guard their assets without the need of a middleman. As just discussed, this is something that anyone can do
+regardless of their background and technology skills.</p>
+
+<p>Some of the most popular wallets out there are Metamask, Coinbase Wallet or Phantom.</p>
+
+<h3 id="choosing-the-chain">Choosing the chain</h3>
+
+<p>The choice of the wallet is linked to the blockchain where you operate and the marketplace where you want to show your
+item. Some blockchains you may consider are Ethereum, Polygon, Solana, Tezos. The chain you use will have an impact
+in the site or platform where you want to show your NFTs. As with the wallet, the marketplace you choose in the second
+point is also linked to this step.</p>
+
+<h3 id="selecting-the-nft-marketplace">Selecting the NFT marketplace</h3>
+
+<p>Some of the most famous sites to trade NFTs are OpenSea, Magic Eden or Rarible and they offer different However, as we
+discussed in the introduction, you see more and more often new places dedicated to certain niche markets.</p>
+
+<p>If you are new into this world, some benefits of OpenSea is that you don’t pay any gas fees when minting and
+these fees are just paid if you sell your NFT.</p>
+
+<h3 id="tokenizing-the-nft">Tokenizing the NFT</h3>
+
+<p>When creating the NFT, it is recommended to provide additional information and not just the basic details. For example,
+include some details like the name, the collection, and other technical details.</p>
+
+<h3 id="showing-and-selling-the-nft">Showing and selling the NFT</h3>
+
+<p>Once you have linked your wallet to the desired site, you can just show your collection, sell the items, or buy new NFTs
+to add to your collection. In this example, I just included the basic steps, but of course the industry is constantly
+evolving, and you will see new wallets, marketplaces and chains.</p>
+
+<p>If you want to have a look at my collection, you can just go to the links below:</p>
+
+<p><a href="https://opensea.io/collection/animals-badass">https://opensea.io/collection/animals-badass</a></p>
+
+<p><a href="https://opensea.io/collection/gaming-gnigmag">https://opensea.io/collection/gaming-gnigmag</a></p>
+
+<p><a href="https://opensea.io/collection/jeopard">https://opensea.io/collection/jeopard</a></p>
+
+<p><a href="https://opensea.io/collection/realcybercryptopunk">https://opensea.io/collection/realcybercryptopunk</a></p>
+
+<p><a href="https://opensea.io/collection/welcome-to-the-metajungle">https://opensea.io/collection/welcome-to-the-metajungle</a></p>
+
+<p>That should be all for now. You will see that the process is not complicated at all. Good luck and Happy Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[From art to videogames and sports, what NFTs can change in these sectors and the neccesary steps to create them]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">Utilidades de los NFT y cómo crearlos</title><link href="http://localhost:4000/Utilidades-NFT-y-como-crearlos/" rel="alternate" type="text/html" title="Utilidades de los NFT y cómo crearlos" /><published>2022-12-03T13:01:13+01:00</published><updated>2022-12-03T13:01:13+01:00</updated><id>http://localhost:4000/Utilidades-NFT-y-como-crearlos</id><content type="html" xml:base="http://localhost:4000/Utilidades-NFT-y-como-crearlos/"><![CDATA[<h1 id="utilities-of-nfts">Utilities of NFTs</h1>
 
 <h2 id="introducción">Introducción</h2>
 
@@ -172,285 +450,7 @@ evolucionando, y verás nuevas carteras, mercados y cadenas.</p>
 
 <p><a href="https://opensea.io/collection/welcome-to-the-metajungle">https://opensea.io/collection/welcome-to-the-metajungle</a></p>
 
-<p>Eso es todo por ahora. Verás que el proceso no es nada complicado. Buena suerte y ¡feliz Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Del arte a los videojuegos y los deportes, qué pueden cambiar lost NFT en estos sectores y los pasos necesarios para crearlos]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">NFT Utilities and How To Create Them</title><link href="http://localhost:4000/NFT-utilities-and-how-to-create-them/" rel="alternate" type="text/html" title="NFT Utilities and How To Create Them" /><published>2022-12-03T13:01:13+01:00</published><updated>2022-12-03T13:01:13+01:00</updated><id>http://localhost:4000/NFT-utilities-and-how-to-create-them</id><content type="html" xml:base="http://localhost:4000/NFT-utilities-and-how-to-create-them/"><![CDATA[<h1 id="utilities-of-nfts">Utilities of NFTs</h1>
-
-<h2 id="introduction">Introduction</h2>
-
-<div class="text-article">
-2021 was the year of the NFTs where we saw a boom in the Non-Fungible Token trading transaction volume thanks to the
-ERC-721 standard created back in 2018. This trend seems that has diminished recently in the current crypto bear market,
-but contrary to what some people thought we have more and more marketplaces and sites that offer you the chance to
-discover your next collectible.</div>
-
-<p>Although NFTs are known for art and just some characteristic images, this article will not be focused merely on the
-artistic side, but also other utilities that Non-Fungible Tokens can bring to your entertainment and lifestyle.</p>
-
-<p>The term Non-Fungible Token means that this item is unique and cannot be duplicated. If you are the owner of an NFT,
-this piece belongs just to you and this ownership is reflected in the blockchain network. Different Blockchain network
-such as the mentioned one from Ethereum or others such as Avalanche, or Solana make this possible.</p>
-
-<h2 id="origins-of-nfts">Origins of NFTs</h2>
-
-<p>It all happened in 2021. There is no exact reason for the boom of NFTs during this year, but there some events that most
-probably had something to do with the rise of NFTs.</p>
-
-<p>During this period, more and more people jumped into the crypto world. In some cases, they did not have a previous
-investment background and this phenomenon opened many doors in the retail industry. Furthermore, some famous people and
-investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the past changed
-their mind and some of these firms started also offering these alternative assets to their clients.</p>
-
-<p>On one hand, the central banks low-interest or quantitative easing policies caused a huge increase on the price of the different
-crypto assets. Another topic that helped with this was the creation of different communities such as Bored Apples or
-CryptoPunks</p>
-
-<p>If we put everything into the mix, we saw what we saw with the explosion of NFTs that occurred some years ago and the
-adoption of these in the society.</p>
-
-<h2 id="utilities">Utilities</h2>
-
-<p>However, although NFTs may be linked to pictures or avatars, there are a lot of areas beyond this topic where NFTs can
-play a great role, either now or in the years to come. Although it may seem interesting too, we will not talk about the
-several millions that were paid to acquire some NFTs in auction houses such as Christie’s or on-chain.</p>
-
-<p>If you have not realized about the potential across sectors that NFTs have, you will probably see that these will impact
-for good these sectors in the future.</p>
-
-<h3 id="art">Art</h3>
-
-<p>With the democratization of art, this means that all artists can promote their creativity and by doing so, they are also
-able to reach to more people. With NFTs, you and only you are the owner of these unique pieces. Who know where the next
-Picasso or Dali will be? This means that art lovers and the search of the next gem is not limited to just some
-privileged collectors with good connections, but to everyone who loves art and beauty.</p>
-
-<h3 id="videogames">Videogames</h3>
-
-<p>Non-Fungible Tokens have a lot of possibilities when it comes to the gaming industry. The boom of online video games,
-e-sports and open world games have helped achieve this. If we think about the most iconic series, several utilities can
-be proposed.</p>
-
-<p>For example, in MOBA games such as League of Legends, having a unique skin and spell effects for you character could not
-just improve your gaming experience but also trade with them after you get tired of it.</p>
-
-<p>Although the normal price of skins is considerably low, this means that they are not unique, and you may see all the
-time the same ones when playing the game. Knowing the number of fanatic gamers, it would be interesting for some of them
-to have a unique skin that would make other players jealous. For companies, it would need to be checked whether this
-business model makes sense (high volume and low price or selling just one single skin for several thousands of dollars)</p>
-
-<h3 id="music">Music</h3>
-
-<p>Instead of collecting limited edition vinyl records or CDs, the next step in our constantly changing world could be
-having the original copy or even special edition versions or unreleased remixes of top hits. Instead of having the
-physical copy you would have it registered in the blockchain.</p>
-
-<p>For musicians and DJs, this can be a great very interesting mechanism, same as art makers, to promote their job and
-access to different users around the world. This also removes intermediaries that take a big piece of the cake.</p>
-
-<p>For example, if you like EDM and you go to festivals often, you may have noticed that recently the songs that the
-different DJs play are the ones that are being played everywhere, and they tend to play the latest hits. You may have
-seen this in festivals such as Ultra or Tomorrowland. This makes the music sessions not as original as before.</p>
-
-<p>If you attend one of these sets, this can be the only time you can hear a specific unreleased song because they are the
-sole owners of this one. Some collectors may be interested on this specific version and request the artist to buy it.</p>
-
-<p>In connection to the commercial side of this feature, since you are the owner of this song, you could set a
-subscription/reproduction fee if someone wants to play your song.</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/nfts/dog-vinyls.jpg" alt="The new collection method" />
-    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting music in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
-</span>
-</p>
-
-<h3 id="videos">Videos</h3>
-
-<p>The movies sector didn’t change much in the last decade until Covid arrived. Starting 2020, since people could not go
-out, there were several days for some long-awaited movies. In other cases, that they allowed was to offer the movies via
-some streaming platforms.</p>
-
-<p>However, what could really revolutionize the art of collecting records of the different movies would be the chance of
-having original and unique recordings, such as shorts or cut scenes of your favorite movie. If you think about fans of
-the most well-known sagas such as Star Wars or the Godfather, these items could have an exponential increase in a few
-years from now.</p>
-
-<h3 id="tickets">Tickets</h3>
-
-<p>Imagine going to a football game or concert. This is nothing unusual and something that everyone has done. If you for
-example go to a world cup final, you may record videos, etc., but one of the things probably you will want to keep it
-for this unique experience will be the tickets of the match you attended.</p>
-
-<p>The same could be applied to other events. Imagine going to last tour of your favorite music band before they split or
-retire. This is also something quite unique that would like to keep, and it’s probably that something will increase their
-value with the years should you want to sell it later.</p>
-
-<h3 id="creating-and-minting-nfts">Creating and minting NFTs</h3>
-
-<p>The good thing about the NFTs is that the steps to create them are quite easy. It’s not correct that in order to take
-part in these topics you are required to have a technical profile. You may have heard the term “Mint”. This is basically
-registering the NFT on the blockchain, which in this case will show that belong to your wallet. Obviously, you will need
-to create something unique, for which you will need to show some creativity and originality. However, once you completed
-your first work, the steps can be summarized as follows:</p>
-
-<h3 id="creating-a-wallet">Creating a Wallet</h3>
-
-<p>If you are new to the crypto world, don’t be afraid of terms. Creating a wallet is something that not many people do at
-the moment, but I can guarantee that as with other technologies, in the future everyone will have their own wallet where
-they can keep and guard their assets without the need of a middleman. As just discussed, this is something that anyone can do
-regardless of their background and technology skills.</p>
-
-<p>Some of the most popular wallets out there are Metamask, Coinbase Wallet or Phantom.</p>
-
-<h3 id="choosing-the-chain">Choosing the chain</h3>
-
-<p>The choice of the wallet is linked to the blockchain where you operate and the marketplace where you want to show your
-item. Some blockchains you may consider are Ethereum, Polygon, Solana, Tezos. The chain you use will have an impact
-in the site or platform where you want to show your NFTs. As with the wallet, the marketplace you choose in the second
-point is also linked to this step.</p>
-
-<h3 id="selecting-the-nft-marketplace">Selecting the NFT marketplace</h3>
-
-<p>Some of the most famous sites to trade NFTs are OpenSea, Magic Eden or Rarible and they offer different However, as we
-discussed in the introduction, you see more and more often new places dedicated to certain niche markets.</p>
-
-<p>If you are new into this world, some benefits of OpenSea is that you don’t pay any gas fees when minting and
-these fees are just paid if you sell your NFT.</p>
-
-<h3 id="tokenizing-the-nft">Tokenizing the NFT</h3>
-
-<p>When creating the NFT, it is recommended to provide additional information and not just the basic details. For example,
-include some details like the name, the collection, and other technical details.</p>
-
-<h3 id="showing-and-selling-the-nft">Showing and selling the NFT</h3>
-
-<p>Once you have linked your wallet to the desired site, you can just show your collection, sell the items, or buy new NFTs
-to add to your collection. In this example, I just included the basic steps, but of course the industry is constantly
-evolving, and you will see new wallets, marketplaces and chains.</p>
-
-<p>If you want to have a look at my collection, you can just go to the links below:</p>
-
-<p><a href="https://opensea.io/collection/animals-badass">https://opensea.io/collection/animals-badass</a></p>
-
-<p><a href="https://opensea.io/collection/gaming-gnigmag">https://opensea.io/collection/gaming-gnigmag</a></p>
-
-<p><a href="https://opensea.io/collection/jeopard">https://opensea.io/collection/jeopard</a></p>
-
-<p><a href="https://opensea.io/collection/realcybercryptopunk">https://opensea.io/collection/realcybercryptopunk</a></p>
-
-<p><a href="https://opensea.io/collection/welcome-to-the-metajungle">https://opensea.io/collection/welcome-to-the-metajungle</a></p>
-
-<p>That should be all for now. You will see that the process is not complicated at all. Good luck and Happy Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[From art to videogames and sports, what NFTs can change in these sectors and the neccesary steps to create them]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">The Future of Deep Learning</title><link href="http://localhost:4000/the-future-of-deep-learning/" rel="alternate" type="text/html" title="The Future of Deep Learning" /><published>2022-12-03T13:01:13+01:00</published><updated>2022-12-03T13:01:13+01:00</updated><id>http://localhost:4000/the-future-of-deep-learning</id><content type="html" xml:base="http://localhost:4000/the-future-of-deep-learning/"><![CDATA[<h2 id="introduction">Introduction</h2>
-
-<div class="text-article">
-Artificial Intelligence (AI) and Deep Learning are two closely related fields that have garnered a lot of attention in
-recent years. AI is a broad term that refers to the ability of a machine or computer program to simulate human
-intelligence and perform tasks that typically require human cognition, such as learning, problem-solving, and
-decision-making.</div>
-
-<p>Deep learning, on the other hand, is a subset of AI that uses large neural networks with multiple layers of processing
-to learn and make decisions based on data.</p>
-
-<p>The history of AI can be traced back to the 1950s, when researchers began exploring the possibility of creating machines
-that could perform tasks that required human intelligence.</p>
-
-<p>Early AI research focused on creating algorithms that could mimic human decision-making processes and problem-solving
-abilities. However, the limitations of computing power at the time meant that these early AI systems were not able to
-handle the large amounts of data and complex calculations required for more advanced tasks.</p>
-
-<p>The rise of the internet and the availability of large datasets in the 1990s provided a major boost to AI research. This
-led to the development of new algorithms and techniques, such as decision trees and support vector machines, that could
-handle large amounts of data and make more accurate predictions. However, these algorithms still relied on human input
-to define the rules and criteria used to make decisions, which limited their ability to learn and adapt to new
-situations.</p>
-
-<p>Deep learning, on the other hand, uses large neural networks with multiple layers of processing to learn and make
-decisions based on data. These networks are inspired by the structure of the human brain, with each layer of neurons
-performing a specific function and passing information to the next layer for further processing. Unlike traditional AI
-algorithms, deep learning algorithms do not require human input to define the rules and criteria used to make decisions.
-Instead, they are able to learn from the data they are given and improve their performance over time.</p>
-
-<h2 id="deep-learning">Deep Learning</h2>
-
-<p>One of the key advantages of deep learning is its ability to handle unstructured data, such as images, audio, and text.
-This has made it particularly useful in fields such as computer vision, natural language processing, and speech
-recognition, where traditional AI algorithms struggle to make sense of complex and unstructured data. For example, deep
-learning algorithms have been used to develop image recognition systems that can accurately identify objects in images,
-and language translation systems that can accurately translate text from one language to another.</p>
-
-<p>Deep learning has also been used in a variety of other fields, including healthcare, finance, and transportation. In
-healthcare, deep learning algorithms have been used to identify patterns in medical images that may indicate the
-presence of certain diseases, such as cancer. In finance, deep learning algorithms have been used to analyze large
-amounts of market data and make predictions about stock prices and other asset classes.</p>
-
-<p>Despite these advantages, there are also challenges and limitations to the use of deep learning. One of the main
-challenges is the need for large amounts of data to train the algorithms, which can be difficult to obtain in some
-applications. In addition, deep learning algorithms can be complex and difficult to interpret, making it difficult to
-understand why they make certain predictions or decisions. This can be a problem in applications where explainability is
-important, such as in medical diagnosis or financial decision-making.</p>
-
-<h2 id="utilities">Utilities</h2>
-
-<p>The future of deep learning looks bright, with researchers and companies continuing to invest in this field to develop
-new applications and technologies. In the next few years, we can expect to see deep learning algorithms become even more
-powerful and versatile, with the ability to handle even larger and more complex datasets.</p>
-
-<p>One of the key areas where deep learning is expected to have a significant impact is in healthcare. Deep learning
-algorithms are already being used to analyze medical images and identify patterns that may indicate the presence of
-certain diseases. In the future, we can expect to see these algorithms become even more accurate and able to handle a
-wider range of medical data, such as genomics and electronic health records. This could potentially lead to more
-personalized and effective treatments for patients, and help healthcare providers to diagnose and treat diseases more
-efficiently.</p>
-
-<p>Another area where deep learning is expected to have a major impact is in transportation. Deep learning algorithms are
-already being used in self-driving cars to enable them to navigate roads and avoid obstacles. In the future, we can
-expect to see these algorithms become even more advanced, with the ability to handle a wider range of driving conditions
-and scenarios. This could potentially lead to the development of safer and more efficient self-driving cars, and pave
-the way for the widespread adoption of autonomous vehicles.</p>
-
-<p>In addition, deep learning is also expected to play a significant role in the development of smart cities. Deep learning
-algorithms can be used to analyze large amounts of data from sensors and other sources to identify patterns and trends,
-and help city planners and policymakers to make more informed decisions. For example, deep learning algorithms could be
-used to analyze traffic data to optimize the flow of vehicles on roads, or to monitor energy usage in buildings to
-improve efficiency.</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/deep_learning/surgeon.jpg" alt="Medicine and Deep Learning" />
-    <span class="caption text-muted">In fields such as Medicine, Deep Learning is already being used to analyze medical images and identify patterns that may indicate the presence of certain diseases.</span>
-</p>
-
-<h2 id="deep-learning-and-the-workforce">Deep Learning and the workforce</h2>
-
-<p>The rise of deep learning has had a significant impact on the workforce, with many companies and industries starting to
-adopt this technology to improve efficiency and productivity. Deep learning algorithms are able to learn from large
-amounts of data and make predictions and decisions based on that data, which makes them well-suited for a wide range of
-tasks and applications.</p>
-
-<p>One of the key ways that deep learning is being used in the workforce is in automating tasks that were previously
-performed by humans. Many companies are using deep learning algorithms to automate repetitive and time-consuming tasks,
-such as data entry and analysis, customer service, and scheduling. This allows employees to focus on more complex and
-value-added tasks, and can improve overall productivity and efficiency.</p>
-
-<p>However, the widespread adoption of deep learning in the workforce has also raised concerns about job displacement. As
-deep learning algorithms become more advanced and are able to perform more tasks, there is a risk that they could
-replace human workers in many industries. This could potentially lead to job losses and increased unemployment, and
-could have a negative impact on the economy.</p>
-
-<p>To address this concern, it is important for companies and policymakers to invest in training and education programs
-that can help workers acquire the skills and knowledge necessary to work alongside deep learning algorithms and adapt to
-new technologies. This could include training programs in areas such as data analysis, programming, and machine
-learning, which can help workers to develop the skills needed to work with deep learning algorithms and other emerging
-technologies.</p>
-
-<p>In conclusion, deep learning is having a significant impact on the workforce, with many companies using this technology
-to automate tasks and improve efficiency. While this has the potential to bring many benefits, it also raises concerns
-about job displacement and the need for workers to adapt to new technologies. To address these challenges, it is
-important for companies and policymakers to invest in training and education programs that can help.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>Overall, the future of deep learning looks very promising, with the potential to transform a wide range of industries
-and applications. As deep learning algorithms continue to evolve and become more powerful, we can expect to see even
-more exciting other useful applications in this field.</p>
-
-<p>For example, if you have noticed this article is just an example of what Deep Learning can achieve generating the text you have just read.</p>]]></content><author><name>Javier Freire</name></author><category term="Technology" /><summary type="html"><![CDATA[Different examples of how Deep Learning works, including some cases such as this article]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/deep_learning/deep.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/deep_learning/deep.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">Como La Nutrición Está Impactando Tu Vida</title><link href="http://localhost:4000/como-la-nutricion-esta-impactando-tu-vida/" rel="alternate" type="text/html" title="Como La Nutrición Está Impactando Tu Vida" /><published>2022-11-04T13:01:13+01:00</published><updated>2022-11-04T13:01:13+01:00</updated><id>http://localhost:4000/como-la-nutricion-esta-impactando-tu-vida</id><content type="html" xml:base="http://localhost:4000/como-la-nutricion-esta-impactando-tu-vida/"><![CDATA[<h2 id="introducción">Introducción</h2>
+<p>Eso es todo por ahora. Verás que el proceso no es nada complicado. Buena suerte y ¡feliz Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[Del arte a los videojuegos y los deportes, qué pueden cambiar lost NFT en estos sectores y los pasos necesarios para crearlos]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="es"><title type="html">Como La Nutrición Está Impactando Tu Vida</title><link href="http://localhost:4000/como-la-nutricion-esta-impactando-tu-vida/" rel="alternate" type="text/html" title="Como La Nutrición Está Impactando Tu Vida" /><published>2022-11-04T13:01:13+01:00</published><updated>2022-11-04T13:01:13+01:00</updated><id>http://localhost:4000/como-la-nutricion-esta-impactando-tu-vida</id><content type="html" xml:base="http://localhost:4000/como-la-nutricion-esta-impactando-tu-vida/"><![CDATA[<h2 id="introducción">Introducción</h2>
 
 <div class="texto-artículo">
 Comer es uno de los placeres de la vida y además una forma de poder reunirse con familiares y amigos. Sin embargo, aunque no seamos conscientes de ello, comer bien o mal juega un papel importante en nuestra vida (anímico, laboral, deportivo, etc.). Aunque probablemente sea hoy cuando tengamos más acceso a la información, también es la época en la que los productores intentan incluir en el mercado productos con ingredientes que pueden ser perjudiciales para nosotros. También es comprensible que cada vez más personas tengan problemas de obesidad. Aunque los gobiernos están tratando de poner remedio a esta tendencia o incluso “enfermedad moderna”, en lugar de reglas, lo que debemos hacer es educar a la gente y hacerle saber sobre todas las consecuencias.
