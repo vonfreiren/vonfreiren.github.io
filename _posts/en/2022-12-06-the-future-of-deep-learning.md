@@ -3,7 +3,7 @@ layout: post
 title: "The Future of Deep Learning"
 permalink: /:title/
 subtitle: "Different utilities that Deep Learning will bring to our life"
-date: 2022-12-03 12:01:13
+date: 2022-12-06 12:01:13
 background: '/img/posts/deep_learning/deep.jpg'
 thumbnail: '/img/posts/deep_learning/deep.jpg'
 image: '/img/posts/deep_learning/deep.jpg'
