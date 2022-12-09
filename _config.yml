@@ -30,7 +30,13 @@ plugins:
   - jekyll-seo-tag
 
 collections:
-  - books
+  books:
+  spanish:
+    output: true
+    sort_by: date
+    sort_order: descending
+
+
 
 defaults:
   -

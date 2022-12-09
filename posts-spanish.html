@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Artículos en Español
-description: mrfreire.net en Español
-background: '/img/leopard.jpg'
+title: Books
+description: Recent books read
+background: '/img/leopard_books.jpg'
+thumbnail: '/img/leopard_books.jpg'
+image: '/img/leopard_books.jpg'
 ---
 
 <!-- Page Header -->
@@ -17,7 +19,7 @@ background: '/img/leopard.jpg'
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="col-lg-12 col-md-12 mx-auto">
           <div class="page-heading">
             <h1>{{ site.title }}</h1>
             {% if site.description %}
@@ -29,86 +31,88 @@ background: '/img/leopard.jpg'
     </div>
   </header>
 
+
   <div class="container">
     <div class="row">
       <div class="col-lg-18 col-md-20 mx-auto">
-
 
         <div class="bg-white">
           <div class="container">
             <div class="row text-center mb-5">
               <div class="col">
-                <span class="h1 d-block font-weight-bold">Javier Freire's Posts</span>
-                <a class="btn btn-sm float-right" href="{{"/posts" | relative_url }}">Articles in English
+                <span class="h1 d-block font-weight-bold"> Artículos de Javier Freire Álvarez</span>
+                <a class="btn btn-sm float-right" href="{{"/" | relative_url }}">Articles in English
                 &rarr;</a>
               </div>
             </div>
-
             <div class="row">
 
-            <!-- Home Post List -->
-            {% for post in site.posts limit : 100 %}
-            {% if post.lang == 'es' %}
 
-            <div class="col-18 col-md-12 col-lg-4 d-flex">
-              <div class="card border shadow">
-                <article class="post-preview">
-                  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                    <p>
-                      <img class="card-img-top" src="{{post.background}}">
-                    <div class="card-body py-3">
-                      <h5 class="post-title">{{ post.title }}</h5>
-                      {% if post.subtitle %}
-                      <h7 class="post-subtitle">{{ post.subtitle }}</h7>
-                      <section>
-                        <small class="post-preview">{{ post.content | strip_html | truncatewords: 30 }}</small>
-                      </section>
-                      {% else %}
-                      <h7 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h7>
-                      {% endif %}
-                    <span style="height: 100px;"/>
-                    <br>
-                    <small class="post-title"> {{ post.date | date: '%B %d, %Y' }} </small>
-                  </div>
-                  </a>
-                  <!--            <div class="card-body py-3">
-                              <p class="post-meta"> <small>Posted by
-                              {% if post.author %}
-                              {{ post.author }}
-                              {% else %}
-                              {{ site.author }}
-                              {% endif %}
-                              on
-                              {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-                          </small></p>
-                              {% if post.tags.size > 0 %}
-                                  <div class="caption">
-                                      <span class="post-share-title">Tags:</span>
-                                      {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
-                                      <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                                      {% else %}
-                                      <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                                      {% endif %}
-                                      {% endfor %}
-                                  </div>
-                                  {% endif %}
-                                  </div>-->
-                </article>
-              </div>
-            </div>
+        <!-- Home Post List -->
+              {% assign sorted = site.spanish | reverse %}
+
+              {% for post in sorted limit : 100 %}
+
+              <div class="col-12 col-md-6 col-lg-4 d-flex">
+                <div class="card border shadow">
+        <article class="post-preview">
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            <p>
+              <img class="card-img-top" src="{{post.background}}">
+              <div class="card-body py-3">
+              <h5 class="post-title">{{ post.title }}</h5>
+            {% if post.subtitle %}
+            <h7 class="post-subtitle">{{ post.subtitle }}</h7>
+              <section>
+               <small class="post-preview">{{ post.content | strip_html | truncatewords: 30 }}</small>
+              </section>
+                  {% else %}
+            <h7 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h7>
             {% endif %}
-            {% endfor %}
+            <span style="height: 100px;"/>
+            <br>
+            <small  class="post-title"> {{ post.date | date: '%B %d, %Y' }}  </small>
+          </div>
+          </a>
+<!--            <div class="card-body py-3">
+            <p class="post-meta"> <small>Posted by
+            {% if post.author %}
+            {{ post.author }}
+            {% else %}
+            {{ site.author }}
+            {% endif %}
+            on
+            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+        </small></p>
+            {% if post.tags.size > 0 %}
+                <div class="caption">
+                    <span class="post-share-title">Tags:</span>
+                    {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
+                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+                    {% else %}
+                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                {% endif %}
+                </div>-->
+                  </article>
+                </div>
+                </div>
+        {% endfor %}
+            </div>
           </div>
         </div>
       </div>
+      </div>
+    </section>
+        <!-- Pager -->
+    <p>
+        <div class="clearfix">
+          <a class="btn float-right" href="{{"/posts" | relative_url }}">Todos los Artículos &rarr;</a>
+        </div>
+    </p>
+
+      </div>
     </div>
   </div>
-  </section>
-  <!-- Pager -->
-  <p>
-  <div class="clearfix">
-    <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">Ver Posts en Inglés &rarr;</a>
-  </div>
-  </p>
-
-</div>
