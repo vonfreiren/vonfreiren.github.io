@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of Trail Running"
 permalink: /:title/
 subtitle: "A different perspective of doing sport with trail running"
-date: 2022-12-09 12:01:13
+date: 2022-12-10 02:01:13
 background: '/img/posts/trail/trail.jpeg'
 thumbnail: '/img/posts/trail/trail.jpeg'
 image: '/img/posts/trail/trail.jpeg'
