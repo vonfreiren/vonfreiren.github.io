@@ -5,8 +5,8 @@ permalink: /:title/
 subtitle: "Benefits of Deep Work in our Life"
 date: 2022-12-17 02:01:13
 background: '/img/posts/deep_work/deep-work.jpg'
-thumbnail: '/img/posts/deep_work/deep.jpg'
-image: '/img/posts/deep_work/deep.jpg'
+thumbnail: '/img/posts/deep_work/deep-work.jpg'
+image: '/img/posts/deep_work/deep-work.jpg'
 description: "Different techniques and benefits of applying Deep Work in our life, including how we can achieve this easier"
 tags: Health
 lang: en
