@@ -82,7 +82,7 @@ clothing, shoes, and accessories for both men and women.
 
 <p>
     <img class="img-fluid" src="/img/posts/shops2/mango.jpg" alt="Jack of all trades">
-    <span class="caption text-muted">Mango is known for having a great selecting of garments, designed for different occasions </span>
+    <span class="caption text-muted">Mango is known for having a great selection of quality and affordable garments, designed for different occasions </span>
 </p>
 
 ### Mismo
@@ -101,7 +101,7 @@ designers and brands that makes their product unique and lasting a lifetime.
 
 <p>
     <img class="img-fluid" src="/img/posts/shops2/mismo.JPG" alt="Modern classics">
-    <span class="caption text-muted">Mismo's weekend bags are an inconic product that you can use forever</span>
+    <span class="caption text-muted">Mismo's weekend bags are an iconic product that you can use in your trips and that even family members will be able to inherit</span>
 </p>
 
 ### Kamakura
@@ -116,7 +116,7 @@ they agree that shirts are not coming from Japan, they are inspired by other cou
 of making perfect shirts.
 
 
-This way, Kamakura Shirts has become an icon of dress with top notch quality and service. Their dress shirts take
+This way, Kamakura Shirts has become an icon of dress with top-notch quality and service. Their dress shirts take
 inspiration from many regions. For example, theirslim fit shirts are inspired by Italian model shirts from Napoli, with
 a slender silhouette. On the other hand their classic fit shirts, give a feeling of British and American elements.
 
@@ -127,7 +127,7 @@ If you happen to by close to this city, it may be worth to visit the shop.
 
 <p>
     <img class="img-fluid" src="/img/posts/shops2/kamakura.JPG" alt="Japanese craftsmanship">
-    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product </span>
+    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product. Their dress or sport shirts will not deceive you</span>
 </p>
 
 ## Conclusion
