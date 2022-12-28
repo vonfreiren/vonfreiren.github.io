@@ -4,9 +4,9 @@ title: "Shops for the Modern Man - Part II"
 permalink: /:title/ 
 subtitle: "4 Men brands to add to your wardrobe"
 date: 2022-12-28 02:01:13 
-background: '/img/posts/shops2/shops2.jpg' 
-thumbnail: '/img/posts/shops2/shops2.jpg'
-image: '/img/posts/shops2/shops2.jpg'
+background: '/img/posts/shops2/shops.jpg' 
+thumbnail: '/img/posts/shops2/shops.jpg'
+image: '/img/posts/shops2/shops.jpg'
 description: "Apparel from Brazil, Denmark, Japan and Spain to add to your unique style"
 tags: Style 
 lang: en
