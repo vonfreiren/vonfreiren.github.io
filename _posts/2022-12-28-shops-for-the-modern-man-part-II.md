@@ -111,7 +111,7 @@ Pacific coast, and is known for its many temples and shrines. The city served as
 to 1333, during which time it was the seat of the Kamakura shogunate. Kamakura is also home to many historical
 landmarks, including the Tsurugaoka Hachimangū shrine and the Great Buddha of Kamakura.
 
-With their headquarters in this city, Kamakura is also the brand of dress shirts located in the Nippon country. Although
+With their headquarters in this city, Kamakura is also the brand of dress shirts located in the Asian country. Although
 they agree that shirts are not coming from Japan, they are inspired by other countries and western styles with the goal
 of making perfect shirts.
 
