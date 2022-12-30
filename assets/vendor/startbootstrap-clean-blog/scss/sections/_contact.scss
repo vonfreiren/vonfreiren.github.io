@@ -8,7 +8,7 @@
 
     input,
     textarea {
-        font-size: 1.2em;
+        font-size: 1em;
         position: relative;
         z-index: 1;
         padding: 0;
@@ -24,8 +24,8 @@
     }
 
     label {
-        font-size: 0.85em;
-        line-height: 1.764705882em;
+        font-size: 0.8em;
+        line-height: 1.564705882em;
         position: relative;
         z-index: 0;
         top: 2em;
@@ -57,5 +57,5 @@
 }
 
 form .form-group:first-child .floating-label-form-group {
-    border-top: 1px solid $gray-300;
+    border-top: 1px solid $gray-600;
 }
