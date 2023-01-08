@@ -60,9 +60,13 @@ image: '/img/leopard_books.jpg'
             <p>
               <img class="card-img-top" src="{{post.background}}">
               <div class="card-body py-3">
-              <h5 class="post-title">{{ post.title }}</h5>
+            <div style="height: 50px; overflow: hidden;">
+            <h5 class="post-title">{{ post.title }}</h5>
+                </div>
             {% if post.subtitle %}
+            <div style="height: 45px; overflow: hidden;">
             <h7 class="post-subtitle">{{ post.subtitle }}</h7>
+              </div>
               <section>
                <small class="post-preview">{{ post.content | strip_html | truncatewords: 30 }}</small>
               </section>
