@@ -68,10 +68,12 @@ image: '/img/leopard_books.jpg'
             <h7 class="post-subtitle">{{ post.subtitle }}</h7>
               </div>
               <section>
-               <small class="post-preview">{{ post.content | strip_html | truncatewords: 30 }}</small>
+                <small class="post-preview">{{ post.content | remove: "Introducción" | strip_html | truncate: 200
+                  |linebreak }}</small>
               </section>
                   {% else %}
-            <h7 class="post-preview">{{ post.content | strip_html | truncatewords: 100 }}</h7>
+            <small class="post-preview">{{ post.content | remove: "Introducción" | strip_html | truncate: 200 |linebreak
+              }}</small>
             {% endif %}
             <span style="height: 100px;"/>
             <br>

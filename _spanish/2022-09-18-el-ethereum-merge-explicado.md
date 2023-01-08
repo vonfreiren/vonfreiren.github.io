@@ -15,10 +15,10 @@ lang: es
 ---
 
 
-## Introduction
+## Introducción
 
 <div class="text-article">
-En las últimas semanas hemos visto mucho entusiasmo proveniente de diferentes lugares con respecto a lo que se llama el evento del año en el mundo crypto. 
+En las últimas semanas, hemos visto mucho entusiasmo proveniente de diferentes lugares con respecto a lo que se llama el evento del año en el mundo crypto. 
 Me refiero a Ethereum y lo que no es un cambio de juego solo para Ethereum en sí mismo para toda la industria crypto como resultado de los grandes cambios que conlleva esta bifurcación.
 </div>
 
