@@ -7,12 +7,10 @@ baseurl:            ""
 url:                "https://mrfreire.net"
 
 # Social Profiles
-twitter_username:   vonfreiren
 github_username:    vonfreiren
-facebook_username:  vonfreiren
 instagram_username: vonfreiren
 linkedin_username:  javfreire
-medium_username: mr-freire
+medium_username: javier-freire
 rss: RSS
 
 # Add your google-analytics ID here to activate google analytics

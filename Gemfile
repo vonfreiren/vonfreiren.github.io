@@ -1,12 +1,15 @@
 source "https://rubygems.org"
 
-gem "jekyll", ">= 3.8.5"
+gem "jekyll", ">= 3.9.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  gem "webrick"
+  gem "jekyll-mentions", "1.6.0"
+
  
 
 end
@@ -26,3 +29,5 @@ gem "jekyll-seo-tag"
 
 
 
+
+gem "google-protobuf", "~> 3.15.8"
