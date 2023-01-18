@@ -26,6 +26,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-toc
 
 collections:
   books:
@@ -35,6 +36,12 @@ collections:
     sort_order: descending
 
 
+# TOC Settings
+toc:
+  min_level: 1
+  max_level: 3
+  list_class: toc
+  sublist_class: toc__sublist
 
 defaults:
   -
@@ -51,6 +58,7 @@ defaults:
 tag_permalink_style: pretty
 
 permalink: pretty
+
 
 
 en:

@@ -17,8 +17,8 @@ post_dir = '_posts/'
 draft_dir = '_drafts/'
 tag_dir = 'tag/'
 
-filenames = glob.glob(post_dir + '*html')
-filenames = filenames + glob.glob(draft_dir + '*html')
+filenames = glob.glob(post_dir + '*html') + glob.glob(draft_dir + '*md')
+filenames = filenames + glob.glob(draft_dir + '*html') + glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
