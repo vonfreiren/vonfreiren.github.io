@@ -34,12 +34,16 @@ layout: default
                                 <nobr>{{ tag_name }}</nobr>
                             </code>&nbsp;</a>
                             {% endfor %}
+                            {% include share-buttons.html %}
+
                         </h7>
+
                     </div>
                 </div>
             </div>
         </div>
     </header>
+
 
 
     <div class="container">
@@ -69,14 +73,6 @@ layout: default
                        data-placement="top" title="{{ page.next.title }}">Next<span class="d-none d-md-inline">
               Post</span> &rarr;</a>
                     {% endif %}
-                    <br>
-                    <br>
-        <div>
-            <p class="align-content-center">
-                    {% include share-buttons.html %}
-            </p>
-        </div>
-
 
                 </div>
 
