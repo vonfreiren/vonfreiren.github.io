@@ -30,9 +30,11 @@ layout: default
                         <h7>
                             {% for tag in page.tags %}
                             {% capture tag_name %}{{ tag }}{% endcapture %}
-                            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">
-                                <nobr>{{ tag_name }}</nobr>
-                            </code>&nbsp;</a>
+                            <a href="/tag/{{ tag_name }}" style="display: flex; justify-content: center;">
+                                <code class="highligher-rouge">
+                                    <nobr><strong>{{ tag_name }}</strong></nobr>
+                                </code>&nbsp;
+                            </a>
                             {% endfor %}
                             {% include share-buttons.html %}
 

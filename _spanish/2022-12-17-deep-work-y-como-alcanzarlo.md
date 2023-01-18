@@ -16,7 +16,7 @@ lang: es
 ## Introducción
 
 <div class="text-article">
-¿Qué es el "deep work  y por qué está escuchando cada vez más este término? El Deep Work es la capacidad de concentrarse sin distracciones en una tarea cognitivamente exigente. Es un estado de flujo en el que estás completamente inmerso en la tarea que tienes entre manos y eres capaz de producir un trabajo de alta calidad en un corto período de tiempo. Hay varios beneficios de practicar el denominado "Deep Work".
+Deep Work ¿Qué es el esto y por qué está escuchando cada vez más este término? El Deep Work es la capacidad de concentrarse sin distracciones en una tarea cognitivamente exigente. Es un estado de flujo en el que estás completamente inmerso en la tarea que tienes entre manos y eres capaz de producir un trabajo de alta calidad en un corto período de tiempo. Hay varios beneficios de practicar el denominado "Deep Work".
 </div>
 
 El "Deep Work" es un término acuñado por el autor y experto en productividad Cal Newport para describir el estado de
