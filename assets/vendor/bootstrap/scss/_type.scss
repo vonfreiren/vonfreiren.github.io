@@ -81,7 +81,8 @@ small,
 tiny,
 .tiny {
   @include font-size($tiny-font-size);
-  font-weight: $font-weight-normal;
+  font-weight: $font-weight-lighter;
+  margin-bottom: 0px;
 }
 
 mark,
