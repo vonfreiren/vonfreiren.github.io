@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-21T11:49:18+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Work From Anywhere</title><link href="http://localhost:4000/work-form-anywhere/" rel="alternate" type="text/html" title="Work From Anywhere" /><published>2023-01-08T03:01:13+01:00</published><updated>2023-01-08T03:01:13+01:00</updated><id>http://localhost:4000/work-form-anywhere</id><content type="html" xml:base="http://localhost:4000/work-form-anywhere/"><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-21T14:35:46+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">AI and the utilities in the software industry</title><link href="http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry/" rel="alternate" type="text/html" title="AI and the utilities in the software industry" /><published>2023-01-21T03:01:13+01:00</published><updated>2023-01-21T03:01:13+01:00</updated><id>http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry</id><content type="html" xml:base="http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry/"><![CDATA[<h2 id="ai-power">AI Power</h2>
+
+<div class="text-article">
+Artificial intelligence (AI) has the potential to revolutionize the way we work and improve productivity across various industries. In the software development industry, AI is already being used to improve productivity in several ways.</div>
+
+<p>One of the most common ways AI is being used to improve software productivity is through the use of code completion tools. These tools use AI algorithms to suggest code snippets or complete entire lines of code based on the context of the current project. This can save developers a significant amount of time and effort by reducing the need for manual coding. Some examples of code completion tools include DeepTabNine, Kite, and TabNine.</p>
+
+<p>Coding is a complex and time-consuming task that requires a lot of focus and attention to detail. However, there are many tools available that can help you improve your productivity and streamline your workflow. In this article, we will discuss some of the most popular tools that you can use to improve your coding productivity.</p>
+
+<p>There are different ways to increase what we do in less time. IDEs, project management tools and methodologies or automations tools and some of these examples. Probably some of these improvements can also come from non-technology methods, but improving our lifestyle, focus and nutrition.</p>
+
+<p>Nonetheless, we will leave them for another time. Today we are going to discuss what AI can do in terms of efficiency. We are going to show two of the benefits of using them in our daily life. For this article, we will focus of one of the state-of-the-art tools, both of them powered by the OpenAI codex.</p>
+
+<h2 id="github-copilot">GitHub Copilot</h2>
+
+<p>Starting with Microsoft, GitHub Copilot is a powerful AI-powered code completion tool that allows developers to write code more efficiently and with fewer errors. This powerful tool can help developers to increase their productivity by reducing the time it takes to complete repetitive or complex tasks.</p>
+
+<p>One of the main features of GitHub Copilot is its ability to provide code suggestions as developers type. This can help to save time by eliminating the need to manually search for the correct syntax or function. Additionally, Copilot also provides context-aware suggestions, which means that it can suggest different options based on the specific context of the code.</p>
+
+<p>Another useful feature of GitHub Copilot is its ability to automatically fix common coding errors. This can save developers a significant amount of time, as they no longer need to spend time searching for and fixing errors. Additionally, Copilot can also help to improve code quality by suggesting improvements and best practices.</p>
+
+<p>In addition to these features, GitHub Copilot also offers advanced functionality such as code refactoring, which can help developers to simplify and improve their code. This can be particularly useful when working on large and complex projects, as it can help to make the code more maintainable.</p>
+
+<p>To use GitHub Copilot, developers need to have a GitHub account and the GitHub extension for IntelliJ,Pycharm, Visual Studio Code or your favorite IDE . Once the extension is installed, developers can start using Copilot by opening a new file or by hovering over a function or variable.</p>
+
+<h2 id="chatgpt">ChatGPT</h2>
+
+<p>ChatGPT is a powerful language model developed by OpenAI that can be used to increase coding productivity. It is a state-of-the-art machine learning model that can be used to generate code, complete code snippets, and even write entire programs.</p>
+
+<p>One of the main benefits of using ChatGPT for coding is its ability to generate code quickly and accurately. With ChatGPT, developers no longer have to spend hours writing code from scratch or searching through documentation to find the right syntax. Instead, they can simply provide ChatGPT with a brief description of what they want to accomplish, and the model will generate the necessary code.</p>
+
+<p>Another benefit of using ChatGPT for coding is its ability to learn from existing code. The model can analyze existing code and use that knowledge to generate new code that is consistent with the existing style and structure. This means that developers no longer have to spend time trying to conform to a specific coding style, as ChatGPT can automatically generate code that follows the style of the existing codebase.</p>
+
+<p>Additionally, ChatGPT can also assist in code refactoring and bug fixing. It can analyze the code, find bugs and suggest fixes, or even generate the fix itself. This can save a lot of time and effort for developers who would otherwise have to manually scan through the code to find and fix bugs.</p>
+
+<p>Another great feature of ChatGPT is its ability to write comments and documentation. This can be extremely helpful for developers who are working on complex projects and need to document their work. ChatGPT can analyze the code and generate comments and documentation that explain what the code is doing and how it works.</p>
+
+<p>Furthermore, ChatGPT is a powerful tool that can be used to increase coding productivity in several ways. It can generate code quickly and accurately, learn from existing code, assist in code refactoring and bug fixing, write comments and documentation, and even generate entire programs. By incorporating ChatGPT into their workflow, developers can save time and effort while also improving the quality of their work.</p>
+
+<p>On another hand, ChatGPT also has the ability to generate entire programs. It can take a high-level description of what the program should do and generate the entire codebase for it. This can be especially useful for developers who are working on proof-of-concepts or prototypes.</p>
+
+<p>Of course, ChatGPT is no error-proof and due to the stored data, it could be the case that some code or libraries are old and/or deprecated. However, when writing one of the generated errors triggered in suggested blocks of code, ChatGPT will apologize for that and suggest new changes that will work. This is some of the situations several people have encountered. Once Microsoft complete the acquisition and ChatGPT has access to real time data, we will see what this tool is capable of.</p>
+
+<p>We have seen that GitHub Copilot is a powerful tool that can help developers to increase their productivity by reducing the time it takes to complete repetitive or complex tasks. With its ability to provide code suggestions, automatically fix common coding errors and suggest improvements, Copilot can help developers to improve the quality of their code and increase their efficiency.</p>
+
+<h2 id="a-lot-of-new-things-to-come">A lot of new things to come</h2>
+
+<p>All of these features combined can greatly increase coding productivity and help developers focus on the more important aspects of their work such as designing and implementing new features, and solving complex problems.</p>
+
+<p>To conclude with this short article AI is already being used to improve software productivity in several ways, and it is likely that its use will continue to expand in the future. By automating repetitive and time-consuming tasks, AI can help developers to focus on more complex and creative tasks, ultimately leading to better software and more efficient development processes.</p>
+
+<p>We are still on very early stages of the AI revolution. If all this is possible now, imagine what could be done when there is more data available, and we the different training models can be continuously improved in order to improve the loss function and enhance the different predictions. We have not yet seen the real power of AI, and it will still take some time until we are close to it.</p>]]></content><author><name>Javier Freire</name></author><category term="Work" /><summary type="html"><![CDATA[When it comes to software development, AI tools can really help the different developers to improve their work and to make it more efficient. In this article, we will talk about the benefits of using AI tools to improve the efficiency of our work.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ai-software/city.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/ai-software/city.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Work From Anywhere</title><link href="http://localhost:4000/work-form-anywhere/" rel="alternate" type="text/html" title="Work From Anywhere" /><published>2023-01-08T03:01:13+01:00</published><updated>2023-01-08T03:01:13+01:00</updated><id>http://localhost:4000/work-form-anywhere</id><content type="html" xml:base="http://localhost:4000/work-form-anywhere/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
 Nomad work refers to a type of work that is not tied to a specific location or office, and can be done from anywhere in
@@ -1138,350 +1189,4 @@ years ago were unthinkable because of sustainable issues.</p>
 <hr />
 
 <p>Having explained the most important changes and having also denied things that the Merge does not change, it’s true that some of these changes can boost Ethereum and the crypto sector. 
-At the same time, it cannot be denied that some users have been disappointed because they were expecting much more. Time will tell.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The changes that the Ethereum Merge, including the impact they create and what aspects are not modified with this fork in the network]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/eth.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/eth.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="enn"><title type="html">10 Benefits of HIIT</title><link href="http://localhost:4000/2022/09/11/benefits_10_hiit/" rel="alternate" type="text/html" title="10 Benefits of HIIT" /><published>2022-09-11T04:01:13+02:00</published><updated>2022-09-11T04:01:13+02:00</updated><id>http://localhost:4000/2022/09/11/benefits_10_hiit</id><content type="html" xml:base="http://localhost:4000/2022/09/11/benefits_10_hiit/"><![CDATA[<h2>
-    Introduction
-</h2>
-<div class="text-article">
-    <p>
-        In the past years, there is being a surge on sport and health topics. We
-        look more and more for some alternatives or variations of the most classic
-        sports that keep evolving throughout years. One of the activities that has
-        been quite trendy in the last years it’s HIIT.
-    </p>
-</div>
-
-<p>
-    In this post we will discuss how HIIT - High Intensity Interval Training
-    works and how it may help you in your day-to-day life.
-</p>
-<p>
-    The different advantages that HIIT has goes from mere performance
-    improvement to health improvements. However, there is more than this and
-    HIIT also includes some advantages to our well-being and the enjoyment of
-    our activities.
-</p>
-<p>
-    But before we start describing, in case you don’t know, what’s HITT and how
-    it works?
-</p>
-<p>
-    In simple terms, HIIT is the combination of both:
-</p>
-<ul>
-    - High intensity intervals
-</ul>
-<ul>
-    - Low intensity intervals that are used to recover from the high intensity
-</ul>
-<p>
-    By high intensity intervals, it’s meant by those intervals where the heart
-    rate capacity is equal to at least 80% of the maximum heart rate.
-</p>
-<p>
-    The frequency of the high and low intensity may vary, and it can go from to
-    2:1 or 1:2
-</p>
-<p>
-    An example may be clearer if we add some numbers.
-</p>
-<p>
-    Let’s imagine runner who performs the following steps:
-</p>
-<ul>
-    1. 60-seconds sprint
-</ul>
-<ul>
-    2. 120-second Low intensity jogging
-</ul>
-<ul>
-    3. 60-seconds sprint
-</ul>
-<ul>
-    4. 120-second Low intensity jogging
-</ul>
-</li>
-<p>
-    And like that you can play with different variations. For example, sprints
-    of 60 seconds and rest 60 seconds, etc.
-</p>
-<p>
-    The goal of the HIIT session is to give everything and end exhausted at the
-    end of it.
-</p>
-<p>
-    Starting with HIIT means also getting out of your comfort zone and it may
-    be challenging for you at the beginning. Nevertheless, being progressive
-    and reading the following benefits will for sure help you go to the next
-    level.
-</p>
-<h3>
-    1. Lack of time
-</h3>
-<p>
-    We would like to have days of 48 hours, but this is not possible. With HIIT
-    you can reduce your sessions to more than half of it. From a 60-minute
-    low-intensity session, you can switch it to a 15/20-minute HIIT session.
-</p>
-<p>
-    A 20-minute session will be enough to complete your daily activity and
-    objectives.
-</p>
-<p>
-    In other words, the usual 45 minutes sessions you have can be to just
-    20-minute session. The minutes you don’t use can be used for any other
-    thing.
-</p>
-<p>
-    Even if shorter duration, you will with a higher sensation of completeness
-    and job well done because of the work that your body does after the work.
-</p>
-<p>
-    Further, there is no need to do these sessions every day. Since in every
-    session, a lot of stress is added to your organs and muscles, 3 or 4 HITT
-    sessions will be more than enough for you and your body. We will later see
-    the post-process.
-</p>
-<p>
-    This benefit is a good argument to tell people who complain that they don’t
-    do any exercise because they have too many things to do and no time. Most
-    of us should be able to take 20 minutes from other daily tasks.
-</p>
-<h3>
-    2. Get fit
-</h3>
-<p>
-    As we have described above, if you have been without performing sport for
-    some time, you should start slowly with HIIT. At the same time, this is a
-    great technique to get in shape quite quickly compared to low-intensity
-    trainings. Therefore, it may be a good idea in case you have joined a race
-    in a few months, and you should prepare it beforehand.
-</p>
-<h3>
-    3. Multiple variations
-</h3>
-<p>
-    Although HIIT is more associated to jogging, many sports and activities can
-    be applied to this technique. This means that you can enrich your portfolio
-    of exercises and increase the fun.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/hiit/diverse_hiit.jpg" alt="Cientos de maneras">
-    <span class="caption text-muted">El HIIT no es exclusivo de trotar, y puedes experimentarlo de muchas maneras
-</span>
-</p>
-<p>
-    Some of the most important activies are:
-</p>
-<ul>
-    <li>
-        Swimming
-    </li>
-    <li>
-        Cycling
-    </li>
-    <li>
-        Weight training
-    </li>
-    <li>
-        Rope jumping
-    </li>
-    <li>
-        Rowing
-    </li>
-    <li>
-        Burpees
-    </li>
-    <li>
-        Dancing
-    </li>
-</ul>
-<p>
-</p>
-<p>
-    As it occurs with nutrition, having a diversified set of exercises will
-    help you not get bored and opening your mind to practice new ones.
-</p>
-<h3>
-    4. Muscular mass
-</h3>
-<p>
-    For professionals who compete, you may have heard different opinions about
-    the different exercises and planning. Some argue that with running, they
-    may lose part of their muscular mass that they have gained.
-</p>
-<p>
-    The benefit of HIIT, linked also to the duration is that you can achieve
-    the following:
-</p>
-<ul>
-    <li>
-        Reduce the body fat
-    </li>
-    <li>
-        Maintain the muscular mass
-    </li>
-    <li>
-        Increase the muscular mass in the legs
-    </li>
-</ul>
-<p>
-    Another example is if in the Olympics or you have a look at the bodies of
-    different sports.
-</p>
-<p>
-    If you have a look at the bodies of marathon runners or long-distance
-    cyclists you may see very thin athletes with low fat, but also low muscular
-    mass except for the legs. The reason is that when performing these long-duration activities, the
-    glucogen reserves are empty and the body starts taking energy from: fat and
-    lipids.
-</p>
-<p>
-    For that reason, HIIT is a clear win-win solution and the reason for being
-    the preferred choice for many athletes.
-</p>
-<h3>
-    5. Metabolism
-</h3>
-<p>
-    High Intense Interval Training is also called metabolic booster. The reason is that practicing HIIT
-    produces a considerable acceleration in the metabolism of our body. But why
-    is that? Due to the work that is performed, our body is pushed to the next
-    level. Our body is clever enough and demands a bigger amount of oxygen to
-    provide to our organs: heart, lungs, etc. However, it is not that the only
-    reason only.
-</p>
-<p>
-    Apart from that, some components that were broken in the exercise must be
-    restored and the energy that must be used to recover these proteins,
-    tendons, etc., in the recovery phase is why our body keeps working even if
-    we are in our sofa.
-</p>
-<p>
-    This process last around 48 hours and that’s why during this time, our body
-    keeps burning calories. This is another reason for just having to perform
-    this activity 3-4 times per week.
-</p>
-<h3>
-    6. Better performance
-</h3>
-<p>
-    Depending on the activity, some parts of our body will be development.
-    However, HIIT has a great impact in the performance, and you may see
-    improvements in the following factors:
-</p>
-<ul>
-    <li>
-        Speed
-    </li>
-    <li>
-        Agility
-    </li>
-    <li>
-        Power
-    </li>
-    <li>
-        Resistance
-    </li>
-</ul>
-<p>
-    If you practice HIIT you may have noticed that your performance in other
-    sports such as swimming or cycling has also improved.
-</p>
-<p>
-    <img class="img-fluid" src="/img/posts/hiit/cycling.jpg" alt="Useful for other sports">
-    <span class="caption text-muted">HIIT can boost your VO2 Max levels that can be very beneficial for sports such as cycling</span>
-</p>
-<p>
-    One common thin with these sports is the VO2 max effectiveness. VO2 max
-    measures the efficiency that your body uses the oxygen while performing
-    your activity. Higher VO2 Max higher performance. There is a story back to
-    the times of when triathlons were created in 1970 and who would win?
-    Runners, swimmers, or cyclists? Some said that cyclists would be the
-    winners because back then Eddy Merckx had the highest VO2 levels.
-</p>
-<h2>
-    7. Heart
-</h2>
-<p>
-    Not everything must be fun and performance. One of the most important
-    characteristics is related to our health. If you suffer from health issues
-    such as high pressure, you will be happy to hear that runners that practice
-    HIIT benefit from a much better heart health.
-</p>
-<p>
-    Further, HIIT increases the amount of blood that the heart can pump.
-</p>
-<p>
-    Of course, if you have some health issues, another piece of advice would be
-    having some medical checks before starting practicing this technique.
-</p>
-<h3>
-    8. Cost
-</h3>
-<p>
-    Starting with other sports and activities means increasing the fun.
-    Nonetheless, in most cases to invest in different articles (bicycle,
-    dumbbells, skis, goggles, etc.) If you are already jogging, there is
-    nothing that you would have to buy.
-</p>
-<p>
-    This one is obvious, but with HIIT, you will be able to reuse the equipment
-    you already have, and this will not mean an extra cost.
-</p>
-<h3>
-    9. Kill the monotony
-</h3>
-<p>
-    Coming back to the duration, being running at the same pace for 45 or 60
-    minutes may not be the most exciting activity. If you live in a big city, you
-    will not find many tracks close to your place with 45/60 minutes routes.
-</p>
-<p>
-    Since the duration for HIIT is much shorter, this also gives you many more
-    possibilities when combining the different routes.
-</p>
-
-<p>
-    Related to the variations and the monotony, there are also many other
-    variations that we may say in other articles. For example, you may practice
-    HIIT while doing some trail or as we have seen in other sports.
-</p>
-<h2>
-    10 Risk of injuries
-</h2>
-<p>
-    Finalizing with another health topic, being running for 60 minutes every
-    day on the road or any other hard surface may not be the most convenient
-    way to keep your knees.
-</p>
-<p>
-    I remember this was my main reason for switching to HIIT some 5-6 years
-    ago.
-</p>
-<p>
-    After 20-30 minutes low-intensity running, I had a strong pain in the left
-    knee, and I had to stop running. After 3-4 times, I decided I had to reduce
-    the duration of these exercises or just stop. I decided to continue but
-    compensating the lower duration with a more active and high interval
-    trainings. That’s how I started and ever since I did not have any problem.
-</p>
-<p>
-    Every time we run our knees and other articulations may be subject to
-    prolonged times of and a wrong way of running may lead to injuries. By
-    reducing the duration of our training, we also reduce the risk of injuries
-    and conserve intact our articulations.
-</p>
-<h2>
-    What’s next
-</h2>
-<p>
-    In conclusion, you have seen different advantages of practicing HIIT. It
-    may sound challenging for you at the beginning, but I can assure you that
-    this will not deceive you and will push your body to the next level.
-</p>
-<p>
-    We have found what the different benefits in terms of time, fun, health, and
-    performance are. As discussed in one of the points, trying is free, and you may start with a just 10-minute session
-    to give it a
-    try.
-</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[From performance to health, what HIIT can add to your daily routines]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/hiit/hiit.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/hiit/hiit.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+At the same time, it cannot be denied that some users have been disappointed because they were expecting much more. Time will tell.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The changes that the Ethereum Merge, including the impact they create and what aspects are not modified with this fork in the network]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum/eth.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum/eth.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
