@@ -52,6 +52,8 @@ tag_permalink_style: pretty
 
 permalink: pretty
 
+i18n.locale: 'es'
+
 
 en:
   label: English

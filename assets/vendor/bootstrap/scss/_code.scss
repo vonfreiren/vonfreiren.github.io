@@ -1,7 +1,9 @@
 // Inline code
 code {
   @include font-size($code-font-size);
-  color: $code-color;
+  color: #004655;
+  font-weight: bold;
+  font-family: "Lora", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   word-wrap: break-word;
 
   // Streamline the style when inside anchors to avoid broken underline and more

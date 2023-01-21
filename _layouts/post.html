@@ -26,8 +26,7 @@ layout: default
                         <span style="height: 100px;"/>
                         <br>
                         <small class="post-title"> {{ post.date | date: '%B %d, %Y' }} </small>
-                        <p></p>
-                        <h7>
+<br>                        <h7>
                             {% for tag in page.tags %}
                             {% capture tag_name %}{{ tag }}{% endcapture %}
                             <a href="/tag/{{ tag_name }}" style="display: flex; justify-content: center;">
@@ -36,6 +35,7 @@ layout: default
                                 </code>&nbsp;
                             </a>
                             {% endfor %}
+                        <br>
                             {% include share-buttons.html %}
 
                         </h7>
