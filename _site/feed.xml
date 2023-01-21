@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-19T00:43:45+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Work From Anywhere</title><link href="http://localhost:4000/work-form-anywhere/" rel="alternate" type="text/html" title="Work From Anywhere" /><published>2023-01-08T03:01:13+01:00</published><updated>2023-01-08T03:01:13+01:00</updated><id>http://localhost:4000/work-form-anywhere</id><content type="html" xml:base="http://localhost:4000/work-form-anywhere/"><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-21T01:12:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Work From Anywhere</title><link href="http://localhost:4000/work-form-anywhere/" rel="alternate" type="text/html" title="Work From Anywhere" /><published>2023-01-08T03:01:13+01:00</published><updated>2023-01-08T03:01:13+01:00</updated><id>http://localhost:4000/work-form-anywhere</id><content type="html" xml:base="http://localhost:4000/work-form-anywhere/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
 Nomad work refers to a type of work that is not tied to a specific location or office, and can be done from anywhere in
@@ -15,7 +15,7 @@ Canary Islands or diving in the exotic Bali?</p>
 
 <h2 id="how-to-do-it">How to do it</h2>
 
-<p>There are different types of nomad work, including remote work, freelancing, and digital nomadism. Remote work
+<p>There are different types of nomad work, including <code class="language-plaintext highlighter-rouge">remote work</code>, <code class="language-plaintext highlighter-rouge">freelancing</code>, and <code class="language-plaintext highlighter-rouge">digital nomadism</code>. Remote work
 refers to any type of work that is done remotely, usually from home or a coworking space. Freelancing refers to working
 as a self-employed individual, offering services to clients on a project-by-project basis. Digital nomadism is a
 specific type of nomad work that involves traveling the world while working remotely.</p>

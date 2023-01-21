@@ -8,111 +8,119 @@ layout: default
         style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
         xmlns="http://www.w3.org/1999/html">
 
-  {% else %}
-  <header class="masthead">
-    {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1>{{ site.title }}</h1>
-            {% if site.description %}
-            <span class="subheading">{{ site.description }}</span>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-18 col-md-20 mx-auto">
-
-        {{ content }}
-
-        <div class="bg-white">
-          <div class="container">
-            <div class="row text-center mb-5">
-              <div class="col">
-                <span class="h1 d-block font-weight-bold">Javier Freire's Posts</span>
-                <a class="btn btn-sm float-right" href="{{"/posts-spanish" | relative_url }}">Artículos en Español &rarr;</a>
-              </div>
-            </div>
-
+    {% else %}
+    <header class="masthead">
+        {% endif %}
+        <div class="overlay"></div>
+        <div class="container">
             <div class="row">
-
-
-        <!-- Home Post List -->
-        {% for post in site.posts limit : 100 %}
-              {% if post.lang == 'en' %}
-
-              <div class="col-12 col-md-6 col-lg-4 d-flex">
-                <div class="card border shadow">
-        <article class="post-preview">
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            <p>
-              <img class="card-img-top" src="{{post.background}}">
-              <div class="card-body py-3">
-            <div style="height: 50px; overflow: hidden;">
-            <h5 class="post-title">{{ post.title }}</h5>
-              </div>
-            {% if post.subtitle %}
-            <div style="height: 45px; overflow: hidden;">
-            <h7 class="post-subtitle">{{ post.subtitle }}</h7>
-              </div>
-              <section>
-               <small class="post-preview">{{ post.content | remove: "Introduction" | strip_html | truncate: 200 |linebreak }}</small>
-              </section>
-                  {% else %}
-            <h7 class="post-preview">{{ post.content | remove: "Introduction" | strip_html | truncate: 200 | linebreak }}</h7>
-            {% endif %}
-            <span style="height: 100px;"/>
-            <br>
-            <small  class="post-title"> {{ post.date | date: '%B %d, %Y' }}  </small>
-          </div>
-          </a>
-<!--            <div class="card-body py-3">
-            <p class="post-meta"> <small>Posted by
-            {% if post.author %}
-            {{ post.author }}
-            {% else %}
-            {{ site.author }}
-            {% endif %}
-            on
-            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-        </small></p>
-            {% if post.tags.size > 0 %}
-                <div class="caption">
-                    <span class="post-share-title">Tags:</span>
-                    {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
-                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                    {% else %}
-                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                    {% endif %}
-                    {% endfor %}
+                <div class="col-lg-8 col-md-10 mx-auto">
+                    <div class="page-heading">
+                        <h1>{{ site.title }}</h1>
+                        {% if site.description %}
+                        <span class="subheading">{{ site.description }}</span>
+                        {% endif %}
+                    </div>
                 </div>
-                {% endif %}
-                </div>-->
-                  </article>
-                </div>
-                </div>
-              {% endif %}
-        {% endfor %}
             </div>
-          </div>
         </div>
-      </div>
-      </div>
-    </section>
-        <!-- Pager -->
-    <p>
-        <div class="clearfix">
-          <a class="btn float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
-        </div>
-    </p>
+    </header>
 
-      </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-18 col-md-20 mx-auto">
+
+                {{ content }}
+
+                <div class="bg-white">
+                    <div class="container">
+                        <div class="row text-center mb-5">
+                            <div class="col">
+                                <span class="h1 d-block font-weight-bold">Javier Freire's Posts</span>
+                                <a class="btn btn-sm float-right" href="{{"/posts-spanish" | relative_url }}">Artículos
+                                en Español &rarr;</a>
+                            </div>
+                        </div>
+
+                        <div class="row">
+
+
+                            <!-- Home Post List -->
+                            {% for post in site.posts limit : 100 %}
+                            {% if post.lang == 'en' %}
+
+                            <div class="col-12 col-md-6 col-lg-4 d-flex">
+                                <div class="card border shadow">
+                                    <article class="post-preview">
+                                        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                                            <p>
+                                            <div style="margin-left: 5px;margin-right: 5px">
+                                                <img class="card-img-top" src="{{post.background}}">
+                                            </div>
+                                            <div class="card-body py-3">
+                                                <div style="height: 50px; overflow: hidden;">
+                                                    <h5 class="post-title">{{ post.title }}</h5>
+                                                </div>
+                                                {% if post.subtitle %}
+                                                <div style="height: 45px; overflow: hidden;">
+                                                    <h7 class="post-subtitle">{{ post.subtitle }}</h7>
+                                                </div>
+                                                <section>
+                                                    <small class="post-preview">{{ post.content | remove: "Introduction"
+                                                        | strip_html | truncate: 200 |linebreak }}</small>
+                                                </section>
+                                                {% else %}
+                                                <h7 class="post-preview">{{ post.content | remove: "Introduction" |
+                                                    strip_html | truncate: 200 | linebreak }}
+                                                </h7>
+                                                {% endif %}
+                                                <span style="height: 100px;"/>
+                                                <br>
+                                                <small class="post-title"> {{ post.date | date: '%B %d, %Y' }} </small>
+                                            </div>
+                                        </a>
+                                        <!--            <div class="card-body py-3">
+                                                    <p class="post-meta"> <small>Posted by
+                                                    {% if post.author %}
+                                                    {{ post.author }}
+                                                    {% else %}
+                                                    {{ site.author }}
+                                                    {% endif %}
+                                                    on
+                                                    {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+                                                </small></p>
+                                                    {% if post.tags.size > 0 %}
+                                                        <div class="caption">
+                                                            <span class="post-share-title">Tags:</span>
+                                                            {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
+                                                            <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+                                                            {% else %}
+                                                            <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+                                                            {% endif %}
+                                                            {% endfor %}
+                                                        </div>
+                                                        {% endif %}
+                                                        </div>-->
+                                    </article>
+                                </div>
+                            </div>
+
+
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </section>
+        <!-- Pager -->
+        <p>
+        <div class="clearfix">
+            <a class="btn float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+        </div>
+        </p>
+
     </div>
-  </div>
+    </div>
+    </div>

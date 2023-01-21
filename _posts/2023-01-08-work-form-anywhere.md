@@ -30,7 +30,7 @@ Canary Islands or diving in the exotic Bali?
 
 ## How to do it
 
-There are different types of nomad work, including remote work, freelancing, and digital nomadism. Remote work
+There are different types of nomad work, including `remote work`, `freelancing`, and `digital nomadism`. Remote work
 refers to any type of work that is done remotely, usually from home or a coworking space. Freelancing refers to working
 as a self-employed individual, offering services to clients on a project-by-project basis. Digital nomadism is a
 specific type of nomad work that involves traveling the world while working remotely.
