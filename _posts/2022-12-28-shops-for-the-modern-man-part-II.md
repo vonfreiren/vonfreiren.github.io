@@ -7,7 +7,7 @@ date: 2022-12-28 02:01:13
 background: '/img/posts/shops2/shops.jpg' 
 thumbnail: '/img/posts/shops2/shops.jpg'
 image: '/img/posts/shops2/shops.jpg'
-description: "Apparel from Brazil, Denmark, Japan and Spain to add to your unique style"
+description: "Apparel from Brazil, Denmark, Japan and Spain to add to your unique style. Some shops that you should know for your next purchase"
 tags: Style 
 lang: en
 

@@ -7,7 +7,7 @@ date: 2023-01-08 02:01:13
 background: '/img/posts/nomad/nomad.jpg' 
 thumbnail: '/img/posts/nomad/nomad.jpg'
 image: '/img/posts/nomad/nomad.jpg'
-description: "Cómo el trabajo a distancia puede beneficiarle a usted y a su empresa"
+description: "Cómo el trabajo a distancia puede beneficiarle a usted y a su empresa. En este artículo le mostramos cómo puede trabajar desde cualquier lugar del mundo sin necesidad de estar en una oficina y sin reducir la productividad"
 tags: Work 
 lang: es
 

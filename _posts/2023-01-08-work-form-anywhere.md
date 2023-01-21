@@ -7,7 +7,7 @@ date: 2023-01-08 02:01:13
 background: '/img/posts/nomad/nomad.jpg' 
 thumbnail: '/img/posts/nomad/nomad.jpg'
 image: '/img/posts/nomad/nomad.jpg'
-description: "How working remotely can benefit you and your employer"
+description: "How working remotely can benefit you and your employer. Tips to help you work from anywhere in the world without having to be in an office and without decreasing your productivity."
 tags: Work 
 lang: en
 

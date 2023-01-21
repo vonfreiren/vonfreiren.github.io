@@ -7,7 +7,7 @@ date: 2022-12-17 02:01:13
 background: '/img/posts/deep_work/deep-work.jpg'
 thumbnail: '/img/posts/deep_work/deep-work.jpg'
 image: '/img/posts/deep_work/deep-work.jpg'
-description: "Different techniques and benefits of applying Deep Work in our life, including how we can achieve this easier"
+description: "Different techniques and benefits of applying Deep Work in our life, including how we can achieve this easier. This article is based on the book Deep Work by Cal Newport book, summarizing some of these concepts"
 tags: Health
 lang: en
 
