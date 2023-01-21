@@ -7,7 +7,7 @@ date: 2023-01-21 02:01:13
 background: '/img/posts/ai-software/city.jpeg' 
 thumbnail: '/img/posts/ai-software/city.jpeg'
 image: '/img/posts/ai-software/city.jpeg'
-description: "When it comes to software development, AI tools can really help the different developers to improve their work and to make it more efficient. In this article, we will talk about the benefits of using AI tools to improve the efficiency of our work."
+description: "When it comes to software development, AI tools can really help the different developers to improve their work and to make it more efficient. In this article, some tools such as ChatGPT and GitHub Copilot are described"
 tags: Work 
 lang: en
 
