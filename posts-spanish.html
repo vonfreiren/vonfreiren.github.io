@@ -58,7 +58,9 @@ image: '/img/leopard_books.jpg'
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <p>
-              <img class="card-img-top" src="{{post.background}}">
+            <div style="margin-left: 5px;margin-right: 5px">
+            <img class="card-img-top" src="{{post.background}}">
+            </div>
               <div class="card-body py-3">
             <div style="height: 50px; overflow: hidden;">
             <h5 class="post-title">{{ post.title }}</h5>
