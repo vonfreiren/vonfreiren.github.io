@@ -28,7 +28,7 @@ first plans about this software upgrade data back to 2014, and the upgrade occur
 years later. The fork also opens new opportunities for the usage of blockchain in different components and standards,
 due to the problems and inefficiency that the new consensus mechanism brings.
 
-Furthermore, although Ethereum is the already network with more utilities and business `cases`, this can `boost` the
+Furthermore, although Ethereum is already the network with more utilities and business `cases`, this can `boost` the
 commerciality of this network and push it to thew next level with the entry of new players.
 
 Besides, this event can be the one that turn the tables in order to recover the lost trust and see that there are
