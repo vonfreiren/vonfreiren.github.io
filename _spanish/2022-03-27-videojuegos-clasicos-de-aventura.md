@@ -13,7 +13,7 @@ lang: es
 
 ---
 
-## Antiguos pero igual de buenos"
+## Antiguos pero igual de buenos
 
 <div class="text-article">
 Mientras todo el mundo espera los juegos más esperados de 2022 y parece que será uno de los mejores años de la historia con títulos de la talla de God of War: Ragnarok, Elden Ring u Horizon Forbidden West, hoy hablamos de algunos clásicos modernos. Algunos de ellos ya salieron a la venta hace algunos años.</div>
@@ -59,7 +59,7 @@ Para derrotar a estos enemigos, también te darás cuenta de que tus fiables esp
 - Muspelheim
 - Nilfheim
 
-- Todos estamos esperando la continuación de este juego, Ragnarok, que saldrá a finales de 2022. Aparte de Thor, quién sabe qué otros dioses veremos allí. Además, en el nuevo juego, podremos jugar en los reinos que no eran jugables en la entrega anterior: Vanaheim, Svartalfheim y Asgard.
+Todos estamos esperando la continuación de este juego, Ragnarok, que saldrá a finales de 2022. Aparte de Thor, quién sabe qué otros dioses veremos allí. Además, en el nuevo juego, podremos jugar en los reinos que no eran jugables en la entrega anterior: Vanaheim, Svartalfheim y Asgard.
 
 Mientras tanto, si te gusta la cultura nórdica, también puedes probar Assassins Creed Valhalla o ver el gameplay a continuación.
 
