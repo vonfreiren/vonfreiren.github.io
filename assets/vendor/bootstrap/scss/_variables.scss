@@ -6,6 +6,9 @@
 // Color system
 
 $white:    #fff !default;
+$beige: #f5f5dc !default;
+$light-beige: #F3EEE7 !default;
+$broken-white: #f8f9fa !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #e9ecef !default;
 $gray-300: #dee2e6 !default;
@@ -168,7 +171,7 @@ $sizes: map-merge(
 //
 // Settings for the `<body>` element.
 
-$body-bg:                   $white !default;
+$body-bg:                   $light-beige !default;
 $body-color:                $gray-900 !default;
 
 
@@ -746,6 +749,15 @@ $navbar-dark-disabled-color:        rgba($white, .25) !default;
 $navbar-dark-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !default;
 $navbar-dark-toggler-border-color:  rgba($white, .1) !default;
 
+$navbar-cyan-color:                 rgba($cyan, .5) !default;
+$navbar-cyan-hover-color:           rgba($cyan, .75) !default;
+$navbar-cyan-active-color:         rgba($cyan, .9) !default;
+$navbar-cyan-disabled-color:       rgba($cyan, .3) !default;
+$navbar-cyan-toggler-icon-bg:       url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'><path stroke='#{$navbar-dark-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>") !default;
+$navbar-cyan-toggler-border-color:  rgba($cyan, .1) !default;
+
+
+
 $navbar-light-color:                rgba($black, .5) !default;
 $navbar-light-hover-color:          rgba($black, .7) !default;
 $navbar-light-active-color:         rgba($black, .9) !default;
@@ -846,7 +858,7 @@ $card-cap-bg:                       rgba($black, .03) !default;
 $card-cap-color:                    null !default;
 $card-height:                       null !default;
 $card-color:                        null !default;
-$card-bg:                           $white !default;
+$card-bg:                           $light-beige !default;
 
 $card-img-overlay-padding:          1.25rem !default;
 

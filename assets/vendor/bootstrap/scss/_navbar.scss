@@ -302,6 +302,18 @@
       }
     }
 
+    .nav-link-alternative {
+      color: $navbar-cyan-color;
+
+      @include hover-focus() {
+        color: $navbar-cyan-hover-color;
+      }
+
+      &.disabled {
+        color: $navbar-cyan-disabled-color;
+      }
+    }
+
     .show > .nav-link,
     .active > .nav-link,
     .nav-link.show,

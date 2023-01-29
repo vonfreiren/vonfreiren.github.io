@@ -7,6 +7,12 @@ background: '/img/bg-about.jpg'
 
 ## About Javier Freire Alvarez
 
+With more than a decade of international experience in product management, software development, and business analysis, I am a skilled engineer with a passion for delivering innovative solutions to clients. Throughout my career, I have held middle-management positions and successfully led top-tier projects across various locations.
+
+My areas of expertise include product development, project management, software development, and investment management. I am a creative thinker who is always looking for ways to improve products, whether by listening to clients or collaborating with colleagues. Additionally, I am committed to continuous learning and staying up-to-date on new technologies and best practices in my field.
+
+<hr>
+
 Since 2012 delivering passion and new ideas to different companies I have worked for, including our valued clients.
 
 I’m an engineer with more around 10 years of international experience in product management, software development and

@@ -19,6 +19,15 @@
             font-weight: 300;
             margin: 0 0 10px;
         }
+
+        >.post-date {
+            font-size: 30px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+            justify-content: flex-end;
+            display: flex;
+            text-align: right;
+        }
     }
 
     >.post-meta {

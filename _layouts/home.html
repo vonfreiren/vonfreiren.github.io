@@ -16,8 +16,10 @@ layout: default
             <div class="row">
                 <div class="col-lg-8 col-md-10 mx-auto">
                     <div class="page-heading">
+                        <br>
                         <h1>{{ site.title }}</h1>
                         {% if site.description %}
+                        <br>
                         <span class="subheading">{{ site.description }}</span>
                         {% endif %}
                     </div>
@@ -32,7 +34,6 @@ layout: default
 
                 {{ content }}
 
-                <div class="bg-white">
                     <div class="container">
                         <div class="row text-center mb-5">
                             <div class="col">
@@ -50,11 +51,11 @@ layout: default
                             {% if post.lang == 'en' %}
 
                             <div class="col-12 col-md-6 col-lg-4 d-flex">
-                                <div class="card border shadow">
+                                <div class="card border-0">
                                     <article class="post-preview">
                                         <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
                                             <p>
-                                            <div style="margin-left: 5px;margin-right: 5px">
+                                            <div style="margin-left: 20px;margin-right: 20px">
                                                 <img class="card-img-top" src="{{post.background}}">
                                             </div>
                                             <div class="card-body py-3">
@@ -65,18 +66,24 @@ layout: default
                                                 <div style="height: 45px; overflow: hidden;">
                                                     <h7 class="post-subtitle">{{ post.subtitle }}</h7>
                                                 </div>
+                                                <br>
                                                 <section>
-                                                    <small class="post-preview">{{ post.content | remove: "Introduction"
-                                                        | strip_html | truncate: 200 |linebreak }}</small>
+                                                    <small class="post-preview">
+                                                        {% assign truncated_text = post.content | split: '.' %}
+                                                        {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
+                                                    </small>
+                                                    <small class="post-date"> <strong>  Read more</strong></small>
                                                 </section>
                                                 {% else %}
-                                                <h7 class="post-preview">{{ post.content | remove: "Introduction" |
-                                                    strip_html | truncate: 200 | linebreak }}
-                                                </h7>
+                                                <small class="post-preview">
+                                                    {% assign truncated_text = post.content | html_escape  | split: '.' %}
+                                                    {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
+                                                </small>
                                                 {% endif %}
-                                                <span style="height: 100px;"/>
+                                                <div class="container" align="right">
                                                 <br>
-                                                <small class="post-title"> {{ post.date | date: '%B %d, %Y' }} </small>
+                                                <small class="post-date"> {{ post.date | date: '%B %d, %Y' }} </small>
+                                                </div>
                                             </div>
                                         </a>
                                         <!--            <div class="card-body py-3">
@@ -110,7 +117,6 @@ layout: default
                             {% endfor %}
                         </div>
                     </div>
-                </div>
             </div>
         </div>
         </section>
