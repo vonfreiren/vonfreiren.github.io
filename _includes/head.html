@@ -5,6 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+
+
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
           new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -17,6 +19,7 @@
     {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
     {% else %}{{ site.title | escape }}{% endif %}
   </title>
+
 
 
  <!--  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"> -->
@@ -46,4 +49,9 @@
       }
   </script>
 
+
+
 </head>
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+  {% endif %}
