@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-29T15:30:38+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">AI and the utilities in the software industry</title><link href="http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry/" rel="alternate" type="text/html" title="AI and the utilities in the software industry" /><published>2023-01-21T03:01:13+01:00</published><updated>2023-01-21T03:01:13+01:00</updated><id>http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry</id><content type="html" xml:base="http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry/"><![CDATA[<h2 id="ai-power">AI Power</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-30T18:45:56+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">AI and the utilities in the software industry</title><link href="http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry/" rel="alternate" type="text/html" title="AI and the utilities in the software industry" /><published>2023-01-21T03:01:13+01:00</published><updated>2023-01-21T03:01:13+01:00</updated><id>http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry</id><content type="html" xml:base="http://localhost:4000/artificial-intelligence-and-the-utilities-in-the-software-industry/"><![CDATA[<h2 id="ai-power">AI Power</h2>
 
 <div class="text-article">
-Artificial intelligence (AI) has the potential to revolutionize the way we work and improve productivity across various industries. In the software development industry, AI is already being used to improve productivity in several ways.</div>
+Artificial intelligence (AI) has the` potential `to revolutionize the way we work and improve` productivity `across various industries. In the software development industry, AI is already being used to improve` productivity `in several ways.</div>
 
-<p>One of the most common ways AI is being used to improve software productivity is through the use of code completion tools. These tools use AI algorithms to suggest code snippets or complete entire lines of code based on the context of the current project. This can save developers a significant amount of time and effort by reducing the need for manual coding. Some examples of code completion tools include DeepTabNine, Kite, and TabNine.</p>
+<p>One of the most common ways AI is being used to improve software<code class="language-plaintext highlighter-rouge"> productivity </code>is through the use of code completion tools. These tools use AI algorithms to suggest code snippets or complete entire lines of code based on the<code class="language-plaintext highlighter-rouge"> context </code>of the current project. This can save developers a significant amount of time and effort by reducing the need for manual coding. Some examples of code completion tools include DeepTabNine, Kite, and TabNine.</p>
 
-<p>Coding is a complex and time-consuming task that requires a lot of focus and attention to detail. However, there are many tools available that can help you improve your productivity and streamline your workflow. In this article, we will discuss some of the most popular tools that you can use to improve your coding productivity.</p>
+<p>Coding is a complex and time-consuming task that requires a lot of focus and attention to detail. However, there are many tools available that can help you improve your<code class="language-plaintext highlighter-rouge"> productivity </code>and streamline your workflow. In this article, we will discuss some of the most popular tools that you can use to improve your coding productivity.</p>
 
 <p>There are different ways to increase what we do in less time. IDEs, project management tools and methodologies or automations tools and some of these examples. Probably some of these improvements can also come from non-technology methods, but improving our lifestyle, focus and nutrition.</p>
 
@@ -13,9 +13,9 @@ Artificial intelligence (AI) has the potential to revolutionize the way we work 
 
 <h2 id="github-copilot">GitHub Copilot</h2>
 
-<p>Starting with Microsoft, GitHub Copilot is a powerful AI-powered code completion tool that allows developers to write code more efficiently and with fewer errors. This powerful tool can help developers to increase their productivity by reducing the time it takes to complete repetitive or complex tasks.</p>
+<p>Starting with Microsoft, GitHub Copilot is a powerful AI-powered code completion<code class="language-plaintext highlighter-rouge"> tool </code>that allows developers to write code more efficiently and with fewer errors. This powerful<code class="language-plaintext highlighter-rouge"> tool </code>can help developers to increase their<code class="language-plaintext highlighter-rouge"> productivity </code>by reducing the time it takes to complete repetitive or complex tasks.</p>
 
-<p>One of the main features of GitHub Copilot is its ability to provide code suggestions as developers type. This can help to save time by eliminating the need to manually search for the correct syntax or function. Additionally, Copilot also provides context-aware suggestions, which means that it can suggest different options based on the specific context of the code.</p>
+<p>One of the main features of GitHub Copilot is its ability to provide code<code class="language-plaintext highlighter-rouge"> suggestions </code>as developers type. This can help to save time by eliminating the need to manually search for the correct syntax or function. Additionally, Copilot also provides context-aware suggestions, which means that it can suggest different options based on the specific<code class="language-plaintext highlighter-rouge"> context </code>of the code.</p>
 
 <p>Another useful feature of GitHub Copilot is its ability to automatically fix common coding errors. This can save developers a significant amount of time, as they no longer need to spend time searching for and fixing errors. Additionally, Copilot can also help to improve code quality by suggesting improvements and best practices.</p>
 
@@ -35,19 +35,19 @@ Artificial intelligence (AI) has the potential to revolutionize the way we work 
 
 <p>Another great feature of ChatGPT is its ability to write comments and documentation. This can be extremely helpful for developers who are working on complex projects and need to document their work. ChatGPT can analyze the code and generate comments and documentation that explain what the code is doing and how it works.</p>
 
-<p>Furthermore, ChatGPT is a powerful tool that can be used to increase coding productivity in several ways. It can generate code quickly and accurately, learn from existing code, assist in code refactoring and bug fixing, write comments and documentation, and even generate entire programs. By incorporating ChatGPT into their workflow, developers can save time and effort while also improving the quality of their work.</p>
+<p>Furthermore, ChatGPT is a powerful<code class="language-plaintext highlighter-rouge"> tool </code>that can be used to increase coding<code class="language-plaintext highlighter-rouge"> productivity </code>in several ways. It can generate code quickly and accurately, learn from existing code, assist in code refactoring and bug fixing, write comments and documentation, and even generate entire programs. By incorporating ChatGPT into their workflow, developers can save time and effort while also improving the quality of their work.</p>
 
 <p>On another hand, ChatGPT also has the ability to generate entire programs. It can take a high-level description of what the program should do and generate the entire codebase for it. This can be especially useful for developers who are working on proof-of-concepts or prototypes.</p>
 
-<p>Of course, ChatGPT is no error-proof and due to the stored data, it could be the case that some code or libraries are old and/or deprecated. However, when writing one of the generated errors triggered in suggested blocks of code, ChatGPT will apologize for that and suggest new changes that will work. This is some of the situations several people have encountered. Once Microsoft complete the acquisition and ChatGPT has access to real time data, we will see what this tool is capable of.</p>
+<p>Of course, ChatGPT is no error-proof and due to the stored data, it could be the case that some code or libraries are old and/or deprecated. However, when writing one of the generated errors triggered in suggested blocks of code, ChatGPT will apologize for that and suggest new changes that will work. This is some of the situations several people have encountered. Once Microsoft complete the acquisition and ChatGPT has access to real time data, we will see what this<code class="language-plaintext highlighter-rouge"> tool </code>is capable of.</p>
 
-<p>We have seen that GitHub Copilot is a powerful tool that can help developers to increase their productivity by reducing the time it takes to complete repetitive or complex tasks. With its ability to provide code suggestions, automatically fix common coding errors and suggest improvements, Copilot can help developers to improve the quality of their code and increase their efficiency.</p>
+<p>We have seen that GitHub Copilot is a powerful<code class="language-plaintext highlighter-rouge"> tool </code>that can help developers to increase their<code class="language-plaintext highlighter-rouge"> productivity </code>by reducing the time it takes to complete repetitive or complex tasks. With its ability to provide code suggestions, automatically fix common coding errors and suggest improvements, Copilot can help developers to improve the quality of their code and increase their efficiency.</p>
 
 <h2 id="a-lot-of-new-things-to-come">A lot of new things to come</h2>
 
-<p>All of these features combined can greatly increase coding productivity and help developers focus on the more important aspects of their work such as designing and implementing new features, and solving complex problems.</p>
+<p>All of these features combined can greatly increase coding<code class="language-plaintext highlighter-rouge"> productivity </code>and help developers focus on the more important aspects of their work such as designing and implementing new features, and solving complex problems.</p>
 
-<p>To conclude with this short article AI is already being used to improve software productivity in several ways, and it is likely that its use will continue to expand in the future. By automating repetitive and time-consuming tasks, AI can help developers to focus on more complex and creative tasks, ultimately leading to better software and more efficient development processes.</p>
+<p>To conclude with this short article AI is already being used to improve software<code class="language-plaintext highlighter-rouge"> productivity </code>in several ways, and it is likely that its use will continue to expand in the future. By automating repetitive and time-consuming tasks, AI can help developers to focus on more complex and creative tasks, ultimately leading to better software and more efficient development processes.</p>
 
 <p>We are still on very early stages of the AI revolution. If all this is possible now, imagine what could be done when there is more data available, and we the different training models can be continuously improved in order to improve the loss function and enhance the different predictions. We have not yet seen the real power of AI, and it will still take some time until we are close to it.</p>]]></content><author><name>Javier Freire</name></author><category term="Work" /><summary type="html"><![CDATA[When it comes to software development, AI tools can really help the different developers to improve their work and to make it more efficient. In this article, some tools such as ChatGPT and GitHub Copilot are described]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ai-software/city.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/ai-software/city.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Work From Anywhere</title><link href="http://localhost:4000/work-form-anywhere/" rel="alternate" type="text/html" title="Work From Anywhere" /><published>2023-01-08T03:01:13+01:00</published><updated>2023-01-08T03:01:13+01:00</updated><id>http://localhost:4000/work-form-anywhere</id><content type="html" xml:base="http://localhost:4000/work-form-anywhere/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
@@ -71,7 +71,7 @@ refers to any type of work that is done remotely, usually from home or a coworki
 as a self-employed individual, offering services to clients on a project-by-project basis. Digital nomadism is a
 specific type of nomad work that involves traveling the world while working remotely.</p>
 
-<p>One of the main benefits of nomad work is the flexibility it offers. Instead of being tied to a specific location or
+<p>One of the<code class="language-plaintext highlighter-rouge"> main </code>benefits of nomad work is the flexibility it offers. Instead of being tied to a specific location or
 office, nomad workers have the freedom to choose where they want to work from. This allows them to work from home, a
 coffee shop, a coworking space, or even from a different country.</p>
 
@@ -80,7 +80,7 @@ set their own schedule and work when it is convenient for them. This can be espe
 children or other responsibilities that make it difficult to work a traditional 9-5 job.</p>
 
 <p>Nomad work also allows for a better work-life balance. Since nomad workers are not tied to a specific location, they
-have the ability to travel and experience new cultures while still being able to work. This can be a great way to see
+have the ability to travel and<code class="language-plaintext highlighter-rouge"> experience </code>new cultures while still being able to work. This can be a great way to see
 the world and have new experiences while still making a living.</p>
 
 <p>However, nomad work is not for everyone. It can be challenging to stay motivated and focused when you are working from
@@ -104,7 +104,7 @@ This will help you determine the best location for your nomad work.</p>
   </li>
   <li>
     <p>Find a reliable internet connection: A strong and stable internet connection is essential for nomad work, so make
-sure you have access to one wherever you go.</p>
+sure you have access to one<code class="language-plaintext highlighter-rouge"> wherever </code>you go.</p>
   </li>
   <li>
     <p>Set boundaries: It can be easy to get caught up in work when you are a nomad, so it is important to set boundaries
@@ -153,15 +153,15 @@ beneficial for those who have non-traditional work schedules or who may have dif
 other commitments.</p>
 
 <p>This aspect does not just benefit the employee, but the enterprise. Employees who have this type of flexibility are also
-able to work more hours, be more creative and more productive. Furthermore, taking holidays should not be the only time
+able to work more hours, be more creative and more productive. Furthermore, taking<code class="language-plaintext highlighter-rouge"> holidays </code>should not be the only time
 we have to visit other countries or regions.</p>
 
 <p>Is the shift to remote work a temporary trend caused by the latest pandemic or a permanent change in the way we do
-business? I think the last one, and I also have the opinion that still a lot of corporations have still to discover this
+business? I think the last one, and I also have the opinion that still a lot of<code class="language-plaintext highlighter-rouge"> corporations </code>have still to discover this
 range of possibilities. Let’s hope I’m right about this last thought.</p>]]></content><author><name>Javier Freire</name></author><category term="Work" /><summary type="html"><![CDATA[How working remotely can benefit you and your employer. Tips to help you work from anywhere in the world without having to be in an office and without decreasing your productivity.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nomad/nomad.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nomad/nomad.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Shops for the Modern Man - Part II</title><link href="http://localhost:4000/shops-for-the-modern-man-part-II/" rel="alternate" type="text/html" title="Shops for the Modern Man - Part II" /><published>2022-12-28T03:01:13+01:00</published><updated>2022-12-28T03:01:13+01:00</updated><id>http://localhost:4000/shops-for-the-modern-man-part-II</id><content type="html" xml:base="http://localhost:4000/shops-for-the-modern-man-part-II/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
-The modern man is a multifaceted individual who defies traditional gender roles and expectations. He is confident, ambitious, and driven, with a diverse range of interests and passions.
+The modern man is a multifaceted individual who defies traditional gender roles and expectations. He is confident, ambitious, and driven, with a` diverse `range of interests and passions.
 </div>
 
 <p>One of the key characteristics of the modern man is his ability to adapt and evolve. He is open-minded and flexible,
@@ -215,7 +215,7 @@ and ethical fashion.</p>
 
 <p>The Spanish company is a fashion brand that is known for its trendy and modern styles. The brand’s collections often
 feature a mix of classic and contemporary pieces, with a focus on high-quality fabrics and attention to detail. Mango’s
-clothing is often described as being chic and sophisticated, with a touch of playfulness and innovation.</p>
+clothing is often<code class="language-plaintext highlighter-rouge"> described </code>as being chic and sophisticated, with a touch of playfulness and innovation.</p>
 
 <p>Overall, the Spanish brand’s aesthetic is influenced by a range of global styles, from European fashion to the latest
 streetwear trends, and is designed to appeal to a wide range of customers. Mango’s collections include a range of
@@ -250,26 +250,26 @@ designers and brands that makes their product unique and lasting a lifetime.</p>
 <h3 id="kamakura">Kamakura</h3>
 
 <p>Kamakura is a city located in the Kanagawa Prefecture of Japan. It is situated about 50 kilometers south of Tokyo on the
-Pacific coast, and is known for its many temples and shrines. The city served as the political center of Japan from 1185
+Pacific coast, and is known for its many<code class="language-plaintext highlighter-rouge"> temples </code>and shrines. The city served as the political center of Japan from 1185
 to 1333, during which time it was the seat of the Kamakura shogunate. Kamakura is also home to many historical
 landmarks, including the Tsurugaoka Hachimangū shrine and the Great Buddha of Kamakura.</p>
 
-<p>With their headquarters in this city, Kamakura is also the brand of dress shirts located in the Asian country. Although
-they agree that shirts are not coming from Japan, they are inspired by other countries and western styles with the goal
+<p>With their headquarters in this city, Kamakura is also the brand of<code class="language-plaintext highlighter-rouge"> dress </code>shirts located in the Asian country. Although
+they<code class="language-plaintext highlighter-rouge"> agree </code>that shirts are not coming from Japan, they are inspired by other countries and western styles with the goal
 of making perfect shirts.</p>
 
-<p>This way, Kamakura Shirts has become an icon of dress with top-notch quality and service. Their dress shirts take
+<p>This way, Kamakura Shirts has become an icon of<code class="language-plaintext highlighter-rouge"> dress </code>with top-notch quality and service. Their<code class="language-plaintext highlighter-rouge"> dress </code>shirts take
 inspiration from many regions. For example, theirslim fit shirts are inspired by Italian model shirts from Napoli, with
 a slender silhouette. On the other hand their classic fit shirts, give a feeling of British and American elements.</p>
 
-<p>In addition to these iconic models, they also offer other services such as shirts for women or made to measure shirts.
+<p>In addition to these iconic models, they also offer other services such as shirts for<code class="language-plaintext highlighter-rouge"> women </code>or made to measure shirts.
 If you happen to by close to this city, it may be worth to visit the shop.</p>
 
 <p><strong>Website</strong>: <a href="https://www.kamakurashirts.com/">Kamakura</a></p>
 
 <p>
     <img class="img-fluid" src="/img/posts/shops2/kamakura.JPG" alt="Japanese craftsmanship" />
-    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product. Their dress or sport shirts will not deceive you</span>
+    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product. Their` dress `or sport shirts will not deceive you</span>
 </p>
 
 <h2 id="conclusion">Conclusion</h2>
@@ -292,17 +292,17 @@ of the modern man – complex, multifaceted, and constantly striving to be his b
 <div class="text-article">
 What’s deep work and why you are hearing more and more this term? Deep work is the ability to focus without distraction
 on a cognitively demanding task. It is a state of flow in which you are fully immersed in the task at hand and able to
-produce high-quality work in a short amount of time. There are several benefits to practicing deep work.
+produce high-quality work in a short amount of time. There are several` benefits `to practicing deep work.
 </div>
 
 <p>Deep work is a term coined by productivity expert and author Cal Newport to describe the state of intense focus and
 concentration on a cognitively demanding task. In today’s world, where we are constantly bombarded with distractions and
 notifications from our smartphones and computers, it can be difficult to achieve this state of deep work. However,
-learning to engage in deep work can have significant benefits for our productivity and creativity.</p>
+learning to<code class="language-plaintext highlighter-rouge"> engage </code>in deep work can have significant<code class="language-plaintext highlighter-rouge"> benefits </code>for our productivity and creativity.</p>
 
 <h2 id="benefits">Benefits</h2>
 
-<p>One of the key benefits of deep work is that it allows us to produce high-quality work in less time. When we are able to
+<p>One of the key<code class="language-plaintext highlighter-rouge"> benefits </code>of deep work is that it allows us to produce high-quality work in less time. When we are able to
 focus intensely on a task without distractions, our brains are able to work more efficiently and we can make faster
 progress. This is especially important in the age of information overload, where we often have a large amount of work to
 do and limited time to do it.</p>
@@ -312,11 +312,11 @@ on a task, we are able to think more critically and creatively, and this can res
 is especially important in fields that require a high level of creativity and problem-solving, such as research,
 writing, and software development.</p>
 
-<p>Although this may seem easy, different factors can affect our life.</p>
+<p>Although this may seem easy, different<code class="language-plaintext highlighter-rouge"> factors </code>can affect our life.</p>
 
-<p>achieving deep work is not always easy. In order to engage in deep work, we need to be able to eliminate distractions
+<p>achieving deep work is not always easy. In order to<code class="language-plaintext highlighter-rouge"> engage </code>in deep work, we need to be able to eliminate distractions
 and create an environment that is conducive to focus and concentration. This can involve setting aside dedicated blocks
-of time for deep work, finding a quiet and comfortable place to work, and using tools and techniques to block out
+of time for deep work, finding a quiet and comfortable place to work, and<code class="language-plaintext highlighter-rouge"> using </code>tools and techniques to block out
 distractions.</p>
 
 <p>For example, some people find it helpful to use a Pomodoro timer to break their work into focused 25-minute intervals,
@@ -324,7 +324,7 @@ with short breaks in between. Others use noise-cancelling headphones or ambient 
 and help them concentrate. Some people even go to extreme lengths, such as disconnecting from the internet or working in
 a secluded cabin in the woods, to create the optimal conditions for deep work.</p>
 
-<p>There are several benefits of engaging in deep work:</p>
+<p>There are several<code class="language-plaintext highlighter-rouge"> benefits </code>of engaging in deep work:</p>
 
 <ol>
   <li>
@@ -354,14 +354,14 @@ proud of our achievements and satisfied with our efforts. This can boost our mot
 pursuing our goals and passions.</p>
   </li>
   <li>
-    <p>Improved problem-solving skills: Deep work allows you to fully engage with and understand a problem, which can lead
+    <p>Improved problem-solving skills: Deep work allows you to fully<code class="language-plaintext highlighter-rouge"> engage </code>with and understand a problem, which can lead
 to better and more creative solutions.</p>
   </li>
   <li>
     <p>Enhanced learning and memory: Focusing deeply on a task can help you better understand and retain information.</p>
   </li>
   <li>
-    <p>Increased job satisfaction: The sense of accomplishment and progress that comes from completing a task can lead to
+    <p>Increased job satisfaction: The sense of accomplishment and<code class="language-plaintext highlighter-rouge"> progress </code>that comes from completing a task can lead to
 increased job satisfaction.</p>
   </li>
   <li>
@@ -429,9 +429,9 @@ squeeze the most of us.</p>
 <p>Overall, practicing deep work can help you increase your productivity, improve your problem-solving skills, enhance your
 learning and memory, increase your job satisfaction, and better manage your time.</p>
 
-<p>That said, deep work is a valuable skill that can have significant benefits for our productivity and creativity. While
-it can be challenging to achieve, the rewards of being able to focus deeply on our work are well worth the effort. By
-learning to eliminate distractions and create an environment that is conducive to focus, we can engage in deep work and
+<p>That said, deep work is a valuable skill that can have significant<code class="language-plaintext highlighter-rouge"> benefits </code>for our productivity and creativity. While
+it can be<code class="language-plaintext highlighter-rouge"> challenging </code>to achieve, the rewards of being able to focus deeply on our work are well worth the effort. By
+learning to eliminate distractions and create an environment that is conducive to focus, we can<code class="language-plaintext highlighter-rouge"> engage </code>in deep work and
 produce our best work.</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[Different techniques and benefits of applying Deep Work in our life, including how we can achieve this easier. This article is based on the book Deep Work by Cal Newport book, summarizing some of these concepts]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/deep_work/deep-work.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/deep_work/deep-work.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Benefits of Trail Running</title><link href="http://localhost:4000/benefits-of-trail-running/" rel="alternate" type="text/html" title="Benefits of Trail Running" /><published>2022-12-10T03:01:13+01:00</published><updated>2022-12-10T03:01:13+01:00</updated><id>http://localhost:4000/benefits-of-trail-running</id><content type="html" xml:base="http://localhost:4000/benefits-of-trail-running/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
@@ -456,12 +456,12 @@ shown to have a calming effect on the mind, and the physical exertion of running
 other feel-good chemicals in the brain. As a result, many people find that trail running helps them to relax, de-stress,
 and feel more positive and energized.</p>
 
-<p>To get started with trail running, it is important to have the right equipment. In addition to a good pair of running
+<p>To get started with trail running, it is<code class="language-plaintext highlighter-rouge"> important </code>to have the right equipment. In addition to a good pair of running
 shoes, it is also a good idea to invest in some other gear that is designed specifically for trail running. This can
-include items such as a hydration pack or water bottle, trail running gaiters, and a hat or visor to protect your eyes
+include items such as a hydration<code class="language-plaintext highlighter-rouge"> pack </code>or water bottle, trail running gaiters, and a hat or visor to protect your eyes
 from the sun.</p>
 
-<p>It is also important to choose a trail that is appropriate for your skill level. Beginners should start with easy,
+<p>It is also<code class="language-plaintext highlighter-rouge"> important </code>to choose a trail that is appropriate for your skill level. Beginners should start with easy,
 well-maintained trails, and gradually work their way up to more challenging terrain as they become more experienced. It
 is also a good idea to run with a buddy or in a group, as this can provide additional support and motivation.</p>
 
@@ -482,7 +482,7 @@ energized.</li>
 running, as runners must navigate uneven terrain and avoid obstacles. This can help to improve a runner’s overall
 balance and coordination, and reduce the risk of falls and injuries.</li>
   <li>Social interaction: Many people find that trail running is a great way to meet new people and make friends who share
-their love of the outdoors. Running with a buddy or in a group can provide additional support, motivation, and a
+their<code class="language-plaintext highlighter-rouge"> love </code>of the outdoors. Running with a buddy or in a group can provide additional support, motivation, and a
 sense of community.</li>
 </ol>
 
@@ -496,7 +496,7 @@ sense of community.</li>
 <p>There are several potential problems and dangers that can arise when trail running, including the following:</p>
 
 <ol>
-  <li>Dehydration: Trail running can be strenuous, and it is important to stay hydrated by drinking plenty of water before,
+  <li>Dehydration: Trail running can be strenuous, and it is<code class="language-plaintext highlighter-rouge"> important </code>to stay hydrated by drinking plenty of water before,
 during, and after your run.</li>
   <li>Blisters: Ill-fitting shoes or wet socks can cause blisters to form on your feet, which can be painful and interfere
 with your ability to run comfortably.</li>
@@ -507,15 +507,15 @@ can lead to sunburn, which can be painful and increase your risk of skin cancer.
   <li>Insect bites: Trail running can expose you to a variety of insects, such as mosquitoes and ticks, which can bite and
 cause irritation.</li>
   <li>Wild animals: Depending on where you are trail running, you may encounter wild animals such as snakes, bears, and
-mountain lions. It is important to be aware of your surroundings and take appropriate precautions to avoid any
+mountain lions. It is<code class="language-plaintext highlighter-rouge"> important </code>to be aware of your surroundings and take appropriate precautions to avoid any
 potential encounters.</li>
   <li>Overuse injuries, such as shin splints or stress fractures, if you don’t properly warm up or cool down</li>
   <li>Exposure to the elements, such as cold temperatures or heavy rain, which can be dangerous if you’re not prepared</li>
-  <li>Getting lost if you don’t have a map or don’t pay attention to your surroundings</li>
+  <li>Getting lost if you don’t have a map or don’t pay<code class="language-plaintext highlighter-rouge"> attention </code>to your surroundings</li>
 </ol>
 
-<p>To avoid these dangers, it’s important to be prepared before heading out on the trail. Make sure you have the right
-equipment and supplies, plan your route carefully, and pay attention to your surroundings. If you’re not sure about the
+<p>To avoid these dangers, it’s<code class="language-plaintext highlighter-rouge"> important </code>to be prepared before heading out on the trail. Make sure you have the right
+equipment and supplies, plan your route carefully, and pay<code class="language-plaintext highlighter-rouge"> attention </code>to your surroundings. If you’re not sure about the
 trail or if you’re unsure of your abilities, it’s always a good idea to start with shorter, easier trails and work your
 way up to more challenging routes.</p>
 
@@ -532,14 +532,14 @@ trail.</li>
   <li>Before heading out on the trail, take some time to plan your route and check the weather. Choose a trail that is
 appropriate for your skill level, and make sure you have a good idea of how long it will take you to complete the
 route.</li>
-  <li>When you’re out on the trail, pay attention to your surroundings and be aware of any potential hazards, such as steep
+  <li>When you’re out on the trail, pay<code class="language-plaintext highlighter-rouge"> attention </code>to your surroundings and be aware of any potential hazards, such as steep
 drop-offs or unstable ground. If you’re running with a group, make sure to stay together and help each other out if
 anyone needs assistance.</li>
   <li>As you run, focus on maintaining a steady pace and keeping your breathing and heart rate under control. It’s okay to
-take breaks if you need to catch your breath or rest your muscles, but try to keep moving forward to avoid getting
+take breaks if you need to catch your<code class="language-plaintext highlighter-rouge"> breath </code>or rest your muscles, but<code class="language-plaintext highlighter-rouge"> try </code>to keep moving forward to avoid getting
 tired or losing motivation.</li>
-  <li>Finally, listen to your body and pay attention to how you’re feeling. If you start to feel pain or discomfort, slow
-down or stop and take a break. It’s important to take care of yourself while trail running to avoid injury and ensure
+  <li>Finally, listen to your body and pay<code class="language-plaintext highlighter-rouge"> attention </code>to how you’re feeling. If you start to feel<code class="language-plaintext highlighter-rouge"> pain </code>or discomfort, slow
+down or stop and take a break. It’s<code class="language-plaintext highlighter-rouge"> important </code>to take care of yourself while trail running to avoid injury and ensure
 you have a safe and enjoyable experience.</li>
 </ol>
 
@@ -556,7 +556,7 @@ decision-making.</div>
 <p>Deep learning, on the other hand, is a subset of AI that uses large neural networks with multiple layers of processing
 to learn and make decisions based on data.</p>
 
-<p>The history of AI can be traced back to the 1950s, when researchers began exploring the possibility of creating machines
+<p>The<code class="language-plaintext highlighter-rouge"> history </code>of AI can be traced back to the 1950s, when<code class="language-plaintext highlighter-rouge"> researchers </code>began exploring the possibility of creating machines
 that could perform tasks that required human intelligence.</p>
 
 <p>Early AI research focused on creating algorithms that could mimic human decision-making processes and problem-solving
@@ -581,12 +581,12 @@ Instead, they are able to learn from the data they are given and improve their p
 This has made it particularly useful in fields such as computer vision, natural language processing, and speech
 recognition, where traditional AI algorithms struggle to make sense of complex and unstructured data. For example, deep
 learning algorithms have been used to develop image recognition systems that can accurately identify objects in images,
-and language translation systems that can accurately translate text from one language to another.</p>
+and language<code class="language-plaintext highlighter-rouge"> translation </code>systems that can accurately translate text from one language to another.</p>
 
 <p>Deep learning has also been used in a variety of other fields, including healthcare, finance, and transportation. In
 healthcare, deep learning algorithms have been used to identify patterns in medical images that may indicate the
 presence of certain diseases, such as cancer. In finance, deep learning algorithms have been used to analyze large
-amounts of market data and make predictions about stock prices and other asset classes.</p>
+amounts of market data and make predictions about stock prices and other<code class="language-plaintext highlighter-rouge"> asset </code>classes.</p>
 
 <p>Despite these advantages, there are also challenges and limitations to the use of deep learning. One of the main
 challenges is the need for large amounts of data to train the algorithms, which can be difficult to obtain in some
@@ -596,7 +596,7 @@ important, such as in medical diagnosis or financial decision-making.</p>
 
 <h2 id="utilities">Utilities</h2>
 
-<p>The future of deep learning looks bright, with researchers and companies continuing to invest in this field to develop
+<p>The future of deep learning looks bright, with<code class="language-plaintext highlighter-rouge"> researchers </code>and companies continuing to invest in this field to develop
 new applications and technologies. In the next few years, we can expect to see deep learning algorithms become even more
 powerful and versatile, with the ability to handle even larger and more complex datasets.</p>
 
@@ -642,7 +642,7 @@ replace human workers in many industries. This could potentially lead to job los
 could have a negative impact on the economy.</p>
 
 <p>To address this concern, it is important for companies and policymakers to invest in training and education programs
-that can help workers acquire the skills and knowledge necessary to work alongside deep learning algorithms and adapt to
+that can help workers acquire the skills and knowledge necessary to work<code class="language-plaintext highlighter-rouge"> alongside </code>deep learning algorithms and adapt to
 new technologies. This could include training programs in areas such as data analysis, programming, and machine
 learning, which can help workers to develop the skills needed to work with deep learning algorithms and other emerging
 technologies.</p>
@@ -672,18 +672,18 @@ discover your next collectible.</div>
 <p>Although NFTs are known for art and just some characteristic images, this article will not be focused merely on the
 artistic side, but also other utilities that Non-Fungible Tokens can bring to your entertainment and lifestyle.</p>
 
-<p>The term Non-Fungible Token means that this item is unique and cannot be duplicated. If you are the owner of an NFT,
+<p>The term Non-Fungible Token means that this item is unique and cannot be duplicated. If you are the<code class="language-plaintext highlighter-rouge"> owner </code>of an NFT,
 this piece belongs just to you and this ownership is reflected in the blockchain network. Different Blockchain network
 such as the mentioned one from Ethereum or others such as Avalanche, or Solana make this possible.</p>
 
 <h2 id="origins-of-nfts">Origins of NFTs</h2>
 
-<p>It all happened in 2021. There is no exact reason for the boom of NFTs during this year, but there some events that most
+<p>It all happened in 2021. There is no exact reason for the boom of NFTs during this year, but there some<code class="language-plaintext highlighter-rouge"> events </code>that most
 probably had something to do with the rise of NFTs.</p>
 
 <p>During this period, more and more people jumped into the crypto world. In some cases, they did not have a previous
 investment background and this phenomenon opened many doors in the retail industry. Furthermore, some famous people and
-investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the past changed
+investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the<code class="language-plaintext highlighter-rouge"> past </code>changed
 their mind and some of these firms started also offering these alternative assets to their clients.</p>
 
 <p>On one hand, the central banks low-interest or quantitative easing policies caused a huge increase on the price of the different
@@ -705,7 +705,7 @@ for good these sectors in the future.</p>
 <h3 id="art">Art</h3>
 
 <p>With the democratization of art, this means that all artists can promote their creativity and by doing so, they are also
-able to reach to more people. With NFTs, you and only you are the owner of these unique pieces. Who know where the next
+able to reach to more people. With NFTs, you and only you are the<code class="language-plaintext highlighter-rouge"> owner </code>of these unique pieces. Who know where the next
 Picasso or Dali will be? This means that art lovers and the search of the next gem is not limited to just some
 privileged collectors with good connections, but to everyone who loves art and beauty.</p>
 
@@ -730,21 +730,21 @@ having the original copy or even special edition versions or unreleased remixes 
 physical copy you would have it registered in the blockchain.</p>
 
 <p>For musicians and DJs, this can be a great very interesting mechanism, same as art makers, to promote their job and
-access to different users around the world. This also removes intermediaries that take a big piece of the cake.</p>
+access to different users<code class="language-plaintext highlighter-rouge"> around </code>the world. This also removes intermediaries that take a big piece of the cake.</p>
 
 <p>For example, if you like EDM and you go to festivals often, you may have noticed that recently the songs that the
 different DJs play are the ones that are being played everywhere, and they tend to play the latest hits. You may have
-seen this in festivals such as Ultra or Tomorrowland. This makes the music sessions not as original as before.</p>
+seen this in festivals such as Ultra or Tomorrowland. This makes the<code class="language-plaintext highlighter-rouge"> music </code>sessions not as original as before.</p>
 
 <p>If you attend one of these sets, this can be the only time you can hear a specific unreleased song because they are the
 sole owners of this one. Some collectors may be interested on this specific version and request the artist to buy it.</p>
 
-<p>In connection to the commercial side of this feature, since you are the owner of this song, you could set a
+<p>In connection to the commercial side of this feature, since you are the<code class="language-plaintext highlighter-rouge"> owner </code>of this song, you could set a
 subscription/reproduction fee if someone wants to play your song.</p>
 
 <p>
     <img class="img-fluid" src="/img/posts/nfts/dog-vinyls.jpg" alt="The new collection method" />
-    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting music in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
+    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting` music `in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
 </span>
 </p>
 
@@ -765,7 +765,7 @@ years from now.</p>
 example go to a world cup final, you may record videos, etc., but one of the things probably you will want to keep it
 for this unique experience will be the tickets of the match you attended.</p>
 
-<p>The same could be applied to other events. Imagine going to last tour of your favorite music band before they split or
+<p>The same could be applied to other events. Imagine going to last tour of your favorite<code class="language-plaintext highlighter-rouge"> music </code>band before they split or
 retire. This is also something quite unique that would like to keep, and it’s probably that something will increase their
 value with the years should you want to sell it later.</p>
 
@@ -803,7 +803,7 @@ these fees are just paid if you sell your NFT.</p>
 
 <h3 id="tokenizing-the-nft">Tokenizing the NFT</h3>
 
-<p>When creating the NFT, it is recommended to provide additional information and not just the basic details. For example,
+<p>When creating the NFT, it is recommended to<code class="language-plaintext highlighter-rouge"> provide </code>additional information and not just the basic details. For example,
 include some details like the name, the collection, and other technical details.</p>
 
 <h3 id="showing-and-selling-the-nft">Showing and selling the NFT</h3>
@@ -812,7 +812,7 @@ include some details like the name, the collection, and other technical details.
 to add to your collection. In this example, I just included the basic steps, but of course the industry is constantly
 evolving, and you will see new wallets, marketplaces and chains.</p>
 
-<p>If you want to have a look at my collection, you can just go to the links below:</p>
+<p>If you want to have a look at my collection, you can just go to the<code class="language-plaintext highlighter-rouge"> links </code>below:</p>
 
 <p><a href="https://opensea.io/collection/animals-badass">https://opensea.io/collection/animals-badass</a></p>
 
@@ -827,11 +827,11 @@ evolving, and you will see new wallets, marketplaces and chains.</p>
 <p>That should be all for now. You will see that the process is not complicated at all. Good luck and Happy Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[From art to videogames and sports, what NFTs can change in these sectors and the neccesary steps to create them]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">How Nutrition Is Impacting Your Life</title><link href="http://localhost:4000/how-nutrition-is-impacting-your-life/" rel="alternate" type="text/html" title="How Nutrition Is Impacting Your Life" /><published>2022-11-04T13:01:13+01:00</published><updated>2022-11-04T13:01:13+01:00</updated><id>http://localhost:4000/how-nutrition-is-impacting-your-life</id><content type="html" xml:base="http://localhost:4000/how-nutrition-is-impacting-your-life/"><![CDATA[<h2 id="introduction">Introduction</h2>
 
 <div class="text-article">
-Eating is one of the pleasures of life and apart from that a way of being able to meet with family and friends. However, `although` we are not `conscious` of it, eating well or bad plays an important role in our life (mood, work, sport, etc.). Although it was `probably` today when we have more access to information, it is also the era where producers try to include in the market products with ingredients that can be `harmful` for us. It’s quite also understandable that more and more people have obesity problems. Although governments are trying to put a remedy to this trend or even “modern disease”, instead of rules, what we should do is educate people and let them know about all consequences.
+Eating is one of the pleasures of life and apart from that a way of being` able `to meet with family and friends. However, `although` we are not `conscious` of it, eating well or bad plays an important role in our life (mood, work, sport, etc.). Although it was `probably` today when we have more access to information, it is also the era where producers try to include in the market products with ingredients that can be `harmful` for us. It’s quite also understandable that more and more people have obesity problems. Although` governments `are trying to put a remedy to this trend or even “modern disease”, instead of rules, what we should do is educate people and let them know about all consequences.
 </div>
 
 <p>I, as <code class="language-plaintext highlighter-rouge">probably</code> you, love eating and <code class="language-plaintext highlighter-rouge">probably</code> you are also trying to taste new flavors or discover new restaurants.
-However, I’m also telling you nothing new when I say that this exercise in excess can have very bad consequences, that
+However, I’m also telling you<code class="language-plaintext highlighter-rouge"> nothing </code>new when I<code class="language-plaintext highlighter-rouge"> say </code>that this exercise in excess can have very bad consequences, that
 will slowly hurt your <code class="language-plaintext highlighter-rouge">body</code>.</p>
 
 <p>It’s strange, but true, we are what we eat. Whoever said this sentence for the first time, he knew what he was doing.</p>
@@ -847,8 +847,8 @@ that are indicative of their diet. These symptoms are more severe than the look 
 
 <h3 id="fatigue">Fatigue</h3>
 
-<p>When you eat heavy food, with a lot of calories, our organs need to switch to “hard-work” mode, and they consume more
-energy in order to be able to digest them. Simply mathematics, our organs need to allocate more energy to this task, and
+<p>When you eat heavy food, with a<code class="language-plaintext highlighter-rouge"> lot </code>of calories, our organs need to switch to “hard-work” mode, and they consume more
+energy in order to be<code class="language-plaintext highlighter-rouge"> able </code>to digest them. Simply mathematics, our organs need to allocate more energy to this task, and
 there will be less energy in order to do the remaining tasks, leading to feeling tired and <code class="language-plaintext highlighter-rouge">without</code> desired to do
 anything.</p>
 
@@ -861,19 +861,19 @@ opposite results.</p>
 <p>We have more and more advances and breakthroughs in different aspects, making our life easier. The problem is that
 despite these improvements, why with better conditions there are more and more burnouts, depressions, and even people
 committing suicide? Of course, there are other reasons, but one of the factors is related to the food. One of the
-reasons, is that eating products high in trans-fat, they have a direct impact into our stress hormones. This causes us
+reasons, is that eating products<code class="language-plaintext highlighter-rouge"> high </code>in trans-fat, they have a direct impact into our stress hormones. This causes us
 to be more aggressive, irritable, and making our mood and motivation drop to the bottom.</p>
 
 <h3 id="focus">Focus</h3>
 
 <p>Related to our intellectual activity, try to study, or work, and you will also <code class="language-plaintext highlighter-rouge">see</code> that having a bad diet will cause
-problems with your lucidity and agility. You can <code class="language-plaintext highlighter-rouge">see</code> this for example when <code class="language-plaintext highlighter-rouge">focus</code>ing on a complex task or memorizing
+problems with your<code class="language-plaintext highlighter-rouge"> lucidity </code>and agility. You can <code class="language-plaintext highlighter-rouge">see</code> this for example when <code class="language-plaintext highlighter-rouge">focus</code>ing on a complex task or memorizing
 topics, or even a single number.</p>
 
 <h3 id="long-term-diseases">Long-term diseases</h3>
 <p>It is not surprise that countries with healthy diets have a higher expected life. Furthermore, there are several studies
 that link the effects of eating unhealthy food to different diseases. This of course is not applicable to food, but
-other products we drink or inhale. The solution is easy: If you want to live longer, start taking care of what your <code class="language-plaintext highlighter-rouge">body</code>
+other products we<code class="language-plaintext highlighter-rouge"> drink </code>or inhale. The solution is easy: If you want to live longer, start taking care of what your <code class="language-plaintext highlighter-rouge">body</code>
 is using as fuel.</p>
 
 <h3 id="recovery">Recovery</h3>
@@ -885,7 +885,7 @@ you will note the difference and how much it some activities cost or how you are
 
 <h2 id="how-to-fix-this">How to fix this</h2>
 
-<p>Having <code class="language-plaintext highlighter-rouge">see</code>n what is causing problems to our health, there should be something we can do about it. These are some tricks
+<p>Having <code class="language-plaintext highlighter-rouge">see</code>n what is<code class="language-plaintext highlighter-rouge"> causing </code>problems to our health, there should be something we can do about it. These are some tricks
 in order to help us with a perfect nutrition <code class="language-plaintext highlighter-rouge">aimed</code> to achieve the best performance.</p>
 
 <p>
@@ -903,7 +903,7 @@ products in the supermarket and save a considerable amount of money.</p>
 
 <h3 id="be-constant">Be constant</h3>
 
-<p>This one may be also quite evident, but it is usual that a lot of people start with their diet very motivated. In this
+<p>This one may be also quite evident, but it is usual that a<code class="language-plaintext highlighter-rouge"> lot </code>of people start with their diet very motivated. In this
 case being constant is of course much more important than the intensity. Define realistic and feasible goals. Otherwise,
 in 1 week you will get back where you started.</p>
 
@@ -920,7 +920,7 @@ benefit of the seasonal products and enjoy the flavor of these products.</p>
 <p>Although this <code class="language-plaintext highlighter-rouge">see</code>ms the opposite of what’s included above, you could have your cheat day, e.g., on the weekend. However,
 even if in the beginning you will be <code class="language-plaintext highlighter-rouge">probably</code> yearning for this day to arrive, you may realize about the following. The
 day after you go for this special day, you will feel heavier and not as healthy as the previous days. Our <code class="language-plaintext highlighter-rouge">body</code> is
-intelligent enough to warn us about something they did not like and it’s causing our <code class="language-plaintext highlighter-rouge">body</code> to suffer.</p>
+intelligent enough to warn us about something they did not like and it’s<code class="language-plaintext highlighter-rouge"> causing </code>our <code class="language-plaintext highlighter-rouge">body</code> to suffer.</p>
 
 <p>With time, you will <code class="language-plaintext highlighter-rouge">see</code> that this cheat day is <code class="language-plaintext highlighter-rouge">probably</code> causing more problems to your <code class="language-plaintext highlighter-rouge">body</code>, and you will not ask for it
 anymore. And your mind and <code class="language-plaintext highlighter-rouge">body</code> will thank you for this.</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[Why you should start taking care of what you eat and why the food may be slowly killing you]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nutrition/fr.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nutrition/fr.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Algorand Governance Period 5</title><link href="http://localhost:4000/algorand-governance-period-5/" rel="alternate" type="text/html" title="Algorand Governance Period 5" /><published>2022-10-13T14:01:13+02:00</published><updated>2022-10-13T14:01:13+02:00</updated><id>http://localhost:4000/algorand-governance-period-5</id><content type="html" xml:base="http://localhost:4000/algorand-governance-period-5/"><![CDATA[<h2 id="introduction">Introduction</h2>
@@ -1073,7 +1073,7 @@ first plans about this software upgrade data back to 2014, and the upgrade occur
 years later. The fork also opens new opportunities for the usage of blockchain in different components and standards,
 due to the problems and inefficiency that the new consensus mechanism brings.</p>
 
-<p>Furthermore, although Ethereum is the already network with more utilities and business <code class="language-plaintext highlighter-rouge">cases</code>, this can <code class="language-plaintext highlighter-rouge">boost</code> the
+<p>Furthermore, although Ethereum is already the network with more utilities and business <code class="language-plaintext highlighter-rouge">cases</code>, this can <code class="language-plaintext highlighter-rouge">boost</code> the
 commerciality of this network and push it to thew next level with the entry of new players.</p>
 
 <p>Besides, this event can be the one that turn the tables in order to recover the lost trust and see that there are

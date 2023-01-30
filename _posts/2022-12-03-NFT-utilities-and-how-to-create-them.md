@@ -28,18 +28,18 @@ discover your next collectible.</div>
 Although NFTs are known for art and just some characteristic images, this article will not be focused merely on the
 artistic side, but also other utilities that Non-Fungible Tokens can bring to your entertainment and lifestyle.
 
-The term Non-Fungible Token means that this item is unique and cannot be duplicated. If you are the owner of an NFT,
+The term Non-Fungible Token means that this item is unique and cannot be duplicated. If you are the` owner `of an NFT,
 this piece belongs just to you and this ownership is reflected in the blockchain network. Different Blockchain network
 such as the mentioned one from Ethereum or others such as Avalanche, or Solana make this possible.
 
 ## Origins of NFTs
 
-It all happened in 2021. There is no exact reason for the boom of NFTs during this year, but there some events that most
+It all happened in 2021. There is no exact reason for the boom of NFTs during this year, but there some` events `that most
 probably had something to do with the rise of NFTs.
 
 During this period, more and more people jumped into the crypto world. In some cases, they did not have a previous
 investment background and this phenomenon opened many doors in the retail industry. Furthermore, some famous people and
-investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the past changed
+investment firms also promoted this change. Besides, Investment banks that had criticized Bitcoin in the` past `changed
 their mind and some of these firms started also offering these alternative assets to their clients.
 
 On one hand, the central banks low-interest or quantitative easing policies caused a huge increase on the price of the different
@@ -61,7 +61,7 @@ for good these sectors in the future.
 ### Art
 
 With the democratization of art, this means that all artists can promote their creativity and by doing so, they are also
-able to reach to more people. With NFTs, you and only you are the owner of these unique pieces. Who know where the next
+able to reach to more people. With NFTs, you and only you are the` owner `of these unique pieces. Who know where the next
 Picasso or Dali will be? This means that art lovers and the search of the next gem is not limited to just some
 privileged collectors with good connections, but to everyone who loves art and beauty.
 
@@ -86,21 +86,21 @@ having the original copy or even special edition versions or unreleased remixes 
 physical copy you would have it registered in the blockchain.
 
 For musicians and DJs, this can be a great very interesting mechanism, same as art makers, to promote their job and
-access to different users around the world. This also removes intermediaries that take a big piece of the cake.
+access to different users` around `the world. This also removes intermediaries that take a big piece of the cake.
 
 For example, if you like EDM and you go to festivals often, you may have noticed that recently the songs that the
 different DJs play are the ones that are being played everywhere, and they tend to play the latest hits. You may have
-seen this in festivals such as Ultra or Tomorrowland. This makes the music sessions not as original as before.
+seen this in festivals such as Ultra or Tomorrowland. This makes the` music `sessions not as original as before.
 
 If you attend one of these sets, this can be the only time you can hear a specific unreleased song because they are the
 sole owners of this one. Some collectors may be interested on this specific version and request the artist to buy it.
 
-In connection to the commercial side of this feature, since you are the owner of this song, you could set a
+In connection to the commercial side of this feature, since you are the` owner `of this song, you could set a
 subscription/reproduction fee if someone wants to play your song.
 
 <p>
     <img class="img-fluid" src="/img/posts/nfts/dog-vinyls.jpg" alt="The new collection method">
-    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting music in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
+    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting` music `in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
 </span>
 </p>
 
@@ -121,7 +121,7 @@ Imagine going to a football game or concert. This is nothing unusual and somethi
 example go to a world cup final, you may record videos, etc., but one of the things probably you will want to keep it
 for this unique experience will be the tickets of the match you attended.
 
-The same could be applied to other events. Imagine going to last tour of your favorite music band before they split or
+The same could be applied to other events. Imagine going to last tour of your favorite` music `band before they split or
 retire. This is also something quite unique that would like to keep, and it's probably that something will increase their
 value with the years should you want to sell it later.
 
@@ -159,7 +159,7 @@ these fees are just paid if you sell your NFT.
 
 ### Tokenizing the NFT
 
-When creating the NFT, it is recommended to provide additional information and not just the basic details. For example,
+When creating the NFT, it is recommended to` provide `additional information and not just the basic details. For example,
 include some details like the name, the collection, and other technical details.
 
 ### Showing and selling the NFT
@@ -168,7 +168,7 @@ Once you have linked your wallet to the desired site, you can just show your col
 to add to your collection. In this example, I just included the basic steps, but of course the industry is constantly
 evolving, and you will see new wallets, marketplaces and chains.
 
-If you want to have a look at my collection, you can just go to the links below:
+If you want to have a look at my collection, you can just go to the` links `below:
 
 [https://opensea.io/collection/animals-badass](https://opensea.io/collection/animals-badass)
 

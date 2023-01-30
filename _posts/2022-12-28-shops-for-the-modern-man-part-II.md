@@ -16,7 +16,7 @@ lang: en
 ## Introduction
 
 <div class="text-article">
-The modern man is a multifaceted individual who defies traditional gender roles and expectations. He is confident, ambitious, and driven, with a diverse range of interests and passions.
+The modern man is a multifaceted individual who defies traditional gender roles and expectations. He is confident, ambitious, and driven, with a` diverse `range of interests and passions.
 </div>
 
 One of the key characteristics of the modern man is his ability to adapt and evolve. He is open-minded and flexible,
@@ -72,7 +72,7 @@ and ethical fashion.
 
 The Spanish company is a fashion brand that is known for its trendy and modern styles. The brand's collections often
 feature a mix of classic and contemporary pieces, with a focus on high-quality fabrics and attention to detail. Mango's
-clothing is often described as being chic and sophisticated, with a touch of playfulness and innovation.
+clothing is often` described `as being chic and sophisticated, with a touch of playfulness and innovation.
 
 Overall, the Spanish brand's aesthetic is influenced by a range of global styles, from European fashion to the latest
 streetwear trends, and is designed to appeal to a wide range of customers. Mango's collections include a range of
@@ -107,27 +107,27 @@ designers and brands that makes their product unique and lasting a lifetime.
 ### Kamakura
 
 Kamakura is a city located in the Kanagawa Prefecture of Japan. It is situated about 50 kilometers south of Tokyo on the
-Pacific coast, and is known for its many temples and shrines. The city served as the political center of Japan from 1185
+Pacific coast, and is known for its many` temples `and shrines. The city served as the political center of Japan from 1185
 to 1333, during which time it was the seat of the Kamakura shogunate. Kamakura is also home to many historical
 landmarks, including the Tsurugaoka Hachimangū shrine and the Great Buddha of Kamakura.
 
-With their headquarters in this city, Kamakura is also the brand of dress shirts located in the Asian country. Although
-they agree that shirts are not coming from Japan, they are inspired by other countries and western styles with the goal
+With their headquarters in this city, Kamakura is also the brand of` dress `shirts located in the Asian country. Although
+they` agree `that shirts are not coming from Japan, they are inspired by other countries and western styles with the goal
 of making perfect shirts.
 
 
-This way, Kamakura Shirts has become an icon of dress with top-notch quality and service. Their dress shirts take
+This way, Kamakura Shirts has become an icon of` dress `with top-notch quality and service. Their` dress `shirts take
 inspiration from many regions. For example, theirslim fit shirts are inspired by Italian model shirts from Napoli, with
 a slender silhouette. On the other hand their classic fit shirts, give a feeling of British and American elements.
 
-In addition to these iconic models, they also offer other services such as shirts for women or made to measure shirts.
+In addition to these iconic models, they also offer other services such as shirts for` women `or made to measure shirts.
 If you happen to by close to this city, it may be worth to visit the shop.
 
 **Website**: [Kamakura](https://www.kamakurashirts.com/)
 
 <p>
     <img class="img-fluid" src="/img/posts/shops2/kamakura.JPG" alt="Japanese craftsmanship">
-    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product. Their dress or sport shirts will not deceive you</span>
+    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product. Their` dress `or sport shirts will not deceive you</span>
 </p>
 
 ## Conclusion

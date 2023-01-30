@@ -16,11 +16,11 @@ lang: en
 ## AI Power
 
 <div class="text-article">
-Artificial intelligence (AI) has the potential to revolutionize the way we work and improve productivity across various industries. In the software development industry, AI is already being used to improve productivity in several ways.</div>
+Artificial intelligence (AI) has the` potential `to revolutionize the way we work and improve` productivity `across various industries. In the software development industry, AI is already being used to improve` productivity `in several ways.</div>
 
-One of the most common ways AI is being used to improve software productivity is through the use of code completion tools. These tools use AI algorithms to suggest code snippets or complete entire lines of code based on the context of the current project. This can save developers a significant amount of time and effort by reducing the need for manual coding. Some examples of code completion tools include DeepTabNine, Kite, and TabNine.
+One of the most common ways AI is being used to improve software` productivity `is through the use of code completion tools. These tools use AI algorithms to suggest code snippets or complete entire lines of code based on the` context `of the current project. This can save developers a significant amount of time and effort by reducing the need for manual coding. Some examples of code completion tools include DeepTabNine, Kite, and TabNine.
 
-Coding is a complex and time-consuming task that requires a lot of focus and attention to detail. However, there are many tools available that can help you improve your productivity and streamline your workflow. In this article, we will discuss some of the most popular tools that you can use to improve your coding productivity.
+Coding is a complex and time-consuming task that requires a lot of focus and attention to detail. However, there are many tools available that can help you improve your` productivity `and streamline your workflow. In this article, we will discuss some of the most popular tools that you can use to improve your coding productivity.
 
 There are different ways to increase what we do in less time. IDEs, project management tools and methodologies or automations tools and some of these examples. Probably some of these improvements can also come from non-technology methods, but improving our lifestyle, focus and nutrition.
 
@@ -28,9 +28,9 @@ Nonetheless, we will leave them for another time. Today we are going to discuss 
 
 ## GitHub Copilot
 
-Starting with Microsoft, GitHub Copilot is a powerful AI-powered code completion tool that allows developers to write code more efficiently and with fewer errors. This powerful tool can help developers to increase their productivity by reducing the time it takes to complete repetitive or complex tasks.
+Starting with Microsoft, GitHub Copilot is a powerful AI-powered code completion` tool `that allows developers to write code more efficiently and with fewer errors. This powerful` tool `can help developers to increase their` productivity `by reducing the time it takes to complete repetitive or complex tasks.
 
-One of the main features of GitHub Copilot is its ability to provide code suggestions as developers type. This can help to save time by eliminating the need to manually search for the correct syntax or function. Additionally, Copilot also provides context-aware suggestions, which means that it can suggest different options based on the specific context of the code.
+One of the main features of GitHub Copilot is its ability to provide code` suggestions `as developers type. This can help to save time by eliminating the need to manually search for the correct syntax or function. Additionally, Copilot also provides context-aware suggestions, which means that it can suggest different options based on the specific` context `of the code.
 
 Another useful feature of GitHub Copilot is its ability to automatically fix common coding errors. This can save developers a significant amount of time, as they no longer need to spend time searching for and fixing errors. Additionally, Copilot can also help to improve code quality by suggesting improvements and best practices.
 
@@ -50,18 +50,18 @@ Additionally, ChatGPT can also assist in code refactoring and bug fixing. It can
 
 Another great feature of ChatGPT is its ability to write comments and documentation. This can be extremely helpful for developers who are working on complex projects and need to document their work. ChatGPT can analyze the code and generate comments and documentation that explain what the code is doing and how it works.
 
-Furthermore, ChatGPT is a powerful tool that can be used to increase coding productivity in several ways. It can generate code quickly and accurately, learn from existing code, assist in code refactoring and bug fixing, write comments and documentation, and even generate entire programs. By incorporating ChatGPT into their workflow, developers can save time and effort while also improving the quality of their work.
+Furthermore, ChatGPT is a powerful` tool `that can be used to increase coding` productivity `in several ways. It can generate code quickly and accurately, learn from existing code, assist in code refactoring and bug fixing, write comments and documentation, and even generate entire programs. By incorporating ChatGPT into their workflow, developers can save time and effort while also improving the quality of their work.
 
 On another hand, ChatGPT also has the ability to generate entire programs. It can take a high-level description of what the program should do and generate the entire codebase for it. This can be especially useful for developers who are working on proof-of-concepts or prototypes.
 
-Of course, ChatGPT is no error-proof and due to the stored data, it could be the case that some code or libraries are old and/or deprecated. However, when writing one of the generated errors triggered in suggested blocks of code, ChatGPT will apologize for that and suggest new changes that will work. This is some of the situations several people have encountered. Once Microsoft complete the acquisition and ChatGPT has access to real time data, we will see what this tool is capable of.
+Of course, ChatGPT is no error-proof and due to the stored data, it could be the case that some code or libraries are old and/or deprecated. However, when writing one of the generated errors triggered in suggested blocks of code, ChatGPT will apologize for that and suggest new changes that will work. This is some of the situations several people have encountered. Once Microsoft complete the acquisition and ChatGPT has access to real time data, we will see what this` tool `is capable of.
 
-We have seen that GitHub Copilot is a powerful tool that can help developers to increase their productivity by reducing the time it takes to complete repetitive or complex tasks. With its ability to provide code suggestions, automatically fix common coding errors and suggest improvements, Copilot can help developers to improve the quality of their code and increase their efficiency.
+We have seen that GitHub Copilot is a powerful` tool `that can help developers to increase their` productivity `by reducing the time it takes to complete repetitive or complex tasks. With its ability to provide code suggestions, automatically fix common coding errors and suggest improvements, Copilot can help developers to improve the quality of their code and increase their efficiency.
 
 ## A lot of new things to come
 
-All of these features combined can greatly increase coding productivity and help developers focus on the more important aspects of their work such as designing and implementing new features, and solving complex problems.
+All of these features combined can greatly increase coding` productivity `and help developers focus on the more important aspects of their work such as designing and implementing new features, and solving complex problems.
 
-To conclude with this short article AI is already being used to improve software productivity in several ways, and it is likely that its use will continue to expand in the future. By automating repetitive and time-consuming tasks, AI can help developers to focus on more complex and creative tasks, ultimately leading to better software and more efficient development processes.
+To conclude with this short article AI is already being used to improve software` productivity `in several ways, and it is likely that its use will continue to expand in the future. By automating repetitive and time-consuming tasks, AI can help developers to focus on more complex and creative tasks, ultimately leading to better software and more efficient development processes.
 
 We are still on very early stages of the AI revolution. If all this is possible now, imagine what could be done when there is more data available, and we the different training models can be continuously improved in order to improve the loss function and enhance the different predictions. We have not yet seen the real power of AI, and it will still take some time until we are close to it.
