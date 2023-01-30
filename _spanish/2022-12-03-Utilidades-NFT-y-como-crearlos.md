@@ -99,12 +99,12 @@ Si asistes a uno de estos sets, puede ser la única vez que puedas escuchar una 
 los únicos propietarios de esta. Algunos coleccionistas pueden estar interesados en esta versión concreta y solicitarla al
 artista.
 
-En relación con el aspecto comercial de esta función, puesto que eres el propietario de esta canción, podrías
+En` relación `con el aspecto comercial de esta función, puesto que eres el propietario de esta canción, podrías
 establecer una cuota de suscripción/reproducción si alguien quiere reproducir tu canción.
 
 <p>
     <img class="img-fluid" src="/img/posts/nfts/dog-vinyls.jpg" alt="The new collection method">
-    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting music in new format files add many new possibilities and reduces problems such as storage or conservation of old formats
+    <span class="caption text-muted">Nostalgic collectors may not think the same, but collecting music in new format files` add `many new possibilities and reduces problems such as storage or conservation of old formats
 </span>
 </p>
 
@@ -142,7 +142,7 @@ completado tu primer trabajo, los pasos se pueden resumir de la siguiente manera
 
 Si eres nuevo en el mundo de las criptomonedas, no tengas miedo de los términos. Crear un monedero es algo que no mucha
 gente hace en, pero te puedo garantizar que, como ocurre con otras tecnologías, en el futuro todo el mundo tendrá su propio monedero
-donde puedan guardar y custodiar sus activos sin necesidad de intermediarios. Como se acaba de discutir, esto es algo que
+donde puedan guardar y custodiar sus activos sin necesidad de intermediarios. Como se` acaba `de discutir, esto es algo que
 cualquiera puede hacer independientemente de sus conocimientos y habilidades tecnológicas.
 
 Algunos de los monederos más populares que existen son Metamask, Coinbase Wallet o Phantom.

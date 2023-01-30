@@ -28,8 +28,8 @@ opción preferida. Por ejemplo, un usuario que comprometa 20.000 ALGO y venda 10
 cambio, otro usuario que comprometa 1.000 ALGO y mantenga esa cantidad o más se llevará la recompensa. Por lo tanto, es
 importante prestar atención a la cantidad comprometida y sólo incluir allí lo que está seguro de poder mantener. No
 ocurre nada si asignas más de los ALGO comprometidos una vez que el periodo de gobernanza ha comenzado el 15 de octubre.
-Las recompensas que se obtienen se calculan dividiendo el número total de tokens (70,5 millones) por el número de ALGO
-comprometidos de todos los gobernantes. También puede ver las estadísticas en la siguiente
+Las` recompensas `que se obtienen se calculan dividiendo el número total de tokens (70,5 millones) por el número de ALGO
+comprometidos de todos los gobernantes. También puede` ver `las estadísticas en la siguiente
 página: <https://www.algorandstats.com/governance-period-5>
 
 ## Crítica
@@ -51,7 +51,7 @@ asignar 7M de tokens ALGO a los gobernadores de DeFi. Esta fue la opción que ap
 
 ## Proyectos clave
 
-Como recordarás de este artículo, los 3 pilares principales del uso de Algorand son
+Como` recordarás `de este artículo, los 3 pilares principales del uso de Algorand son
 
 - Pagos
 - NFTs
@@ -104,7 +104,7 @@ DEX con el mínimo esfuerzo.
 
 ## Monederos
 
-Siguiendo con los siguientes pasos y el proceso de Gobierno, es hora de centrarse en cómo almacenar nuestros ALGOtokens.
+Siguiendo con los siguientes pasos y el proceso de Gobierno, es hora de centrarse en` cómo `almacenar nuestros ALGOtokens.
 Como has visto, hay muchos proyectos en torno a Algorand y muchas formas de depositar tus tokens ALGO. Algunos de los
 monederos más populares que existen son
 
@@ -126,7 +126,7 @@ ledger también.Es fácil acceder al historial de transacciones, holdings o NFTs
 
 AlgoSigner es una extensión para Chrome que puede utilizarse como monedero Algorand. Permite a los usuarios aprobar y
 firmar las transacciones generadas por las aplicaciones de Algorand. La ventaja de AlgoSigner es que se puede conceder
-acceso a diferentes dApps sin darles acceso a tus claves y que se puede integrar fácilmente en DEX.
+acceso a diferentes dApps sin darles acceso a tus` claves `y que se puede integrar fácilmente en DEX.
 
 [AlgoSigner](https://chrome.google.com/webstore/detail/algosigner/kmmolakhbgdlpkjkcjkebenjheonagdm)
 
@@ -148,9 +148,9 @@ hacer clic en ellos porque son mensajes de spam.
 ## Participación
 
 Participando en el periodo de Gobernanza, estás contribuyendo al futuro de las finanzas. Algorand, una de las cadenas
-más sostenibles, es una prueba de participación, y hemos visto el impacto positivo en el medio ambiente que tiene este
+más sostenibles, es una prueba de participación, y hemos visto el impacto` positivo `en el medio ambiente que tiene este
 mecanismo con la fusión de Ethereum. Otros beneficios de la red Algorand son las bajas tasas, la velocidad y su tiempo
-de inactividad cero, que no se puede decir de otras redes como Solana. Por lo tanto, si quieres formar parte de esta
+de` inactividad `cero, que no se puede decir de otras redes como Solana. Por lo tanto, si quieres formar parte de esta
 aventura, no olvides comprometer tu ALGO antes de la fecha límite del 21 de octubre.
 
 Una vez que se publique la sesión de votaciones, no te olvides de votar, ya que sólo los usuarios que hayan votado por

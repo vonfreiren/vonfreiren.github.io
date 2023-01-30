@@ -16,10 +16,10 @@ lang: es
 ## Introducción
 
 <div class="texto-artículo">
-Comer es uno de los placeres de la vida y además una forma de poder reunirse con familiares y amigos. Sin embargo, aunque no seamos conscientes de ello, comer bien o mal juega un papel importante en nuestra vida (anímico, laboral, deportivo, etc.). Aunque probablemente sea hoy cuando tengamos más acceso a la información, también es la época en la que los productores intentan incluir en el mercado productos con ingredientes que pueden ser perjudiciales para nosotros. También es comprensible que cada vez más personas tengan problemas de obesidad. Aunque los gobiernos están tratando de poner remedio a esta tendencia o incluso “enfermedad moderna”, en lugar de reglas, lo que debemos hacer es educar a la gente y hacerle saber sobre todas las consecuencias.
+Comer es uno de los placeres de la vida y además una forma de poder reunirse con familiares y amigos. Sin embargo, aunque no seamos conscientes de ello, comer bien o mal juega un papel importante en nuestra vida (anímico, laboral, deportivo, etc.). Aunque` probablemente `sea hoy cuando tengamos más acceso a la información, también es la época en la que los productores intentan incluir en el mercado productos con ingredientes que pueden ser perjudiciales para nosotros. También es comprensible que cada vez más personas tengan problemas de obesidad. Aunque los` gobiernos `están tratando de poner remedio a esta tendencia o incluso “enfermedad moderna”, en lugar de reglas, lo que debemos hacer es educar a la gente y hacerle saber sobre todas las consecuencias.
 </div>
 
-A mí, como probablemente a ti, me encanta comer y probablemente también estés intentando probar nuevos sabores o
+A mí, como` probablemente `a ti, me encanta comer y` probablemente `también estés intentando probar nuevos sabores o
 descubrir nuevos restaurantes.
 Sin embargo, tampoco te digo nada nuevo cuando digo que este ejercicio en exceso puede tener muy malas consecuencias,
 que
@@ -91,11 +91,11 @@ Como hemos visto para la concentración, tenemos que cuidar lo que le damos a nu
 
 Habiendo visto lo que está causando problemas a nuestra salud, debería haber algo que podamos hacer al respecto. Estos
 son algunos trucos
-para ayudarnos con una perfecta nutrición encaminada a conseguir el mejor rendimiento.
+para ayudarnos con una` perfecta `nutrición encaminada a conseguir el mejor rendimiento.
 
 <p>
     <img class="img-fluid" src="/img/posts/nutrition/fruit.jpg" alt="Frutas y Verduras">
-    <span class="caption text-muted">Comer verduras y frutas de temporada es una excelente manera de descubrir nuevas y sabrosas combinaciones
+    <span class="caption text-muted">Comer verduras y` frutas `de temporada es una excelente manera de descubrir` nuevas `y sabrosas combinaciones
 </span>
 </p>
 
@@ -103,7 +103,7 @@ para ayudarnos con una perfecta nutrición encaminada a conseguir el mejor rendi
 
 Cuando se trata de comida, como en muchos otros aspectos de la vida, no se puede improvisar. Tener la nevera vacía e ir
 a la última
-minuto al supermercado, y te puedo asegurar que probablemente terminarás con comida post procesada y de baja calidad.
+minuto al supermercado, y te puedo asegurar que` probablemente `terminarás con comida post procesada y de baja calidad.
 Este definitivamente no es el camino. Otro beneficio es que con esta técnica puedes evitar
 productos en el supermercado y ahorrar una cantidad considerable de dinero.
 
@@ -126,11 +126,11 @@ benefíciate de los productos de temporada y disfruta del sabor de estos product
 
 Aunque esto parece lo contrario de lo que se incluye arriba, podría tener su día de trampa, por ejemplo, el fin de
 semana. Sin embargo,
-aunque al principio probablemente estés anhelando que llegue este día, es posible que te des cuenta de lo siguiente. los
-Al día siguiente de ir a este día especial, se sentirá más pesado y no tan saludable como los días anteriores. nuestro
+aunque al principio` probablemente `estés anhelando que llegue este día, es posible que te des cuenta de lo siguiente. los
+Al día siguiente de ir a este día especial, se` sentirá `más pesado y no tan saludable como los días anteriores. nuestro
 cuerpo es
 lo suficientemente inteligente como para advertirnos sobre algo que no les gustó y está causando que nuestro cuerpo
 sufra.
 
-Con el tiempo, verás que este día trampa probablemente esté causando más problemas a tu cuerpo, y no lo pedirás.
+Con el tiempo, verás que este día trampa` probablemente `esté causando más problemas a tu cuerpo, y no lo pedirás.
 más. Y tu mente y tu cuerpo te lo agradecerán.

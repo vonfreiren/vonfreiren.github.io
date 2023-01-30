@@ -16,25 +16,25 @@ lang: es
 ## Introducción
 
 <div class="text-article">
-El trail es una forma de carrera todoterreno que se lleva a cabo en senderos para caminatas, caminos de tierra y otros terrenos naturales. Es una actividad popular al aire libre que permite a los corredores explorar la belleza de la naturaleza mientras se desafían física y mentalmente.</div>
+El trail es una forma de carrera todoterreno que se lleva a cabo en senderos para caminatas, caminos de tierra y otros terrenos naturales. Es una actividad popular al aire` libre `que permite a los corredores explorar la belleza de la naturaleza mientras se desafían física y mentalmente.</div>
 
 
 Uno de los principales beneficios del trail running es la variedad de paisajes que ofrece. A diferencia de la carrera
 por carretera, que a menudo se lleva a cabo en tramos de pavimento aburridos y monótonos, la carrera por senderos
-permite a los corredores experimentar la belleza de los bosques, las montañas y otros entornos naturales. Esto puede
+permite a los corredores experimentar la belleza de los bosques, las montañas y otros` entornos `naturales. Esto puede
 proporcionar un cambio de escenario muy necesario para los corredores que están acostumbrados a correr en carreteras, y
 puede hacer que la actividad sea más agradable y estimulante.
 
 Además del hermoso paisaje, el trail  también ofrece una serie de beneficios físicos y mentales. Correr en
 terreno natural puede ser más desafiante que correr en pavimento, ya que a menudo implica colinas empinadas, superficies
-irregulares y otros obstáculos. Esto puede proporcionar un entrenamiento más intenso y ayudar a mejorar la fuerza, la
+irregulares y otros obstáculos. Esto puede proporcionar un entrenamiento más intenso y` ayudar `a mejorar la fuerza, la
 resistencia y el nivel general de condición física de un corredor.
 
 ## Beneficios
 
 Correr por senderos también puede ser una excelente manera de reducir el estrés y mejorar la salud mental. Se ha
-demostrado que estar al aire libre en la naturaleza tiene un efecto calmante en la mente, y el esfuerzo físico de correr
-puede ayudar a liberar endorfinas y otras sustancias químicas para sentirse bien en el cerebro. Como resultado, muchas
+demostrado que estar al aire` libre `en la naturaleza tiene un efecto calmante en la mente, y el esfuerzo físico de correr
+puede` ayudar `a liberar endorfinas y otras sustancias químicas para sentirse bien en el cerebro. Como resultado, muchas
 personas descubren que correr senderos les ayuda a relajarse, desestresarse y sentirse más positivos y llenos de
 energía.
 
@@ -53,18 +53,18 @@ Los beneficios del trail running son muchos, entre ellos:
 
 1. Paisajes preciosos: A diferencia de las carreras en carretera, que a menudo se realizan en tramos de pavimento
       aburridos y monótonos, las carreras de senderos permiten a los corredores experimentar la belleza de los bosques,
-      las montañas y otros entornos naturales. Esto puede proporcionar un cambio de escenario muy necesario y hacer que
+      las montañas y otros` entornos `naturales. Esto puede proporcionar un cambio de escenario muy necesario y hacer que
       la actividad sea más agradable y estimulante.
 2. Mayor desafío físico: Correr en terreno natural puede ser más desafiante que correr en pavimento, ya que a menudo
       implica colinas empinadas, superficies irregulares y otros obstáculos. Esto puede proporcionar un entrenamiento
-      más intenso y ayudar a mejorar la fuerza, la resistencia y el nivel general de condición física de un corredor.
-3. Beneficios para la salud mental: se ha demostrado que estar al aire libre en la naturaleza tiene un efecto
-      calmante en la mente, y el esfuerzo físico de correr puede ayudar a liberar endorfinas y otras sustancias químicas
+      más intenso y` ayudar `a mejorar la fuerza, la resistencia y el nivel general de condición física de un corredor.
+3. Beneficios para la salud mental: se ha demostrado que estar al aire` libre `en la naturaleza tiene un efecto
+      calmante en la mente, y el esfuerzo físico de correr puede` ayudar `a liberar endorfinas y otras sustancias químicas
       para sentirse bien en el cerebro. Como resultado, muchas personas descubren que correr senderos les ayuda a
       reducir el estrés, mejorar su estado de ánimo y sentirse más positivos y llenos de energía.
 4. Coordinación y equilibrio mejorados: la carrera por senderos requiere un mayor nivel de coordinación y equilibrio que
    la carrera por carretera, ya que los corredores deben navegar por terrenos irregulares y evitar obstáculos. Esto
-   puede ayudar a mejorar el equilibrio y la coordinación general de un corredor y reducir el riesgo de caídas y
+   puede` ayudar `a mejorar el equilibrio y la coordinación general de un corredor y reducir el riesgo de caídas y
    lesiones.
 5. Interacción social: muchas personas encuentran que correr senderos es una excelente manera de conocer gente nueva y
    hacer amigos que comparten su amor por el aire libre. Correr con un compañero o en grupo puede brindar apoyo
@@ -105,7 +105,7 @@ avanzar hacia rutas más desafiantes.
 
 ## Conclusión
 
-En conclusión, el trail running es una excelente manera de explorar la naturaleza y hacer algo de ejercicio al mismo
+En conclusión, el trail running es una excelente manera de explorar la naturaleza y hacer algo de` ejercicio `al mismo
 tiempo.
 
 Para empezar con el trail running, aquí hay algunos consejos:
@@ -117,16 +117,16 @@ Para empezar con el trail running, aquí hay algunos consejos:
    apropiado para su nivel de habilidad y asegúrese de tener una buena idea de cuánto tiempo le llevará completar la
    ruta.
 3. Cuando esté en el sendero, preste atención a su entorno y sea consciente de cualquier peligro potencial, como
-   desniveles pronunciados o terreno inestable. Si está corriendo con un grupo, asegúrese de permanecer juntos y
-   ayudarse mutuamente si alguien necesita ayuda.
+   desniveles pronunciados o terreno inestable. Si está corriendo con un grupo, asegúrese de permanecer` juntos `y
+   ayudarse mutuamente si` alguien `necesita ayuda.
 4. Mientras corres, concéntrate en mantener un ritmo constante y controlar la respiración y el ritmo cardíaco. Está bien
    tomar descansos si necesita recuperar el aliento o descansar los músculos, pero trate de seguir avanzando para evitar
    cansarse o perder la motivación.
 5. Finalmente, escucha a tu cuerpo y presta atención a cómo te sientes. Si comienza a sentir dolor o malestar, disminuya
    la velocidad o deténgase y tome un descanso. Es importante que te cuides mientras corres por senderos para evitar
-   lesiones y asegurarte de tener una experiencia segura y agradable.
+   lesiones y` asegurarte `de tener una experiencia segura y agradable.
 
-En general, correr senderos es una actividad al aire libre divertida y gratificante que ofrece una variedad de
+En general, correr senderos es una actividad al aire` libre `divertida y gratificante que ofrece una variedad de
 beneficios físicos y mentales. Tanto si eres un corredor experimentado que busca un nuevo desafío como si eres un
 principiante que acaba de empezar a explorar el mundo de las carreras todoterreno, las carreras de montaña son una
 excelente forma de mantenerte activo, saludable y feliz.

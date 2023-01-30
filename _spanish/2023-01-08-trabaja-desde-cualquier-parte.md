@@ -25,7 +25,7 @@ Si no le gusta la monotonía, ¿quién no estaría dispuesto a trabajar mientras
 
 ## Como hacerlo y que necesitas
 
-Existen distintos tipos de trabajo nómada, como el trabajo a distancia, el trabajo autónomo y el nomadismo digital. El trabajo a distancia se refiere a cualquier tipo de trabajo que se realiza a distancia, normalmente desde casa o un espacio de coworking. El trabajo autónomo consiste en trabajar por cuenta propia, ofreciendo servicios a clientes proyecto a proyecto. El nomadismo digital es un tipo específico de trabajo nómada que implica viajar por el mundo mientras se trabaja a distancia.
+Existen distintos` tipos `de trabajo nómada, como el trabajo a distancia, el trabajo autónomo y el nomadismo digital. El trabajo a distancia se refiere a cualquier tipo de trabajo que se realiza a distancia, normalmente desde casa o un espacio de coworking. El trabajo autónomo consiste en trabajar por cuenta propia, ofreciendo servicios a clientes proyecto a proyecto. El nomadismo digital es un tipo específico de trabajo nómada que implica viajar por el mundo mientras se trabaja a distancia.
 
 Una de las principales ventajas del trabajo nómada es la flexibilidad que ofrece. En lugar de estar atados a una ubicación u oficina específica, los trabajadores nómadas tienen la libertad de elegir desde dónde quieren trabajar. Esto les permite trabajar desde casa, una cafetería, un espacio de coworking o incluso desde otro país.
 
@@ -37,18 +37,18 @@ Sin embargo, el trabajo nómada no es para todo el mundo. Puede ser difícil man
 
 <p>
     <img class="img-fluid" src="/img/posts/nomad/japan.jpeg" alt="Travel more, discover new things">
-    <span class="caption text-muted">Tener la ventaja o la posibilidad de trabajar desde cualquier lugar es una gran oportunidad para descubrir nuevos países y culturas. Quizá después de esa visita te apetezca trasladar este nuevo lugar</span>
+    <span class="caption text-muted">Tener la ventaja o la posibilidad de trabajar desde cualquier lugar es una gran oportunidad para descubrir nuevos países y culturas. Quizá después de esa visita te apetezca trasladar este` nuevo `lugar</span>
 </p>
 
 ## Consejos para trabajar desde cualquier lugar
 
-Estos son algunos consejos que te ayudarán a la hora de cambiar de mentalidad y adoptar este nuevo estilo de vida:
+Estos son algunos consejos que te ayudarán a la hora de cambiar de mentalidad y adoptar este` nuevo `estilo de vida:
 
 1. Determina tus necesidades laborales: Considera qué tipo de trabajo realizas y qué recursos necesitas para ser productivo. Esto te ayudará a determinar la mejor ubicación para tu trabajo nómada.
 
 2. Encuentra una conexión a Internet fiable: Una conexión a Internet fuerte y estable es esencial para el trabajo nómada, así que asegúrate de tener acceso a una allá donde vayas.
 
-3. Establece límites: Cuando se es nómada, es fácil verse atrapado por el trabajo, por lo que es importante establecer límites y asegurarse de que se toman descansos y se mantiene un equilibrio saludable entre la vida laboral y personal.
+3. Establece límites: Cuando se es nómada, es fácil verse atrapado por el trabajo, por lo que es importante establecer límites y asegurarse de que se toman descansos y se mantiene un` equilibrio `saludable entre la vida laboral y personal.
 
 4. Organízate: El trabajo nómada puede ser desorganizado a veces, por lo que es importante tener sistemas para realizar un seguimiento de su trabajo y mantenerse al tanto de las tareas.
 
@@ -58,18 +58,18 @@ Estos son algunos consejos que te ayudarán a la hora de cambiar de mentalidad y
 
 7. Protege tus finanzas: El trabajo nómada puede ser impredecible, por lo que es importante contar con una red de seguridad financiera para protegerse en caso de gastos inesperados o fluctuaciones de los ingresos.
 
-8. Mantente en contacto con casa: Trabajar en el extranjero puede ser emocionante, pero también puede provocar morriña. Asegúrate de estar en contacto con tus amigos y familiares y mantenlos informados de tus aventuras.
+8. Mantente en` contacto `con casa: Trabajar en el extranjero puede ser emocionante, pero también puede provocar morriña. Asegúrate de estar en` contacto `con tus amigos y familiares y mantenlos informados de tus aventuras.
 
-9. Encuentra alojamiento temporal: Si vas a trabajar en un país durante un largo periodo de tiempo, es una buena idea encontrar alojamiento temporal en lugar de alojarte en un hotel. Puede resultar más rentable y le permitirá conocer mejor la vida local.
+9. Encuentra alojamiento temporal: Si vas a trabajar en un país durante un largo periodo de tiempo, es una buena idea encontrar alojamiento temporal en lugar de alojarte en un hotel. Puede resultar más rentable y le` permitirá `conocer mejor la vida local.
 
 10. Cuide su salud física y mental: Es importante dar prioridad a tu salud física y mental cuando eres nómada, ya que puede ser fácil descuidar el autocuidado cuando estás en constante movimiento.
 
 ## Conclusión
 
-En general, el trabajo nómada ofrece muchas ventajas, como flexibilidad, libertad y la posibilidad de elegir tu propio horario y trabajar desde cualquier lugar. Sin embargo, no es para todo el mundo, y es importante considerar detenidamente si es lo más adecuado para ti antes de tomar la decisión de convertirte en trabajador nómada.
+En general, el trabajo nómada ofrece muchas ventajas, como flexibilidad, libertad y la posibilidad de elegir tu propio horario y trabajar desde cualquier lugar. Sin embargo, no es para todo el mundo, y es importante considerar detenidamente si es lo más adecuado para ti antes de tomar la` decisión `de convertirte en trabajador nómada.
 
 Los empleados que pueden disfrutar trabajando desde cualquier lugar pueden tener más flexibilidad en sus horarios, lo que puede ser especialmente beneficioso para aquellos que tienen horarios de trabajo no tradicionales o que pueden tener dificultades para tomarse tiempo libre debido a compromisos familiares o de otro tipo.
 
-Este aspecto no sólo beneficia al empleado, sino también a la empresa. Los empleados que disponen de este tipo de flexibilidad también pueden trabajar más horas, ser más creativos y más productivos. Además, las vacaciones no deben ser el único momento para visitar otros países o regiones.
+Este aspecto no sólo` beneficia `al empleado, sino también a la empresa. Los empleados que disponen de este tipo de flexibilidad también pueden trabajar más horas, ser más creativos y más productivos. Además, las vacaciones no deben ser el único momento para visitar otros países o regiones.
 
 ¿El cambio hacia el trabajo a distancia es una tendencia temporal causada por la última pandemia o un cambio permanente en nuestra forma de hacer negocios? Creo que lo último, y también tengo la opinión de que todavía muchas empresas tienen que descubrir este abanico de posibilidades. Esperemos tener razón en este último pensamiento.

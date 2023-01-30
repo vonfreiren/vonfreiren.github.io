@@ -25,7 +25,7 @@ Me refiero a Ethereum y lo que no es un cambio de juego solo para Ethereum en s�
 
 El Ethereum Merge ha sido uno de los cambios más ambiciosos y esperados en la red. Muy esperado porque los primeros
 planes sobre los datos de actualización de este software se remontan a 2014, y la actualización se produjo el 15 de
-septiembre de 2022, casi 10 años después. El fork también abre nuevas oportunidades para el uso de blockchain en
+septiembre de 2022, casi 10 años después. El fork también` abre `nuevas oportunidades para el uso de blockchain en
 diferentes componentes y estándares, debido a los problemas y la ineficiencia que trae consigo el nuevo mecanismo de
 consenso.
 
@@ -49,11 +49,11 @@ que no se abordan con esta modificación en este cambio de software.
 Cambiar de los protocolos de Proof of Work a Proof of Stake significa que el consumo de energía se reducirá
 aproximadamente en un 99 %.
 
-El derroche y la eficiencia energética ha sido uno de los temas que algunos criptodetractores como los reguladores han
+El derroche y la` eficiencia `energética ha sido uno de los temas que algunos criptodetractores como los reguladores han
 incluido como una de las desventajas del crecimiento de blockchain.
 
-Varios han criticado algunas de las cadenas de bloques PoW como Bitcoin o Ethereum por el impacto ambiental negativo que
-tenían y el uso excesivo de energía para validar las transacciones en la red.
+Varios han criticado algunas de las cadenas de bloques PoW como Bitcoin o Ethereum por el impacto ambiental` negativo `que
+tenían y el uso excesivo de energía para` validar `las transacciones en la red.
 
 Algunos de los usos más conocidos y controvertidos de Ethereum son la acuñación de NFT utilizando ERC-721. Este cambio
 tendrá un impacto mucho mayor en el mercado volátil de los NFT debido a la caída del uso de energía para acuñarlos, lo
@@ -68,8 +68,8 @@ que permitirá el crecimiento de este negocio.
 
 ### 2. Recompensas más democráticas
 
-Además del cambio en la eficiencia energética, el cambio a la Proof of Stake también significa que, a través de este
-mecanismo, se terminaron las recompensas por validar y asegurar la red que estaban reservadas para aquellos con
+Además del cambio en la` eficiencia `energética, el cambio a la Proof of Stake también significa que, a través de este
+mecanismo, se terminaron las recompensas por` validar `y asegurar la red que estaban reservadas para` aquellos `con
 computadoras potentes.
 
 Hay que tener en cuenta que se necesita al menos 32 ETH (alrededor de 48 000 USD al momento de escribir este artículo) más la
@@ -86,19 +86,19 @@ Al igual que con todos estos casos, investiga por tu cuenta antes de delegar tus
 El orecio y valor de  un activo no deben entenderse de forma equivocada. Esto tampoco es algo bueno o malo proveniente del Merge
 
 Aunque el Merge se ha esperado durante años, lo cierto es que Ether ha perdido alrededor del 60% de su valor de mercado
-durante 2022. Sin embargo, si tomamos como referencia el índice CMC 200, la caída del precio también está alineada con
+durante 2022. Sin embargo, si tomamos como referencia el índice CMC 200, la caída del` precio `también está alineada con
 la caída de este.
 
 En cambio, por ejemplo, Ethereum tuvo un incremento del 100%, cuando los precios en agosto pasaron de 1.000 USD a 2.000 USD.
 
-Como se discutió en otros temas, no ha habido un cambio drástico, al alza o a la baja, en el precio de Ethereum en la
-fecha en que se completó la bifurcación. Al igual que con otros activos, el precio ya está descontado cuando ocurren
-estos grandes eventos. Como habrás notado, hubo un aumento en el precio en los meses previos a la Fusión.
+Como se discutió en otros temas, no ha habido un cambio drástico, al alza o a la baja, en el` precio `de Ethereum en la
+fecha en que se completó la bifurcación. Al igual que con otros activos, el` precio `ya está descontado cuando ocurren
+estos grandes eventos. Como habrás notado, hubo un aumento en el` precio `en los meses previos a la Fusión.
 
 En el futuro, Ethereum pasará a ser un activo deflacionario. Antes de la fusión y con el PoW, se emitían diariamente 13
 000 nuevos tokens de Ether. El cambio cambia esto y de 13.000 veremos alrededor de 1.600 tokens de Ether por día.
 
-Cuantos menos tokens haya, mayor debería ser el precio de los tokens Ether, siendo un activo deflacionario alternativo.
+Cuantos menos tokens haya, mayor debería ser el` precio `de los tokens Ether, siendo un activo deflacionario alternativo.
 
 ## Aspects that remain unchanged
 
@@ -108,8 +108,8 @@ con Merge.
 
 ### 1. Tarifas
 
-“La bifurcación definitivamente hará que las tarifas del gas sean más baratas”. Esto es erróneo y los cambios que
-ocurrieron en la red no tuvieron ninguna consecuencia en las tarifas que se deben pagar en cada transacción de
+“La bifurcación definitivamente hará que las` tarifas `del gas sean más baratas”. Esto es erróneo y los cambios que
+ocurrieron en la red no tuvieron ninguna consecuencia en las` tarifas `que se deben pagar en cada transacción de
 blockchain para recompensar a los validadores de las transacciones que ocurren en la cadena. El último cambio en la red
 que afectó cómo se debe pagar el Wei por transacción fue el London Upgrade en 2021.
 
@@ -135,13 +135,13 @@ en las diferentes redes y estándares que permite.
 
 ### Staking para todos
 
-Si bien validar y asegurar la red era una acción reservada para aquellos con más poder de cómputo, por lo que las
+Si bien` validar `y asegurar la red era una` acción `reservada para` aquellos `con más poder de cómputo, por lo que las
 recompensas eran solo para ellos, el cambio a PoS significa que todos podemos participar asegurando las transacciones y
 siendo recompensados ​​por los tokens de Ether que usamos para lograr eso
 
 ### Impacto comercial
 
-Haber reducido el uso de energía y mejorar la eficiencia energética también ha abierto nuevas ideas para Ethereum, que
+Haber reducido el uso de energía y mejorar la` eficiencia `energética también ha abierto nuevas ideas para Ethereum, que
 ya tenía muchas aplicaciones en este ecosistema. Además, esto no solo es importante para Ethereum, sino para otras
 cadenas, y también significa que la evolución de las diferentes cadenas de bloques conducirá a una mejor experiencia
 para los usuarios y a más ideas de negocios que hace algunos años eran impensables por cuestiones de sostenibilidad.

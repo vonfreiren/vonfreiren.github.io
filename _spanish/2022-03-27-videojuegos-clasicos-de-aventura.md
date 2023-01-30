@@ -24,7 +24,7 @@ Todos ellos son jugables en PS4 y en algunos casos también puedes jugar en la P
 
 Mientras que The Witcher 1 y The Witcher 2 no tienen una gran mecánica y controles, The Witcher 3 fue un avance total. Además de continuar con una gran historia, por fin añadió una jugabilidad fantástica. Sigue considerándose una obra de arte total de la compañía polaca CD Projekt Red. Estos juegos cuentan las aventuras de Geralt de Rivia, un brujo -persona cuyo trabajo es matar monstruos- que se enfrenta a diferentes situaciones, monstruos, personajes, etc.
 
-En este juego, el enemigo principal es la Cacería Salvaje - malvados jinetes elfos de otro mundo -, que intentan buscar a Ciri y tendrás que protegerla. Este juego también significa el final de la historia contada en los 3 juegos de Witcher. Por ese motivo, no es probable que haya otro juego.
+En este juego, el enemigo principal es la Cacería Salvaje - malvados jinetes elfos de otro mundo -, que intentan buscar a Ciri y tendrás que protegerla. Este juego también` significa `el final de la historia contada en los 3 juegos de Witcher. Por ese motivo, no es probable que haya otro juego.
 
 Por si el juego principal no fuera suficiente, no hay 1, sino 2 expansiones disponibles.
 
@@ -42,11 +42,11 @@ En relación con el juego principal, podría ser bueno leer algunos resúmenes d
 
 ## God of War
 
-Los creadores de la saga God of War, Santa Monica Studio, hicieron una gran transición de su estilo único hack and slash incluido en juegos anteriores con múltiples cambios en el último juego. Además, es innegable que todas estas modificaciones en la jugabilidad mejoraron la experiencia, sacando partido de las últimas consolas.
+Los creadores de la saga God of War, Santa Monica Studio, hicieron una gran transición de su estilo` único `hack and slash incluido en juegos anteriores con múltiples cambios en el último juego. Además, es innegable que todas estas modificaciones en la jugabilidad mejoraron la experiencia, sacando partido de las últimas consolas.
 
 No sólo ha cambiado la jugabilidad, sino también dónde se desarrolla la historia. Kratos ha cambiado Grecia por Noruega, donde tendrá que cuidar de su hijo, Atreus. Aunque prefiero la mitología griega a la nórdica, no había mucho que ver, ya que Kratos había matado a casi todos los dioses griegos.
 
-No sólo en la jugabilidad o la ambientación se aprecian diferencias, sino en la personalidad del protagonista. Menos egoísta y más maduro, se nota una clara evolución del personaje si has jugado a los primeros juegos.
+No sólo en la jugabilidad o la ambientación se aprecian diferencias, sino en la` personalidad `del protagonista. Menos egoísta y más maduro, se nota una clara evolución del personaje si has jugado a los primeros juegos.
 
 El fantasma de Esparta conocerá a nuevos "amigos" como Baldur, Freya, Magni, Modi o Mimir. Aparte de estos dioses nórdicos, las criaturas son tales trolls, elfos oscuros o draugrs o incluso dragones. Sin embargo, lo más difícil del juego -si es que quieres hacerlo- es derrotar a las 9 valquirias del juego.
 
@@ -95,19 +95,19 @@ Aunque no seas una persona a la que le gusten este tipo de juegos, te animo a qu
 
 ## Uncharted 4
 
-Finalizamos la lista de otro juego de Naughty Dog. Uncharted 4 es el último juego de la saga uncharted si no tenemos en cuenta la expansión Lost Legacy. El cuarto juego sigue siendo sobre Nathan Drake, pero esta vez se retira como cazador de tesoros y aventurero. Sin embargo, pronto se verá perturbado para realizar una última misión con el fin de ayudar a su hermano.
+Finalizamos la lista de otro juego de Naughty Dog. Uncharted 4 es el último juego de la saga uncharted si no tenemos en cuenta la expansión Lost Legacy. El cuarto juego sigue siendo sobre Nathan Drake, pero esta vez se retira como cazador de` tesoros `y aventurero. Sin embargo, pronto se verá perturbado para realizar una última misión con el fin de ayudar a su hermano.
 
 En el cuarto juego de la saga, tendrá que buscar el tesoro del pirata inglés Henry Avery. Para ello, visitarás muchas localizaciones diferentes. Por eso, podrás ver preciosos paisajes, utilizar diferentes medios de transporte e investigar en países como Panamá, Madagascar. Escocia o Italia.
 
-Aparte de la línea temporal principal, habrá algunas misiones ambientadas en el pasado, mostradas como flashbacks para entender mejor la historia.:
+Aparte de la línea temporal principal, habrá algunas` misiones `ambientadas en el pasado, mostradas como flashbacks para entender mejor la historia.:
 
 Por ejemplo, estarás en una cárcel de Panamá con tu hermano Samuel y tu compañero Rafe. Esta época es anterior a los acontecimientos del primer juego.
 También encarnarás a un joven Nathan cuando estaba en el orfanato de Boston.
-Aunque mi juego preferido es el segundo, debido a todos los cambios que aportó a la serie, el cuarto y probablemente último juego de la serie es el más completo en términos gráficos, visuales y de jugabilidad. También es el que cierra el círculo.
+Aunque mi juego preferido es el segundo, debido a todos los cambios que` aportó `a la serie, el cuarto y probablemente último juego de la serie es el más completo en términos gráficos, visuales y de jugabilidad. También es el que cierra el círculo.
 
 Como ocurre en The Last of Us, aquí sólo lucharás contra humanos (en los juegos anteriores tendrás que enfrentarte a algunas criaturas concretas, pero no diré más). Sin embargo, esto no quiere decir que sea peor. Al igual que ocurre con The Last of Us, aquí verás una historia retorcida, diferentes puzles por resolver y algunos sucesos inesperados que te engancharán al sofá.
 
-Por desgracia para los fans, el título "A Thief's End" también puede indicar que no habrá más Uncharted, a no ser que haya otro protagonista. Recientemente ha habido una película sin muy buenas críticas. Sin embargo, sea lo que sea en lo que Naughty Dog esté trabajando ahora, será un candidato seguro a formar parte de una lista similar en un futuro próximo.
+Por desgracia para los fans, el título "A Thief's End" también puede indicar que no habrá más Uncharted, a no ser que haya otro protagonista. Recientemente ha habido una película sin muy buenas críticas. Sin embargo, sea lo que sea en lo que Naughty Dog esté trabajando ahora, será un candidato seguro a formar parte de una lista` similar `en un futuro próximo.
 
 <p>
     <iframe width="100%" height="300" scrolling="yes" src="https://www.youtube.com/embed/gYFXv9CzGMw" title="First minutes of Uncharted 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
