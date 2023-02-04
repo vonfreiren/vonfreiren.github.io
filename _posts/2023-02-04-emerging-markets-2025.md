@@ -80,7 +80,7 @@ As always, careful research and a well-considered investment strategy will be` k
 Just to give you some options, some of these index funds can include below seen here. Those with low PER have been selected:
 
 
-<table class="table table-striped table-bordered table-hover table-condensed">
+<table class="table table-striped table-bordered table-hover table-condensed table-responsive">
 <thead>
 <th>Ticker</th> <th>Name</th> <th>Isin</th> <th>Expenses</th> <th>Morningstar</th>
 </thead>
