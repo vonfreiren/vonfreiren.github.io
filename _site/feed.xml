@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-04T17:17:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Emerging Markets 2025</title><link href="http://localhost:4000/emerging-markets-2025/" rel="alternate" type="text/html" title="Emerging Markets 2025" /><published>2023-02-04T03:01:13+01:00</published><updated>2023-02-04T03:01:13+01:00</updated><id>http://localhost:4000/emerging-markets-2025</id><content type="html" xml:base="http://localhost:4000/emerging-markets-2025/"><![CDATA[<h2 id="outlook-2023">Outlook 2023</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-04T17:22:32+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Emerging Markets 2025</title><link href="http://localhost:4000/emerging-markets-2025/" rel="alternate" type="text/html" title="Emerging Markets 2025" /><published>2023-02-04T03:01:13+01:00</published><updated>2023-02-04T03:01:13+01:00</updated><id>http://localhost:4000/emerging-markets-2025</id><content type="html" xml:base="http://localhost:4000/emerging-markets-2025/"><![CDATA[<h2 id="outlook-2023">Outlook 2023</h2>
 
 <div class="text-article">
 Despite facing numerous obstacles in 2022, emerging market equities began to show signs of recovery in the last quarter of 2022. This trend is expected to continue during 2023 due to factors such as robust growth, declining inflation, a softening US dollar, and favorable fundamentals.
@@ -62,7 +62,9 @@ Despite facing numerous obstacles in 2022, emerging market equities began to sho
 
 <p>Just to give you some options, some of these index funds can include below seen here. Those with low PER have been selected:</p>
 
-<table class="table table-striped table-bordered table-hover table-condensed table-responsive">
+<div>
+
+<table class="table table-responsive">
 <thead>
 <th>Ticker</th> <th>Name</th> <th>Isin</th> <th>Expenses</th> <th>Morningstar</th>
 </thead>
@@ -76,7 +78,6 @@ Despite facing numerous obstacles in 2022, emerging market equities began to sho
 <td><a href="https://finance.mrfreire.net/security_search/security_search_results/HYEM">HYEM</a></td> <td>VanEck Emerging Markets High Yield Bond ETF
 </td> <td>US9220428588</td><td>0.08%</td> <td>5</td>
 </tr>
-
 
 <tbody> <tr> 
 <td><a href="https://finance.mrfreire.net/security_search/security_search_results/AEEM.PA">AEEM.PA</a></td> <td>Amundi MSCI Emerging Markets</td> <td>LU1681045370</td> <td>0.10%</td> <td>4</td></tr> 
@@ -116,6 +117,8 @@ Despite facing numerous obstacles in 2022, emerging market equities began to sho
 
 </tbody>
 </table>
+
+</div>
 
 <p>If you want to see<code class="language-plaintext highlighter-rouge"> all </code>Emerging Market funds and<code class="language-plaintext highlighter-rouge"> all </code>the statistics and comparison against peers, you may visit the sections for different regions <a href="https://finance.mrfreire.net/funds/funds_region">Funds per Region</a>.</p>
 

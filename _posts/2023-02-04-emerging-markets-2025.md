@@ -79,8 +79,9 @@ As always, careful research and a well-considered investment strategy will be` k
 
 Just to give you some options, some of these index funds can include below seen here. Those with low PER have been selected:
 
+<div>
 
-<table class="table table-striped table-bordered table-hover table-condensed table-responsive">
+<table class="table table-responsive">
 <thead>
 <th>Ticker</th> <th>Name</th> <th>Isin</th> <th>Expenses</th> <th>Morningstar</th>
 </thead>
@@ -94,7 +95,6 @@ Just to give you some options, some of these index funds can include below seen 
 <td><a href="https://finance.mrfreire.net/security_search/security_search_results/HYEM">HYEM</a></td> <td>VanEck Emerging Markets High Yield Bond ETF
 </td> <td>US9220428588</td><td>0.08%</td> <td>5</td>
 </tr>
-
 
 <tbody> <tr> 
 <td><a href="https://finance.mrfreire.net/security_search/security_search_results/AEEM.PA">AEEM.PA</a></td> <td>Amundi MSCI Emerging Markets</td> <td>LU1681045370</td> <td>0.10%</td> <td>4</td></tr> 
@@ -134,6 +134,8 @@ Just to give you some options, some of these index funds can include below seen 
 
 </tbody>
 </table>
+
+</div>
 
 If you want to see` all `Emerging Market funds and` all `the statistics and comparison against peers, you may visit the sections for different regions [Funds per Region](https://finance.mrfreire.net/funds/funds_region).
 
