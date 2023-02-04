@@ -83,53 +83,53 @@ Just to give you some options, some of these index funds can include below seen 
 
 <table class="table table-responsive">
 <thead>
-<th>Ticker</th> <th>Name</th> <th>Isin</th> <th>Expenses</th> <th>Morningstar</th>
+<th style="font-size: 10px;">Ticker</th> <th style="font-size: 10px;">Name</th> <th style="font-size: 10px;">Isin</th> <th style="font-size: 10px;">Expenses</th> <th style="font-size: 10px;">Morningstar</th>
 </thead>
 
 <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/VWO">VWO</a></td> <td>Vanguard Emerging Markets Stock Index Fund
-</td> <td>US9220428588</td><td>0.08%</td> <td>4</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/VWO">VWO</a></td> <td style="font-size: 10px;">Vanguard Emerging Markets Stock Index Fund
+</td> <td style="font-size: 10px;">US9220428588</td><td style="font-size: 10px;">0.08%</td> <td style="font-size: 10px;">4</td>
 </tr>
 
 <tr>
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/HYEM">HYEM</a></td> <td>VanEck Emerging Markets High Yield Bond ETF
-</td> <td>US9220428588</td><td>0.08%</td> <td>5</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/HYEM">HYEM</a></td> <td style="font-size: 10px;">VanEck Emerging Markets High Yield Bond ETF
+</td> <td style="font-size: 10px;">US9220428588</td><td style="font-size: 10px;">0.08%</td> <td style="font-size: 10px;">5</td>
 </tr>
 
 <tbody> <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/AEEM.PA">AEEM.PA</a></td> <td>Amundi MSCI Emerging Markets</td> <td>LU1681045370</td> <td>0.10%</td> <td>4</td></tr> 
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/AEEM.PA">AEEM.PA</a></td> <td style="font-size: 10px;">Amundi MSCI Emerging Markets</td> <td style="font-size: 10px;">LU1681045370</td> <td style="font-size: 10px;">0.10%</td> <td style="font-size: 10px;">4</td></tr> 
 <tr> 
-<td>
-<a href="https://finance.mrfreire.net/security_search/security_search_results/AUEM.L">AUEM.L</a></td> <td>Amundi MSCI Emerging Markets</td> <td>LU099617713</td> <td>0.10%</td> <td>4</td>
+<td style="font-size: 10px;">
+<a href="https://finance.mrfreire.net/security_search/security_search_results/AUEM.L">AUEM.L</a></td> <td style="font-size: 10px;">Amundi MSCI Emerging Markets</td> <td style="font-size: 10px;">LU099617713</td> <td style="font-size: 10px;">0.10%</td> <td style="font-size: 10px;">4</td>
 </tr> 
 <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/AUEM.PA">AUEM.PA</a></td> <td>Amundi MSCI Emerging Markets</td> <td>LU1681045453</td><td>0.10%</td> <td>4</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/AUEM.PA">AUEM.PA</a></td> <td style="font-size: 10px;">Amundi MSCI Emerging Markets</td> <td style="font-size: 10px;">LU1681045453</td><td style="font-size: 10px;">0.10%</td> <td style="font-size: 10px;">4</td>
 </tr>
 
 <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/VFEM.AS">VFEM.AS</a></td> <td>Vanguard FTSE Emerging Markets UCITS ETF
-</td> <td>IE00B3VVMM84</td><td>0.22%</td> <td>4</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/VFEM.AS">VFEM.AS</a></td> <td style="font-size: 10px;">Vanguard FTSE Emerging Markets UCITS ETF
+</td> <td style="font-size: 10px;">IE00B3VVMM84</td><td style="font-size: 10px;">0.22%</td> <td style="font-size: 10px;">4</td>
 </tr>
 
 
 <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/EEMS">EEMS</a></td> <td>iShares MSCI Emerging Markets Min Vol Factor ETF
-</td> <td>US4642864759</td><td>0.25%</td> <td>4</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/EEMS">EEMS</a></td> <td style="font-size: 10px;">iShares MSCI Emerging Markets Min Vol Factor ETF
+</td> <td style="font-size: 10px;">US4642864759</td><td style="font-size: 10px;">0.25%</td> <td style="font-size: 10px;">4</td>
 </tr>
 
 <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/VDEA.L">VDEA.L</a></td> <td>Vanguard USD Emerging Markets Government Bond UCITS ETF
-</td> <td>IE00BZ163L3</td><td>0.25%</td> <td>4</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/VDEA.L">VDEA.L</a></td> <td style="font-size: 10px;">Vanguard USD Emerging Markets Government Bond UCITS ETF
+</td> <td style="font-size: 10px;">IE00BZ163L3</td><td style="font-size: 10px;">0.25%</td> <td style="font-size: 10px;">4</td>
 </tr>
 
 <tr> 
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/FLTW">FLTW</a></td> <td>Franklin FTSE Taiwan ETF
-</td> <td>US35473P686</td><td>0.19%</td> <td>5</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/FLTW">FLTW</a></td> <td style="font-size: 10px;">Franklin FTSE Taiwan ETF
+</td> <td style="font-size: 10px;">US35473P686</td><td style="font-size: 10px;">0.19%</td> <td style="font-size: 10px;">5</td>
 </tr>
 
 <tr>
-<td><a href="https://finance.mrfreire.net/security_search/security_search_results/EWT">EWT</a></td> <td>iShares MSCI Taiwan ETF
-</td> <td>US46434G7723</td><td>0.57%</td> <td>5</td>
+<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/EWT">EWT</a></td> <td style="font-size: 10px;">iShares MSCI Taiwan ETF
+</td> <td style="font-size: 10px;">US46434G7723</td><td style="font-size: 10px;">0.57%</td> <td style="font-size: 10px;">5</td>
 </tr>
 
 </tbody>
