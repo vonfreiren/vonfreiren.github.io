@@ -26,7 +26,7 @@ When it comes to bonds, the outlook for emerging market debt, which faced a diff
 
 
 
-## What happened in recently?
+## What happened recently?
 
 But before we start, what happened when back in 2020, we expected emerging markets such as China to be the clear winners of the COVID pandemic?
 
