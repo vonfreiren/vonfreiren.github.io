@@ -30,7 +30,7 @@ When it comes to bonds, the outlook for emerging market debt, which faced a diff
 
 But before we start, what happened when back in 2020, we expected emerging markets such as China to be the clear winners of the COVID pandemic?
 
-In 2022, the MSCI EM Index experienced a decline of around 20%. When` all `the spotlights were on China, they heavily disappointed last year. Other BRIC countries such as Russia did not help either. Korea – although just considered as Emerging for the MSCI index and not in the FTSE index -
+In 2022, the MSCI EM Index experienced a decline of around 20%. When all the spotlights were on China, they heavily disappointed last year. Other BRIC countries such as Russia did not help either. Korea – although just considered as Emerging for the MSCI index and not in the FTSE index -
 
 This focus on innovation and growth trends can have a significant impact on investment performance. In 2021, the MSCI EM ex-China Index outperformed the MSCI China Index by a margin of 32 percentage points, showcasing the benefits of` actively `targeting emerging market equities. Regions such as Argentina, India, or Turkey had something to do with this performance.
 
@@ -75,7 +75,7 @@ In conclusion, the next years are set to be exciting years for emerging markets,
 
 ## Research and where to start
 
-As always, careful research and a well-considered investment strategy will be` key `to realizing the full potential of these dynamic and rapidly growing markets. However, instead of cherry-picking stocks, the best solution for most of us would be and index in order to collect returns from` all `countries.
+As always, careful research and a well-considered investment strategy will be` key `to realizing the full potential of these dynamic and rapidly growing markets. However, instead of cherry-picking stocks, the best solution for most of us would be and index in order to collect returns from all countries.
 
 Just to give you some options, some of these index funds can include below seen here. Those with low PER have been selected:
 
@@ -87,7 +87,7 @@ Just to give you some options, some of these index funds can include below seen 
 </thead>
 
 <tr> 
-<td style="font-size: 10px;"><a href="https://finance.mrfreire.net/security_search/security_search_results/VWO">VWO</a></td> <td style="font-size: 10px;">Vanguard Emerging Markets Stock Index Fund
+<td style="font-size: 10px;"><a href="https:F//finance.mrfreire.net/security_search/security_search_results/VWO">VWO</a></td> <td style="font-size: 10px;">Vanguard Emerging Markets Stock Index Fund
 </td> <td style="font-size: 10px;">US9220428588</td><td style="font-size: 10px;">0.08%</td> <td style="font-size: 10px;">4</td>
 </tr>
 
@@ -137,8 +137,8 @@ Just to give you some options, some of these index funds can include below seen 
 
 </div>
 
-If you want to see` all `Emerging Market funds and` all `the statistics and comparison against peers, you may visit the sections for different regions [Funds per Region](https://finance.mrfreire.net/funds/funds_region).
+If you want to see all Emerging Market funds and all the statistics and comparison against peers, you may visit the sections for different regions [Funds per Region](https://finance.mrfreire.net/funds/funds_region).
 
-And if you are not sure which shares constituting the index, you can use the following site [Index Constituents](https://finance.mrfreire.net/security_search/constituents) to analyze` all `the shares one-by-one.
+And if you are not sure which shares constituting the index, you can use the following site [Index Constituents](https://finance.mrfreire.net/security_search/constituents) to analyze all the shares one-by-one.
 
 Now that you have the tools, you can start your research and find the best investment for you. Good luck!
