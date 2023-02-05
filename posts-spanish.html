@@ -10,7 +10,7 @@ image: '/img/leopard_books.jpg'
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead"
-        style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
+        style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')" >
         xmlns="http://www.w3.org/1999/html">
 
   {% else %}
@@ -60,7 +60,7 @@ image: '/img/leopard_books.jpg'
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
             <p>
             <div style="margin-left: 20px;margin-right: 20px">
-            <img class="card-img-top" src="{{post.background}}">
+            <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}">
             </div>
               <div class="card-body py-3">
             <div style="height: 50px; overflow: hidden;">
