@@ -26,6 +26,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
 
 collections:
   books:
@@ -34,7 +35,10 @@ collections:
     sort_by: date
     sort_order: descending
 
-
+feed:
+  title: Life of a Modern Man
+  description: Advising in Lifestyle and Finance
+  url: https://mrfreire.net/feed.xml
 
 defaults:
   -

@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
   gem "webrick"
   gem "jekyll-mentions", "1.6.0"
+  gem 'jekyll-include-cache'
 
  
 
@@ -21,7 +22,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
-gem "jekyll-seo-tag"
 gem 'i18n'
 
 gem "google-protobuf", "~> 3.15.8"
