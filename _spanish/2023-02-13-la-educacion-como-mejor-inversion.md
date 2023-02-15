@@ -3,7 +3,7 @@ layout: post
 title: "La educación como la mejor inversión"
 permalink: /:title/
 subtitle: "4 cursos de finanzas que pueden cambiar tu carrera profesional"
-data: 2023-02-12 18:45:13 -0400
+date: 2023-02-12 18:45:13 -0400
 background: '/img/posts/learning/book_stack.jpg'
 thumbnail: '/img/posts/learning/book_stack-min.jpg'
 image: '/img/posts/learning/book_stack-min.jpg'

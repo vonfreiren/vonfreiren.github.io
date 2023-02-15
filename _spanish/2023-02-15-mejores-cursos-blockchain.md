@@ -4,9 +4,9 @@ title: "Mejores Cursos de Blockchain"
 permalink: /:title/
 subtitle: "Varios cursos que pueden cambiar tu carrera profesional"
 date: 2023-02-15 02:01:13
-background: '/img/posts/cursos-blockchain/cursos_blockchain.jpg'
-thumbnail: '/img/posts/cursos-blockchain/cursos_blockchain.jpg'
-image: '/img/posts/cursos-blockchain/cursos_blockchain.jpg'
+background: '/img/posts/courses-blockchain/courses_blockchain.jpg'
+thumbnail: '/img/posts/courses-blockchain/courses_blockchain.jpg'
+image: '/img/posts/courses-blockchain/courses_blockchain.jpg'
 description: "Diferentes cursos de blockchain de prestigiosas universidades que pueden ser un punto detonante en tu futuro profesional"
 tags: Educación
 lang: es
