@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-15T09:05:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Top Blockchain Courses</title><link href="http://localhost:4000/top-blockchain-courses/" rel="alternate" type="text/html" title="Top Blockchain Courses" /><published>2023-02-14T03:01:13+01:00</published><updated>2023-02-14T03:01:13+01:00</updated><id>http://localhost:4000/top-blockchain-courses</id><content type="html" xml:base="http://localhost:4000/top-blockchain-courses/"><![CDATA[<h2 id="always-into-something-new">Always into something new</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-22T22:17:01+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Ethereum: Next Stop Shanghai</title><link href="http://localhost:4000/ethereum-shanghai/" rel="alternate" type="text/html" title="Ethereum: Next Stop Shanghai" /><published>2023-02-22T03:01:13+01:00</published><updated>2023-02-22T03:01:13+01:00</updated><id>http://localhost:4000/ethereum-shanghai</id><content type="html" xml:base="http://localhost:4000/ethereum-shanghai/"><![CDATA[<h2 id="the-merge-continuation">The Merge Continuation</h2>
+
+<p>A few months ago, we discussed the most important changes that the Ethereum Merge would bring and in fact delivered to the users. With this change, as you know, the most significant change was that the “old” Proof of Work was replaced by the Proof of Stake Protocol.</p>
+
+<p>These are basically the most important changes that are possible now thanks to the Merge.</p>
+
+<ol>
+  <li>Improved energy efficiency: PoS uses less energy compared to PoW, which is expected to significantly reduce Ethereum’s carbon footprint.</li>
+  <li>Increased scalability: The merge made the Ethereum network more scalable, as PoS can process more transactions per second compared to PoW.</li>
+  <li>Enhanced security: PoS is designed to prevent 51% attacks, which are a significant concern with PoW consensus mechanisms.</li>
+  <li>Changes to the mining ecosystem: The merge eliminated the need for miners, as PoS relies on validators who stake their ETH to secure the network.</li>
+  <li>EIP-1559 integration: The upgrade included integration of EIP-1559, which introduced a new fee structure for Ethereum transactions, making the network more user-friendly.</li>
+</ol>
+
+<h2 id="from-london-to">From London to…</h2>
+
+<p>However, these changed had not been possible without the fork that occurred the year before. Back in 2021, this network change, also known as the London upgrade, made the following modifications in the Ethereum network.</p>
+
+<ol>
+  <li><strong>EIP-1559</strong>: This change introduced a new transaction pricing mechanism that aims to improve the predictability and transparency of Ethereum gas fees, which can often be unpredictable and volatile. It also burned a portion of the fees collected, which reduces the overall supply of Ethereum, potentially increasing its value.</li>
+  <li><strong>EIP-3198</strong>: This change reduces the gas cost of certain types of transactions, making them cheaper for users.</li>
+  <li><strong>EIP-3529</strong>: This change increased the difficulty of certain types of DDOS attacks that can slow down or crash the Ethereum network.</li>
+  <li><strong>EIP-3541</strong>: This change prepared the network for the upcoming Ethereum 2.0 upgrade, seen above, by removing certain features that will no longer be needed.</li>
+</ol>
+
+<p>These implementations caused them to make the network more energy-efficient, secure, and scalable, while also changing the mining ecosystem and introducing new fee structures. However, as also announced in the Merge, this is not over, and the Ethereum Foundation never stops with the continuous improvements.</p>
+
+<p>Having listed it several EIP, it may seem that there are no enhancements left for do in the Ethereum. Nonetheless, this is quite far from reality and if you to the Ethereum Improvement Proposals website you will see more and more suggestions.</p>
+
+<h2 id="shanghai">Shanghai</h2>
+
+<p>So now, with all the background and knowing the most important changes occurred in the last 2 years explained, let’s focus on the Shanghai upgrade.</p>
+
+<h2 id="5-new-eip-coming">5 New EIP Coming</h2>
+
+<p>Even if the Merge was the big upgrade, there are 5 EIP expected to come in a few weeks from now. When? It’s expected that these changes may pop up around mid-March. However, based on the experience with previous integrations, it will not be surprising that this fork in the network is slightly delayed.</p>
+
+<p>The upgrade of Ethereum, also known as the Ethereum Shanghai fork, will implement five Ethereum Improvement Proposals (EIPs), and compared to the previous forks, there are several changes related to the fees.</p>
+
+<h3 id="eip-4895">EIP-4895</h3>
+
+<p>Out of these five proposals, EIP-4895 is expected to receive the most attention. The upgrade will allow Ethereum investors to withdraw their staked ETH for the first time since December 2020. This lock was needed in order to use this as validation mechanism and protect the network.</p>
+
+<p>Some of the fears that this had raised is that there may be a lot of withdrawals when this change becomes effective. However, because of some withdrawal caps and other rewards- higher staking -, it’s unlikely that we will see massive withdrawals.</p>
+
+<p><strong>Link</strong>: <a href="https://eips.ethereum.org/EIPS/eip-4895">https://eips.ethereum.org/EIPS/eip-4895</a></p>
+
+<h3 id="eip-3855">EIP-3855</h3>
+
+<p>At the moment, the EVM does not have a PUSH0 instruction, and the goal will be to reduce the gas consumption by introduction this instruction in the virtual machine.</p>
+
+<p><strong>Link</strong>: <a href="https://eips.ethereum.org/EIPS/eip-3855">https://eips.ethereum.org/EIPS/eip-3855</a></p>
+
+<h2 id="eip-3860">EIP-3860</h2>
+
+<p>EIP-3860 is an extension of the old EIP-170 and seeks to lower transaction costs for developers when interacting with smart contracts.</p>
+
+<p><strong>Link</strong>: <a href="https://eips.ethereum.org/EIPS/eip-3860">https://eips.ethereum.org/EIPS/eip-3860</a></p>
+
+<h3 id="eip-3651">EIP-3651</h3>
+
+<p>To execute transactions in the network, it is necessary to interact with the Coinbase machine – nothing to do with the Exchange - several times. The initial interaction requires a higher fee as the software needs to “warm up,” but as interactions increase, fees decrease.</p>
+
+<p>This proposal will ensure that the Coinbase software remains “warm”, resulting in a reduced gas fee to access it.</p>
+
+<p><strong>Link</strong>: <a href="https://eips.ethereum.org/EIPS/eip-3651">https://eips.ethereum.org/EIPS/eip-3651</a></p>
+
+<h3 id="eip-6049">EIP-6049</h3>
+
+<p>EIP-6049 is a notification mechanism to developers regarding code known as “SELFDESTRUCT that aims to reduce gas fees.</p>
+
+<p><strong>Link</strong>: <a href="https://eips.ethereum.org/EIPS/eip-6049">https://eips.ethereum.org/EIPS/eip-6049</a></p>
+
+<h2 id="what-after-shanghai">What after Shanghai?</h2>
+
+<p>These upgrades should improve network usage in DeFi and NFTs. Even the initiator of them, some detractors complained that high gas fees and slow transactions affected some of these ecosystems.</p>
+
+<p>With these improvements, old and new projects may consider Ethereum more favorably, which was losing momentum to newer and chains with lower fees.</p>
+
+<p>Greater flexibility in staking, better performance, and an increase in stakeholders could amplify the resulting network effect sand benefit all stakeholders (users, investors, etc.) in the long run.</p>
+
+<p>The objective of these changes is not just to continue improving the Ethereum performance, but also try to reduce the churn of some DeFi or NFT projects to more affordable networks such as Polygon or Solana, like we have seen in marketplaces like OpenSea or other applications in the last years.</p>
+
+<p>As consequences of part Blockchain Trilemma, Ethereum has been plagued with sluggish transactions and high fees, which became more evident during the decentralized finance boom a few years ago.</p>
+
+<p>Furthermore, the popularity of non-fungible tokens (NFTs) and the trend of minting them in 2021 and early 2022 added to poor user experiences and high gas fees. These EIPs are mainly focused on this topic. Their aim to help mitigate these problems and convince users that Ethereum is the best network for the different projects and dApps.</p>
+
+<p>As we have seen, this will not be the end, and this is just the follow-up to get a more scalable network. This will be achieved when features such sharding are included in the chain in a few months from now.</p>
+
+<p>Achieving sharding will be crucial for enhancing transaction throughput on the chain by enabling “parallel processing.” The implementation of sharding is expected to occur in two stages in 2023 and 2024.</p>
+
+<p>Although small change compared to the PoW – PoS migration occurred in 2022, this upgrade makes sure that Ethereum, one of the oldest blockchains, keeps up good progress and for sure will convince old and new users of the chain.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[After London, and the Merge, the Ethereum network is preparing for the next big upgrade. This time, the Shanghai fork will bring 5 new EIP to the network.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum-shanghai/shanghai.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum-shanghai/shanghai.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Top Blockchain Courses</title><link href="http://localhost:4000/top-blockchain-courses/" rel="alternate" type="text/html" title="Top Blockchain Courses" /><published>2023-02-14T03:01:13+01:00</published><updated>2023-02-14T03:01:13+01:00</updated><id>http://localhost:4000/top-blockchain-courses</id><content type="html" xml:base="http://localhost:4000/top-blockchain-courses/"><![CDATA[<h2 id="always-into-something-new">Always into something new</h2>
 <div class="text-article">
 
 Today in the afternoon, I received an email from INSEAD announcing that they are offering a new specialization called Web3 and Blockchain in Global Commerce Specialization. I received this message in my mailbox, I guess because I took several courses from INSEAD related to Blockchain in the past.
@@ -1061,103 +1152,4 @@ evolving, and you will see new wallets, marketplaces and chains.</p>
 
 <p><a href="https://opensea.io/collection/welcome-to-the-metajungle">https://opensea.io/collection/welcome-to-the-metajungle</a></p>
 
-<p>That should be all for now. You will see that the process is not complicated at all. Good luck and Happy Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[From art to videogames and sports, what NFTs can change in these sectors and the neccesary steps to create them]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">How Nutrition Is Impacting Your Life</title><link href="http://localhost:4000/how-nutrition-is-impacting-your-life/" rel="alternate" type="text/html" title="How Nutrition Is Impacting Your Life" /><published>2022-11-04T13:01:13+01:00</published><updated>2022-11-04T13:01:13+01:00</updated><id>http://localhost:4000/how-nutrition-is-impacting-your-life</id><content type="html" xml:base="http://localhost:4000/how-nutrition-is-impacting-your-life/"><![CDATA[<h2 id="introduction">Introduction</h2>
-
-<div class="text-article">
-Eating is one of the pleasures of life and apart from that a way of being` able `to meet with family and friends. However, `although` we are not `conscious` of it, eating well or bad plays an important role in our life (mood, work, sport, etc.). Although it was `probably` today when we have more access to information, it is also the era where producers try to include in the market products with ingredients that can be `harmful` for us. It’s quite also understandable that more and more people have obesity problems. Although` governments `are trying to put a remedy to this trend or even “modern disease”, instead of rules, what we should do is educate people and let them know about all consequences.
-</div>
-
-<p>I, as <code class="language-plaintext highlighter-rouge">probably</code> you, love eating and <code class="language-plaintext highlighter-rouge">probably</code> you are also trying to taste new flavors or discover new restaurants.
-However, I’m also telling you<code class="language-plaintext highlighter-rouge"> nothing </code>new when I<code class="language-plaintext highlighter-rouge"> say </code>that this exercise in excess can have very bad consequences, that
-will slowly hurt your <code class="language-plaintext highlighter-rouge">body</code>.</p>
-
-<p>It’s strange, but true, we are what we eat. Whoever said this sentence for the first time, he knew what he was doing.</p>
-
-<p>It’s strange, but true, we are what we eat. Whoever said this sentence for the first time, he knew what he was doing.</p>
-
-<h2 id="problems">Problems</h2>
-
-<p>Although it may <code class="language-plaintext highlighter-rouge">see</code>m that eating just negative consequences in few aspects (our physical <code class="language-plaintext highlighter-rouge">body</code> and the shape), it
-<code class="language-plaintext highlighter-rouge">probably</code> has even worse consequences in other aspects of our life, which are of course more important than keeping a
-flat belly. You will <code class="language-plaintext highlighter-rouge">see</code> for example people who eat poor quality food, they remain thin, but you will <code class="language-plaintext highlighter-rouge">see</code> other aspects
-that are indicative of their diet. These symptoms are more severe than the look of their silhouette.</p>
-
-<h3 id="fatigue">Fatigue</h3>
-
-<p>When you eat heavy food, with a<code class="language-plaintext highlighter-rouge"> lot </code>of calories, our organs need to switch to “hard-work” mode, and they consume more
-energy in order to be<code class="language-plaintext highlighter-rouge"> able </code>to digest them. Simply mathematics, our organs need to allocate more energy to this task, and
-there will be less energy in order to do the remaining tasks, leading to feeling tired and <code class="language-plaintext highlighter-rouge">without</code> desired to do
-anything.</p>
-
-<p>Some examples of unhealthy nutrients having a considerable impact in this point are those containing too much sugar,
-salt, or flour. They can be an instant boost of energy, but this effect is lost some minutes later, leading to the
-opposite results.</p>
-
-<h3 id="mood">Mood</h3>
-
-<p>We have more and more advances and breakthroughs in different aspects, making our life easier. The problem is that
-despite these improvements, why with better conditions there are more and more burnouts, depressions, and even people
-committing suicide? Of course, there are other reasons, but one of the factors is related to the food. One of the
-reasons, is that eating products<code class="language-plaintext highlighter-rouge"> high </code>in trans-fat, they have a direct impact into our stress hormones. This causes us
-to be more aggressive, irritable, and making our mood and motivation drop to the bottom.</p>
-
-<h3 id="focus">Focus</h3>
-
-<p>Related to our intellectual activity, try to study, or work, and you will also <code class="language-plaintext highlighter-rouge">see</code> that having a bad diet will cause
-problems with your<code class="language-plaintext highlighter-rouge"> lucidity </code>and agility. You can <code class="language-plaintext highlighter-rouge">see</code> this for example when <code class="language-plaintext highlighter-rouge">focus</code>ing on a complex task or memorizing
-topics, or even a single number.</p>
-
-<h3 id="long-term-diseases">Long-term diseases</h3>
-<p>It is not surprise that countries with healthy diets have a higher expected life. Furthermore, there are several studies
-that link the effects of eating unhealthy food to different diseases. This of course is not applicable to food, but
-other products we<code class="language-plaintext highlighter-rouge"> drink </code>or inhale. The solution is easy: If you want to live longer, start taking care of what your <code class="language-plaintext highlighter-rouge">body</code>
-is using as fuel.</p>
-
-<h3 id="recovery">Recovery</h3>
-
-<p>Nutrition has an important role in both, mental and physical. Try to practice sport with a good diet and a bad diet and
-you will note the difference and how much it some activities cost or how you are tired after the workout.</p>
-
-<p>As we have <code class="language-plaintext highlighter-rouge">see</code>n for concentration, we need to take care of what we provide to our brain, so it is possible to</p>
-
-<h2 id="how-to-fix-this">How to fix this</h2>
-
-<p>Having <code class="language-plaintext highlighter-rouge">see</code>n what is<code class="language-plaintext highlighter-rouge"> causing </code>problems to our health, there should be something we can do about it. These are some tricks
-in order to help us with a perfect nutrition <code class="language-plaintext highlighter-rouge">aimed</code> to achieve the best performance.</p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/nutrition/fruit.jpg" alt="Fruits and Vegetables" />
-    <span class="caption text-muted">Eating seasons `vegetables` and fruits is an excellent way to discover new and tasty combinations
-</span>
-</p>
-
-<h3 id="plan">Plan</h3>
-
-<p>When it comes to food, as in many other aspects in life, you cannot improvise. Have an empty fridge and go to the last
-minute to the supermarket, and I can assure you that you will <code class="language-plaintext highlighter-rouge">probably</code> end up with post processed food and low-quality
-nutrients. This is definitely not the way. Another benefit is that with this technique you can avoid unnecessary
-products in the supermarket and save a considerable amount of money.</p>
-
-<h3 id="be-constant">Be constant</h3>
-
-<p>This one may be also quite evident, but it is usual that a<code class="language-plaintext highlighter-rouge"> lot </code>of people start with their diet very motivated. In this
-case being constant is of course much more important than the intensity. Define realistic and feasible goals. Otherwise,
-in 1 week you will get back where you started.</p>
-
-<h3 id="variety">Variety</h3>
-<p>Changing what you eat, while innovating makes sure that you are not bored of the monotony. With this in mind, you can
-create multiple combinations and have fun avoiding already prepared post processed foods.</p>
-
-<p>You may be thinking that having to think about what you need to each every day may sound a bit annoying at first sight.
-However, this will give you a better organization of what to prepare. Furthermore, one of the tricks is also to take
-benefit of the seasonal products and enjoy the flavor of these products.</p>
-
-<h3 id="time-to-break-the-rules-sometimes">Time to break the rules (sometimes)</h3>
-
-<p>Although this <code class="language-plaintext highlighter-rouge">see</code>ms the opposite of what’s included above, you could have your cheat day, e.g., on the weekend. However,
-even if in the beginning you will be <code class="language-plaintext highlighter-rouge">probably</code> yearning for this day to arrive, you may realize about the following. The
-day after you go for this special day, you will feel heavier and not as healthy as the previous days. Our <code class="language-plaintext highlighter-rouge">body</code> is
-intelligent enough to warn us about something they did not like and it’s<code class="language-plaintext highlighter-rouge"> causing </code>our <code class="language-plaintext highlighter-rouge">body</code> to suffer.</p>
-
-<p>With time, you will <code class="language-plaintext highlighter-rouge">see</code> that this cheat day is <code class="language-plaintext highlighter-rouge">probably</code> causing more problems to your <code class="language-plaintext highlighter-rouge">body</code>, and you will not ask for it
-anymore. And your mind and <code class="language-plaintext highlighter-rouge">body</code> will thank you for this.</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[Why you should start taking care of what you eat and why the food may be slowly killing you]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nutrition/fr.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nutrition/fr.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>That should be all for now. You will see that the process is not complicated at all. Good luck and Happy Minting!</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[From art to videogames and sports, what NFTs can change in these sectors and the neccesary steps to create them]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nfts/nfts.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nfts/nfts.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
