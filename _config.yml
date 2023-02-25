@@ -35,6 +35,16 @@ collections:
     sort_by: date
     sort_order: descending
 
+  french:
+    output: true
+    sort_by: date
+    sort_order: descending
+
+  german:
+    output: true
+    sort_by: date
+    sort_order: descending
+
 feed:
   title: Life of a Modern Man
   description: Advising in Lifestyle and Finance
