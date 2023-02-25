@@ -43,3 +43,15 @@ In my spare time you will, these are some of the activities I enjoy most:
 - Learning
 - Cycling
 - Trail running
+- Hiking
+- Traveling
+
+<hr>
+<hr>
+
+
+## Posts in different languages
+
+Once written in English, the posts are automatically translated to other languages and published. Please note that I don't review the translations in detail, so they might not be 100% accurate.
+
+The script for this translation is included [here](https://github.com/vonfreiren/translator_deepl).

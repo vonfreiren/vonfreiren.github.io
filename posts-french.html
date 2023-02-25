@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Artículos en Español
-description: Recent books read
+title: Articles en Français
+description: Mr Freire's Blog en Français
 background: '/img/leopard_books.jpg'
 thumbnail: '/img/leopard_books.jpg'
 image: '/img/leopard_books.jpg'
@@ -11,8 +11,6 @@ image: '/img/leopard_books.jpg'
 {% if page.background %}
 <header class="masthead"
         style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')" >
-        xmlns="http://www.w3.org/1999/html">
-
   {% else %}
   <header class="masthead">
     {% endif %}
@@ -39,11 +37,11 @@ image: '/img/leopard_books.jpg'
       <div class="col">
         <li class="nav-item dropdown">
           <a class="btn btn-sm float-right" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Language Options
+            Read it in Other Languages
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="{{ "/" | relative_url }}">Artícles in English</a>
-            <a class="dropdown-item" href="{{ "/posts-spanish" | relative_url }}">Articulos en Español</a>
+            <a class="dropdown-item" href="{{ "/" | relative_url }}">Artícles in English </a>
+            <a class="dropdown-item" href="{{ "/posts-spanish" | relative_url }}">Artículos en Español</a>
             <a class="dropdown-item" href="{{ "/posts-german" | relative_url }}">Artikel auf Deutsch</a>
             <!-- Add additional links here as needed -->
           </div>
