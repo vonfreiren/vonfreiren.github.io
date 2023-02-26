@@ -115,12 +115,12 @@ Transaktion gezahlt werden muss, war das London Upgrade im Jahr 2021.
 
 Im Zusammenhang mit dem Blockchain-Dilemma macht der Merge die Geschwindigkeit nicht schneller und erhöht auch nicht die Anzahl der
 Transaktionen, die pro Minute verarbeitet werden können. Es mag eine leichte Verbesserung der Geschwindigkeit geben, aber sie wird
-für die Nutzer unmerklich sein. Was die Geschwindigkeitsänderungen betrifft, müssen wir abwarten, ob diese Änderung eines Tages eintrifft.
+für die Nutzer unmerklich sein. Was die Geschwindigkeitsänderungen betrifft, so müssen wir abwarten, ob diese Änderung eines Tages eintrifft.
 
 ## Die wichtigsten Erkenntnisse
 
 Es gab einen großen Hype um diesen Merge-Meilenstein, und er wird nun schon seit einiger Zeit erwartet. Aufgrund der vielen
-Nachrichten, die dieses Thema seit einem Jahr umgeben, sind dies die wichtigsten Fakten, die wir sagen können, um zu sehen, wie
+Nachrichten rund um dieses Thema im letzten Jahr, sind dies die wichtigsten Fakten, die wir sagen können, um zu sehen, wie
 sich dieses Thema entwickelt.
 
 
@@ -143,7 +143,7 @@ für die Ether-Tokens, die wir dafür verwenden, belohnt werden.
 Die Verringerung des Energieverbrauchs und die Verbesserung der Energieeffizienz hat Ethereum auch neue Ideen eröffnet, da es bereits viele Anwendungen
 rund um dieses Ökosystem. Darüber hinaus ist dies nicht nur für Ethereum wichtig, sondern auch für andere Blockchains, und es bedeutet auch, dass die
 Entwicklung der verschiedenen Blockchains zu einer besseren Erfahrung für die Nutzer und zu mehr Geschäftsideen führen wird, die vor einigen
-die vor einigen Jahren aus Gründen der Nachhaltigkeit noch undenkbar waren.
+vor einigen Jahren aus Gründen der Nachhaltigkeit noch undenkbar waren.
 
 
 _____

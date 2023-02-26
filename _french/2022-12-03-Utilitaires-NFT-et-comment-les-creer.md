@@ -19,16 +19,16 @@ lang: fr
 
 ## Introduction
 
-
-L'année 2021 a été l'année des NFTs, où nous avons assisté à un boom du volume de transactions des Token non fongibles grâce à la norme ERC-721 créée en 2018.
-ERC-721 créé en 2018. Cette tendance semble qui a diminué récemment dans le marché baissier crypto actuel,
+<div class="text-article">
+L'année 2021 a été l'année des NFTs où nous avons assisté à un boom du volume de transactions des Token non fongibles grâce à la norme
+norme ERC-721 créée en 2018. Cette tendance semble qui a diminué récemment dans le marché baissier crypto actuel,
 mais contrairement à ce que certains pensaient, nous avons de plus en plus de places de marché et de sites qui vous offrent la possibilité de
-découvrir votre prochain objet de collection.
+découvrir votre prochaine pièce de collection.</div>
 
 
 
-Bien que les NFT soient connus pour leur art et leurs images caractéristiques, cet article ne se concentrera pas seulement sur le côté artistique, mais aussi sur les autres utilités que les jetons non fongibles peuvent apporter à votre divertissement et à votre vie quotidienne.
-l'aspect artistique, mais aussi sur les autres utilités que les jetons non fongibles peuvent apporter à votre divertissement et à votre style de vie.
+Bien que les NFTs soient connus pour l'art et juste quelques images caractéristiques, cet article ne sera pas simplement axé sur le
+côté artistique, mais aussi sur les autres utilités que les jetons non fongibles peuvent apporter à votre divertissement et à votre style de vie.
 
 Le terme Token Non-Fongible signifie que cet objet est unique et ne peut être reproduit. Si vous êtes le "propriétaire" d'un NFT,
 cette pièce n'appartient qu'à vous et cette propriété est reflétée dans le réseau blockchain. Différents réseaux blockchain
@@ -44,7 +44,7 @@ Dans certains cas, ils n'avaient pas d'antécédents en matière d'investissemen
 sociétés d'investissement ont également encouragé ce changement. De plus, les banques d'investissement qui avaient critiqué le bitcoin par le passé ont changé d'avis.
 d'esprit et certaines de ces entreprises ont commencé à proposer ces actifs alternatifs à leurs clients.
 
-D'une part, les politiques de faible taux d'intérêt ou d'assouplissement quantitatif des banques centrales ont provoqué une énorme augmentation du prix des différents
+D'une part, les politiques d'assouplissement quantitatif ou de faible taux d'intérêt des banques centrales ont provoqué une augmentation considérable du prix des différents actifs cryptographiques.
 crypto-actifs. D'autre part, la création de différentes communautés telles que les Bored Apples ou les
 CryptoPunks
 
@@ -87,7 +87,7 @@ Au lieu de collectionner des disques vinyles ou des CD en édition limitée, l'�
 de posséder l'exemplaire original, voire des versions en édition spéciale ou des remixes inédits des plus grands succès. Au lieu de posséder la
 copie physique, vous l'auriez enregistrée dans la blockchain.
 
-Pour les musiciens et les DJ, il peut s'agir d'un mécanisme très intéressant, tout comme pour les créateurs d'art, pour promouvoir leur travail et l'accès à différents utilisateurs autour de la "blockchain".
+Pour les musiciens et les DJ, il peut s'agir d'un mécanisme très intéressant, tout comme pour les créateurs d'art, pour promouvoir leur travail et l'accès aux différents utilisateurs autour de la "blockchain".
 l'accès à différents utilisateurs dans le monde entier. Cela supprime également les intermédiaires qui prennent une grande partie du gâteau.
 
 Par exemple, si vous aimez l'EDM et que vous allez souvent à des festivals, vous avez peut-être remarqué que récemment, les chansons que les différents DJs jouent sont celles qui ont le plus de succès.
@@ -100,15 +100,15 @@ propriétaires uniques de celle-ci. Certains collectionneurs peuvent être inté
 Pour ce qui est de l'aspect commercial de cette fonction, puisque vous êtes le "propriétaire" de cette chanson, vous pourriez fixer des frais d'abonnement/de reproduction si quelqu'un veut l'écouter.
 frais d'abonnement/de reproduction si quelqu'un veut jouer votre chanson.
 
-
-    
-    Les collectionneurs nostalgiques ne pensent peut-être pas de la même façon, mais le fait de collecter de la musique dans des fichiers au nouveau format offre de nombreuses nouvelles possibilités et réduit les problèmes de stockage ou de conservation des anciens formats.
-
-
+<p>
+    <img class="img-fluid" src="/img/posts/nfts/dog-vinyls.jpg" alt="La nouvelle méthode de collecte">.
+    <span class="caption text-muted">Les collectionneurs nostalgiques ne pensent peut-être pas la même chose, mais collecter` la musique `dans des fichiers de nouveaux formats ajoute de nombreuses nouvelles possibilités et réduit les problèmes tels que le stockage ou la conservation des anciens formats....
+</span>
+</p>
 
 ### Vidéos
 
-Le secteur du cinéma n'a pas beaucoup changé au cours de la dernière décennie, jusqu'à l'arrivée de Covid. À partir de 2020, puisque les gens ne pouvaient pas sortir
+Le secteur du cinéma n'a pas beaucoup changé au cours de la dernière décennie, jusqu'à l'arrivée de Covid. A partir de 2020, puisque les gens ne pouvaient pas sortir
 sortir, il y avait plusieurs jours pour certains films très attendus. Dans d'autres cas, ce qu'ils ont permis, c'est de proposer les films via
 certaines plateformes de streaming.
 
@@ -119,7 +119,7 @@ années à venir.
 
 ### Billets
 
-Imaginez que vous vous rendiez à un match de football ou à un concert. Ce n'est rien d'inhabituel et c'est quelque chose que tout le monde a fait. Si vous allez, par exemple
+Imaginez que vous vous rendiez à un match de football ou à un concert. Ce n'est rien d'inhabituel et c'est quelque chose que tout le monde a fait. Si, par exemple, vous
 Si vous allez par exemple à une finale de la coupe du monde, vous pouvez enregistrer des vidéos, etc. mais l'une des choses que vous voudrez probablement garder
 pour cette expérience unique sera les billets du match auquel vous avez assisté.
 
