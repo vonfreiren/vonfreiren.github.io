@@ -9,28 +9,31 @@ background: '/img/posts/09.jpg'
 thumbnail: '/img/posts/09.jpg'
 image: '/img/posts/09.jpg'
 tags: Finance
-description: "Comment atteindre l'indépendance financière sans formules magiques. Grâce à un processus simple, vous obtiendrez des rendements considérables à long terme."
+description: "Comment atteindre l'indépendance financière sans formules magiques. Grâce à un processus simple, vous
+obtiendrez des rendements considérables à long terme."
 lang: fr
 keywords:
-    - finance
-    - investing
-    - index funds
-    - ETFs
-    - passive investing
-    - financial independence
-    - economic independence
-    - retirement
-    - pension
-    - savings
-    - money
-    - wealth
-    - wealth management
-    - wealth building
-    - wealth creation
-    - wealth accumulation
-    - wealth preservation
-    - wealth distribution
-    - wealth transfer
+
+- finance
+- investing
+- index funds
+- ETFs
+- passive investing
+- financial independence
+- economic independence
+- retirement
+- pension
+- savings
+- money
+- wealth
+- wealth management
+- wealth building
+- wealth creation
+- wealth accumulation
+- wealth preservation
+- wealth distribution
+- wealth transfer
+
 ---
 
 
@@ -318,6 +321,7 @@ keywords:
     <li>
         <strong>Fidelity</strong> - <a href="https://www.fidelity.com/">https://www.fidelity.com/</a>
     </li>
+<li>
     <strong>Vanguard</strong> -
     <a
             href="https://investor.vanguard.com/investing/transaction-fees-commissions/etfs"
