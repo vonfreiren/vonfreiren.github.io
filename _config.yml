@@ -30,6 +30,9 @@ plugins:
 
 collections:
   books:
+  courses:
+    sort_by: name
+    sort_order: ascending
   spanish:
     output: true
     sort_by: date
