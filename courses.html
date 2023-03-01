@@ -46,11 +46,10 @@ image: '/img/leopard_books.jpg'
             </div>
 
             <div class="row">
-                <div style="height: 10px;"></div>
               <!-- Home Post List -->
               {% for post in site.courses %}
-              <div class="col-6 col-md-6 col-lg-3 d-flex">
-                        <img class="img-thumbnail rounded-image" src="{{post.background}}">
+              <div class="col-sm-12 col-md-6 col-lg-3 d-flex">
+                        <img class="img-thumbnail-rounded" src="{{post.background}}">
                   <a href={{ post.description }}><tiny style="display: block;  padding-left: 10px; padding-top: 10px; padding-right: 10px;  text-align: center;"> {{ post.university}} - {{ post.title }}</tiny></a>
               </div>
               {% endfor %}
