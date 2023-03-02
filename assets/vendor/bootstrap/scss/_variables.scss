@@ -1059,6 +1059,8 @@ $list-group-action-active-bg:       $gray-200 !default;
 
 $thumbnail-padding:                 1.5rem !default;
 $thumbnail-bg:                      $body-bg !default;
+$thumbnail-bg-transparent:         rgba(0, 0, 0, 0);
+
 $thumbnail-border-width:            0rem !default;
 $thumbnail-border-color:            $gray-300 !default;
 $thumbnail-border-radius:           $border-radius !default;

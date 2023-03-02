@@ -13,7 +13,7 @@
 // Image thumbnails
 .img-thumbnail {
   padding: $thumbnail-padding;
-  background-color: $thumbnail-bg;
+  background-color: $thumbnail-bg-transparent;
   border: $thumbnail-border-width solid $thumbnail-border-color;
   @include border-radius($thumbnail-border-radius);
   @include box-shadow($thumbnail-box-shadow);
@@ -24,7 +24,7 @@
 
 .img-thumbnail-rounded {
   padding: $thumbnail-padding;
-  background-color: $thumbnail-bg;
+  background-color: $thumbnail-bg-transparent;
   border: $thumbnail-border-width transparent $thumbnail-border-color;
   @include border-radius($rounded-pill);
   @include box-shadow($thumbnail-box-shadow);
