@@ -165,9 +165,9 @@ mark, .mark { padding: 0.2em; background-color: #fcf8e3; }
 
 .img-fluid { max-width: 100%; height: auto; }
 
-.img-thumbnail { padding: 0.25rem; background-color: #F3EEE7; border: 1px solid #dee2e6; border-radius: 0.25rem; max-width: 100%; height: auto; }
+.img-thumbnail { padding: 1.5rem; background-color: #F3EEE7; border: 0rem solid #dee2e6; border-radius: 0.25rem; max-width: 100%; height: auto; }
 
-.img-thumbnail-rounded { padding: 0.25rem; background-color: #F3EEE7; border: 1px solid #dee2e6; border-radius: 50rem; max-width: 100%; height: auto; }
+.img-thumbnail-rounded { padding: 1.5rem; background-color: #F3EEE7; border: 0rem solid #dee2e6; border-radius: 50rem; max-width: 100%; height: auto; }
 
 .figure { display: inline-block; }
 
