@@ -66,14 +66,13 @@ layout: default
                                                 <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}">
                                             </div>
                                             <div class="card-body py-3">
-                                                <div style="height: 50px; overflow: hidden;">
-                                                    <h5 class="post-title">{{ post.title }}</h5>
+                                                <div style="height: fit-content; overflow: hidden;">
+                                                    <h4 class="post-title">{{ post.title }}</h4>
                                                 </div>
                                                 {% if post.subtitle %}
-                                                <div style="height: 45px; overflow: hidden;">
-                                                    <h7 class="post-subtitle">{{ post.subtitle }}</h7>
+                                                <div style="height: fit-content; margin-bottom: 7px; margin-top: 7px;  overflow: hidden; position: center">
+                                                    <h7 class="post-subtitle"><strong>{{ post.subtitle }}</strong></h7>
                                                 </div>
-                                                <br>
                                                 <section>
                                                     <small class="post-preview">
                                                         {% assign truncated_text = post.content | split: '.' %}
@@ -83,12 +82,11 @@ layout: default
                                                 </section>
                                                 {% else %}
                                                 <small class="post-preview">
-                                                    {% assign truncated_text = post.content | html_escape  | split: '.' %}
+                                                    {% assign truncated_text = post.content | split: '.' %}
                                                     {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
                                                 </small>
                                                 {% endif %}
                                                 <div class="container" align="right">
-                                                <br>
                                                 <small class="post-date"> {{ post.date | date: '%B %d, %Y' }} </small>
                                                 </div>
                                             </div>
