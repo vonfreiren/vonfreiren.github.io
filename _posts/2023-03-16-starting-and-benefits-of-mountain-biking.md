@@ -67,7 +67,7 @@ Mountain biking provides an opportunity to get out into nature and enjoy the bea
 
 If you like animals, it’s also fantastic to see different animals that you will never see close to urban areas.
 
-### Go ahead and try it!
+## Go ahead and try it!
 
 In conclusion, mountain biking offers a wide range of benefits that make it an excellent choice for anyone looking for an exciting and challenging way to stay fit and explore the outdoors.
 
