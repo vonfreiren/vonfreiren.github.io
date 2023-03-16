@@ -8,7 +8,7 @@ background: '/img/posts/mtb/mtb.jpeg'
 thumbnail: '/img/posts/mtb/mtb.jpeg'
 image: '/img/posts/mtb/mtb.jpeg'
 description: "Mountain biking, a thrilling adventure sport, is rapidly gaining popularity among fitness enthusiasts and adrenaline junkies alike. The reason for this? There are many but one of the aspects that probably helped push this sport was the Covid pandemic and the lockdowns that we suffered."
-tags: Sport 
+tags: Sports
 lang: en
 
 ---
