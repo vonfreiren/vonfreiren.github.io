@@ -9,31 +9,28 @@ background: '/img/posts/09.jpg'
 thumbnail: '/img/posts/09.jpg'
 image: '/img/posts/09.jpg'
 tags: Finance
-description: "Wie man finanzielle Unabhängigkeit ohne Zauberformeln erreicht. Durch einen einfachen Prozess werden Sie
-langfristig beträchtliche Gewinne erzielen."
+description: "Wie man finanzielle Unabhängigkeit ohne Zauberformeln erreicht. Durch einen einfachen Prozess werden Sie langfristig beträchtliche Gewinne erzielen."
 lang: de
 keywords:
-
-- finance
-- investing
-- index funds
-- ETFs
-- passive investing
-- financial independence
-- economic independence
-- retirement
-- pension
-- savings
-- money
-- wealth
-- wealth management
-- wealth building
-- wealth creation
-- wealth accumulation
-- wealth preservation
-- wealth distribution
-- wealth transfer
-
+    - finance
+    - investing
+    - index funds
+    - ETFs
+    - passive investing
+    - financial independence
+    - economic independence
+    - retirement
+    - pension
+    - savings
+    - money
+    - wealth
+    - wealth management
+    - wealth building
+    - wealth creation
+    - wealth accumulation
+    - wealth preservation
+    - wealth distribution
+    - wealth transfer
 ---
 
 
@@ -45,27 +42,26 @@ keywords:
     Dies ist mein erster Beitrag in diesem Blog, und ich möchte auf ein Thema eingehen.
     Ich werde vielleicht in Zukunft auf Menschen zurückkommen, die nicht viel Zeit haben, die
     verschiedenen finanziellen Optionen für ihre Zukunft zu analysieren.
-</div>
-<p>
+
     Heutzutage bereitet die künftige wirtschaftliche Entwicklung vielen Menschen in verschiedenen Ländern ständig Kopfzerbrechen.
     Menschen in mehreren Ländern Kopfzerbrechen: Inflation, wirtschaftlicher Aufschwung, Renten,
     usw.
-</p>
-<p>
+
+
     Es gibt viele Optionen für jeden Anlegertyp: Aktien, Anleihen,
     Immobilien, Kryptowährungen, Gold, usw. Jeder Mensch hat seine Vorlieben
     und je nach Alter/Risikoaversion können die verschiedenen Optionen vielfältig sein.
-</p>
-<p>
+
+
     Anspruchsvollere Anleger entdecken nichts Neues an dieser
     Geschichte. Wenn Sie weiter lesen, konzentriere ich mich auf das, was meiner Meinung nach das Beste ist
     für die meisten Menschen mit dem geringstmöglichen Risiko ist: die indexierten Fonds oder
     börsengehandelte Fonds.
-</p>
+
 <h2>
     Passive Fonds: Indexfonds &amp; ETFs
 </h2>
-<p>
+
     Das Verhalten von Indexfonds und ETF ist ähnlich. Beide replizieren einen Index
     oder einen Korb von Vermögenswerten nach, was bedeutet, dass Sie mit einem einzigen Instrument ein
     ein Engagement in mehreren Wertpapieren (z. B. S&amp;P 500-Unternehmen). Zwischen
@@ -74,8 +70,8 @@ keywords:
     sind tendenziell auch etwas niedriger. Auf der anderen Seite fallen bei ihnen
     Transaktionsgebühren, aber viele Broker bieten Transaktionen mit den beliebtesten
     ETFs kostenlos an.
-</p>
-<p>
+
+
     Für eine Person, die keine Kenntnisse hat und langfristige Renditen anstrebt, bin ich der
     Ich bin der Meinung, dass man einen breiten Index verwenden sollte und keine Nischenfonds, die sich auf
     einen bestimmten Sektor (z.B. eCommerce, Videospiele, etc.). Außerdem,
@@ -85,36 +81,36 @@ keywords:
     übertreffen können, ist dies auf lange Sicht normalerweise nicht der Fall. Wenn Sie
     Wenn Sie tiefer gehen wollen, gibt es einige Formeln, die die Leistung des Fonds bestimmen
     des Fonds bestimmen: Zum Beispiel: Die Sharpe-, Sortino- oder Treynor-Ratio.
-</p>
-<p>
+
+
     <img class="img-fluid" src="/img/posts/07.jpg" alt="Schritt für Schritt">
     <span class="caption text-muted">Mit dem stetigen Wachstum von Fonds und der Kraft des Zinseszinseffekts können Sie langfristig überraschende Ergebnisse erzielen</span>
-</p>
+
 <h2>
     Einige Beispiele
 </h2>
-<p>
+
     Je nach Ihrer Risikobereitschaft können Sie verschiedene Fonds wählen, je nach
     der Allokation wählen. Personen, die kurz vor dem Rentenalter stehen, sollten eher
     konservativ sein. In diesem Fall sollte man sich auf Rentenfonds konzentrieren, die
-    weniger riskant sind als Aktien.
-</p>
-<p>
+    die weniger riskant sind als Aktien.
+
+
     Eine berühmte Regel ist die "100 - Alter"-Regel. Das Ergebnis sollte der Betrag sein, den
     Ihres Portfolios in Aktienfonds investiert sein. Angesichts der aktuellen
     Situation, wenn Sie jung sind, sollte es kein Problem sein, 100 % in
     Aktienanlage zu haben.
-</p>
-<p>
+
+
     Unten finden Sie eine Liste mit den bekanntesten für verschiedene Profile.
-</p>
-<p>
+
+
 
 
 <h3>
     1. SPDR® S&amp;P 500® ETF Trust
 </h3>
-<p>
+
     Der wohl bekannteste ETF, der die Wertentwicklung des S&amp;P
     500-Index abbildet. Dies ist auch derjenige mit der niedrigsten Kostenquote. Er wird als
     einer der Benchmarks.
@@ -133,11 +129,11 @@ keywords:
         </div>
     </div>
 </div>
-<br>
+
 <h3>
     2. Invesco QQQ Trust℠, Serie 1
 </h3>
-<p>
+
     Dieser ETF bildet den Nasdaq 100 Index (Nicht-Finanzunternehmen) ab und ist
     risikoreicher als der SPDR. Berücksichtigt man die Renditen der letzten 15
     Jahren ist er der Fonds mit der besten Performance im Bereich Large-Cap Growth.
@@ -156,11 +152,11 @@ keywords:
         </div>
     </div>
 </div>
-<br>
+
 <h3>
     3. Vanguard Global Stock
 </h3>
-<p>
+
     Dieser Fonds bildet den MSCI World Index ab (rund 1.500 Aktien). Fast 70% des
     des Fonds entfallen auf die Vereinigten Staaten mit fast 70 % des
     Fonds. Der zweitgrößte Markt ist Japan mit rund 6 %.
@@ -179,11 +175,11 @@ keywords:
         </div>
     </div>
 </div>
-<br>
+
 <h3>
     4. Vanguard Total Bond Market Index Fund Admiral Shares
 </h3>
-<p>
+
     Für konservativere Anleger haben wir diesen Fonds, der sich auf US
     Anleihen (Treasuries und hypothekarisch gesicherte Wertpapiere) konzentriert. Die Renditen sind niedriger
     im Vergleich zu den anderen 4 hier analysierten Fonds, aber er ist auch weniger riskant.
@@ -203,16 +199,16 @@ keywords:
         </div>
     </div>
 </div>
-<br>
+
 <h3>
     5. iShares MSCI Emerging Markets ETF
 </h3>
-<p>
+
     Dies ist ein ETF, der die Aktien von Unternehmen aus den Schwellenländern
     Märkten (China, Brasilien, Indien usw.). Aus diesem Grund gilt der Fonds
     risikoreicher als die oben genannten. Außerdem ist die Kosten
     Außerdem ist die Kostenquote bei diesen Fonds, die Aktien aus Schwellenländern verfolgen, höher.
-</p>
+
 <div class="container">
     <div class="post-heading">
         <div class="card-header">
@@ -222,7 +218,7 @@ keywords:
                 investiert im Allgemeinen mindestens 80 % seines Vermögens in die Wertpapiere, aus denen sich der zugrunde liegende Index zusammensetzt, und
                 in Anlagen, die wirtschaftliche Merkmale aufweisen, die im Wesentlichen mit den Wertpapieren identisch sind, die den
                 Wertpapiere seines zugrunde liegenden Index aufweisen. Der Index soll die Wertentwicklung der Aktienmärkte in den
-                globalen Schwellenländern messen. Der zugrunde liegende Index umfasst Unternehmen mit großer und mittlerer Marktkapitalisierung und kann sich im Laufe der Zeit ändern.
+                globalen Schwellenmärkten messen. Der zugrunde liegende Index umfasst Unternehmen mit großer und mittlerer Marktkapitalisierung und kann sich im Laufe der Zeit ändern.
                 kann sich im Laufe der Zeit ändern.</small> <br>
                 <strong>Zusätzliche Informationen:</strong> <a
                     href="https://www.ishares.com/us/products/239637/ishares-msci-emerging-markets-etf">iShares
@@ -230,60 +226,61 @@ keywords:
         </div>
     </div>
 </div>
-<p>
+
+
     Bitte beachten Sie, dass Sie je nach Standort möglicherweise keinen Zugang zu
     können (z.B. haben die meisten europäischen Anleger keinen Zugang zu US
     Fonds). Sie sollten jedoch immer in der Lage sein, ähnliche Fonds wie diese zu finden.
-</p>
-<p>
+
+
     Einige der oben aufgeführten Fonds sind ETF oder Indexfonds, aber Sie können immer
     je nach Ihren Präferenzen ein Äquivalent finden. In diesen Fällen ist die
     ist die Kostenquote sehr niedrig. Je spezifischer Sie vorgehen (z.B. bestimmte
     Sektor), desto höher ist die Kostenquote. In meinem Fall bevorzuge ich
     Ich bevorzuge ETFs, weil die Kostenquoten etwas günstiger sind und man den Kurs verfolgen kann.
     den Kurs wie bei Aktien verfolgen kann.
-</p>
-<p>
+
+
     <img class="img-fluid" src="/img/posts/08.jpg" alt="Zugang zu jedem Markt">
     <span class="caption text-muted">Heutzutage gibt es passive Investmentfonds, die fast jeden verfügbaren Index oder Sektor nachbilden</span>
-</p>
+
 
 <h2>Andere Details</h2>
-<p>Bevor Sie den Abzug betätigen, kann es sinnvoll sein, auch andere Details zu prüfen, wie zum Beispiel die
+Bevor Sie den Abzug betätigen, kann es sinnvoll sein, auch andere Details zu prüfen, wie zum Beispiel die
     unten.
-</p>
+
 <h3>
     Der Einfluss der Währung
 </h3>
-<p>
+
     Obwohl der USD seit vielen Jahren dominiert, weiß niemand, wann
     andere Konkurrenten auftauchen werden. Langfristig wäre die Empfehlung
     einen ETF oder Fonds zu erwerben, der in Ihrer Landeswährung notiert.
-</p>
+
 <h3>
     One-Shot versus Dollar Cost Averaging
 </h3>
-<p>
+
     Meiner Erfahrung nach ist der schwierigste Prozess, mit dem Investieren anzufangen und
     dass es der richtige Zeitpunkt ist. Aus diesem Grund, obwohl es
     verschiedene Studien zeigen, dass man mit einer einmaligen Investition im Durchschnitt bessere Ergebnisse erzielt
     (Zeit im Markt schlägt Timing des Marktes), würden sich die meisten Menschen nicht
     sich nicht wohl dabei, ihre gesamten Ersparnisse in einer einzigen Transaktion zu verpulvern.
-</p>
-<p>
+
+
     Aus diesem Grund ist das Dollar Cost Averaging die bevorzugte Methode für
     gewöhnliche Anleger. Bei dieser Methode kauft man, egal was auf dem Markt passiert, jeden Monat die
     Sie kaufen jeden Monat die gleiche Anzahl von Anteilen des gewählten Fonds.
-</p>
+
 <h3>
     Steuerliche Auswirkungen
 </h3>
-<p>
+
     Die Art und Weise, wie die Erträge aus Investmentfonds besteuert werden, kann einen großen
     auswirken. Der Hauptunterschied besteht darin, ob es sich bei dem Fonds/ETF um ein thesaurierendes oder
     ausschüttende Anlageform ist.
-</p>
-<p>
+
+
     Bei thesaurierenden Fonds werden die vom Fonds erhaltenen Dividenden reinvestiert.
     Während dieser Vorgang für Anleger in vielen Ländern nicht als steuerpflichtig angesehen wird, gilt er
     für Anleger, die in Ländern wie Deutschland oder der Schweiz ansässig sind, als steuerpflichtig angesehen.
@@ -291,29 +288,29 @@ keywords:
     Norwegen ist der Steuersatz unterschiedlich, je nachdem, ob es sich bei dem Fonds um einen Aktien
     Aktienfonds oder einen Rentenfonds handelt. Berücksichtigen Sie daher bitte Ihre Situation
     Situation, bevor Sie sich für einen bestimmten Fonds entscheiden.
-</p>
-<p>
+
+
     Je nach Land sollten Sie sich also überlegen, welche Optionen
     für Sie am besten geeignet sind. Außerdem gibt es in einigen Ländern Steuersparkonten.
     Ländern, die nützlich sein können, um sicherzustellen, dass Sie von den
     besten Produkt.
-</p>
-<p>
+
+
     Zusammen mit den Kosten und Provisionen sind die Steuern möglicherweise der wichtigste
     Faktor sein, der Ihre Gesamtrendite beeinträchtigt. Stellen Sie sich vor, Sie zahlen 25 % Steuern auf die
     den Dividenden, die Sie erhalten. Sie erhalten dieses Geld bereits nicht, und
     was noch wichtiger ist, dieser Betrag wird nicht für die Aufzinsung verwendet, was
     den zukünftigen Wert des Fonds erheblich reduziert.
-</p>
+
 <h2>
     Wo soll ich anfangen?
 </h2>
-<p>
+
     Nachdem wir nun die Theorie kennengelernt haben, ist es an der Zeit, in die Praxis zu gehen.
     Je nach Standort haben Sie vielleicht nur Zugang zu einigen Brokern.
     Hier sind einige Beispiele, wo Sie anfangen können, in einige ETFs oder
     Investmentfonds.
-</p>
+
 <ul>
     <li>
         <strong>Degiro</strong> - <a href="https://trader.degiro.nl/">https://trader.degiro.nl/</a>
@@ -321,7 +318,6 @@ keywords:
     <li>
         <strong>Fidelity</strong> - <a href="https://www.fidelity.com/">https://www.fidelity.com/</a>
     </li>
-    <li>
     <strong>Vanguard</strong> -.
     <a
             href="https://investor.vanguard.com/investing/transaction-fees-commissions/etfs"
@@ -339,7 +335,9 @@ keywords:
         <strong>eToro</strong> - <a href="https://www.etoro.com">https://www.etoro.com</a>
     </li>
     <li>
+
         <strong>Saxo Bank</strong> - <a href="https://www.home.saxo/">https://www.home.saxo/</a>
+
     </li>
     <li>
         <strong>Charles Schwab</strong> - <a href="https://www.schwab.com/">https://www.schwab.com/</a>
@@ -354,49 +352,50 @@ keywords:
         <strong>Swissquote</strong> - <a href="https://en.swissquote.com/">https://en.swissquote.com/</a>
     </li>
 </ul>
-<p>
+
     Wie bereits erwähnt, sind einige von ihnen nur an bestimmten Orten verfügbar.
     Wie auch immer. Sie werden sicher eine finden, die verfügbar ist.
-</p>
+
 <h2>
     Ressourcen
 </h2>
-<p>
+
     Dies sind einige der Bücher oder, die ich gelesen habe und die ich empfehle, wenn Sie
     mehr über dieses Thema wissen möchten, finden Sie ebenfalls unten:
-</p>
+
 <ul>
     <li>
-        <p>
+        
             <strong>The Bogleheads' Guidex to Investing</strong> von <strong>Taylor Larimore</strong>
             <a href="https://www.goodreads.com/book/show/381355">
                 Goodreads-Link
             </a>
-        </p>
+        
     </li>
     <li>
-        <p>
+        
             <strong>Wenn Sie es können: Wie Millennials langsam reich werden können
             </strong> von <strong>William J. Bernstein</strong>
             <a href="https://www.goodreads.com/book/show/21852252">
                 Goodreads-Link.
             </a>
-        </p>
+        
     </li>
     <li>
-        <p>
+        
             <strong>Die Psychologie des Geldes</strong> von <strong>Morgan Housel</strong>
             <a href="https://www.goodreads.com/book/show/41881472">
                 Goodreads-Link.
             </a>
-        </p>
+        
     </li>
     <li>
-        <p>
+        
             <strong>Der intelligente Investor</strong> von <strong>Benjamin Graham</strong>
             <a href="https://www.goodreads.com/book/show/106835">
                 Goodreads-Link.
             </a>
-        </p>
+        
     </li>
 </ul>
+</div>
