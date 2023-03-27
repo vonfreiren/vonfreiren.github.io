@@ -48,33 +48,9 @@ image: '/img/leopard_books.jpg'
       <div class="col-lg-14 col-md-18 mx-auto">
         <div class="table-wrapper">
 
-        <table class="table-responsive table-striped" id="myTable">
-          <thead>
-          <tr>
-            <th> Artist</th>
-            <th>Concert</th>
-            <th>Date</th>
-            <th>Artists</th>
-            <th>Location</th>
-            <th>Location details</th>
-          </tr>
-          </thead>
-          <tbody>
-          {% for post in site.concerts %}
-          {% if post.date > site.time %}
+          {% include popularity.html %}
 
-          <tr>
-            <td> {{ post.artist }}</td>
-            <td>{{ post.concert }}</td>
-            <td>{{ post.date | date: '%B %d, %Y' }}</td>
-            <td>{{post.artists}}</td>
-            <td>{{ post.location }}</td>
-            <td>{{ post.location_details }}</td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          </tbody>
-        </table>
+
         </div>
 
 
@@ -91,24 +67,10 @@ image: '/img/leopard_books.jpg'
   </div>
   <script>$(document).ready(function () {
     $.noConflict();
-    var table = $('#myTable').DataTable(
+    var table = $('#table_popularity').DataTable(
         {
-          "order": [[2, "asc"]],
-          "pageLength": 50,
-          "columnDefs": [
-            {
-              "targets": 2, // the Date column
-              "render": function(data, type, row) {
-                if (type === "sort") {
-                  // return the date as a sortable string
-                  return new Date(data).toISOString();
-                } else {
-                  // return the date as "September 29, 2023"
-                  return new Date(data).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-                }
-              }
-            }
-          ]
+          "order": [[2, "desc"]],
+          "pageLength": 50
         }
     );
   });
