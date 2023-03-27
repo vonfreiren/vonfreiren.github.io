@@ -325,7 +325,7 @@ pre code { font-size: inherit; color: inherit; word-break: normal; }
 
 .table-bordered thead th, .table-bordered thead td { padding: 10px; border-bottom-width: 2px; word-wrap: break-word; }
 
-@media only screen and (max-width: 480px) { .table-bordered { font-size: 6px; } th:nth-child(4), td:nth-child(4), th:nth-child(6), td:nth-child(6) { display: none; } }
+@media only screen and (max-width: 480px) { .table-bordered { font-size: 8px; } th:nth-child(4), td:nth-child(4), th:nth-child(5), td:nth-child(5) { display: none; } }
 
 .table-borderless th, .table-borderless td, .table-borderless thead th, .table-borderless tbody + tbody { border: 0; }
 
