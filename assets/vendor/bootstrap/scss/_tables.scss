@@ -74,12 +74,12 @@
 }
 @media only screen and (max-width: 480px) {
   .table-bordered {
-    font-size: 6px;
+    font-size: 8px;
   }
   th:nth-child(4),
   td:nth-child(4),
-  th:nth-child(6),
-  td:nth-child(6) {
+  th:nth-child(5),
+  td:nth-child(5) {
     display: none;
   }
 
