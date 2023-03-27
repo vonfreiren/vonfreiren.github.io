@@ -317,11 +317,15 @@ pre code { font-size: inherit; color: inherit; word-break: normal; }
 
 .table-sm th, .table-sm td { padding: 0.3rem; }
 
-.table-bordered { border: 1px solid #dee2e6; }
+.table-wrapper { overflow-x: auto; }
 
-.table-bordered th, .table-bordered td { padding: 10px; border: 1px solid #dee2e6; }
+.table-bordered { table-layout: auto; border: 1px solid #dee2e6; word-wrap: break-word; width: 100%; }
 
-.table-bordered thead th, .table-bordered thead td { padding: 10px; border-bottom-width: 2px; }
+.table-bordered th, .table-bordered td { padding: 10px; border: 1px solid #dee2e6; word-wrap: break-word; }
+
+.table-bordered thead th, .table-bordered thead td { padding: 10px; border-bottom-width: 2px; word-wrap: break-word; }
+
+@media only screen and (max-width: 480px) { .table-bordered { font-size: 6px; } th:nth-child(4), td:nth-child(4), th:nth-child(6), td:nth-child(6) { display: none; } }
 
 .table-borderless th, .table-borderless td, .table-borderless thead th, .table-borderless tbody + tbody { border: 0; }
 

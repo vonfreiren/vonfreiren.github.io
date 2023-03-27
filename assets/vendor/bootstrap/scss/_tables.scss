@@ -42,13 +42,23 @@
 //
 // Add or remove borders all around the table and between all the columns.
 
+.table-wrapper {
+  overflow-x: auto;
+}
+
 .table-bordered {
+  table-layout: auto;
   border: $table-border-width solid $table-border-color;
+  word-wrap: break-word;
+  width: 100%;
+
 
   th,
   td {
     padding: 10px;
     border: $table-border-width solid $table-border-color;
+    word-wrap: break-word;
+
   }
 
   thead {
@@ -56,9 +66,23 @@
     td {
       padding: 10px;
       border-bottom-width: 2 * $table-border-width;
+      word-wrap: break-word;
+
 
     }
   }
+}
+@media only screen and (max-width: 480px) {
+  .table-bordered {
+    font-size: 6px;
+  }
+  th:nth-child(4),
+  td:nth-child(4),
+  th:nth-child(6),
+  td:nth-child(6) {
+    display: none;
+  }
+
 }
 
 .table-borderless {
