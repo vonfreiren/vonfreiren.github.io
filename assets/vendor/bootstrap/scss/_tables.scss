@@ -47,13 +47,16 @@
 
   th,
   td {
+    padding: 10px;
     border: $table-border-width solid $table-border-color;
   }
 
   thead {
     th,
     td {
+      padding: 10px;
       border-bottom-width: 2 * $table-border-width;
+
     }
   }
 }
@@ -74,8 +77,24 @@
 .table-striped {
   tbody tr:nth-of-type(#{$table-striped-order}) {
     background-color: $table-accent-bg;
+
   }
 }
+
+.table-striped2 {
+  tbody tr:nth-of-type(#{$table-striped-order}) {
+    background-color: $table-accent-bg;
+
+    th,
+    td {
+      padding: 10px;
+      border-bottom-width: 2 * $table-border-width;
+
+    }
+
+  }
+}
+
 
 
 // Hover effect

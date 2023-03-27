@@ -30,6 +30,7 @@ plugins:
 
 collections:
   books:
+  concerts:
   courses:
     sort_by: name
     sort_order: ascending

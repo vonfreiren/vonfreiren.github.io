@@ -319,13 +319,17 @@ pre code { font-size: inherit; color: inherit; word-break: normal; }
 
 .table-bordered { border: 1px solid #dee2e6; }
 
-.table-bordered th, .table-bordered td { border: 1px solid #dee2e6; }
+.table-bordered th, .table-bordered td { padding: 10px; border: 1px solid #dee2e6; }
 
-.table-bordered thead th, .table-bordered thead td { border-bottom-width: 2px; }
+.table-bordered thead th, .table-bordered thead td { padding: 10px; border-bottom-width: 2px; }
 
 .table-borderless th, .table-borderless td, .table-borderless thead th, .table-borderless tbody + tbody { border: 0; }
 
 .table-striped tbody tr:nth-of-type(odd) { background-color: rgba(0, 0, 0, 0.05); }
+
+.table-striped2 tbody tr:nth-of-type(odd) { background-color: rgba(0, 0, 0, 0.05); }
+
+.table-striped2 tbody tr:nth-of-type(odd) th, .table-striped2 tbody tr:nth-of-type(odd) td { padding: 10px; border-bottom-width: 2px; }
 
 .table-hover tbody tr:hover { color: #212529; background-color: rgba(0, 0, 0, 0.075); }
 
