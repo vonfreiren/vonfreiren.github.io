@@ -67,11 +67,26 @@ image: '/img/leopard_books.jpg'
   </div>
   <script>$(document).ready(function () {
     $.noConflict();
-    var table = $('#table_popularity').DataTable(
-        {
-          "order": [[2, "desc"]],
-          "pageLength": 50
-          }
+    var table = $('#myTable').DataTable(
+            {
+              "order": [[2, "asc"]],
+              "pageLength": 50,
+              "zoom": false,
+              "columnDefs": [
+                {
+                  "targets": 2, // the Date column
+                  "render": function(data, type, row) {
+                    if (type === "sort") {
+                      // return the date as a sortable string
+                      return new Date(data).toISOString();
+                    } else {
+                      // return the date as "September 29, 2023"
+                      return new Date(data).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+                    }
+                  }
+                }
+              ]
+            }
     );
   });
   </script>
