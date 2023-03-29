@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Songs
-description: Song Popularity
+title: Books Wishlist
+description: Books to read
 background: '/img/leopard_books.jpg'
 thumbnail: '/img/leopard_books.jpg'
 image: '/img/leopard_books.jpg'
@@ -48,7 +48,7 @@ image: '/img/leopard_books.jpg'
       <div class="col-lg-14 col-md-18 mx-auto">
         <div class="table-wrapper">
 
-          {% include popularity.html %}
+          {% include books_to_read.html %}
 
 
         </div>
@@ -61,17 +61,17 @@ image: '/img/leopard_books.jpg'
     <p>
       <br>
     <div class="clearfix">
-    <blockquote>This page is automatically generated using <a href="https://github.com/vonfreiren/music-data-extensions">this script </a></blockquote>    </div>
+      <blockquote>This page is automatically generated using <a href="https://github.com/vonfreiren/goodreads_profiler_books">this script </a></blockquote>    </div>
     </p>
 
   </div>
   <script>$(document).ready(function () {
     $.noConflict();
-    var table = $('#table_popularity').DataTable(
+    var table = $('#table_wishlist_books').DataTable(
             {
-              "order": [[2, "desc"]],
               "pageLength": 50,
               "zoom": false,
+              ordering: false
             }
     );
   });
