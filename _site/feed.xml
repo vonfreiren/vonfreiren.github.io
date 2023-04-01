@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-31T01:20:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Starting and Benefits of Mountain Biking</title><link href="http://localhost:4000/starting-and-benefits-of-mountain-biking/" rel="alternate" type="text/html" title="Starting and Benefits of Mountain Biking" /><published>2023-03-16T03:01:13+01:00</published><updated>2023-03-16T03:01:13+01:00</updated><id>http://localhost:4000/starting-and-benefits-of-mountain-biking</id><content type="html" xml:base="http://localhost:4000/starting-and-benefits-of-mountain-biking/"><![CDATA[<h2 id="the-rise-of-the-2-wheel-vehicle">The Rise of the 2 Wheel Vehicle</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-01T17:29:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Democratizing investment with tokenized assets</title><link href="http://localhost:4000/democratizing-investment-with-tokenized-assets/" rel="alternate" type="text/html" title="Democratizing investment with tokenized assets" /><published>2023-04-01T04:01:13+02:00</published><updated>2023-04-01T04:01:13+02:00</updated><id>http://localhost:4000/democratizing-investment-with-tokenized-assets</id><content type="html" xml:base="http://localhost:4000/democratizing-investment-with-tokenized-assets/"><![CDATA[<h1 id="tokenized-assets">Tokenized assets</h1>
+
+<p>Tokenization is transforming the investment landscape by making it possible for a wider range of individuals to invest in traditionally inaccessible assets. By converting these assets into digital tokens, investors can purchase fractional ownership and benefit from increased liquidity and reduced transaction costs.</p>
+
+<p>This technology is democratizing investment by making it accessible to a wider range of individuals and providing them with more opportunities to diversify their portfolios. As tokenization continues to evolve, it has the potential to revolutionize the traditional financial industry and create new investment opportunities.</p>
+
+<p>You may be wondering that this tokenized asset is and what is this all about? Here we describe how this process works, the benefits and of course, some topics to be considered.</p>
+
+<p>Before I start, I had this article almost prepared for 1 year, but I did not have the time to finish it. Since I had to work on this topic in the past days, I have taken the chance to complete it now.</p>
+
+<h2 id="tokenization">Tokenization</h2>
+
+<p>Synthetic assets are an innovative way of leveraging tokenization technology to create new investment opportunities. Essentially, they are tokenized derivatives that allow investors to profit from price fluctuations of various assets without owning them. By creating a blockchain record for the relationship between the underlying asset and the purchaser, synthetic assets provide a transparent and secure way of trading these derivatives.</p>
+
+<p>In traditional financial markets, derivatives are used to speculate on the price movements of various assets without owning them. For example, an investor may purchase a call option on a stock, allowing them to profit if the stock’s price increases without owning the stock. Synthetic assets take this concept one step further by adding the record for the derivative on the blockchain and creating a cryptocurrency token for it.</p>
+
+<p>This technology has significant implications for the DeFi movement, allowing investors to access a wider range of investment opportunities and trade these derivatives in a more transparent and secure way. With the growth of the cryptocurrency market and the increasing demand for DeFi applications, synthetic assets are likely to become even more popular in the future.</p>
+
+<p>Overall, tokenization and synthetic assets are transforming the traditional investment landscape by democratizing access to previously inaccessible assets and creating new investment opportunities. As the technology continues to evolve, it will be interesting to see how it is further leveraged to reshape the financial industry and create new possibilities for investors.</p>
+
+<h2 id="asset-tokens-with-equity-rights">Asset tokens with equity rights</h2>
+
+<p>Tokenization is revolutionizing the way corporations raise funds and issue equity securities. By converting these securities into digital tokens, corporations can streamline the fundraising process and potentially reduce costs associated with traditional methods of issuing securities. Asset tokens with equity rights are gaining popularity among corporations as they provide investors with access to fractional ownership of the underlying assets and can be traded in a more secure and transparent way.</p>
+
+<p>Tokenization also offers other benefits for corporations, such as increased liquidity and the ability to reach a wider range of investors. By issuing tokens on a blockchain, corporations can potentially attract a global pool of investors and reduce the time and costs associated with traditional fundraising methods.</p>
+
+<p>As tokenization continues to evolve, it is likely that we will see more corporations turning to this technology as a way of raising funds and issuing equity securities. However, it is important for investors to understand the potential risks associated with investing in these tokens, such as regulatory uncertainty and market volatility.</p>
+
+<p>Overall, tokenization is transforming the traditional corporate finance landscape by providing more efficient and cost-effective ways of raising capital. With the potential to reduce costs and increase accessibility, it is likely that we will continue to see the use of asset tokens with equity rights and other types of tokenized securities grow in the coming years.</p>
+
+<p>The process is like the one used in ICOs. Some of the similarities include the usage of blockchain technology and allowing investors to own a partial of the asset or the project/platform.</p>
+
+<h2 id="equities-bonds-and-these-payments">Equities, bonds and these payments</h2>
+
+<p>Income, such as dividends or interest payments, is a great component of assets and their performance. The idea in this case is that even the entity (exchange, asset manager, etc.) is the one owning the “real” asset, the payments that the broker will get are then distributed to the owners of the tokenized assets.</p>
+
+<p>This may happen regularly in assets such as shares or ETFs, but you will find different cases where the same applies to other securities such as bonds.</p>
+
+<p>Please note that in some cases the broker may charge some fees because of the forwarding/processing the different payments. This will depend on the terms and conditions of the entity.</p>
+
+<p>For example, let’s imagine you own 100 tokenized Microsoft shares. The broker owns the real MSFT shares and will get 70 USD for those shares. You may get less than these 70 USD (e.g., 68 USD= because of the processing fee that different brokers may change. The fee will be also described in the prospectus.</p>
+
+<p>Something similar may happen to bonds. In the case below you can see how the different payments are paid to the holders of the token-based bonds issued by Bitcoin Finance GMBH.</p>
+
+<div class="container">
+  <div class="card">
+    <div class="card-header" style="font-size: 12px; font-weight: bold; text-align: center;">Token-based bonds</div>
+    <div class="card-body" style="font-size: 11px; font-style: italic">
+The token-based bonds bear interest at their nominal value at a fixed interest rate of 4.00 percent per annum (base rate). The interest periods for the base rate run from July 1 of each year to June 30 of each subsequent year (inclusive). 
+The first interest period begins on July 1, 2019. In addition to the base rate, the token-based bonds are subject to annual variable interest (variable interest). The interest periods for the variable interest are the respective financial year of the Issuer (calendar year). 
+The first interest period begins on January 1, 2019. The variable interest rate for an interest period is the percentage rate resulting from the fact that 60 percent of the – to the extent available – profit before tax (excluding the variable interest rate) for the financial year before the interest payment date for the variable interest period is divided by the total nominal value of the outstanding token-based bonds in accordance with the Issuer's approved and audited annual financial statements preceding the interest payment date for the variable interest period.. The Issuer shall calculate all interest (calculation agent). The base rate of an interest period is payable in four equal installments on October 1 of each year and on January 2, April 1 and July 1 of the following year (each an "interest payment date"). 
+The first base rate payment is made on October 1, 2019. The base rate payment ends with the end of the term of the bond on June 30, 2029. The last base rate payment is made on July 1, 2029. If an interest payment date is not a business day, the interest payment will be made on the next following business day. The variable interest is payable retroactively as of and for the first time on July 31, 2020. The variable interest ends on December 31, 2027. The last variable interest payment will be made on July 31, 2028. If July 31 is not a business day in a particular year, the interest payment will be made on the next following working day. If the Issuer's annual financial statements for the preceding financial year have not been finally approved by July 31 in any given year, the variable interest will be payable seven business days after the annual financial statements are approved. 
+If the Issuer does not redeem the token-based bonds at maturity, interest will be payable on the outstanding principal (nominal) amount of the bonds from the Maturity Date (inclusive) until the actual Redemption Date (exclusive) at the statutory default interest rate. If interest is calculated for a period of less than one year (e.g., in the event of default), it will be calculated to the day using the act/act method.
+</div>
+</div>
+</div>
+
+<p>
+</p>
+
+<div class="container">
+  <div class="card">
+    <div class="card-header" style="font-size: 12px; font-weight: bold; text-align: center;">Payment procedure</div>
+    <div class="card-body" style="font-size: 11px; font-style: italic">
+Redemption and interest payments due during the term will be made exclusively in the cryptocurrency Stellar Lumens corresponding to the subscribed nominal amount of the bond. For this, the EUR value at 12:00 CET (Central European Time) corresponding to the due date of an interest payment or bond redemption will be converted into XLM using the EUR - XLM exchange rate displayed on the website www.cryptocompare.com (or a comparable platform selected by the Issuer as described in Section C.2 of this summary) and then immediately paid to the Stellar address of the holders of the BB1-Token. 
+The Issuer will make payments to the person listed as the holder of the token in the register maintained on the Stellar Blockchain at 12:00 CET on the due date. Payments will be made to the blockchain address (wallet) specified in the respective register._
+</div>
+</div>
+</div>
+
+<p>With the rise of bonds in 2023, like Eurobonds, and adding the component cryptocurrencies, investing in synthetic assets whose underlying are bonds may also help you with your investment in terms of:</p>
+
+<ul>
+  <li>Exposure to different fixed-income securities from foreign countries (emerging countries)</li>
+  <li>Liquidity, since they are traded 24/7</li>
+  <li>Lower transaction costs</li>
+  <li>currency optimization</li>
+  <li>currency hedging.</li>
+</ul>
+
+<h2 id="other-asset-classes">Other asset classes</h2>
+
+<p>Apart from equities and debt shown above, you can tokenize anything These are some of the asset classes you can also invest in easier the moment you have access to tokenized assets.</p>
+
+<ol>
+  <li>Real estate: Tokenized real estate allows investors to own a fraction of a property, with each token representing a percentage of ownership. This can make it easier for investors to gain exposure to real estate investments and potentially increase liquidity in the market.</li>
+  <li>Commodities: Tokenized commodities allow investors to gain exposure to physical commodities, such as gold, silver, or oil, without needing to physically store or handle the underlying asset.</li>
+  <li>Art: Tokenized art allows investors to own a fraction of a valuable piece of art, which can potentially increase liquidity in the art market and allow for easier trading of art investments.</li>
+  <li>Alternative investments: Tokenization can also be used for other types of alternative investments, such as venture capital, private equity, and hedge funds. By tokenizing these investments, investors can potentially benefit from greater liquidity, lower fees, and more efficient trading.</li>
+</ol>
+
+<p>Some real examples of these tokenized assets are the ones below:</p>
+
+<ul>
+  <li>
+    <p>mIAU is a tokenized stock of the iShares Gold Trust ETF, which tracks the price of gold.</p>
+  </li>
+  <li>
+    <p>The Mirrored iShares Silver Trust (mSLV) is a tokenized stock of the iShares Silver Trust ETF, which tracks the price of silver.</p>
+  </li>
+  <li>
+    <p>Mirrored United States Oil Fund (mUSD) is a tokenized stock of the United States Oil Fund ETF, which tracks the price of West Texas Intermediate crude oil.</p>
+  </li>
+  <li>
+    <p>Mirrored Invesco QQQ Trust (mQQQ) is a tokenized stock of the Invesco QQQ Trust ETF, which tracks the Nasdaq 100 Index.</p>
+  </li>
+  <li>
+    <p>Vanguard Real Estate Tokenized Stock Defichain (DVNQ) is a tokenized stock of the Vanguard Real Estate ETF <a href="https://finance.mrfreire.net/security_search/security_search_results/VNQ">VNQ</a>.</p>
+  </li>
+</ul>
+
+<h2 id="wrapping-it">Wrapping it</h2>
+
+<p>Having described these asset classes, we cannot forget about crypto itself.  You probably have Heard about Wrapped Bitcoin or any other Wrapped crypto.</p>
+
+<p>Wrapped crypto tokens are an innovative solution to the problem of interoperability between different blockchains. Essentially, a wrapped token is a tokenized representation of a particular cryptocurrency that is operable on another blockchain. This means that you can take a cryptocurrency asset from one blockchain and wrap it in a token that can be used on a different blockchain.</p>
+
+<p>The value of a wrapped token is the same as the original cryptocurrency asset, but it can be used on a different blockchain. This is particularly useful in the context of decentralized finance (DeFi), where different blockchain networks may have different DeFi applications and ecosystems.</p>
+
+<p>By wrapping a cryptocurrency asset in a token, it becomes easier to transfer value across blockchains that otherwise lack interoperability. This enables a cross-chain DeFi ecosystem where users can access a wider range of DeFi applications and services.</p>
+
+<p>Overall, wrapped crypto tokens are an exciting development in the world of blockchain and DeFi. By enabling interoperability between different blockchains, they are helping to create a more connected and efficient decentralized financial system. As the DeFi ecosystem continues to evolve, it’s likely that we will see more innovative solutions like wrapped tokens emerge to help overcome the challenges of interoperability and drive the growth of this exciting new field.</p>
+
+<h2 id="performance-and-taxes">Performance and taxes</h2>
+
+<p>When analyzing the performance of our asset, taxes also play an important role too. They will have a bigger impact than the fees we may have to pay.</p>
+
+<p>Although in several countries, they will be treated as the underlying asset, depending on the country you live, there may be different ways on how they are taxed, and in consequence, the impact on your final return.</p>
+
+<p>For example, a clear example would be Greece. in Greece capital gains on listed shares or UCITs funds will trigger a tax-exempt capital gain. On the other hand, if you invest in tokenized assets, these exemptions are lost, and you will have to add a penalty of 15% to your realized gain.</p>
+
+<h2 id="risks">Risks</h2>
+
+<p>Tokenization brings several benefits and allows investors around the world, mainly with no resources to access financial markets, to invest almost in anything. However, as you can guess, this has also several risks.</p>
+
+<h3 id="liquidity-risk">Liquidity risk</h3>
+
+<p>While tokenization can increase the liquidity of an asset, it does not guarantee liquidity. Tokenized assets may be illiquid, especially if they are newly issued, have a limited market, or if there is a lack of demand.</p>
+
+<h3 id="counterparty-risk">Counterparty risk</h3>
+
+<p>Tokenized assets rely on smart contracts to execute trades automatically, without the need for intermediaries such as banks or brokers. However, smart contracts can have vulnerabilities, and if they fail or are exploited, it can result in significant financial losses for investors.</p>
+
+<h3 id="volatility-risk">Volatility risk</h3>
+
+<p>Tokenized assets may be subject to high volatility, just like any other financial asset. The price of a tokenized asset may be influenced by market conditions, supply and demand, or other external factors, and may fluctuate rapidly, resulting in significant gains or losses for investors.</p>
+
+<p>Not related to synthetic assets, but just think about the Grayscale Bitcoin Trust shares. For months, this fund has been on the news because of the discounted price is trading, comparing it with the value of the bitcoin it owns.</p>
+
+<p>Of course, when it comes to crypto and the lack of regulation beware of any fishy projects, because they may become scams sooner or later.</p>
+
+<h2 id="a-double-edge-sword">A double edge sword</h2>
+
+<p>To sum up, tokenized assets are a powerful tool for investors seeking exposure to assets that may be difficult or impossible to access directly. By replicating the performance of underlying assets, these synthetic assets can provide investors with the ability to gain exposure to a wider range of assets, diversify their portfolio, and potentially benefit from market opportunities.</p>
+
+<p>However, synthetic assets also carry their own unique risks. For example, counterparty risk refers to the risk that the party on the other side of the transaction may not fulfill their obligations. Market volatility can also impact the value of synthetic assets, as their value is based on the performance of underlying assets. Finally, liquidity risk refers to the risk that synthetic assets may not be readily tradeable, potentially limiting investors’ ability to exit their positions.</p>
+
+<p>It’s important for investors to carefully consider the risks and potential benefits of these assets before investing. Investors should also be aware of the regulatory landscape surrounding synthetic assets, as regulations may vary depending on the jurisdiction.</p>
+
+<p>Despite the risks, tokenized assets offer a powerful tool for investors seeking to gain exposure to a wider range of assets. As the financial industry continues to evolve, it’s likely that we will see continued growth and innovation around synthetic assets, providing investors with even more opportunities to diversify their portfolios and potentially benefit from market opportunities.</p>]]></content><author><name>Javier Freire</name></author><category term="Finance" /><summary type="html"><![CDATA[Tokenized assets are transforming the investment landscape by making it possible for a wider range of individuals to invest in traditionally inaccessible assets. By converting these assets into digital tokens, investors can purchase fractional ownership and benefit from increased liquidity and reduced transaction costs.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/tokenized/tiger.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/tokenized/tiger.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Starting and Benefits of Mountain Biking</title><link href="http://localhost:4000/starting-and-benefits-of-mountain-biking/" rel="alternate" type="text/html" title="Starting and Benefits of Mountain Biking" /><published>2023-03-16T03:01:13+01:00</published><updated>2023-03-16T03:01:13+01:00</updated><id>http://localhost:4000/starting-and-benefits-of-mountain-biking</id><content type="html" xml:base="http://localhost:4000/starting-and-benefits-of-mountain-biking/"><![CDATA[<h2 id="the-rise-of-the-2-wheel-vehicle">The Rise of the 2 Wheel Vehicle</h2>
 
 <p>Mountain biking, a thrilling adventure sport, is rapidly gaining popularity among fitness enthusiasts and adrenaline junkies alike. The reason for this? There are many but one of the aspects that probably helped push this sport was the Covid pandemic and the lockdowns that we suffered.</p>
 
@@ -939,117 +1098,4 @@ learning and memory, increase your job satisfaction, and better manage your time
 <p>That said, deep work is a valuable skill that can have significant<code class="language-plaintext highlighter-rouge"> benefits </code>for our productivity and creativity. While
 it can be<code class="language-plaintext highlighter-rouge"> challenging </code>to achieve, the rewards of being able to focus deeply on our work are well worth the effort. By
 learning to eliminate distractions and create an environment that is conducive to focus, we can<code class="language-plaintext highlighter-rouge"> engage </code>in deep work and
-produce our best work.</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[Different techniques and benefits of applying Deep Work in our life, including how we can achieve this easier. This article is based on the book Deep Work by Cal Newport book, summarizing some of these concepts]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/deep_work/deep-work.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/deep_work/deep-work.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Benefits of Trail Running</title><link href="http://localhost:4000/benefits-of-trail-running/" rel="alternate" type="text/html" title="Benefits of Trail Running" /><published>2022-12-10T03:01:13+01:00</published><updated>2022-12-10T03:01:13+01:00</updated><id>http://localhost:4000/benefits-of-trail-running</id><content type="html" xml:base="http://localhost:4000/benefits-of-trail-running/"><![CDATA[<h2 id="introduction">Introduction</h2>
-
-<div class="text-article">
-Trail running is a form of off-road running that takes place on hiking trails, dirt paths, and other natural terrain. It
-is a popular outdoor activity that allows runners to explore the beauty of nature while also challenging themselves
-physically and mentally.</div>
-
-<p>One of the main benefits of trail running is the variety of scenery that it offers. Unlike road running, which often
-takes place on dull, monotonous stretches of pavement, trail running allows runners to experience the beauty of forests,
-mountains, and other natural environments. This can provide a much-needed change of scenery for runners who are used to
-running on roads, and it can make the activity more enjoyable and stimulating.</p>
-
-<p>In addition to the beautiful scenery, trail running also offers a number of physical and mental benefits. Running on
-natural terrain can be more challenging than running on pavement, as it often involves steep hills, uneven surfaces, and
-other obstacles. This can provide a more intense workout and help to improve a runner’s strength, endurance, and overall
-fitness level.</p>
-
-<h2 id="benefits">Benefits</h2>
-
-<p>Trail running can also be a great way to reduce stress and improve mental health. Being outdoors in nature has been
-shown to have a calming effect on the mind, and the physical exertion of running can help to release endorphins and
-other feel-good chemicals in the brain. As a result, many people find that trail running helps them to relax, de-stress,
-and feel more positive and energized.</p>
-
-<p>To get started with trail running, it is<code class="language-plaintext highlighter-rouge"> important </code>to have the right equipment. In addition to a good pair of running
-shoes, it is also a good idea to invest in some other gear that is designed specifically for trail running. This can
-include items such as a hydration<code class="language-plaintext highlighter-rouge"> pack </code>or water bottle, trail running gaiters, and a hat or visor to protect your eyes
-from the sun.</p>
-
-<p>It is also<code class="language-plaintext highlighter-rouge"> important </code>to choose a trail that is appropriate for your skill level. Beginners should start with easy,
-well-maintained trails, and gradually work their way up to more challenging terrain as they become more experienced. It
-is also a good idea to run with a buddy or in a group, as this can provide additional support and motivation.</p>
-
-<p>There are many benefits to trail running, including:</p>
-
-<ol>
-  <li>Beautiful scenery: Unlike road running, which often takes place on dull, monotonous stretches of pavement, trail
-running allows runners to experience the beauty of forests, mountains, and other natural environments. This can
-provide a much-needed change of scenery and make the activity more enjoyable and stimulating.</li>
-  <li>Increased physical challenge: Running on natural terrain can be more challenging than running on pavement, as it
-often involves steep hills, uneven surfaces, and other obstacles. This can provide a more intense workout and help to
-improve a runner’s strength, endurance, and overall fitness level.</li>
-  <li>Mental health benefits: Being outdoors in nature has been shown to have a calming effect on the mind, and the
-physical exertion of running can help to release endorphins and other feel-good chemicals in the brain. As a result,
-many people find that trail running helps them to reduce stress, improve their mood, and feel more positive and
-energized.</li>
-  <li>Improved coordination and balance: Trail running requires a higher level of coordination and balance than road
-running, as runners must navigate uneven terrain and avoid obstacles. This can help to improve a runner’s overall
-balance and coordination, and reduce the risk of falls and injuries.</li>
-  <li>Social interaction: Many people find that trail running is a great way to meet new people and make friends who share
-their<code class="language-plaintext highlighter-rouge"> love </code>of the outdoors. Running with a buddy or in a group can provide additional support, motivation, and a
-sense of community.</li>
-</ol>
-
-<p>
-    <img class="img-fluid" src="/img/posts/trail/lost.jpeg" alt="Dangers of Trail Running" />
-    <span class="caption text-muted">If you are new doing this activity, some aspects to consider are high temperatures, sunburn, wild animals or getting lost.</span>
-</p>
-
-<h2 id="things-to-consider">Things to consider</h2>
-
-<p>There are several potential problems and dangers that can arise when trail running, including the following:</p>
-
-<ol>
-  <li>Dehydration: Trail running can be strenuous, and it is<code class="language-plaintext highlighter-rouge"> important </code>to stay hydrated by drinking plenty of water before,
-during, and after your run.</li>
-  <li>Blisters: Ill-fitting shoes or wet socks can cause blisters to form on your feet, which can be painful and interfere
-with your ability to run comfortably.</li>
-  <li>Slips and falls: Trail running often involves running over uneven terrain, which can increase your risk of slipping
-and falling. This can lead to injuries such as sprains, strains, and fractures.</li>
-  <li>Sunburn: Many trail runs take place outdoors, where you may be exposed to the sun for extended periods of time. This
-can lead to sunburn, which can be painful and increase your risk of skin cancer.</li>
-  <li>Insect bites: Trail running can expose you to a variety of insects, such as mosquitoes and ticks, which can bite and
-cause irritation.</li>
-  <li>Wild animals: Depending on where you are trail running, you may encounter wild animals such as snakes, bears, and
-mountain lions. It is<code class="language-plaintext highlighter-rouge"> important </code>to be aware of your surroundings and take appropriate precautions to avoid any
-potential encounters.</li>
-  <li>Overuse injuries, such as shin splints or stress fractures, if you don’t properly warm up or cool down</li>
-  <li>Exposure to the elements, such as cold temperatures or heavy rain, which can be dangerous if you’re not prepared</li>
-  <li>Getting lost if you don’t have a map or don’t pay<code class="language-plaintext highlighter-rouge"> attention </code>to your surroundings</li>
-</ol>
-
-<p>To avoid these dangers, it’s<code class="language-plaintext highlighter-rouge"> important </code>to be prepared before heading out on the trail. Make sure you have the right
-equipment and supplies, plan your route carefully, and pay<code class="language-plaintext highlighter-rouge"> attention </code>to your surroundings. If you’re not sure about the
-trail or if you’re unsure of your abilities, it’s always a good idea to start with shorter, easier trails and work your
-way up to more challenging routes.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>In conclusion, Trail running is a great way to explore nature and get some exercise at the same time.</p>
-
-<p>To get started with trail running, here are a few tips:</p>
-
-<ol>
-  <li>First, make sure you have the right equipment. You will need a good pair of trail running shoes with good traction to
-help you navigate the terrain. It’s also a good idea to bring a small backpack with water, snacks, and a map of the
-trail.</li>
-  <li>Before heading out on the trail, take some time to plan your route and check the weather. Choose a trail that is
-appropriate for your skill level, and make sure you have a good idea of how long it will take you to complete the
-route.</li>
-  <li>When you’re out on the trail, pay<code class="language-plaintext highlighter-rouge"> attention </code>to your surroundings and be aware of any potential hazards, such as steep
-drop-offs or unstable ground. If you’re running with a group, make sure to stay together and help each other out if
-anyone needs assistance.</li>
-  <li>As you run, focus on maintaining a steady pace and keeping your breathing and heart rate under control. It’s okay to
-take breaks if you need to catch your<code class="language-plaintext highlighter-rouge"> breath </code>or rest your muscles, but<code class="language-plaintext highlighter-rouge"> try </code>to keep moving forward to avoid getting
-tired or losing motivation.</li>
-  <li>Finally, listen to your body and pay<code class="language-plaintext highlighter-rouge"> attention </code>to how you’re feeling. If you start to feel<code class="language-plaintext highlighter-rouge"> pain </code>or discomfort, slow
-down or stop and take a break. It’s<code class="language-plaintext highlighter-rouge"> important </code>to take care of yourself while trail running to avoid injury and ensure
-you have a safe and enjoyable experience.</li>
-</ol>
-
-<p>Overall, trail running is a fun and rewarding outdoor activity that offers a range of physical and mental benefits.
-Whether you are a seasoned runner looking for a new challenge, or a beginner who is just starting to explore the world
-of off-road running, trail running is a great way to stay active, healthy, and happy.</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[What trail running can add to our sport activity, recommendations and other aspects to take into account]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/trail/trail.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/trail/trail.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+produce our best work.</p>]]></content><author><name>Javier Freire</name></author><category term="Health" /><summary type="html"><![CDATA[Different techniques and benefits of applying Deep Work in our life, including how we can achieve this easier. This article is based on the book Deep Work by Cal Newport book, summarizing some of these concepts]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/deep_work/deep-work.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/deep_work/deep-work.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
