@@ -1,0 +1,78 @@
+---
+layout: default
+title: Series
+description: Series Wishlist
+background: '/img/leopard_books.jpg'
+thumbnail: '/img/leopard_books.jpg'
+image: '/img/leopard_books.jpg'
+---
+<!-- CSS -->
+<link rel="stylesheet" href="//cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
+
+<!-- JS -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="//cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead"
+        style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
+        xmlns="http://www.w3.org/1999/html">
+
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 col-md-12 mx-auto">
+          <div class="page-heading">
+            <br>
+            <h1>{{ site.title }}</h1>
+            {% if site.description %}
+            <br>
+            <span class="subheading">{{ site.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-14 col-md-18 mx-auto">
+        <div class="table-wrapper">
+
+          {% include wishlist_series.html %}
+
+
+        </div>
+
+
+      </div>
+    </div>
+    </section>
+    <!-- Pager -->
+    <p>
+      <br>
+    <div class="clearfix">
+    <blockquote>This page is automatically generated using <a href="https://github.com/vonfreiren/music-data-extensions">this script </a></blockquote>    </div>
+    </p>
+
+  </div>
+  <script>$(document).ready(function () {
+    $.noConflict();
+    var table = $('#table_series').DataTable(
+            {
+              order: false,
+              "pageLength": 50,
+              "zoom": false,
+            }
+    );
+  });
+  </script>
