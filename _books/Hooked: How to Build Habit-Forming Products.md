@@ -2,5 +2,5 @@
 title: "Hooked: How to Build Habit-Forming Products"
 background: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407112405l/22668729._SY75_.jpg
 description: https://www.goodreads.com/book/show/22668729-hooked
-date: 1995-11-19 06:04:29 -0400
+date: 1995-12-09 22:34:55 -0400
 ---
