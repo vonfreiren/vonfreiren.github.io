@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-08T21:44:49+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Sugar: The Heroine of 21st Century</title><link href="http://localhost:4000/sugar-the-heroine-of-21st-century/" rel="alternate" type="text/html" title="Sugar: The Heroine of 21st Century" /><published>2023-04-08T04:01:13+02:00</published><updated>2023-04-08T04:01:13+02:00</updated><id>http://localhost:4000/sugar-the-heroine-of-21st-century</id><content type="html" xml:base="http://localhost:4000/sugar-the-heroine-of-21st-century/"><![CDATA[<h2 id="todays-big-problem">Today’s big problem</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-15T22:33:28+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Everything about wrapped crypto</title><link href="http://localhost:4000/everything-about-wrapped-crypto/" rel="alternate" type="text/html" title="Everything about wrapped crypto" /><published>2023-04-15T04:01:13+02:00</published><updated>2023-04-15T04:01:13+02:00</updated><id>http://localhost:4000/everything-about-wrapped-crypto</id><content type="html" xml:base="http://localhost:4000/everything-about-wrapped-crypto/"><![CDATA[<h2 id="new-methods-of-playing-with-crypto">New methods of playing with crypto</h2>
+
+<p>Wrapped crypto refers to a type of cryptocurrency that has been “wrapped” or tokenized to operate on a different blockchain network. For example, Bitcoin is a cryptocurrency that operates on its own blockchain network, but it’s obvious that it cannot operate in other networks.</p>
+
+<p>However, it can be “wrapped” or tokenized to operate on other blockchain networks such as Ethereum. Talking about Ethereum, and after one of their most memorable months, most wrapped crypto assets occur in the Ethereum network. However, there are other networks such as BNB or Solana, that are also very important in the wrapping process.</p>
+
+<p>In the case of wrapped Bitcoin, the actual Bitcoin is held in custody by a custodian, while a representation of the Bitcoin is issued on the Ethereum blockchain as an ERC-20 token called wrapped Bitcoin (WBTC). This allows users to access the liquidity and features of the Ethereum blockchain while still holding and owning Bitcoin.</p>
+
+<h2 id="how-it-works">How it works</h2>
+
+<p>The process of wrapping crypto involves depositing the original cryptocurrency with a custodian who then mints an equivalent amount of wrapped tokens on the target blockchain. The wrapped tokens are pegged to the original cryptocurrency in a 1:1 ratio, meaning that each wrapped token represents the same value as the original cryptocurrency.</p>
+
+<p>Wrapped crypto has gained popularity as it allows for cross-chain interoperability and enables users to access the benefits of different blockchain networks without having to convert their cryptocurrencies into other tokens or currencies.</p>
+
+<p>Wrapped crypto involves the creation of an asset-backed token on a different blockchain network. This process involves depositing the original cryptocurrency with a custodian who holds it in custody and then issuing an equivalent amount of wrapped tokens on the target blockchain. The wrapped tokens are typically issued as ERC-20 tokens on the Ethereum blockchain or as BEP-20 tokens on the Binance Smart Chain.</p>
+
+<p>To ensure that the wrapped tokens maintain a 1:1 peg with the original cryptocurrency, the custodian must maintain an equivalent amount of the original cryptocurrency in reserve. This reserve is audited by third-party auditors to ensure that the peg is maintained.</p>
+
+<p>Wrapped crypto is used to enable cross-chain interoperability, which allows users to access the benefits of different blockchain networks. For example, a user may hold Bitcoin and want to participate in a decentralized finance (DeFi) application that operates on the Ethereum blockchain. By wrapping their Bitcoin and converting it to wrapped Bitcoin (WBTC), the user can then use their WBTC to participate in the Ethereum-based DeFi application without having to sell their Bitcoin.</p>
+
+<p>One advantage of wrapped crypto is that it allows for greater liquidity and accessibility for assets. Wrapped crypto can be traded on decentralized exchanges (DEXs) and used as collateral for borrowing and lending on DeFi platforms. This can increase the liquidity and usability of assets, which can in turn lead to greater adoption and value for the underlying asset. With the recent problems in some CEXs, DEX can allow the problem of centralization. Some of these projects are:</p>
+
+<ol>
+  <li>Uniswap: Uniswap is a decentralized exchange that uses the Ethereum blockchain. It allows users to trade ERC-20 tokens, including wrapped versions of Bitcoin (wBTC), Ether (wETH), and other cryptocurrencies.</li>
+  <li>Curve Finance: Curve Finance is a decentralized exchange that specializes in stablecoin trading. It supports trading pairs between various stablecoins, including wrapped versions of Bitcoin (wBTC) and Ethereum (wETH).</li>
+  <li>PancakeSwap: PancakeSwap is a decentralized exchange that runs on the Binance Smart Chain. It supports trading pairs between various BEP-20 tokens, including wrapped versions of Bitcoin (wBTC) and Binance Coin (wBNB).</li>
+  <li>SushiSwap: SushiSwap is a decentralized exchange that runs on the Ethereum blockchain. It allows users to trade various ERC-20 tokens, including wrapped versions of Bitcoin (wBTC) and Ethereum (wETH).</li>
+  <li>1inch: 1inch is a decentralized exchange aggregator that searches multiple DEXs to find the best prices for traders. It supports trading pairs between various ERC-20 tokens, including wrapped versions of Bitcoin (wBTC) and Ethereum (wETH).</li>
+</ol>
+
+<h2 id="investing-in-these-projects-or-assets">Investing in these projects or assets</h2>
+
+<p>As with any investment, investing in wrapped crypto involves risk and should be approached with caution. However, there are some potential benefits and considerations to keep in mind when investing in wrapped crypto.</p>
+
+<p>One potential benefit of investing in wrapped crypto is the potential for higher returns. Wrapped crypto can be used for various DeFi activities such as lending, borrowing, trading, staking, and yield farming. These activities can generate returns that may be higher than traditional investments. However, it’s important to note that these activities also come with additional risk, such as smart contract risk, liquidity risk, and volatility risk.</p>
+
+<p>Another potential benefit is the increased liquidity and accessibility of assets that wrapped crypto can provide. By wrapping assets, users can participate in DeFi applications that operate on different blockchain networks, as well as access additional liquidity and borrowing power. This can lead to more efficient capital allocation and higher returns.</p>
+
+<p>However, there are also potential risks associated with investing in wrapped crypto. One key risk is the possibility of a breakdown in the peg between the wrapped token and the underlying asset. While the custodian holding the underlying asset is supposed to maintain a 1:1 peg, there is always the possibility of a black swan event or other unforeseen circumstances that could lead to a breakdown in the peg.</p>
+
+<p>Additionally, wrapped crypto is subject to the same risks as any cryptocurrency investment, including market volatility, hacking, and regulatory risk. It’s important for investors to conduct thorough research and due diligence before investing in wrapped crypto, and to consider their risk tolerance and investment goals.</p>
+
+<p>In summary, investing in wrapped crypto can potentially offer higher returns and increased liquidity and accessibility of assets, but it also comes with additional risk. Investors should approach wrapped crypto as they would any investment and carefully consider the potential risks and rewards before investing.</p>
+
+<h2 id="wrap-up">Wrap-up</h2>
+
+<p>To wrap-up this topic, Wrapped crypto plays an important role in decentralized finance (DeFi) by enabling cross-chain interoperability and increasing the liquidity of assets. Here are some specific utilities of wrapped crypto in DeFi:</p>
+
+<ol>
+  <li>Access to different blockchain networks: Wrapped crypto allows users to access the benefits of different blockchain networks without having to convert their cryptocurrencies into other tokens or currencies. This can be especially useful for users who want to participate in DeFi applications that operate on a different blockchain network than the one they hold their assets on.</li>
+  <li>Liquidity provision: Wrapped crypto can be used as collateral for borrowing and lending on DeFi platforms. By wrapping their assets, users can access additional liquidity and borrowing power. This can lead to more efficient capital allocation and higher returns for users.</li>
+  <li>Trading on decentralized exchanges (DEXs): Wrapped crypto can be traded on DEXs, which are decentralized platforms that allow users to trade assets without the need for a central authority. This can increase the liquidity and accessibility of assets, making it easier for users to buy and sell their assets.</li>
+  <li>Staking and yield farming: Wrapped crypto can be used for staking and yield farming, which are processes that involve users locking up their assets to earn rewards. This can increase the returns that users earn on their assets and incentivize them to hold their assets for longer periods of time.</li>
+</ol>
+
+<p>Overall, wrapped crypto has become an important tool for increasing the liquidity and accessibility of assets in the DeFi space. By enabling cross-chain interoperability and increasing the number of use cases for assets, wrapped crypto is helping to drive the growth and adoption of decentralized finance.</p>
+
+<p>There are many interesting projects in the world of wrapped crypto and DeFi. Here are a few notable examples:</p>
+
+<ol>
+  <li>Wrapped Bitcoin (WBTC): WBTC is an ERC-20 token that is backed 1:1 by Bitcoin. It was created to allow Bitcoin holders to access the DeFi ecosystem on the Ethereum network. WBTC is widely used in DeFi and is supported by many decentralized exchanges and lending platforms.</li>
+  <li>Wrapped Ethereum (WETH): WETH is an ERC-20 token that represents Ether (ETH) on the Ethereum network. It was created to enable ETH holders to participate in DeFi activities such as trading and lending. WETH is widely used in DeFi and is often the preferred form of collateral for borrowing and lending on Ethereum-based platforms.</li>
+  <li>RenVM: RenVM is a cross-chain liquidity protocol that allows users to wrap their assets and move them between different blockchain networks. It supports a variety of wrapped assets, including BTC, ZEC, BCH, and FIL, and allows users to access DeFi applications on multiple blockchain networks.</li>
+  <li>Aave: Aave is a decentralized lending and borrowing platform that allows users to borrow and lend a variety of assets, including wrapped crypto. It supports a wide range of assets, including WBTC, WETH, and stablecoins, and allows users to earn interest on their deposits or borrow assets at variable or fixed rates.</li>
+</ol>
+
+<p>These are just a few examples of the many interesting projects in the world of wrapped crypto and DeFi. As the DeFi space continues to evolve, we can expect to see even more innovative projects emerge.</p>
+
+<h2 id="beware-of-risks-and-fishy-projects">Beware of risks and fishy projects</h2>
+
+<p>As with anything related to crypto, Decentralized Finance (DeFi) and Decentralized Exchange (DEX) projects that use wrapped cryptocurrencies can offer many benefits, such as cross-chain interoperability and access to a wider range of assets.</p>
+
+<p>However, as with any new technology, there are risks involved, and it’s important to take steps to protect yourself when using DeFi/DEX projects with wrapped cryptocurrencies. Here are some tips on how to stay safe:</p>
+
+<ol>
+  <li>Research the project: Before investing in a DeFi/DEX project that uses wrapped cryptocurrencies, you should research the project thoroughly. Look at the team behind the project, its history and track record, and read reviews from other users.</li>
+  <li>Use a reputable wallet: When using DeFi/DEX projects with wrapped cryptocurrencies, you should use a reputable wallet that is compatible with the project. MetaMask is a popular choice that is compatible with many DeFi/DEX projects.</li>
+  <li>Be cautious when providing liquidity: Providing liquidity to liquidity pools on DeFi/DEX projects with wrapped cryptocurrencies can be a profitable strategy, but it’s important to be cautious. Make sure you understand the risks involved, such as impermanent loss, and only invest what you can afford to lose.</li>
+  <li>Check the contract address: When adding a wrapped asset to your wallet, make sure you check the contract address to ensure that it is legitimate. Scammers may try to trick users into adding fake wrapped assets to their wallets.</li>
+  <li>Keep your private keys safe: As with any cryptocurrency investment, it’s important to keep your private keys safe. Make sure you have a secure backup of your private keys and never share them with anyone.</li>
+  <li>Be aware of scams: Scams are unfortunately common in the DeFi space. Be wary of any offers that sound too good to be true and always double-check the information before investing.</li>
+</ol>
+
+<p>By following these tips, you can reduce the risks involved when using DeFi/DEX projects with wrapped cryptocurrencies and stay safe while investing.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[The process of wrapping crypto involves depositing the original cryptocurrency with a custodian who then mints an equivalent amount of wrapped tokens on the target blockchain. The wrapped tokens are pegged to the original cryptocurrency in a 1:1 ratio, meaning that each wrapped token represents the same value as the original cryptocurrency.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/wrapped/defi.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/wrapped/defi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Sugar: The Heroine of 21st Century</title><link href="http://localhost:4000/sugar-the-heroine-of-21st-century/" rel="alternate" type="text/html" title="Sugar: The Heroine of 21st Century" /><published>2023-04-08T04:01:13+02:00</published><updated>2023-04-08T04:01:13+02:00</updated><id>http://localhost:4000/sugar-the-heroine-of-21st-century</id><content type="html" xml:base="http://localhost:4000/sugar-the-heroine-of-21st-century/"><![CDATA[<h2 id="todays-big-problem">Today’s big problem</h2>
 
 <p>In the modern diet, sugar is a common element and it is difficult to avoid because it is in practically all processed meals, beverages, and snacks. Although many people are unaware of it, sugar has a dark side and is frequently referred to as the “heroin of the 21st century.”</p>
 
@@ -884,133 +967,4 @@ we have to visit other countries or regions.</p>
 
 <p>Is the shift to remote work a temporary trend caused by the latest pandemic or a permanent change in the way we do
 business? I think the last one, and I also have the opinion that still a lot of<code class="language-plaintext highlighter-rouge"> corporations </code>have still to discover this
-range of possibilities. Let’s hope I’m right about this last thought.</p>]]></content><author><name>Javier Freire</name></author><category term="Work" /><summary type="html"><![CDATA[How working remotely can benefit you and your employer. Tips to help you work from anywhere in the world without having to be in an office and without decreasing your productivity.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nomad/nomad.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nomad/nomad.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Shops for the Modern Man - Part II</title><link href="http://localhost:4000/shops-for-the-modern-man-part-II/" rel="alternate" type="text/html" title="Shops for the Modern Man - Part II" /><published>2022-12-28T03:01:13+01:00</published><updated>2022-12-28T03:01:13+01:00</updated><id>http://localhost:4000/shops-for-the-modern-man-part-II</id><content type="html" xml:base="http://localhost:4000/shops-for-the-modern-man-part-II/"><![CDATA[<h2 id="introduction">Introduction</h2>
-
-<div class="text-article">
-The modern man is a multifaceted individual who defies traditional gender roles and expectations. He is confident, ambitious, and driven, with a` diverse `range of interests and passions.
-</div>
-
-<p>One of the key characteristics of the modern man is his ability to adapt and evolve. He is open-minded and flexible,
-always willing to learn and try new things. Whether it’s exploring new hobbies, learning a new skill, or taking on a new
-challenge, the modern man is constantly seeking new experiences and ways to grow and improve.</p>
-
-<p>It is great and interesting to have your unique style but catching up with all the shops and trends takes time and
-efforts. In addition to this problem, we also lack inspiration on several occasions that makes our objective more
-complicated.</p>
-
-<h2 id="shops">Shops</h2>
-
-<p>In order to help you with these problems, we included some examples of some shops some months ago. There are many
-fashion brands that cater to the modern man. Here comes the second list with options for different tastes and from
-various parts of the world. In today’s edition, we have shops from Brazil, Denmark, Japan and Spain.</p>
-
-<p>The shortlisted shops for this article are included below, and we start with one with roots in Brazil and the UK.</p>
-
-<h3 id="frescobol-carioca">Frescobol Carioca</h3>
-
-<p>Frescobol Carioca is a luxury clothing brand that is based in Brazil. The company was founded in 1992 and is known for
-its high-quality, stylish beachwear and resort wear. The company’s collections often feature bold, colorful prints and
-designs that are inspired by Brazilian culture and the vibrant colors of Rio de Janeiro. The brand’s clothing and
-accessories are made using traditional techniques and high-quality materials, and are popular among fashion-conscious
-travelers and beachgoers.</p>
-
-<p>The company was founded by two friends who were inspired by the city’s vibrant beach culture. Frescobol Carioca offers a
-range of high-quality men’s swimwear, beachwear, and</p>
-
-<p>accessories, with a focus on classic designs and high-end materials. Not just from Rio, but the designs of this brand
-are also inspired in other aspects such as music, landscapes or vegetations.</p>
-
-<p>Some of the most famous collections include designs around Azulejos, Bossa Nova or Jardim Botánico. Nonetheless, they
-are also expanding into other apparel and had some interesting collaborations.</p>
-
-<p><strong>Website</strong>: <a href="https://www.frescobolcarioca.com/">Frescobol Carioca</a></p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/shops2/frescobol.jpg" alt="Rio Inspiration" />
-    <span class="caption text-muted">If you look at their prints Frescobol Carioca's swimwear is a brand always creating bold and original designs to wear at the beach</span>
-</p>
-
-<h3 id="mango">Mango</h3>
-
-<p>Mango is a popular fashion brand that is based in Barcelona, Spain. The company was founded in 1984 and is known for its
-trendy clothing, shoes, and accessories for both men and women. It also owes its name to the tropical fruit when the
-founder tasted it on a trip to the Philippines. Mango’s collections often feature a mix of modern and classic styles,
-and the brand has stores in more than 100 countries around the world. In addition to its own label, Mango also offers a
-more affordable line called Mango Man, as well as a more premium line called Mango Committed, which features sustainable
-and ethical fashion.</p>
-
-<p>The Spanish company is a fashion brand that is known for its trendy and modern styles. The brand’s collections often
-feature a mix of classic and contemporary pieces, with a focus on high-quality fabrics and attention to detail. Mango’s
-clothing is often<code class="language-plaintext highlighter-rouge"> described </code>as being chic and sophisticated, with a touch of playfulness and innovation.</p>
-
-<p>Overall, the Spanish brand’s aesthetic is influenced by a range of global styles, from European fashion to the latest
-streetwear trends, and is designed to appeal to a wide range of customers. Mango’s collections include a range of
-clothing, shoes, and accessories for both men and women.</p>
-
-<p><strong>Website</strong>: <a href="https://www.mango.com/">Mango</a></p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/shops2/mango.jpg" alt="Jack of all trades" />
-    <span class="caption text-muted">Mango is known for having a great selection of quality and affordable garments, designed for different occasions </span>
-</p>
-
-<h3 id="mismo">Mismo</h3>
-
-<p>Mismo is a Danish luxury accessories brand that was founded in 2003. The company is known for its high-quality bags and
-accessories for men, which are made from the finest materials and designed to be both functional and stylish.</p>
-
-<p>Founded in 2003, Mismo’s collections include a range of briefcases, backpacks, tote bags, and travel accessories, as
-well as smaller items such as wallets and cardholders. The brand is known for its minimalist aesthetic and attention to
-detail, and has a loyal following among men who appreciate well-made, timeless accessories.</p>
-
-<p>In addition to its own line of products, Mismo also offers a range of limited edition collaborations with other
-designers and brands that makes their product unique and lasting a lifetime.</p>
-
-<p><strong>Website</strong>: <a href="https://www.mismo.dk/">Mismo</a></p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/shops2/mismo.JPG" alt="Modern classics" />
-    <span class="caption text-muted">Mismo's weekend bags are an iconic product that you can use in your trips and that even family members will be able to inherit</span>
-</p>
-
-<h3 id="kamakura">Kamakura</h3>
-
-<p>Kamakura is a city located in the Kanagawa Prefecture of Japan. It is situated about 50 kilometers south of Tokyo on the
-Pacific coast, and is known for its many<code class="language-plaintext highlighter-rouge"> temples </code>and shrines. The city served as the political center of Japan from 1185
-to 1333, during which time it was the seat of the Kamakura shogunate. Kamakura is also home to many historical
-landmarks, including the Tsurugaoka Hachimangū shrine and the Great Buddha of Kamakura.</p>
-
-<p>With their headquarters in this city, Kamakura is also the brand of<code class="language-plaintext highlighter-rouge"> dress </code>shirts located in the Asian country. Although
-they<code class="language-plaintext highlighter-rouge"> agree </code>that shirts are not coming from Japan, they are inspired by other countries and western styles with the goal
-of making perfect shirts.</p>
-
-<p>This way, Kamakura Shirts has become an icon of<code class="language-plaintext highlighter-rouge"> dress </code>with top-notch quality and service. Their<code class="language-plaintext highlighter-rouge"> dress </code>shirts take
-inspiration from many regions. For example, theirslim fit shirts are inspired by Italian model shirts from Napoli, with
-a slender silhouette. On the other hand their classic fit shirts, give a feeling of British and American elements.</p>
-
-<p>In addition to these iconic models, they also offer other services such as shirts for<code class="language-plaintext highlighter-rouge"> women </code>or made to measure shirts.
-If you happen to by close to this city, it may be worth to visit the shop.</p>
-
-<p><strong>Website</strong>: <a href="https://www.kamakurashirts.com/">Kamakura</a></p>
-
-<p>
-    <img class="img-fluid" src="/img/posts/shops2/kamakura.JPG" alt="Japanese craftsmanship" />
-    <span class="caption text-muted">Kamakura is synonym of adopting and mixing other styles in order to build a top-quality product. Their` dress `or sport shirts will not deceive you</span>
-</p>
-
-<h2 id="conclusion">Conclusion</h2>
-
-<p>Shopping for the modern man can be a daunting task. With so many options available, it can be difficult to know where to
-start. However, with a little research and some careful consideration, you can find the perfect shop for all your needs.
-In this article, we have included other 4 shops that you can add for your inspiration or in your wardrobe.</p>
-
-<p>With these tips in mind, you should be well on your way to finding the best shops for the modern man. Whether you’re
-looking for a new suit, a casual weekend outfit, or something in between, there’s a shop out there that can meet your
-needs. Happy shopping!</p>
-
-<p>These are just a few examples of fashion brands that cater to the modern man. There are many other options available,
-and the right choice will depend on personal style and preferences.</p>
-
-<p>Overall, the modern man is a complex and dynamic individual who is constantly evolving and growing. He is confident,
-ambitious, and driven, but also deeply compassionate and committed to personal and societal growth. He is the embodiment
-of the modern man – complex, multifaceted, and constantly striving to be his best self.</p>]]></content><author><name>Javier Freire</name></author><category term="Style" /><summary type="html"><![CDATA[Apparel from Brazil, Denmark, Japan and Spain to add to your unique style. Some shops that you should know for your next purchase]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/shops2/shops.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/shops2/shops.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+range of possibilities. Let’s hope I’m right about this last thought.</p>]]></content><author><name>Javier Freire</name></author><category term="Work" /><summary type="html"><![CDATA[How working remotely can benefit you and your employer. Tips to help you work from anywhere in the world without having to be in an office and without decreasing your productivity.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/nomad/nomad.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/nomad/nomad.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

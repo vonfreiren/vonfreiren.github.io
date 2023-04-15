@@ -75,11 +75,12 @@ image: '/img/leopard_books.jpg'
     // Loop through each row, starting from the second row (skipping the header row)
     for (var i = 1; i < rows.length; i++) {
       // Get the date cell of the row
+
       var dateCell = rows[i].getElementsByTagName("td")[2];
 
       // Check if the date cell's value is less than today's date
       var cellDate = new Date(dateCell.innerText);
-      if (cellDate < today) {
+      if (cellDate <= today) {
         // Delete the entire row
         rows[i].parentNode.removeChild(rows[i]);
       }
