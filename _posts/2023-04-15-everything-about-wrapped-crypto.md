@@ -4,9 +4,9 @@ title: "Everything about wrapped crypto"
 permalink: /:title/ 
 subtitle: "What is wrapped crypto? How does it work? What are the benefits and risks of investing in wrapped crypto?"
 date: 2023-04-15 02:01:13 
-background: '/img/posts/wrapped/defi.jpg'
-thumbnail: '/img/posts/wrapped/defi.jpg'
-image: '/img/posts/wrapped/defi.jpg'
+background: '/img/posts/wrapped/defi.jpeg'
+thumbnail: '/img/posts/wrapped/defi.jpeg'
+image: '/img/posts/wrapped/defi.jpeg'
 description: "The process of wrapping crypto involves depositing the original cryptocurrency with a custodian who then mints an equivalent amount of wrapped tokens on the target blockchain. The wrapped tokens are pegged to the original cryptocurrency in a 1:1 ratio, meaning that each wrapped token represents the same value as the original cryptocurrency."
 tags: Crypto
 lang: en
