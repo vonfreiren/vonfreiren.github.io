@@ -6,7 +6,7 @@ subtitle: "What you need to know before starting MTB"
 date: 2023-04-19 02:01:13 
 background: '/img/posts/mtb/mtb_tips.jpeg'
 thumbnail: '/img/posts/mtb/mtb_tips.jpeg'
-image: '/img/posts/wrapped/mtb_tips.jpeg'
+image: '/img/posts/mtb/mtb_tips.jpeg'
 description: "Before starting MTB, there are some things you should know. This post will help you to get started with the right tools and accessories with 30 tips for MTB beginners."
 tags: Sport
 lang: en
