@@ -3,7 +3,7 @@ layout: post
 title: "30 Tips for MTB beginners"
 permalink: /:title/ 
 subtitle: "What you need to know before starting MTB"
-date: 2023-04-15 02:01:13 
+date: 2023-04-19 02:01:13 
 background: '/img/posts/mtb/mtb_tips.jpeg'
 thumbnail: '/img/posts/mtb/mtb_tips.jpeg'
 image: '/img/posts/wrapped/mtb_tips.jpeg'
@@ -15,7 +15,7 @@ lang: en
 
 ## More investment compared to other sports
 
-Compared to other sports, starting practicing sports like cycling entails some serious investing. Other sports with similar spending could be golf or skiing. While most people will think on the bike – and they are not wrong – there are other areas where we should look at to start practicing this fascinating sport.. Apart from the 2-wheel vehicle, there are some tools or accessories that are must. Since most people start with Mountain biking, and this modality requires more maintenance and care compared to road bikes, this post focuses mainly on MTB,
+Compared to other sports, starting practicing sports like cycling entails some serious investing. Other sports with similar spending could be golf or skiing, but the maintenance and the impact it has in different aspects worth some comments. While most people will think on the bike – and they are not wrong – there are other areas where we should look at to start practicing this fascinating sport.. Apart from the 2-wheel vehicle, there are some tools or accessories that are must. Since most people start with Mountain biking, and this modality requires more maintenance and care compared to road bikes, this post focuses mainly on MTB,
 
 The goal of this article is to help those beginners with some useful tools and tricks that are important when you start. Not just from the initial checks or tools to have, but also the accessories and clothes to wear and what the best nutrients are.
 <br/><br/>
