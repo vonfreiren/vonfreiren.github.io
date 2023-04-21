@@ -29,7 +29,7 @@ Avant de commencer, j'avais cet article presque préparé depuis 1 an, mais je n
 
 Les actifs synthétiques sont un moyen innovant de tirer parti de la technologie de la tokenisation pour créer de nouvelles opportunités d'investissement. Il s'agit essentiellement de produits dérivés tokenisés qui permettent aux investisseurs de profiter des fluctuations de prix de divers actifs sans les posséder. En créant un enregistrement blockchain de la relation entre l'actif sous-jacent et l'acheteur, les actifs synthétiques offrent un moyen transparent et sécurisé de négocier ces produits dérivés.
 
-Sur les marchés financiers traditionnels, les produits dérivés sont utilisés pour spéculer sur les mouvements de prix de divers actifs sans les posséder. Par exemple, un investisseur peut acheter une option d'achat sur une action, ce qui lui permet de profiter de l'augmentation du prix de l'action sans la posséder. Les actifs synthétiques poussent ce concept plus loin en ajoutant l'enregistrement du produit dérivé sur la blockchain et en créant un jeton de crypto-monnaie pour celui-ci.
+Sur les marchés financiers traditionnels, les produits dérivés sont utilisés pour spéculer sur les fluctuations de prix de divers actifs sans les posséder. Par exemple, un investisseur peut acheter une option d'achat sur une action, ce qui lui permet de profiter de l'augmentation du prix de l'action sans la posséder. Les actifs synthétiques poussent ce concept plus loin en ajoutant l'enregistrement du produit dérivé sur la blockchain et en créant un jeton de crypto-monnaie pour celui-ci.
 
 Cette technologie a des implications importantes pour le mouvement DeFi, car elle permet aux investisseurs d'accéder à un plus large éventail d'opportunités d'investissement et de négocier ces produits dérivés de manière plus transparente et plus sûre. Avec la croissance du marché des crypto-monnaies et la demande croissante d'applications DeFi, les actifs synthétiques sont susceptibles de devenir encore plus populaires à l'avenir.
 
@@ -61,30 +61,29 @@ La même chose peut se produire pour les obligations. Dans le cas ci-dessous, vo
 
 <div class="container">
   <div class="card">
-    <div class="card-header" style="font-size: 12px; font-weight: bold; text-align: center;">Token-based bonds</div>
-    <div class="card-body" style="font-size: 11px; font-style: italic">
-The token-based bonds bear interest at their nominal value at a fixed interest rate of 4.00 percent per annum (base rate). The interest periods for the base rate run from July 1 of each year to June 30 of each subsequent year (inclusive). 
-The first interest period begins on July 1, 2019. In addition to the base rate, the token-based bonds are subject to annual variable interest (variable interest). The interest periods for the variable interest are the respective financial year of the Issuer (calendar year). 
-The first interest period begins on January 1, 2019. The variable interest rate for an interest period is the percentage rate resulting from the fact that 60 percent of the – to the extent available – profit before tax (excluding the variable interest rate) for the financial year before the interest payment date for the variable interest period is divided by the total nominal value of the outstanding token-based bonds in accordance with the Issuer's approved and audited annual financial statements preceding the interest payment date for the variable interest period.. The Issuer shall calculate all interest (calculation agent). The base rate of an interest period is payable in four equal installments on October 1 of each year and on January 2, April 1 and July 1 of the following year (each an "interest payment date"). 
-The first base rate payment is made on October 1, 2019. The base rate payment ends with the end of the term of the bond on June 30, 2029. The last base rate payment is made on July 1, 2029. If an interest payment date is not a business day, the interest payment will be made on the next following business day. The variable interest is payable retroactively as of and for the first time on July 31, 2020. The variable interest ends on December 31, 2027. The last variable interest payment will be made on July 31, 2028. If July 31 is not a business day in a particular year, the interest payment will be made on the next following working day. If the Issuer's annual financial statements for the preceding financial year have not been finally approved by July 31 in any given year, the variable interest will be payable seven business days after the annual financial statements are approved. 
-If the Issuer does not redeem the token-based bonds at maturity, interest will be payable on the outstanding principal (nominal) amount of the bonds from the Maturity Date (inclusive) until the actual Redemption Date (exclusive) at the statutory default interest rate. If interest is calculated for a period of less than one year (e.g., in the event of default), it will be calculated to the day using the act/act method.
+    <div class="card-header" style="font-size : 12px ; font-weight : bold ; text-align : center ;">Obligations basées sur des jetons</div>
+    <div class="card-body" style="font-size : 11px ; font-style : italic">
+Les obligations à base de jetons portent intérêt à leur valeur nominale à un taux d'intérêt fixe de 4,00 % par an (taux de base). Les périodes d'intérêt pour le taux de base vont du 1er juillet de chaque année au 30 juin de chaque année suivante (inclus).
+La première période d'intérêt commence le 1er juillet 2019. En plus du taux de base, les obligations à base de jetons sont soumises à un intérêt variable annuel (intérêt variable). Les périodes d'intérêt pour l'intérêt variable correspondent à l'exercice financier respectif de l'émetteur (année civile).
+La première période d'intérêt commence le 1er janvier 2019. Le taux d'intérêt variable pour une période d'intérêt est le taux de pourcentage résultant du fait que 60 pour cent du - dans la mesure où il est disponible - bénéfice avant impôt (hors taux d'intérêt variable) pour l'exercice financier précédant la date de paiement des intérêts pour la période d'intérêt variable est divisé par la valeur nominale totale des obligations à base de jetons en circulation conformément aux états financiers annuels approuvés et audités de l'Émetteur précédant la date de paiement des intérêts pour la période d'intérêt variable. L'émetteur calcule tous les intérêts (agent de calcul). Le taux de base d'une période d'intérêt est payable en quatre versements égaux le 1er octobre de chaque année et le 2 janvier, le 1er avril et le 1er juillet de l'année suivante (chacun étant une "date de paiement des intérêts").
+Le premier paiement du taux de base est effectué le 1er octobre 2019. Le paiement du taux de base se termine à la fin de la durée de l'obligation, le 30 juin 2029. Le dernier paiement du taux de base est effectué le 1er juillet 2029. Si une date de paiement des intérêts n'est pas un jour ouvrable, le paiement des intérêts sera effectué le jour ouvrable suivant. Les intérêts variables sont payables rétroactivement à partir du 31 juillet 2020 et pour la première fois le 31 juillet 2020. L'intérêt variable prend fin le 31 décembre 2027. Le dernier paiement d'intérêts variables sera effectué le 31 juillet 2028. Si le 31 juillet n'est pas un jour ouvrable au cours d'une année donnée, le paiement des intérêts sera effectué le jour ouvrable suivant. Si les états financiers annuels de l'émetteur pour l'exercice précédent n'ont pas été définitivement approuvés avant le 31 juillet d'une année donnée, l'intérêt variable sera payable sept jours ouvrables après l'approbation des états financiers annuels.
+Si l'émetteur ne rembourse pas les obligations à base de jetons à l'échéance, des intérêts seront payables sur le montant principal (nominal) en circulation des obligations à partir de la date d'échéance (incluse) jusqu'à la date de remboursement effective (exclue) au taux d'intérêt de défaut statutaire. Si les intérêts sont calculés pour une période inférieure à un an (par exemple, en cas de défaut), ils seront calculés au jour près selon la méthode acte/acte.
 </div>
 </div>
-</div>
+</div> <div>
 
-<p>
-</p>
+
+
 
 <div class="container">
   <div class="card">
-    <div class="card-header" style="font-size: 12px; font-weight: bold; text-align: center;">Payment procedure</div>
-    <div class="card-body" style="font-size: 11px; font-style: italic">
-Redemption and interest payments due during the term will be made exclusively in the cryptocurrency Stellar Lumens corresponding to the subscribed nominal amount of the bond. For this, the EUR value at 12:00 CET (Central European Time) corresponding to the due date of an interest payment or bond redemption will be converted into XLM using the EUR - XLM exchange rate displayed on the website www.cryptocompare.com (or a comparable platform selected by the Issuer as described in Section C.2 of this summary) and then immediately paid to the Stellar address of the holders of the BB1-Token. 
-The Issuer will make payments to the person listed as the holder of the token in the register maintained on the Stellar Blockchain at 12:00 CET on the due date. Payments will be made to the blockchain address (wallet) specified in the respective register._
+    <div class="card-header" style="font-size : 12px ; font-weight : bold ; text-align : center ;">Procédure de paiement</div>
+    <div class="card-body" style="font-size : 11px ; font-style : italic">
+Les paiements de remboursement et d'intérêts dus pendant la durée seront effectués exclusivement dans la crypto-monnaie Stellar Lumens correspondant au montant nominal souscrit de l'obligation. Pour ce faire, la valeur en EUR à 12h00 CET (Central European Time) correspondant à la date d'échéance d'un paiement d'intérêts ou d'un remboursement d'obligation sera convertie en XLM en utilisant le taux de change EUR - XLM affiché sur le site internet www.cryptocompare.com (ou une plateforme comparable choisie par l'Émetteur comme décrit à la section C.2 du présent résumé) puis immédiatement versée à l'adresse Stellar des détenteurs du BB1-Token.
+L'émetteur effectuera les paiements à la personne figurant comme détenteur du jeton dans le registre tenu sur la blockchain Stellar à 12h00 CET à la date d'échéance. Les paiements seront effectués à l'adresse de la blockchain (wallet) spécifiée dans le registre respectif.
 </div>
 </div>
-</div>
-
+</div> <div>
 
 
 
@@ -107,15 +106,19 @@ Outre les actions et la dette présentées ci-dessus, vous pouvez tokeniser n'im
 
 Voici quelques exemples réels de ces actifs tokenisés :
 
-- mIAU est une action tokenisée de l'ETF iShares Gold Trust.
+- mIAU est une action tokenisée de l'ETF iShares Gold Trust, qui suit le cours de l'or.
 
-- Le Mirrored iShares Silver Trust (mSLV) est une action tokenisée de l'ETF iShares Silver Trust.
+- Le Mirrored iShares Silver Trust (mSLV) est une action tokenisée de l'ETF iShares Silver Trust, qui suit le cours de l'argent.
 
-- Le Mirrored United States Oil Fund (mUSD) est une action tokenisée de l'ETF United States Oil Fund.
+- Le Mirrored United States Oil Fund (mUSD) est une action tokenisée de l'United States Oil Fund ETF, qui suit le prix du pétrole brut West Texas Intermediate.
+
+- Mirrored Invesco QQQ Trust (mQQQ) est une action tokenisée de l'Invesco QQQ Trust ETF, qui suit le cours de l'indice Nasdaq 100.
+
+- Vanguard Real Estate Tokenized Stock Defichain (DVNQ) est une action tokenisée du Vanguard Real Estate ETF [VNQ] (https://finance.mrfreire.net/security_search/security_search_results/VNQ).
 
 
 
-## L'envelopper
+## Enveloppe
 
 Après avoir décrit ces classes d'actifs, nous ne pouvons pas oublier les crypto-monnaies elles-mêmes.  Vous avez probablement entendu parler du bitcoin enveloppé ou de toute autre crypto enveloppée.
 
@@ -163,4 +166,4 @@ Cependant, les actifs synthétiques comportent également des risques qui leur s
 
 Il est important que les investisseurs examinent attentivement les risques et les avantages potentiels de ces actifs avant d'investir. Les investisseurs doivent également être conscients de l'environnement réglementaire entourant les actifs synthétiques, car les réglementations peuvent varier en fonction de la juridiction.
 
-Malgré les risques, les actifs tokénisés offrent un outil puissant aux investisseurs qui cherchent à s'exposer à un plus large éventail d'actifs. Alors que l'industrie financière continue d'évoluer, il est probable que nous verrons une croissance et une innovation continues autour des actifs synthétiques, offrant aux investisseurs encore plus de possibilités de diversifier leurs portefeuilles et de bénéficier potentiellement des opportunités du marché.
+Malgré les risques, les actifs tokénisés constituent un outil puissant pour les investisseurs qui cherchent à s'exposer à un plus large éventail d'actifs. Alors que l'industrie financière continue d'évoluer, il est probable que nous verrons une croissance et une innovation continues autour des actifs synthétiques, offrant aux investisseurs encore plus de possibilités de diversifier leurs portefeuilles et de bénéficier potentiellement des opportunités du marché.
