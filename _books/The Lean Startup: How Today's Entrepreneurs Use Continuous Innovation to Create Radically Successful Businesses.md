@@ -2,5 +2,5 @@
 title: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
 background: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629999184l/10127019._SY75_.jpg
 description: https://www.goodreads.com/book/show/10127019-the-lean-startup
-date: 1995-12-09 22:32:07 -0400
+date: 1995-12-27 12:54:05 -0400
 ---
