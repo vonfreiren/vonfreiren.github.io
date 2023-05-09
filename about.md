@@ -23,8 +23,8 @@ I had the chance of being involved and leading several top-tier projects across 
 What I like most about my job is combining the three main aspects I am passionate about:
 
 - Product Development and Project Management
-- Software Development & Applications
-- Finance and Investment Management
+  - Software Development & Applications
+  - Finance and Investment Management
 
 Even I consider myself a creative person, I also like taking ideas from different situations, in order to look for any
 aspect that will improve our products. In order to do so, I also think listening both clients and colleagues in order to
@@ -35,16 +35,16 @@ learning about new topics in order to apply them into my job or my personal proj
 In my spare time you will, these are some of the activities I enjoy most:
 
 - Jogging
-- Investment
-- Video games
-- Body workout
-- Swimming
-- Reading
-- Learning
-- Cycling
-- Trail running
-- Hiking
-- Traveling
+  - Investment
+  - Video games
+  - Body workout
+  - Swimming
+  - Reading
+  - Learning
+  - Cycling
+  - Trail running
+  - Hiking
+  - Traveling
 
 <hr>
 <hr>
