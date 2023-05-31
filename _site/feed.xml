@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-23T13:07:16+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Top Data Courses for Your Career</title><link href="http://localhost:4000/top-data-courses-for-your-career/" rel="alternate" type="text/html" title="Top Data Courses for Your Career" /><published>2023-05-23T04:01:13+02:00</published><updated>2023-05-23T04:01:13+02:00</updated><id>http://localhost:4000/top-data-courses-for-your-career</id><content type="html" xml:base="http://localhost:4000/top-data-courses-for-your-career/"><![CDATA[<h1 id="data--tech">Data &amp; Tech</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-31T12:08:03+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life of a Modern Man</title><subtitle>Advising in Lifestyle and Finance</subtitle><author><name>Javier Freire</name></author><entry xml:lang="en"><title type="html">Best Platforms To Learn To Code</title><link href="http://localhost:4000/best-platforms-to-learn-to-code/" rel="alternate" type="text/html" title="Best Platforms To Learn To Code" /><published>2023-05-30T04:01:13+02:00</published><updated>2023-05-30T04:01:13+02:00</updated><id>http://localhost:4000/best-platforms-to-learn-to-code</id><content type="html" xml:base="http://localhost:4000/best-platforms-to-learn-to-code/"><![CDATA[<h2 id="a-skill-for-the-future">A Skill for the Future</h2>
+
+<p>With many trends related to new technologies, it’s no doubt that more and more people are interested in coding and learning how to build the software. With the expected growth in future years of topics such as artificial intelligence, mobile applications or automation, companies will need more professionals who know how to code.</p>
+
+<p>Although kids learn sooner in school the basics of software development (it depends on each country), the reality is that it’s very difficult to find these profiles when posting job offers in this field.</p>
+
+<p>Having understood the importance and knowing that many people did not have the chance to learn coding at school, the purpose of this article is to include several platforms that may you help you with this task and make your learning journey easier.</p>
+
+<h3 id="codeacademy">Codeacademy</h3>
+
+<p>Codecademy is an online learning platform that specializes in teaching programming skills through interactive coding exercises and projects. Its courses cover a wide range of programming languages, web development, data science, and computer science concepts.</p>
+
+<p>Codecademy’s approach revolves around interactivity, allowing learners to practice coding directly in their web browser. They provide a user-friendly code editor that enables users to write and run code in real-time, receiving immediate feedback on their progress.</p>
+
+<p>Courses on Codecademy are structured in a step-by-step fashion, guiding learners from foundational principles to more advanced topics. Each lesson includes explanations, examples, and coding exercises to reinforce learning.</p>
+
+<p>Membership options on Codecademy include free and premium tiers. While the free membership grants access to a limited selection of courses, the premium membership offers full access to all courses, additional projects, quizzes, and certificates of completion.</p>
+
+<p>Codecademy places an emphasis on practical application by incorporating hands-on projects into many of their courses. These projects provide opportunities for learners to apply their skills to real-world scenarios, strengthening their understanding and allowing them to build a portfolio of work.</p>
+
+<p>To sum up, Codecademy is a widely-used platform that focuses on teaching programming through interactive coding exercises. It offers a diverse range of courses, provides an interactive coding environment, and places importance on practical learning through hands-on projects.</p>
+
+<p>Link: <a href="https://www.codecademy.com/">Codeacademy</a></p>
+
+<h3 id="onemonth">OneMonth</h3>
+
+<p>Lear to Code in Just One Month. This is what they promise at OneMonth. OneMonth is an online learning platform that specializes in accelerated courses covering various subjects, with a primary focus on coding and web development. Its goal is to enable learners to quickly acquire the necessary skills and knowledge in a specific area of interest.</p>
+
+<p>The courses offered by OneMonth are designed to be concise and time-efficient, typically spanning a duration of around 30 days. This condensed format allows learners to immerse themselves in the material and make significant progress within a short timeframe. The courses follow a practical approach, combining video lessons, coding exercises, and projects to reinforce learning effectively.</p>
+
+<p>The platform covers a wide range of topics, including popular web development languages like HTML, CSS, JavaScript, Python, and Ruby on Rails. Additionally, it offers specialized courses on specific tools and frameworks such as React.js, Angular, and WordPress.</p>
+
+<p>OneMonth emphasizes the acquisition of practical skills that learners can apply directly in real-world scenarios. The courses are created by industry professionals and experienced instructors who bring their practical knowledge to ensure that the content remains relevant and aligned with industry standards.</p>
+
+<p>OneMonth also provides both self-paced courses and live instructor-led bootcamps, catering to diverse learning preferences and schedules. Learners have the flexibility to access course materials at their own pace or engage in interactive live sessions with instructors and fellow students.</p>
+
+<p>Whether you are a beginner looking to start coding or an individual seeking to enhance your existing skills, OneMonth offers a focused and accelerated learning experience to help you achieve your goals efficiently and effectively. For this you can choose your desired path and programming language.</p>
+
+<p>Link: <a href="https://onemonth.com/">OneMonth</a></p>
+
+<h2 id="freecodecamp">FreeCodeCamp</h2>
+
+<p>FreeCodeCamp is a nonprofit online learning platform that offers a wide-ranging curriculum for individuals interested in web development and programming. The platform provides access to an extensive collection of courses and resources, all of which are completely free.</p>
+
+<p>The curriculum provided by FreeCodeCamp covers various aspects of web development, encompassing subjects such as HTML, CSS, JavaScript, front-end and back-end development, algorithms, data structures, and more. Through a series of challenges and projects, learners have the opportunity to practice and apply their skills in a hands-on manner.</p>
+
+<p>A key focus of FreeCodeCamp is project-based learning. Upon completing individual challenges, learners are encouraged to engage in real-world projects, enabling them to build a portfolio and gain practical experience. The platform also fosters a collaborative learning environment, emphasizing social coding and the formation of a supportive community of learners.</p>
+
+<p>FreeCodeCamp offers certifications that can be earned by successfully completing designated projects and challenges in specific topic areas. These certifications serve as valuable credentials to showcase one’s skills to potential employers.</p>
+
+<p>Furthermore, FreeCodeCamp provides a robust forum where learners can seek assistance, collaborate with others, and participate in discussions. Additionally, the platform features a publication on Medium that offers informative articles covering coding and technology-related topics.</p>
+
+<p>In summary, FreeCodeCamp is a highly regarded option for individuals seeking to learn web development and programming without any financial cost. Its extensive curriculum, project-oriented approach, and emphasis on community support make it a valuable resource for beginners and experienced learners alike.</p>
+
+<p>Link: <a href="https://www.freecodecamp.org/">FreeCodeCamp</a></p>
+
+<h2 id="codecombat">CodeCombat</h2>
+
+<p>CodeCombat is an online platform that takes a unique approach to programming education by integrating gaming elements. It offers an interactive and entertaining environment where learners can develop their programming skills.</p>
+
+<p>In CodeCombat, users embark on coding challenges and puzzles within a game-like setting. By controlling characters and writing code, learners progress through levels and face increasingly complex tasks. The platform supports various programming languages, including Python, JavaScript, and CoffeeScript, enabling learners to choose their preferred language.</p>
+
+<p>As learners navigate through the game’s levels, they encounter coding obstacles that require them to apply their programming knowledge and problem-solving abilities. CodeCombat provides real-time feedback to help users understand and rectify any coding errors they may make.</p>
+
+<p>The game-based approach of CodeCombat enhances the learning experience by incorporating storytelling, strategy, and problem-solving elements. This engaging format motivates learners and makes programming concepts more enjoyable to grasp.</p>
+
+<p>CodeCombat offers a well-structured curriculum with different courses and levels suitable for both beginners and more advanced programmers. Users can track their progress, earn achievements, and even compete with others on leaderboards.</p>
+
+<p>Whether used in educational settings or for individual self-paced learning, CodeCombat provides a fun and interactive platform for users of all ages to enhance their programming skills and gain practical experience in a captivating gaming environment.</p>
+
+<p>Link: <a href="https://codecombat.com/">CodeCombat</a></p>
+
+<h2 id="choose-the-most-suitable-one-for-you">Choose the most suitable one for you</h2>
+
+<p>We have discovered four new platforms that can serve as your gateway to learning the foundations of coding or aid you in expanding your programming language repertoire. In today’s technology-driven world, where every industry and sector relies heavily on technological advancements, the decision to take your coding skills to the next level rests entirely in your hands.</p>
+
+<p>If you are a coding novice, it’s natural to feel a bit lost at the beginning. Don’t let the initial confusion deter you from pursuing your coding aspirations. Embrace the learning process and don’t be afraid to dive into the first sessions. Remember, practice makes perfect, and these platforms provide ample opportunities to apply your newfound knowledge through practical exercises and real-life scenarios.</p>
+
+<p>Don’t give up on yourself. Every step forward is a step closer to mastering coding. Allow these platforms to guide you, offering structured learning paths, interactive tutorials, and a supportive community. With dedication and persistence, you’ll soon find yourself navigating the coding landscape with confidence. So, take the leap and embark on this exciting coding journey today. The possibilities are endless!</p>]]></content><author><name>Javier Freire</name></author><category term="Learning" /><summary type="html"><![CDATA[Are you ready to embark on an exciting coding journey? Look no further! This comprehensive guide introduces you to the best platforms available for learning to code.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/coding/coding.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/coding/coding.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Top Data Courses for Your Career</title><link href="http://localhost:4000/top-data-courses-for-your-career/" rel="alternate" type="text/html" title="Top Data Courses for Your Career" /><published>2023-05-23T04:01:13+02:00</published><updated>2023-05-23T04:01:13+02:00</updated><id>http://localhost:4000/top-data-courses-for-your-career</id><content type="html" xml:base="http://localhost:4000/top-data-courses-for-your-career/"><![CDATA[<h1 id="data--tech">Data &amp; Tech</h1>
 
 <p>Compared to many years ago, we have more and more resources to gain knowledge about complete new topics. This occurs in many sectors and industries. One of the most affected areas with a full potential is data.</p>
 
@@ -879,115 +957,4 @@ The Issuer will make payments to the person listed as the holder of the token in
 
 <p>Achieving sharding will be crucial for enhancing transaction throughput on the chain by enabling “parallel processing.” The implementation of sharding is expected to occur in two stages in 2023 and 2024.</p>
 
-<p>Although small change compared to the PoW – PoS migration occurred in 2022, this upgrade makes sure that Ethereum, one of the oldest blockchains, keeps up good progress and for sure will convince old and new users of the chain.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[After London, and the Merge, the Ethereum network is preparing for the next big upgrade. This time, the Shanghai fork will bring 5 new EIP to the network.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum-shanghai/shanghai.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum-shanghai/shanghai.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Top Blockchain Courses</title><link href="http://localhost:4000/top-blockchain-courses/" rel="alternate" type="text/html" title="Top Blockchain Courses" /><published>2023-02-14T03:01:13+01:00</published><updated>2023-02-14T03:01:13+01:00</updated><id>http://localhost:4000/top-blockchain-courses</id><content type="html" xml:base="http://localhost:4000/top-blockchain-courses/"><![CDATA[<h2 id="always-into-something-new">Always into something new</h2>
-<div class="text-article">
-
-Today in the afternoon, I received an email from INSEAD announcing that they are offering a new specialization called Web3 and Blockchain in Global Commerce Specialization. I received this message in my mailbox, I guess because I took several courses from INSEAD related to Blockchain in the past.
-
-
-
-</div>
-
-<p>I did not have the chance to go in detail about this specialization, but it sounds interesting to learn new concepts and refresh the ones I learned a few years ago. I also thought that it could be relevant to other people sharing my experience with other courses.</p>
-
-<p>This post is not about this specialization and I will describe more about it when I complete it. Nonetheless, this purpose of this article is to show the readers that even if it’s sometimes not easy to start into the Blockchain world and industries, there are several resources out there that can help you in this mission. We already saw of these resources in another post, so this post will talk mainly about more traditional courses that I enjoyed.</p>
-
-<h2 id="blockchain-revolution">Blockchain Revolution</h2>
-
-<h3 id="organization-insead">Organization: INSEAD</h3>
-
-<p>The Blockchain Revolution course on Coursera is an in-depth exploration of the concepts, applications, and implications of blockchain technology. The course is taught by Don Tapscott and Alex Tapscott in collaboration with INSEAD. Both both well-known experts in the field of blockchain and the course is now several years old. The new specialization of the introduction is also taught by the father and his son.</p>
-
-<p>The course is divided into several modules, each of which covers a different aspect of blockchain technology. The first module introduces the basic concepts of blockchain and provides an overview of how it works.</p>
-
-<p>The second one delves deeper into the technical aspects of blockchain, including the various types of consensus algorithms and the role of cryptography in securing blockchain networks.</p>
-
-<p>The third module explores the various applications of blockchain technology, including its potential use in finance, supply chain management, and digital identity verification. The fourth module looks at the potential societal impact of blockchain, including its potential to disrupt traditional power structures and create new economic opportunities.</p>
-
-<p>The fifth module focuses on the practical aspects of building and deploying blockchain solutions, including how to design a blockchain network, select the right consensus algorithm, and ensure security and scalability.</p>
-
-<p>The final module of the course explores the future of blockchain technology, including emerging trends and the potential impact of blockchain on various industries. It’s here where the student can put all the learned lessons to work and create a project that will need to submit.</p>
-
-<p>In these courses, the instructors use real-world examples and case studies to illustrate the potential of blockchain technology. By the end of the course, students should have a solid understanding of how blockchain works, its potential applications, and the implications of this technology for businesses, governments, and society as a whole.</p>
-
-<p>If this course was not enough, there is a similar specialization also taught by the Tapscott family and INSEAD. This one comes next in our list.</p>
-
-<p><strong>Link</strong>: <a href="https://www.coursera.org/specializations/blockchain-revolution-enterprise">Blockchain Revolution</a></p>
-
-<h2 id="blockchain-revolution-in-financial-services">Blockchain Revolution in Financial Services</h2>
-
-<h3 id="organization-insead-1">Organization: INSEAD</h3>
-
-<p>The Blockchain Revolution in Financial Services Specialization on Coursera is a series of four courses that explore the potential of blockchain technology to transform the financial industry. They explain the basics like in the first course, but they will go deeper topics related to blockchain in finance.</p>
-
-<p>The first course provides an introduction to blockchain technology and explores its potential to disrupt traditional financial systems. Students learn about the various types of blockchain networks, consensus algorithms, and cryptographic techniques that are used to secure blockchain transactions.</p>
-
-<p>The second course focuses on the applications of blockchain in finance, including digital currencies, smart contracts, and asset tokenization. Students learn about the various use cases of blockchain technology in the financial industry, including cross-border payments, trade finance, and securities trading.</p>
-
-<p>The third course delves deeper into the technical aspects of blockchain in finance, including the development of dAppsand the use of smart contracts. Students learn how to build and deploy dApps on blockchain networks and explore the architecture of various blockchain applications in finance.</p>
-
-<p>The final course explores the regulatory and legal considerations of blockchain in finance. Students learn about the challenges of integrating blockchain into existing regulatory frameworks and explore the potential impact of blockchain on financial markets and systems.</p>
-
-<p>From the description and names, you may say some overlaps with the first course. Therefore, it may be a better idea to take this course as a refresher of the initial course.</p>
-
-<p><strong>Link</strong>: <a href="https://www.coursera.org/specializations/blockchain-financial-services">Blockchain Revolution in Financial Services</a></p>
-
-<h1 id="the-decentralized-finance-defi-the-future-of-finance">The Decentralized Finance (DeFi): The Future of Finance</h1>
-
-<h3 id="organization-duke-university">Organization: Duke University</h3>
-
-<p>The Decentralized Finance (DeFi): The Future of Finance Specialization on Coursera is a series of four courses that provide a comprehensive overview of the emerging field of decentralized finance. The courses are taught by Cam Harvey, who is a professor at Duke University and has written several topics about Decentralized Finance.</p>
-
-<p>The first course provides an introduction to DeFi and explores its potential to disrupt traditional finance. Students learn about the key concepts and components of DeFi, including smart contracts, decentralized exchanges, and stablecoins.</p>
-
-<p>The second course focuses on decentralized applications (dApps) and how they are built on blockchain platforms. Students will learn how to develop and deploy smart contracts using the Solidity programming language and explore the architecture of various DeFi applications.</p>
-
-<p>The third course delves deeper into the technical aspects of DeFi and explores the different types of decentralized finance protocols. Students learn about lending and borrowing platforms, decentralized exchanges, and prediction markets.</p>
-
-<p>The final course explores the economic and regulatory implications of DeFi. Students learn about the challenges of integrating DeFi into existing financial systems and explore the potential impact of DeFi on global finance and economic systems.</p>
-
-<p>By the end of the specialization, students should have a solid understanding of the key concepts, technologies, and applications of DeFi and be well-positioned to explore the future of finance in this rapidly evolving field.</p>
-
-<p><strong>Link</strong>: <a href="https://www.coursera.org/specializations/decentralized-finance-duke">The Decentralized Finance (DeFi): The Future of Finance</a></p>
-
-<h2 id="other-options">Other options</h2>
-
-<p>Although these are the courses that I find most complete and interesting, there are other ones that you may want to have a look at.</p>
-
-<h3 id="blockchain-specialization">Blockchain Specialization</h3>
-
-<h4 id="organization-buffalo-university">Organization: Buffalo University</h4>
-
-<p>The first one of this honorable mentions is the Blockchain Specialization. Similar to the ones from INSEAD, students will have the chance to finalize the 3 courses with an applied learning project.</p>
-
-<p>The Blockchain Specialization by Buffalo University on Coursera is a four-course program that covers a comprehensive range of topics related to blockchain technology. The specialization is designed for learners who want to gain practical skills in blockchain development and explore the potential use cases of blockchain in various industries.</p>
-
-<p>The last one included in this article is from Princeton University and more technical than the other ones described in this article.</p>
-
-<p><strong>Link</strong>: <a href="https://www.coursera.org/specializations/blockchain?">Blockchain Specialization</a></p>
-
-<h3 id="bitcoin-and-cryptocurrency-technologies">Bitcoin and Cryptocurrency Technologies</h3>
-
-<h4 id="organization-princeton">Organization: Princeton</h4>
-
-<p>The first module provides an introduction to Bitcoin and its underlying technology, including the basics of cryptography and distributed systems.</p>
-
-<p>The following modules delve deeper into the technical aspects of Bitcoin and other cryptocurrencies, including the mechanics of the Bitcoin network, mining and consensus algorithms, and the role of cryptography in securing blockchain networks.</p>
-
-<p>The course also covers the economics of cryptocurrencies, including market dynamics, pricing, and trading. Students learn about the various types of cryptocurrencies and tokens, including stablecoins, security tokens, and utility tokens.</p>
-
-<p>The course also explores the legal and regulatory considerations of cryptocurrency, including the challenges of integrating cryptocurrencies into existing regulatory frameworks and the potential impact of cryptocurrency on financial systems and markets.</p>
-
-<p><strong>Link</strong>: <a href="https://www.coursera.org/learn/cryptocurrency?">Bitcoin and Cryptocurrency Technologies</a></p>
-
-<h2 id="more-to-come">More to come</h2>
-
-<p>In this article, I have shared my experience a brief description of all the Blockchain and DeFi courses I have taken.</p>
-
-<p>After summarizing several blockchain and cryptocurrency courses on Coursera, in my opinion these courses offer a comprehensive overview of blockchain technology and its potential applications. These courses cover a wide range of topics, from the technical aspects of blockchain development to the potential use cases of blockchain in various industries.</p>
-
-<p>What is especially notable is the hands-on approach that many of these courses take. Students have the opportunity to apply their knowledge through a series of assignments and projects, which allows them to gain practical experience in blockchain development.</p>
-
-<p>In general, these courses provide an excellent foundation for anyone looking to explore the world of blockchain and cryptocurrency. Whether you are interested in the technical aspects of blockchain development or the potential applications of blockchain in various industries, these courses offer a wealth of knowledge and practical skills that will prepare you for the future of this rapidly-evolving field.
-I will also update you on the Web3 and Blockchain in Global Commerce Specialization and it could be that this is an additional course that we should include in this list. 
-By the way, the link is included here: <a href="https://www.coursera.org/specializations/web3-blockchain-global-commerce">Web3 and Blockchain in Global Commerce</a></p>]]></content><author><name>Javier Freire</name></author><category term="Education" /><summary type="html"><![CDATA[Different blockchain courses from prestigious universities that can be a trigger point in your professional future]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/courses-blockchain/courses_blockchain.jpg" /><media:content medium="image" url="http://localhost:4000/img/posts/courses-blockchain/courses_blockchain.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Although small change compared to the PoW – PoS migration occurred in 2022, this upgrade makes sure that Ethereum, one of the oldest blockchains, keeps up good progress and for sure will convince old and new users of the chain.</p>]]></content><author><name>Javier Freire</name></author><category term="Crypto" /><summary type="html"><![CDATA[After London, and the Merge, the Ethereum network is preparing for the next big upgrade. This time, the Shanghai fork will bring 5 new EIP to the network.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/posts/ethereum-shanghai/shanghai.jpeg" /><media:content medium="image" url="http://localhost:4000/img/posts/ethereum-shanghai/shanghai.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
