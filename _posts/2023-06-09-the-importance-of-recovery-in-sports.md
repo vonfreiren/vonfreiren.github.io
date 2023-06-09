@@ -4,9 +4,9 @@ title: "The Importance of Recovery in Sports"
 permalink: /:title/ 
 subtitle: "The most important part of your training"
 date: 2023-06-09 02:01:13 
-background: '/img/posts/recovery/recovery.jpg'
-thumbnail: '/img/posts/recovery/recovery.jpg'
-image: '/img/posts/recovery/recovery.jpg'
+background: '/img/posts/recovery/recovery.jpeg'
+thumbnail: '/img/posts/recovery/recovery.jpeg'
+image: '/img/posts/recovery/recovery.jpeg'
 description: "Recuperation is a key factor in sports performance. Learn how to improve your recovery and get the most out of your training."
 tags: Sports
 lang: en
