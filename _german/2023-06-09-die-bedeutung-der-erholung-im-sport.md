@@ -60,7 +60,7 @@ Nicht zuletzt ist eine ausreichende Zufuhr von Vitaminen und Mineralstoffen für
 
 Wie bereits erwähnt, wird es einen zusätzlichen Schub geben, aber sie werden nicht zur Magie werden, wenn wir die Grundlagen wie Ruhepausen und richtige Ernährung nicht beachten.
 
-## Fassen Sie sie zusammen und haben Sie Geduld.
+## Fassen Sie sie zusammen und haben Sie Geduld
 
 Zusätzlich zu Ruhe, Schlaf, Ernährung und Flüssigkeitszufuhr ist die Einbeziehung aktiver Erholungstechniken von großem Nutzen. Übungen mit geringer Intensität wie Schwimmen, Radfahren oder Yoga können die Durchblutung anregen, den Muskelkater verringern und eine schnellere Erholung fördern. Diese Aktivitäten tragen dazu bei, Abfallprodukte des Stoffwechsels auszuspülen, die Muskeln mit Sauerstoff und Nährstoffen zu versorgen und den Abtransport von Milchsäure zu erleichtern, was eine schnellere Rückkehr zu optimaler Leistung ermöglicht.
 
