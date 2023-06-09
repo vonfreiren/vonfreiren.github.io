@@ -60,7 +60,7 @@ Por último, pero no por ello menos importante, una ingesta adecuada de vitamina
 
 Como ya se ha mencionado, habrá un empujón extra, pero no se convertirá en magia si no respetamos los aspectos básicos como el descanso o una nutrición adecuada.
 
-## Súmalos y ten paciencia.
+## Súmalos y ten paciencia
 
 Además del descanso, el sueño, la nutrición y la hidratación, incorporar técnicas de recuperación activa es muy beneficioso. Practicar ejercicios de baja intensidad como la natación, el ciclismo o el yoga puede estimular el flujo sanguíneo, reducir las agujetas y favorecer una recuperación más rápida. Estas actividades ayudan a eliminar los productos metabólicos de desecho, aportan oxígeno y nutrientes a los músculos y facilitan la eliminación del ácido láctico, lo que favorece un retorno más rápido a un rendimiento óptimo.
 

@@ -58,7 +58,7 @@ Last but not least, adequate intake of vitamins and minerals is essential for ov
 
 As mentioned, there will be an extra push, but they will not become magic if we don't respect the basics such as resting or proper nutrition.
 
-## Sum them up and be patient.
+## Sum them up and be patient
 
 In addition to rest, sleep, nutrition, and hydration, incorporating active recovery techniques is highly beneficial. Engaging in low-intensity exercises like swimming, cycling, or yoga can stimulate blood flow, reduce muscle soreness, and promote faster recovery. These activities help flush out metabolic waste products, deliver oxygen and nutrients to the muscles, and facilitate the removal of lactic acid, promoting a faster return to optimal performance.
 

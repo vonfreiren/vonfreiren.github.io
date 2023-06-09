@@ -60,7 +60,7 @@ Enfin, un apport adéquat en vitamines et en minéraux est essentiel pour la san
 
 Comme nous l'avons mentionné, il y aura une poussée supplémentaire, mais elle ne deviendra pas magique si nous ne respectons pas les principes de base tels que le repos ou une bonne alimentation.
 
-## Résumez-les et soyez patient.
+## Résumez-les et soyez patient
 
 En plus du repos, du sommeil, de la nutrition et de l'hydratation, l'incorporation de techniques de récupération active est très bénéfique. La pratique d'exercices de faible intensité, comme la natation, le vélo ou le yoga, peut stimuler la circulation sanguine, réduire les courbatures et favoriser une récupération plus rapide. Ces activités permettent d'éliminer les déchets métaboliques, d'apporter de l'oxygène et des nutriments aux muscles et de faciliter l'élimination de l'acide lactique, ce qui favorise un retour plus rapide à des performances optimales.
 
