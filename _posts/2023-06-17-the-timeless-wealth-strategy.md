@@ -8,7 +8,7 @@ background: '/img/posts/wealth/wealth.jpeg'
 thumbnail: '/img/posts/wealth/wealth.jpeg'
 image: '/img/posts/wealth/wealth.jpeg'
 description: "Getting rich slowly is a timeless wealth-building strategy that has stood the test of time. Learn how to get rich slowly and build lasting wealth."
-tags: Finace
+tags: Finance
 lang: en
 
 ---

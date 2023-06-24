@@ -9,7 +9,7 @@ background: '/img/posts/wealth/wealth.jpeg'
 thumbnail: '/img/posts/wealth/wealth.jpeg'
 image: '/img/posts/wealth/wealth.jpeg'
 description: "S'enrichir lentement est une stratégie intemporelle qui a résisté à l'épreuve du temps. Apprenez à vous enrichir lentement et à construire une richesse durable."
-tags: Finace
+tags: Finance
 lang: fr
 
 ---

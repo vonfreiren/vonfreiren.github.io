@@ -9,7 +9,7 @@ background: '/img/posts/wealth/wealth.jpeg'
 thumbnail: '/img/posts/wealth/wealth.jpeg'
 image: '/img/posts/wealth/wealth.jpeg'
 description: "Langsam reich werden ist eine zeitlose Strategie zum Vermögensaufbau, die sich seit jeher bewährt hat. Erfahren Sie, wie Sie langsam reich werden und dauerhaftes Vermögen aufbauen können."
-tags: Finace
+tags: Finance
 lang: de
 
 ---

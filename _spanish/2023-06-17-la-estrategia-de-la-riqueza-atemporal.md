@@ -9,7 +9,7 @@ background: '/img/posts/wealth/wealth.jpeg'
 thumbnail: '/img/posts/wealth/wealth.jpeg'
 image: '/img/posts/wealth/wealth.jpeg'
 description: "Hacerse rico poco a poco es una estrategia atemporal de creación de riqueza que ha superado la prueba del tiempo. Aprenda a enriquecerse poco a poco y crear riqueza duradera."
-tags: Finace
+tags: Finance
 lang: es
 
 ---
