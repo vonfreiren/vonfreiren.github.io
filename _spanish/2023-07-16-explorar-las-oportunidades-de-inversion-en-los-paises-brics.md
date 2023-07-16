@@ -37,26 +37,26 @@ Así pues, aunque Sudáfrica no forma parte de los países BRIC originales, se c
 
 Estas naciones han emergido como actores principales de la economía mundial, mostrando un sólido crecimiento y un considerable potencial de inversión. Estas naciones poseen una combinación única de factores, incluidos grandes mercados de consumo, abundantes recursos naturales, clases medias en expansión y ambiciosos proyectos de infraestructuras. Este artículo profundiza en el potencial inversor de los países BRIC, destacando los sectores clave y las consideraciones a tener en cuenta por los inversores que buscan oportunidades en estas dinámicas economías.
 
-### 1. Brasil:
+### 1. Brasil
 
 Brasil, con su economía diversificada y sus abundantes recursos naturales, ofrece un abanico de posibilidades de inversión. Sectores como la agricultura, la energía, las infraestructuras y la tecnología han mostrado un crecimiento prometedor. La industria agrícola, famosa por sus exportaciones de soja, azúcar y productos cárnicos, presenta atractivas posibilidades de inversión.
 
 Además, el floreciente sector tecnológico de Brasil, centrado en el comercio electrónico y la tecnología financiera, ha atraído una gran atención. Además, los proyectos de infraestructuras en curso en el país, incluidos los de transporte y energía, ofrecen oportunidades de inversión a largo plazo.
 
 
-### 2. Rusia:
+### 2. Rusia
 
 Rusia es probablemente la que se encuentra en peor situación en este momento y no tiene las mejores perspectivas en los próximos años. No obstante, las vastas reservas de recursos naturales de Rusia, como petróleo, gas natural y minerales, constituyen una base sólida para la inversión. El sector energético sigue siendo un área de inversión destacada, ya que Rusia es uno de los principales productores mundiales de petróleo y gas.
 
 Además, el sector tecnológico ruso está experimentando un rápido crecimiento, con énfasis en el desarrollo de software, la ciberseguridad y la inteligencia artificial. Los inversores también deben tener en cuenta los proyectos de desarrollo de infraestructuras, incluidos el transporte, la logística y la revitalización urbana.
 
-### 3. ### 3. India:
+### 3. India
 
 La gran población de la India, su clase media en expansión y su vibrante mercado de consumo la convierten en un destino atractivo para la inversión. El sector servicios del país, incluida la externalización de TI, el desarrollo de software y la gestión de procesos empresariales, ha experimentado un crecimiento significativo.
 
 Además, el sector de las energías renovables de la India ofrece oportunidades prometedoras, impulsado por la apuesta del Gobierno por las energías limpias y el descenso de los costes de la energía solar. El desarrollo de infraestructuras, incluidos el transporte, las ciudades inteligentes y la vivienda asequible, también presenta perspectivas de inversión lucrativas.
 
-### 4. China:
+### 4. China
 
 China, la segunda economía más grande del mundo, cuenta con un vasto mercado de consumo y un sólido sector manufacturero. Los inversores pueden explorar oportunidades en sectores como la tecnología, el comercio electrónico, la sanidad y las energías renovables. Los avances de China en áreas como la inteligencia artificial, las plataformas de comercio electrónico y la tecnología financiera han atraído importantes inversiones. Además, la ambiciosa Iniciativa de la Franja y la Ruta (BRI) del país ha creado vías para inversiones en infraestructuras en Asia, Europa y África.
 
