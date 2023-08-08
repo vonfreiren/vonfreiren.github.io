@@ -8,6 +8,7 @@ background: '/img/posts/retirement/retirement.jpg'
 thumbnail: '/img/posts/retirement/retirement.jpg'
 image: '/img/posts/retirement/retirement.jpg'
 description: "A new approach to aging and work that challenges traditional notions of retirement."
+tags: Work
 lang: en
 
 ---
