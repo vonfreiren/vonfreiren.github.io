@@ -6,7 +6,7 @@ subtitle: "What we eat can have a significant impact on our brain health."
 date: 2023-08-20 02:01:13 
 background: '/img/posts/food_brain/brain_food.jpeg'
 thumbnail: '/img/posts/food_brain/brain_food.jpeg'
-image: '/img/posts/food_brain/food_brain.jpeg'
+image: '/img/posts/food_brain/brain_food.jpeg'
 description: "By eating a healthy diet, we can help to protect our brains from damage and promote optimal cognitive function."
 tags: Health
 lang: en
