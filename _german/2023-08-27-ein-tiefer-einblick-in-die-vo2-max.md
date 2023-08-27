@@ -51,7 +51,7 @@ Spitzensportler weisen oft außergewöhnliche VO2-max-Werte auf. Es ist jedoch w
 
 ### Beispiele
 
-Auch wenn es unterschiedliche Werte gibt, können diese Näherungswerte Ihnen eine Vorstellung von den Werten in Abhängigkeit von Ihrem Alter geben,
+Auch wenn es unterschiedliche Werte gibt, können diese Näherungswerte Ihnen eine Vorstellung von den Werten in Abhängigkeit von Ihrem Alter geben.
 
 #### Männer
 

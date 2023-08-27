@@ -51,7 +51,7 @@ Les athlètes d'élite présentent souvent des valeurs de VO2 max exceptionnelle
 
 ### Exemples
 
-Même s'il existe des valeurs différentes, ces approximations peuvent vous donner une idée des valeurs en fonction de votre âge,
+Même s'il existe des valeurs différentes, ces approximations peuvent vous donner une idée des valeurs en fonction de votre âge.
 
 #### Hommes
 
