@@ -49,7 +49,7 @@ Elite athletes often exhibit exceptional VO2 max values. However, it's important
 
 ### Examples
 
-Even if there are different values, these approximation can give you an idea of the values depending on your age,
+Even if there are different values, these approximation can give you an idea of the values depending on your age.
 
 #### Men
 
@@ -62,6 +62,10 @@ Even if there are different values, these approximation can give you an idea of 
 | **60-69** | \< 28 | 28-34 | 34-38 | \> 38 | \> 48 |
 | **70-79** | \< 25 | 25-31 | 31-35 | \> 35 | \> 45 |
 | **80+** | \< 22 | 22-28 | 28-32 | \> 32 | \> 39 |
+
+<p>
+</p>
+<h1></h1>
 
 #### Women
 
@@ -76,7 +80,6 @@ Even if there are different values, these approximation can give you an idea of 
 | **80+** | \< 17 | 17-23 | 23-27 | \> 27 | \> 35 |
 
 <p></p>
-<h1></h1>
 
 ## Training Strategies to Boost VO2 Max
 
