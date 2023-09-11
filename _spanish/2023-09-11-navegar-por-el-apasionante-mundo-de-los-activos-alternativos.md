@@ -4,7 +4,7 @@ layout: post
 title: "Navegar por el apasionante mundo de los activos alternativos"
 permalink: /:title/ 
 subtitle: "Guía de las mejores oportunidades de inversión"
-date: 2023-09-02 02:01:13 
+date: 2023-09-11 02:01:13 
 background: '/img/posts/alternative/sneakers.jpeg'
 thumbnail: '/img/posts/alternative/sneakers.jpeg'
 image: '/img/posts/alternative/sneakers.jpeg'

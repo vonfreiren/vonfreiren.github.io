@@ -4,7 +4,7 @@ layout: post
 title: "Navigieren in der spannenden Welt der alternativen Anlagen"
 permalink: /:title/ 
 subtitle: "Ein Leitfaden zu den interessantesten Investitionsmöglichkeiten"
-date: 2023-09-02 02:01:13 
+date: 2023-09-11 02:01:13 
 background: '/img/posts/alternative/sneakers.jpeg'
 thumbnail: '/img/posts/alternative/sneakers.jpeg'
 image: '/img/posts/alternative/sneakers.jpeg'

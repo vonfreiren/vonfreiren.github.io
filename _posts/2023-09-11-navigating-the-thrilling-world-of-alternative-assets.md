@@ -3,7 +3,7 @@ layout: post
 title: "Navigating The Thrilling World of Alternative Assets"
 permalink: /:title/ 
 subtitle: "A guide to the most exciting investment opportunities"
-date: 2023-09-02 02:01:13 
+date: 2023-09-11 02:01:13 
 background: '/img/posts/alternative/sneakers.jpeg'
 thumbnail: '/img/posts/alternative/sneakers.jpeg'
 image: '/img/posts/alternative/sneakers.jpeg'
