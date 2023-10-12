@@ -28,6 +28,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
 collections:
   books:
   concerts:

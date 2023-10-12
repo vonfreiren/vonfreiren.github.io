@@ -28,109 +28,170 @@ layout: default
         </div>
     </header>
 
+
     <div class="container">
         <div class="row">
+
             <div class="col-lg-18 col-md-20 mx-auto">
 
                 {{ content }}
 
-                    <div class="container">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div id="mc_embed_shell">
+                                <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet"
+                                      type="text/css">
+                                <style type="text/css">
+                                    #mc_embed_signup {
+                                        background: #F3EEE7;
+                                        false;
+                                        clear: left;
+                                        font: 10px Helvetica, Arial, sans-serif;
+                                        width: 400px;
+                                    }
+
+                                    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+                                </style>
+                                <div id="mc_embed_signup">
+                                    <form action="https://mrfreire.us21.list-manage.com/subscribe/post?u=84757a16cdbaa721ff032f9ae&amp;id=ecc7cc2571&amp;f_id=00fae0e6f0"
+                                          method="post" id="mc-embedded-subscribe-form"
+                                          name="mc-embedded-subscribe-form" class="validate" target="_blank">
+                                        <div class="mc-field-group"><label for="mce-EMAIL">Enter your email
+                                            <span
+                                                class="asterisk"></span></label><input type="email" name="EMAIL"
+                                                                                        class="required email"
+                                                                                        id="mce-EMAIL" required=""
+                                                                                        value=""></div>
+                                        <div class="clear foot">
+                                            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"
+                                                   style="font-size: 9px; padding: 2px 5px;">
+                                        </div>
+                                    </form>
+                                </div>
+                                <script type="text/javascript"
+                                        src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+                                <script type="text/javascript">(function ($) {
+                                    window.fnames = new Array();
+                                    window.ftypes = new Array();
+                                    fnames[0] = 'EMAIL';
+                                    ftypes[0] = 'email';
+                                }(jQuery));
+                                var $mcj = jQuery.noConflict(true);</script>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-6">
+
                         <div class="row text-center mb-5">
-                            <div class="col">
+                            <div class="col justify-content-end">
                                 <a class="btn btn-sm float-right" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Read it in Other Languages
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ "/posts-spanish" | relative_url }}">Artículos en Español</a>
-                                    <a class="dropdown-item" href="{{ "/posts-french" | relative_url }}">Articles en Français</a>
-                                    <a class="dropdown-item" href="{{ "/posts-german" | relative_url }}">Artikel auf Deutsch</a>
+                                    <a class="dropdown-item" href="{{ "/posts-spanish" | relative_url }}">Artículos en
+                                    Español</a>
+                                    <a class="dropdown-item" href="{{ "/posts-french" | relative_url }}">Articles en
+                                    Français</a>
+                                    <a class="dropdown-item" href="{{ "/posts-german" | relative_url }}">Artikel auf
+                                    Deutsch</a>
                                     <!-- Add additional links here as needed -->
                                 </div>
                             </div>
 
                         </div>
 
-                        <div class="row">
+                    </div>
+
+                    </div>
 
 
-                            <!-- Home Post List -->
-                            {% for post in site.posts limit : 100 %}
-                            {% if post.lang == 'en' %}
+                    <div class="row">
 
-                            <div class="col-12 col-md-6 col-lg-4 d-flex">
-                                <div class="card border-0">
-                                    <article class="post-preview">
-                                        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                                            <p>
-                                            <div style="margin-left: 20px;margin-right: 20px">
-                                                <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}">
-                                            </div>
-                                            <div class="card-body py-3">
-                                                <div style="height: fit-content; overflow: hidden;">
-                                                    <h4 class="post-title">{{ post.title }}</h4>
-                                                </div>
-                                                {% if post.subtitle %}
-                                                <div style="height: fit-content; margin-bottom: 7px; margin-top: 7px;  overflow: hidden; position: center">
-                                                    <h7 class="post-subtitle"><strong>{{ post.subtitle }}</strong></h7>
-                                                </div>
-                                                <section>
-                                                    <small class="post-preview">
-                                                        {% assign truncated_text = post.content | split: '.' %}
-                                                        {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
-                                                    </small>
-                                                    <small class="post-date"> <strong>  Read more</strong></small>
-                                                </section>
-                                                {% else %}
-                                                <small class="post-preview">
-                                                    {% assign truncated_text = post.content | split: '.' %}
-                                                    {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
-                                                </small>
-                                                {% endif %}
-                                                <div class="container" align="right">
-                                                <small class="post-date"> {{ post.date | date: '%B %d, %Y' }} </small>
-                                                </div>
-                                            </div>
-                                        </a>
-                                        <!--            <div class="card-body py-3">
-                                                    <p class="post-meta"> <small>Posted by
-                                                    {% if post.author %}
-                                                    {{ post.author }}
+
+
+                    <!-- Home Post List -->
+                    {% for post in site.posts limit : 100 %}
+                    {% if post.lang == 'en' %}
+
+                    <div class="col-12 col-md-6 col-lg-4 d-flex">
+                        <div class="card border-0">
+                            <article class="post-preview">
+                                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                                    <p>
+                                    <div style="margin-left: 20px;margin-right: 20px">
+                                        <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}">
+                                    </div>
+                                    <div class="card-body py-3">
+                                        <div style="height: fit-content; overflow: hidden;">
+                                            <h4 class="post-title">{{ post.title }}</h4>
+                                        </div>
+                                        {% if post.subtitle %}
+                                        <div style="height: fit-content; margin-bottom: 7px; margin-top: 7px;  overflow: hidden; position: center">
+                                            <h7 class="post-subtitle"><strong>{{ post.subtitle }}</strong></h7>
+                                        </div>
+                                        <section>
+                                            <small class="post-preview">
+                                                {% assign truncated_text = post.content | split: '.' %}
+                                                {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
+                                            </small>
+                                            <small class="post-date"> <strong> Read more</strong></small>
+                                        </section>
+                                        {% else %}
+                                        <small class="post-preview">
+                                            {% assign truncated_text = post.content | split: '.' %}
+                                            {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
+                                        </small>
+                                        {% endif %}
+                                        <div class="container" align="right">
+                                            <small class="post-date"> {{ post.date | date: '%B %d, %Y' }} </small>
+                                        </div>
+                                    </div>
+                                </a>
+                                <!--            <div class="card-body py-3">
+                                            <p class="post-meta"> <small>Posted by
+                                            {% if post.author %}
+                                            {{ post.author }}
+                                            {% else %}
+                                            {{ site.author }}
+                                            {% endif %}
+                                            on
+                                            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+                                        </small></p>
+                                            {% if post.tags.size > 0 %}
+                                                <div class="caption">
+                                                    <span class="post-share-title">Tags:</span>
+                                                    {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
+                                                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
                                                     {% else %}
-                                                    {{ site.author }}
+                                                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
                                                     {% endif %}
-                                                    on
-                                                    {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-                                                </small></p>
-                                                    {% if post.tags.size > 0 %}
-                                                        <div class="caption">
-                                                            <span class="post-share-title">Tags:</span>
-                                                            {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
-                                                            <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                                                            {% else %}
-                                                            <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                                                            {% endif %}
-                                                            {% endfor %}
-                                                        </div>
-                                                        {% endif %}
-                                                        </div>-->
-                                    </article>
-                                </div>
-                            </div>
-
-
-                            {% endif %}
-                            {% endfor %}
+                                                    {% endfor %}
+                                                </div>
+                                                {% endif %}
+                                                </div>-->
+                            </article>
                         </div>
                     </div>
+
+
+                    {% endif %}
+                    {% endfor %}
+                </div>
             </div>
         </div>
-        </section>
-        <!-- Pager -->
-        <p>
-        <div class="clearfix">
-            <a class="btn float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
-        </div>
-        </p>
+    </div>
+    </section>
+
+
+    <!-- Pager -->
+    <p>
+    <div class="clearfix">
+        <a class="btn float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+    </div>
+    </p>
 
     </div>
     </div>
