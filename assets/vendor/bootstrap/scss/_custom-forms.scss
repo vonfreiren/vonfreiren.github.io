@@ -527,23 +527,25 @@
 
 
 .subscribe-popup {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-  z-index: 1000;
-  width: 250px;
-  height: 200px;
-  background-color: lightblue;
-  border: 0px solid black;
-  padding: 10px;
-  font-size: 12px;
+  position: fixed; // Fixes the popup to the bottom right corner of the screen.
+  bottom: 10px; // Positions the popup at the bottom of the screen.
+  right: 10px; // Positions the popup at the right side of the screen.
+  z-index: 1000; // Makes sure that the popup is displayed above all other elements on the page.
+  width: 250px; // Sets the width of the popup.
+  height: 200px; // Sets the height of the popup.
+  background-color: lightblue; // Sets the background color of the popup.
+  border: 0px solid black; // Sets the border of the popup.
+  padding: 10px; // Sets the padding of the popup.
+  font-size: 12px; // Sets the font size of the text in the popup.
+  align-content: center;
+  align-items: center;
+  justify-content: center; /* Center horizontally */
 
-  margin: 10px 10px 0 0;
 }
 
 @media screen and (max-width: 767px) {
-  .subscribe-html {
-    display: none;
+  .subscribe-popup {
+    display: none; // Hides the popup on mobile devices.
   }
 }
 
@@ -558,6 +560,7 @@
   border: none;
   border-radius: 4px;
   align-content: center;
+  align-items: center;
 
 }
 
