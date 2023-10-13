@@ -531,7 +531,7 @@
   bottom: 0;
   right: 0;
   z-index: 1000;
-  width: 200px;
+  width: 250px;
   height: 200px;
   background-color: lightblue;
   border: 0px solid black;
@@ -539,6 +539,12 @@
   font-size: 12px;
 
   margin: 10px 10px 0 0;
+}
+
+@media screen and (max-width: 767px) {
+  .subscribe-html {
+    display: none;
+  }
 }
 
 .subscribe-popup .button {
@@ -552,17 +558,39 @@
   border: none;
   border-radius: 4px;
   align-content: center;
+
 }
 
 .subscribe-popup .close-button {
   position: absolute;
   top: 0;
   right: 0;
-  width: 20px;
-  height: 20px;
-  background-color: black;
-  color: darkcyan;
+  width: 30px;
+  height: 30px;
+  background-color: lightblue;
+  color: black;
   border: none;
-  border-radius: 50%;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  border-radius: 0%;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0);
+
+  /* Add the X */
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 2px;
+    height: 10px;
+    background-color: darkcyan;
+  }
+
+  &::before {
+    transform: rotate(45deg);
+  }
+
+  &::after {
+    transform: rotate(-45deg);
+  }
 }
