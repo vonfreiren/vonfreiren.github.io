@@ -29,6 +29,8 @@ layout: default
     </header>
 
 
+
+
     <div class="container">
         <div class="row">
 
@@ -36,76 +38,26 @@ layout: default
 
                 {{ content }}
 
+
                 <div class="container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div id="mc_embed_shell">
-                                <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet"
-                                      type="text/css">
-                                <style type="text/css">
-                                    #mc_embed_signup {
-                                        background: #F3EEE7;
-                                        false;
-                                        clear: left;
-                                        font: 10px Helvetica, Arial, sans-serif;
-                                        width: 300px;
-                                    }
-
-                                    /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-                                       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-                                </style>
-                                <div id="mc_embed_signup">
-                                    <form action="https://mrfreire.us21.list-manage.com/subscribe/post?u=84757a16cdbaa721ff032f9ae&amp;id=ecc7cc2571&amp;f_id=00fae0e6f0"
-                                          method="post" id="mc-embedded-subscribe-form"
-                                          name="mc-embedded-subscribe-form" class="validate" target="_blank">
-                                        <div class="mc-field-group"><label for="mce-EMAIL">Enter your email
-                                            <span
-                                                class="asterisk"></span></label><input type="email" name="EMAIL"
-                                                                                        class="required email"
-                                                                                        id="mce-EMAIL" required=""
-                                                                                        value=""></div>
-                                        <div class="clear foot">
-                                            <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"
-                                                   style="font-size: 9px; padding: 2px 5px;">
-                                        </div>
-                                    </form>
-                                </div>
-                                <script type="text/javascript"
-                                        src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-                                <script type="text/javascript">(function ($) {
-                                    window.fnames = new Array();
-                                    window.ftypes = new Array();
-                                    fnames[0] = 'EMAIL';
-                                    ftypes[0] = 'email';
-                                }(jQuery));
-                                var $mcj = jQuery.noConflict(true);</script>
+                    <div class="row text-center mb-5">
+                        <div class="col">
+                            <a class="btn btn-sm float-right" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Read it in Other Languages
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="{{ "/posts-spanish" | relative_url }}">Artículos en Español</a>
+                                <a class="dropdown-item" href="{{ "/posts-french" | relative_url }}">Articles en Français</a>
+                                <a class="dropdown-item" href="{{ "/posts-german" | relative_url }}">Artikel auf Deutsch</a>
+                                <!-- Add additional links here as needed -->
                             </div>
-
-                        </div>
-
-                        <div class="col-md-6">
-
-                        <div class="row text-center mb-5">
-                            <div class="col justify-content-end">
-                                <a class="btn btn-sm float-right" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Read it in Other Languages
-                                </a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ "/posts-spanish" | relative_url }}">Artículos en
-                                    Español</a>
-                                    <a class="dropdown-item" href="{{ "/posts-french" | relative_url }}">Articles en
-                                    Français</a>
-                                    <a class="dropdown-item" href="{{ "/posts-german" | relative_url }}">Artikel auf
-                                    Deutsch</a>
-                                    <!-- Add additional links here as needed -->
-                                </div>
-                            </div>
-
                         </div>
 
                     </div>
 
+
                     </div>
+
 
 
                     <div class="row">
@@ -180,6 +132,7 @@ layout: default
                     {% endif %}
                     {% endfor %}
                 </div>
+
             </div>
         </div>
     </div>
