@@ -529,7 +529,7 @@
 .subscribe-popup {
   position: fixed; // Fixes the popup to the bottom right corner of the screen.
   bottom: 10px; // Positions the popup at the bottom of the screen.
-  right: 10px; // Positions the popup at the right side of the screen.
+  right: 20px; // Positions the popup at the right side of the screen.
   z-index: 1000; // Makes sure that the popup is displayed above all other elements on the page.
   width: 250px; // Sets the width of the popup.
   height: 200px; // Sets the height of the popup.
