@@ -1,0 +1,52 @@
+
+
+
+
+  <div class="container">
+
+      <p>
+
+      </p>
+      <h6>Similar Posts</h6>
+    <div style="margin-left: 20px;margin-right: 20px" class="row justify-content-center" >
+
+
+
+
+
+          <!-- Home Post List -->
+          {% assign random_posts = site.posts | where: "lang", "en" | sample: 4 %}
+          {% for post in random_posts  %}
+          {% if post.lang == 'en' %}
+
+          <div class="col-6 col-md-4 col-lg-3 d-flex">
+            <div class="card border-0">
+              <article class="post-preview">
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                  <p>
+                  <div style="margin-left: 20px;margin-right: 20px">
+                    <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}">
+                  </div>
+                  <div class="card-body py-3">
+                    <div style="height: fit-content; overflow: hidden;">
+                      <h6 class="post-title">{{ post.title }}</h6>
+                    </div>
+                    <div style="height: fit-content; margin-bottom: 7px; margin-top: 7px;  overflow: hidden;">
+                      <h7 class="post-subtitle">{{ post.subtitle }}</h7>
+                    </div>
+                  </div>
+                </a>
+              </article>
+            </div>
+          </div>
+
+
+          {% endif %}
+          {% endfor %}
+        </div>
+      <p>
+
+      </p>
+
+      </div>
+
