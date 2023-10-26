@@ -1,4 +1,3 @@
-<code>---
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
@@ -13,20 +12,14 @@ layout: null
         <generator>Jekyll v{{ jekyll.version }}</generator>
         {% for post in site.tags["R"] %}
             <item>
-                <title>{{ post.title | xml_escape }}</title>
-                <author>vonfreiren@gmail.com (Javier Freire)</author>
-                <description>{{ post.content | xml_escape }}</description>
-                <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-                <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-                <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-                {% for tag in post.tags %}
-                <category>{{ tag | xml_escape }}</category>
-                {% endfor %}
-                {% for cat in post.categories %}
-                <category>{{ cat | xml_escape }}</category>
+        <title>{{ post.title | xml_escape }}</title>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <comments>{{ post.url | prepend: site.baseurl | prepend: site.url }}#comments</comments>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <!-- Include other entry elements as needed -->
+    </item>
                 {% endfor %}
             </item>
         {% endfor %}
     </channel>
 </rss>
-</code>
