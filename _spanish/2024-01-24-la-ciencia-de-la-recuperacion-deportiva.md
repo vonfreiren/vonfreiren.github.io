@@ -4,7 +4,7 @@ layout: post
 title: "La ciencia de la recuperación deportiva"
 permalink: /:title/ 
 subtitle: "La ciencia y el arte de los hábitos de recuperación inspirados en la élite"
-date: 2023-12-29 02:01:13 
+date: 2024-01-24 02:01:13 
 background: '/img/posts/recovery_habits/athlete.jpeg'
 thumbnail: '/img/posts/recovery_habits/athlete.jpeg'
 image: '/img/posts/recovery_habits/athlete.jpeg'

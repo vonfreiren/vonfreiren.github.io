@@ -3,7 +3,7 @@ layout: post
 title: "The Science of Sport Recovery"
 permalink: /:title/ 
 subtitle: "The Science and Art of Elite-Inspired Recovery Habits"
-date: 2023-12-29 02:01:13 
+date: 2024-01-24 02:01:13
 background: '/img/posts/recovery_habits/athlete.jpeg'
 thumbnail: '/img/posts/recovery_habits/athlete.jpeg'
 image: '/img/posts/recovery_habits/athlete.jpeg'

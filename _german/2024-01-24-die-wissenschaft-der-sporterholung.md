@@ -4,7 +4,7 @@ layout: post
 title: "Die Wissenschaft der Sporterholung"
 permalink: /:title/ 
 subtitle: "Die Wissenschaft und Kunst der von der Elite inspirierten Erholungsgewohnheiten"
-date: 2023-12-29 02:01:13 
+date: 2024-01-24 02:01:13 
 background: '/img/posts/recovery_habits/athlete.jpeg'
 thumbnail: '/img/posts/recovery_habits/athlete.jpeg'
 image: '/img/posts/recovery_habits/athlete.jpeg'
