@@ -26,8 +26,6 @@ In diesem Artikel gehen wir den Geheimnissen von Spitzensportlern auf den Grund,
 
 Spitzensportler wissen, dass Erholung kein passiver Prozess, sondern ein aktives Streben ist. Sie wenden eine Reihe von Gewohnheiten und Praktiken an, um ihre Erholung zu optimieren, damit sie konstant Höchstleistungen erbringen können.
 
-## Die Wissenschaft der Erholung:
-
 Bevor wir uns mit den Gewohnheiten selbst befassen, müssen wir unbedingt die physiologischen Grundlagen der Erholung verstehen. Die Sportwissenschaft hat die Bedeutung der Erholung für die Optimierung der sportlichen Leistung längst erkannt. Körperliche Anstrengung, sei es im Training oder im Wettkampf, führt zu Muskelermüdung, Mikrotraumata und zur Erschöpfung der Energiespeicher. Eine effiziente Erholung beschleunigt nicht nur die Heilung, sondern verbessert auch die Anpassung, so dass die Sportler immer wieder an ihre Grenzen gehen können.
 
 ### 1. Schlaf als Spielveränderer

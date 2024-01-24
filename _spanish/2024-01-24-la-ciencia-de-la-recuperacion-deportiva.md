@@ -26,8 +26,6 @@ En este artículo, nos adentramos en los secretos de los atletas de élite, expl
 
 Los deportistas de élite reconocen que la recuperación no es un proceso pasivo, sino una búsqueda activa. Adoptan una serie de hábitos y prácticas para optimizar su recuperación, lo que les permite rendir al más alto nivel de forma constante.
 
-## La ciencia de la recuperación:
-
 Antes de explorar los hábitos en sí, es imprescindible comprender la base fisiológica de la recuperación. La ciencia del deporte ha avanzado mucho en el reconocimiento de la importancia de la recuperación para optimizar el rendimiento atlético. El esfuerzo físico, ya sea en el entrenamiento o en la competición, provoca fatiga muscular, microtraumatismos y agotamiento de las reservas de energía. Una recuperación eficaz no sólo acelera la curación, sino que también mejora la adaptación, lo que permite a los atletas superar sus límites de forma constante.
 
 ### 1. El sueño como factor de cambio

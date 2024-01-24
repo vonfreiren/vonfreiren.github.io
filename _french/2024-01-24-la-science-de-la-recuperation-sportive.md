@@ -26,8 +26,6 @@ Dans cet article, nous nous pencherons sur les secrets des athlètes d'élite, e
 
 Les athlètes d'élite reconnaissent que la récupération n'est pas un processus passif mais une quête active. Ils adoptent une série d'habitudes et de pratiques pour optimiser leur récupération, ce qui leur permet de réaliser des performances de haut niveau en permanence.
 
-## La science de la récupération :
-
 Avant d'explorer les habitudes elles-mêmes, il est impératif de comprendre la base physiologique de la récupération. La science du sport a beaucoup progressé dans la reconnaissance de l'importance de la récupération dans l'optimisation des performances athlétiques. L'effort physique, que ce soit à l'entraînement ou en compétition, entraîne une fatigue musculaire, des microtraumatismes et un épuisement des réserves d'énergie. Une récupération efficace permet non seulement d'accélérer la guérison, mais aussi d'améliorer l'adaptation, ce qui permet aux athlètes de repousser leurs limites en permanence.
 
 ### 1. Le sommeil change la donne
