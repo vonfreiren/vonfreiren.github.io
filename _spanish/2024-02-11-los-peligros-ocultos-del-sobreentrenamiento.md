@@ -4,7 +4,7 @@ layout: post
 title: "Los peligros ocultos del sobreentrenamiento"
 permalink: /:title/ 
 subtitle: "Los peligros de ignorar la recuperación en el deporte"
-date: date: 2024-02-11 02:01:13
+date: 2024-02-11 02:01:13
 background: '/img/posts/overtraining/overtraining.jpeg'
 thumbnail: '/img/posts/overtraining/overtraining.jpeg'
 image: '/img/posts/overtraining/overtraining.jpeg'
