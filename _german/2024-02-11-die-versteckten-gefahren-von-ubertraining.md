@@ -4,7 +4,7 @@ layout: post
 title: "Die versteckten Gefahren von Übertraining"
 permalink: /:title/ 
 subtitle: "Die Gefahren des Ignorierens der Erholung bei sportlicher Betätigung"
-date: 2024-01-24 02:01:13
+date: 2024-02-11 02:01:13
 background: '/img/posts/overtraining/overtraining.jpeg'
 thumbnail: '/img/posts/overtraining/overtraining.jpeg'
 image: '/img/posts/overtraining/overtraining.jpeg'

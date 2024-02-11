@@ -3,7 +3,7 @@ layout: post
 title: "The Hidden Dangers of Overtraining"
 permalink: /:title/ 
 subtitle: "The Perils of Ignoring Recovery in Athletic Pursuits"
-date: 2024-01-24 02:01:13
+date: 2024-02-11 02:01:13
 background: '/img/posts/overtraining/overtraining.jpeg'
 thumbnail: '/img/posts/overtraining/overtraining.jpeg'
 image: '/img/posts/overtraining/overtraining.jpeg'
