@@ -1,5 +1,4 @@
 ---
-
 layout: post 
 title: "Momentos No-Go"
 permalink: /:title/ 
@@ -11,7 +10,6 @@ image: '/img/posts/nogo/nogo.jpg'
 description: "Conozca el concepto de Momentos No-Go y cómo pueden ayudarle a controlar sus impulsos y a tomar mejores decisiones."
 tags: Productivity
 lang: es
-
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-
 layout: post 
 title: "Moments de non-retour"
 permalink: /:title/ 
@@ -11,7 +10,6 @@ image: '/img/posts/nogo/nogo.jpg'
 description: "Découvrez le concept des "moments sans" et la façon dont ils peuvent vous aider à gérer vos impulsions et à prendre de meilleures décisions."
 tags: Productivity
 lang: fr
-
 ---
 
 
