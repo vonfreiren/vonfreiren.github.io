@@ -2,7 +2,7 @@
 layout: post 
 title: "No-Go Moments"
 permalink: /:title/ 
-subtitle: : "Assistance to Manage your Impulses"
+subtitle: "Assistance to Manage your Impulses"
 date: 2024-07-21 02:01:13
 background: '/img/posts/nogo/nogo.jpg'
 thumbnail: '/img/posts/nogo/nogo.jpg'
