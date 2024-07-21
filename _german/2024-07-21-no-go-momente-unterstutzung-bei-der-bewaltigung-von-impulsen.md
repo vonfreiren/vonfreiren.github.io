@@ -4,9 +4,9 @@ title: "No-Go-Momente"
 permalink: /:title/ 
 subtitle: "Unterstützung bei der Bewältigung von Impulsen"
 date: 2024-07-21 02:01:13
-background: '/img/posts/nogo/nogo.jpg'
-thumbnail: '/img/posts/nogo/nogo.jpg'
-image: '/img/posts/nogo/nogo.jpg'
+background: '/img/posts/nogo/nogo.jpeg'
+thumbnail: '/img/posts/nogo/nogo.jpeg'
+image: '/img/posts/nogo/nogo.jpeg'
 description: "Lernen Sie das Konzept der No-Go-Momente kennen und erfahren Sie, wie diese Ihnen helfen können, Ihre Impulse zu kontrollieren und bessere Entscheidungen zu treffen."
 tags: Productivity
 lang: de

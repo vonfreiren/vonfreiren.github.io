@@ -4,9 +4,9 @@ title: "Momentos No-Go"
 permalink: /:title/ 
 subtitle: "Ayuda para controlar sus impulsos"
 date: 2024-07-21 02:01:13
-background: '/img/posts/nogo/nogo.jpg'
-thumbnail: '/img/posts/nogo/nogo.jpg'
-image: '/img/posts/nogo/nogo.jpg'
+background: '/img/posts/nogo/nogo.jpeg'
+thumbnail: '/img/posts/nogo/nogo.jpeg'
+image: '/img/posts/nogo/nogo.jpeg'
 description: "Conozca el concepto de Momentos No-Go y cómo pueden ayudarle a controlar sus impulsos y a tomar mejores decisiones."
 tags: Productivity
 lang: es

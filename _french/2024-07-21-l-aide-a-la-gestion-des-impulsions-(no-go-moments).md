@@ -4,9 +4,9 @@ title: "Moments de non-retour"
 permalink: /:title/ 
 subtitle: "Aide à la gestion des impulsions"
 date: 2024-07-21 02:01:13
-background: '/img/posts/nogo/nogo.jpg'
-thumbnail: '/img/posts/nogo/nogo.jpg'
-image: '/img/posts/nogo/nogo.jpg'
+background: '/img/posts/nogo/nogo.jpeg'
+thumbnail: '/img/posts/nogo/nogo.jpeg'
+image: '/img/posts/nogo/nogo.jpeg'
 description: "Découvrez le concept des "moments sans" et la façon dont ils peuvent vous aider à gérer vos impulsions et à prendre de meilleures décisions."
 tags: Productivity
 lang: fr

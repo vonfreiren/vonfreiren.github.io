@@ -4,9 +4,9 @@ title: "No-Go Moments"
 permalink: /:title/ 
 subtitle: "Assistance to Manage your Impulses"
 date: 2024-07-21 02:01:13
-background: '/img/posts/nogo/nogo.jpg'
-thumbnail: '/img/posts/nogo/nogo.jpg'
-image: '/img/posts/nogo/nogo.jpg'
+background: '/img/posts/nogo/nogo.jpeg'
+thumbnail: '/img/posts/nogo/nogo.jpeg'
+image: '/img/posts/nogo/nogo.jpeg'
 description: "Learn about the concept of No-Go Moments and how they can help you manage your impulses and make better decisions."
 tags: Productivity
 lang: en
