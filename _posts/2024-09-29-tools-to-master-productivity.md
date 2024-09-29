@@ -3,7 +3,7 @@ layout: post
 title: "Tools to Master Productivity"
 permalink: /:title/ 
 subtitle: "Supercharge your productivity with these popular tools and creative integration ideas."
-date: 2024-09-30 02:01:13
+date: 2024-09-29 02:01:13
 background: '/img/posts/productivity-tools/tools.jpeg'
 thumbnail: '/img/posts/productivity-tools/tools.jpeg'
 image: '/img/posts/productivity-tools/tools.jpeg'

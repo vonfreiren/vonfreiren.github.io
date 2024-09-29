@@ -4,7 +4,7 @@ layout: post
 title: "Des outils pour maîtriser la productivité"
 permalink: /:title/ 
 subtitle: "Augmentez votre productivité grâce à ces outils populaires et à des idées d'intégration créatives."
-date: 2024-09-30 02:01:13
+date: 2024-09-29 02:01:13
 background: '/img/posts/productivity-tools/tools.jpeg'
 thumbnail: '/img/posts/productivity-tools/tools.jpeg'
 image: '/img/posts/productivity-tools/tools.jpeg'

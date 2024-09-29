@@ -4,7 +4,7 @@ layout: post
 title: "Herramientas para dominar la productividad"
 permalink: /:title/ 
 subtitle: "Aumente su productividad con estas populares herramientas e ideas creativas de integración."
-date: 2024-09-30 02:01:13
+date: 2024-09-29 02:01:13
 background: '/img/posts/productivity-tools/tools.jpeg'
 thumbnail: '/img/posts/productivity-tools/tools.jpeg'
 image: '/img/posts/productivity-tools/tools.jpeg'
