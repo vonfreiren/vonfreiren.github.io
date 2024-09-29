@@ -4,9 +4,9 @@ title: "Tools to Master Productivity"
 permalink: /:title/ 
 subtitle: "Supercharge your productivity with these popular tools and creative integration ideas."
 date: 2024-09-29 02:01:13
-background: '/img/posts/productivity-tools/tools.jpeg'
-thumbnail: '/img/posts/productivity-tools/tools.jpeg'
-image: '/img/posts/productivity-tools/tools.jpeg'
+background: '/img/posts/productivity-tools/productivity.jpeg'
+thumbnail: '/img/posts/productivity-tools/productivity.jpeg'
+image: '/img/posts/productivity-tools/productivity.jpeg'
 description: "Productivity tools can help you manage workflows, track tasks, and collaborate effectively. Learn how to integrate popular tools like Notion, Swimm.io, Butterflies.ai, Copilot, and more to boost your productivity."
 tags: Productivity
 lang: en

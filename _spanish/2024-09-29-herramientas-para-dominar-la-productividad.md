@@ -5,9 +5,9 @@ title: "Herramientas para dominar la productividad"
 permalink: /:title/ 
 subtitle: "Aumente su productividad con estas populares herramientas e ideas creativas de integración."
 date: 2024-09-29 02:01:13
-background: '/img/posts/productivity-tools/tools.jpeg'
-thumbnail: '/img/posts/productivity-tools/tools.jpeg'
-image: '/img/posts/productivity-tools/tools.jpeg'
+background: '/img/posts/productivity-tools/productivity.jpeg'
+thumbnail: '/img/posts/productivity-tools/productivity.jpeg'
+image: '/img/posts/productivity-tools/productivity.jpeg'
 description: "Las herramientas de productividad pueden ayudarte a gestionar flujos de trabajo, realizar un seguimiento de las tareas y colaborar de forma eficaz. Aprende a integrar herramientas populares como Notion, Swimm.io, Butterflies.ai, Copilot y muchas más para aumentar tu productividad."
 tags: Productivity
 lang: es

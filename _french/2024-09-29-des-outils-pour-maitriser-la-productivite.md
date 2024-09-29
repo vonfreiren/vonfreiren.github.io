@@ -5,9 +5,9 @@ title: "Des outils pour maîtriser la productivité"
 permalink: /:title/ 
 subtitle: "Augmentez votre productivité grâce à ces outils populaires et à des idées d'intégration créatives."
 date: 2024-09-29 02:01:13
-background: '/img/posts/productivity-tools/tools.jpeg'
-thumbnail: '/img/posts/productivity-tools/tools.jpeg'
-image: '/img/posts/productivity-tools/tools.jpeg'
+background: '/img/posts/productivity-tools/productivity.jpeg'
+thumbnail: '/img/posts/productivity-tools/productivity.jpeg'
+image: '/img/posts/productivity-tools/productivity.jpeg'
 description: "Les outils de productivité peuvent vous aider à gérer les flux de travail, à suivre les tâches et à collaborer efficacement. Découvrez comment intégrer des outils populaires tels que Notion, Swimm.io, Butterflies.ai, Copilot, et bien d'autres encore, afin de stimuler votre productivité."
 tags: Productivity
 lang: fr

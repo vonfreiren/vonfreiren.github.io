@@ -5,9 +5,9 @@ title: "Tools zur Beherrschung der Produktivität"
 permalink: /:title/ 
 subtitle: "Erhöhen Sie Ihre Produktivität mit diesen beliebten Tools und kreativen Integrationsideen."
 date: 2024-09-29 02:01:13
-background: '/img/posts/productivity-tools/tools.jpeg'
-thumbnail: '/img/posts/productivity-tools/tools.jpeg'
-image: '/img/posts/productivity-tools/tools.jpeg'
+background: '/img/posts/productivity-tools/productivity.jpeg'
+thumbnail: '/img/posts/productivity-tools/productivity.jpeg'
+image: '/img/posts/productivity-tools/productivity.jpeg'
 description: "Produktivitäts-Tools können Ihnen helfen, Arbeitsabläufe zu verwalten, Aufgaben zu verfolgen und effektiv zusammenzuarbeiten. Erfahren Sie, wie Sie beliebte Tools wie Notion, Swimm.io, Butterflies.ai, Copilot und andere integrieren, um Ihre Produktivität zu steigern."
 tags: Productivity
 lang: de
