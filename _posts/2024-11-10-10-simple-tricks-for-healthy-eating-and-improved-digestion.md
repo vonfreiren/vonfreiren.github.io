@@ -4,9 +4,9 @@ title: "10 Simple Tricks for Healthy Eating and Improved Digestion"
 permalink: /:title/ 
 subtitle: "How to Boost Your Health and Well-Being"
 date: 2024-11-10 02:01:13
-background: '/img/posts/productivity-tools/herbal.jpeg'
-thumbnail: '/img/posts/productivity-tools/herbal.jpeg'
-image: '/img/posts/productivity-tools/herbal.jpeg'
+background: '/img/posts/digestion/herbal.jpeg'
+thumbnail: '/img/posts/digestion/herbal.jpeg'
+image: '/img/posts/digestion/herbal.jpeg'
 description: "Discover 10 simple tricks to enhance your eating habits and promote better digestion for improved health and well-being."
 tags: Health
 lang: en
