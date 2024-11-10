@@ -71,7 +71,8 @@ Drinking a warm cup of herbal tea after meals can help relieve digestive discomf
 These fats also help the body absorb essential fat-soluble vitamins like vitamins A, D, E, and K, which are important for maintaining overall health. Including healthy fats in your meals can promote optimal digestion, support nutrient absorption, and provide long-lasting energy.
 
 ### 10. Exercise Regularly
-    Exercise is a key factor in promoting healthy digestion. Physical activity stimulates the muscles of the digestive tract, helping to move food through the stomach and intestines more efficiently. Regular exercise can help reduce bloating, alleviate constipation, and improve overall gut health. It can also reduce stress, which is a common trigger for digestive issues such as acid reflux and irritable bowel syndrome (IBS).
+
+Exercise is a key factor in promoting healthy digestion. Physical activity stimulates the muscles of the digestive tract, helping to move food through the stomach and intestines more efficiently. Regular exercise can help reduce bloating, alleviate constipation, and improve overall gut health. It can also reduce stress, which is a common trigger for digestive issues such as acid reflux and irritable bowel syndrome (IBS).
 
 Aim for at least 30 minutes of moderate exercise each day. Activities such as walking, cycling, swimming, and yoga are excellent choices for promoting digestive health. Regular exercise can also improve overall health, boost mood, and increase energy levels.
 
