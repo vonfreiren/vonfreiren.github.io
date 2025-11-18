@@ -5,9 +5,9 @@ title: "Jenseits des Hypes: Die nächste Welle der Produktivitätsverbesserung"
 permalink: /:title/ 
 subtitle: "Erkundung der neuesten Innovationen bei Produktivitätswerkzeugen"
 date: 2025-07-26 02:01:13
-background: '/img/posts/winter_sports/winter_training.jpg'
-thumbnail: '/img/posts/winter_sports/winter_training.jpg'
-image: '/img/posts/winter_sports/winter_training.jpg'
+background: '/img/posts/beyond-the-productivity/beyond-the-productivity.jpeg'
+thumbnail: '/img/posts/beyond-the-productivity/beyond-the-productivity.jpeg'
+image: '/img/posts/beyond-the-productivity/beyond-the-productivity.jpeg'
 description: "Entdecken Sie die neuesten Innovationen im Bereich der Produktivitätstools, die Arbeitsabläufe verändern und die Effizienz steigern, von Automatisierungsplattformen bis hin zu KI-gesteuerten Meeting-Assistenten."
 tags: Productivity
 lang: de
@@ -41,7 +41,7 @@ Meetings sind zwar für die Zusammenarbeit unverzichtbar, können aber auch ein 
 - **Automatisierte Meeting-Transkription:** Fireflies.ai lässt sich in gängige Videokonferenzplattformen (Zoom, Google Meet, Microsoft Teams usw.) integrieren, um Meetings automatisch und in Echtzeit aufzuzeichnen und zu transkribieren. Dies macht manuelle Notizen überflüssig und ermöglicht es den Teilnehmern, sich ganz auf die Diskussion zu konzentrieren.
 - KI-generierte Zusammenfassungen und Aktionspunkte:** Über die reine Transkription hinaus nutzt Fireflies.ai KI, um prägnante Zusammenfassungen zu generieren, Schlüsselthemen zu identifizieren und Aktionspunkte zu extrahieren, einschließlich der Identifizierung der Sprecher. Dies bietet einen schnellen Überblick über das Meeting und stellt sicher, dass Folgemaßnahmen klar sind.
 - **Smarte Suche und Wiedergabe:** Benutzer können Abschriften einfach nach bestimmten Schlüsselwörtern, Phrasen oder Sprechern durchsuchen. Die Plattform ermöglicht auch die Wiedergabe von Audiodaten, die mit der Abschrift synchronisiert sind, so dass bestimmte Teile des Gesprächs leicht wieder aufgerufen werden können.
-- **Zusammenarbeit und gemeinsame Nutzung:** Abschriften und Zusammenfassungen können problemlos mit Teammitgliedern geteilt werden, auch mit denen, die nicht teilnehmen konnten, um sicherzustellen, dass alle informiert und auf dem Laufenden bleiben. Teams können Kommentare hinzufügen, wichtige Abschnitte hervorheben und gemeinsam an Folgeaufgaben arbeiten.
+- **Zusammenarbeit und gemeinsame Nutzung:** Abschriften und Zusammenfassungen können problemlos mit Teammitgliedern geteilt werden, auch mit denen, die nicht teilnehmen konnten, um sicherzustellen, dass alle informiert und auf dem gleichen Stand sind. Teams können Kommentare hinzufügen, wichtige Abschnitte hervorheben und gemeinsam an Folgeaufgaben arbeiten.
 - **Integration mit CRMs und Projektmanagement-Tools:** Fireflies.ai kann Besprechungsdaten, einschließlich Aktionspunkte und Diskussionspunkte, direkt in CRM-Systeme (z. B. Salesforce) und Projektmanagement-Tools übertragen, um Arbeitsabläufe zu optimieren und Kontinuität zu gewährleisten.
 
 **Auswirkungen auf die Produktivität:** Fireflies.ai verwandelt Meetings von potenziellen Produktivitätsfressern in effiziente Wissensspeicher. Durch die Automatisierung von Notizen und die Zusammenfassung der wichtigsten Ergebnisse wird sichergestellt, dass wertvolle Erkenntnisse erfasst und leicht zugänglich sind, was zu einer klareren Kommunikation, einer schnelleren Entscheidungsfindung und einer besseren Verantwortlichkeit führt.
@@ -74,7 +74,7 @@ Die Zusammenarbeit in entfernten und hybriden Umgebungen erfordert Tools, die di
 - **Integrationen mit Projektmanagement-Tools:** Boards können mit gängigen Projektmanagement-Plattformen wie Jira, Asana und Trello verknüpft oder in diese eingebettet werden, um die Lücke zwischen Ideenfindung und Ausführung zu schließen.
 - **Präsentationsmodus und Abstimmung:** Funktionen wie der Präsentationsmodus ermöglichen es Teams, Ideen nahtlos durchzugehen, während integrierte Abstimmungstools eine schnelle Entscheidungsfindung und Prioritätensetzung ermöglichen.
 
-**Auswirkungen auf die Produktivität:** Miro erleichtert effektivere und effizientere Zusammenarbeitssitzungen, sei es für Brainstorming, Planung oder Problemlösung. Miro hilft Teams dabei, komplexe Ideen zu visualisieren, Strategien abzustimmen und schneller von einem Konzept zum nächsten zu kommen, indem es einen gemeinsamen, dynamischen Arbeitsbereich bietet, der geografische Grenzen überwindet.
+**Auswirkungen auf die Produktivität:** Miro erleichtert effektivere und effizientere Zusammenarbeitssitzungen, sei es für Brainstorming, Planung oder Problemlösung. Miro hilft Teams dabei, komplexe Ideen zu visualisieren, Strategien abzustimmen und schneller von einem Konzept zum nächsten zu gelangen, indem es einen gemeinsamen, dynamischen Arbeitsbereich bietet, der geografische Grenzen überwindet.
 
 **Das kontinuierliche Streben nach Effizienz**
 
