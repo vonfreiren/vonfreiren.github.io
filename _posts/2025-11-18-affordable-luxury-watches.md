@@ -4,9 +4,9 @@ title: "Watches Beyond the Price Tag"
 permalink: /:title/ 
 subtitle: "Affordable Options That Look Like Luxury"
 date: 2025-11-18 02:01:13
-background: '/img/posts/watches2/watches2.png'
-thumbnail: '/img/posts/watches2/watches2.png'
-image: '/img/posts/watches2/watches2.png'
+background: '/img/posts/watches2/watches2.jpeg'
+thumbnail: '/img/posts/watches2/watches2.jpeg'
+image: '/img/posts/watches2/watches2.jpeg'
 description: "Explore affordable watches that deliver luxury aesthetics and craftsmanship without the hefty price tag. Discover timepieces that look like they cost thousands."
 tags: Lifestyle
 lang: en
