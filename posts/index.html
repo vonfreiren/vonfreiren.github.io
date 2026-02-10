@@ -19,14 +19,14 @@ background: '/img/bg-post.jpg'
   </a>
     <br>
     <br>
-  <h7 class="post-meta">Posted by
+  <p class="post-meta">Posted by
     {% if post.author %}
     {{ post.author }}
     {% else %}
     {{ site.author }}
     {% endif %}
     on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-  </h7>
+  </p>
   <p>
               {% if post.tags.size > 0 %}
                 <div class="blockquote-tag">

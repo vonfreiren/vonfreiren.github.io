@@ -1,2 +1,5 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+// Modern design overrides (CSS variables, glassmorphism, refined typography)
+@import "modern";

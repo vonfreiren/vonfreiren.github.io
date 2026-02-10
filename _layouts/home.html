@@ -5,8 +5,7 @@ layout: default
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead"
-        style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
-        xmlns="http://www.w3.org/1999/html">
+        style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
 
     {% else %}
     <header class="masthead">
@@ -34,7 +33,7 @@ layout: default
     <div class="container">
         <div class="row">
 
-            <div class="col-lg-18 col-md-20 mx-auto">
+            <div class="col-lg-12 col-md-12 mx-auto">
 
                 {{ content }}
 
@@ -72,17 +71,16 @@ layout: default
                         <div class="card border-0">
                             <article class="post-preview">
                                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-                                    <p>
-                                    <div style="margin-left: 20px;margin-right: 20px">
-                                        <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}">
+                                    <div class="card-img-wrapper">
+                                        <img class="card-img-top" src="{{post.background}}" alt="{{post.description}}" loading="lazy">
                                     </div>
                                     <div class="card-body py-3">
-                                        <div style="height: fit-content; overflow: hidden;">
+                                        <div class="post-title-wrapper">
                                             <h4 class="post-title">{{ post.title }}</h4>
                                         </div>
                                         {% if post.subtitle %}
-                                        <div style="height: fit-content; margin-bottom: 7px; margin-top: 7px;  overflow: hidden; position: center">
-                                            <h7 class="post-subtitle"><strong>{{ post.subtitle }}</strong></h7>
+                                        <div class="post-subtitle-wrapper">
+                                            <span class="post-subtitle"><strong>{{ post.subtitle }}</strong></span>
                                         </div>
                                         <section>
                                             <small class="post-preview">
@@ -97,33 +95,11 @@ layout: default
                                             {{ truncated_text | slice: 0, 2 | join: '. ' | strip_html | linebreak }}
                                         </small>
                                         {% endif %}
-                                        <div class="container" align="right">
+                                        <div class="post-date-wrapper">
                                             <small class="post-date"> {{ post.date | date: '%B %d, %Y' }} </small>
                                         </div>
                                     </div>
                                 </a>
-                                <!--            <div class="card-body py-3">
-                                            <p class="post-meta"> <small>Posted by
-                                            {% if post.author %}
-                                            {{ post.author }}
-                                            {% else %}
-                                            {{ site.author }}
-                                            {% endif %}
-                                            on
-                                            {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-                                        </small></p>
-                                            {% if post.tags.size > 0 %}
-                                                <div class="caption">
-                                                    <span class="post-share-title">Tags:</span>
-                                                    {% for tag in post.tags %} {% if forloop.index == post.tags.size %}
-                                                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                                                    {% else %}
-                                                    <a href='{{ site.baseurl }}/tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
-                                                    {% endif %}
-                                                    {% endfor %}
-                                                </div>
-                                                {% endif %}
-                                                </div>-->
                             </article>
                         </div>
                     </div>
@@ -136,15 +112,12 @@ layout: default
             </div>
         </div>
     </div>
-    </section>
 
 
     <!-- Pager -->
-    <p>
-    <div class="clearfix">
+    <div class="clearfix" style="padding: 1rem 0;">
         <a class="btn float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
     </div>
-    </p>
 
     </div>
     </div>

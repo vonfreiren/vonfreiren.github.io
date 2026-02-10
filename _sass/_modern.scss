@@ -21,11 +21,18 @@
   --radius-lg: 16px;
 }
 
+// Smooth scrolling
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--font-body);
   background-color: var(--color-bg);
   color: var(--color-text);
   line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -33,6 +40,12 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--color-primary);
   font-weight: 700;
   letter-spacing: -0.02em;
+}
+
+// Focus visible for accessibility
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
 }
 
 // Navbar - Glassmorphism
@@ -79,7 +92,7 @@ header.masthead {
   background-attachment: scroll;
   position: relative;
   background-size: cover;
-  border-radius: 0 0 var(--radius-lg) var(--radius-lg); // Rounded bottom
+  border-radius: 0 0 var(--radius-lg) var(--radius-lg);
   overflow: hidden;
 
   .overlay {
@@ -88,8 +101,7 @@ header.masthead {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #212529;
-    opacity: 0.4; // Slightly lighter
+    background: linear-gradient(135deg, rgba(33,37,41,0.5) 0%, rgba(33,37,41,0.3) 100%);
   }
 
   .page-heading, .post-heading, .site-heading {
@@ -112,6 +124,35 @@ header.masthead {
       opacity: 0.9;
     }
   }
+}
+
+// Card image wrapper (replaces inline margin styles)
+.card-img-wrapper {
+  padding: 0 20px;
+}
+
+.card-img-top {
+  border-radius: var(--radius-md);
+  transition: transform 0.3s ease;
+}
+
+.post-preview:hover .card-img-top {
+  transform: scale(1.02);
+}
+
+// Post title and subtitle wrappers (replaces inline styles)
+.post-title-wrapper {
+  overflow: hidden;
+}
+
+.post-subtitle-wrapper {
+  margin-bottom: 7px;
+  margin-top: 7px;
+  overflow: hidden;
+}
+
+.post-date-wrapper {
+  text-align: right;
 }
 
 // Post Content
@@ -148,6 +189,7 @@ header.masthead {
     font-weight: 300;
     margin: 0 0 10px;
     opacity: 0.8;
+    display: block;
   }
 
   .post-meta {
@@ -155,7 +197,7 @@ header.masthead {
     font-style: italic;
     color: #868e96;
     margin-top: 15px;
-    
+
     a {
         text-decoration: none;
         color: var(--color-accent);
@@ -166,19 +208,44 @@ header.masthead {
   }
 }
 
+// Post tags on post pages
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.tag-link {
+  display: inline-flex;
+  align-items: center;
+
+  code {
+    transition: background-color 0.2s ease;
+  }
+
+  &:hover code {
+    background-color: rgba(255,255,255,0.2);
+  }
+}
+
 // Buttons
+.btn {
+  border-radius: 30px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
 .btn-primary {
   background-color: var(--color-accent);
   border-color: var(--color-accent);
   color: white;
-  border-radius: 30px; // Pill shape
   padding: 10px 25px;
-  font-weight: 600;
-  font-family: var(--font-body);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-size: 0.8rem;
-  transition: all 0.3s ease;
 
   &:hover, &:focus, &:active {
     background-color: darken(#00B894, 10%) !important;
@@ -201,18 +268,18 @@ footer {
          margin-right: 0;
      }
   }
-  
+
     // Social icons
   a {
       color: var(--color-text-light);
       .fa-stack {
-          transition: transform 0.2s;
+          transition: transform 0.2s ease, color 0.2s ease;
           &:hover {
              transform: scale(1.1);
           }
       }
   }
-  
+
   .copyright {
     font-size: 14px;
     margin-bottom: 0;
@@ -222,9 +289,20 @@ footer {
   }
 }
 
+// Similar posts section
+.similar-posts-grid {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.centered-heading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
 // Pagination
 .pager {
-    
+
     .next > a, .previous > a {
         border-radius: 30px;
         border: 1px solid var(--color-border);
@@ -232,11 +310,175 @@ footer {
         background: var(--color-surface);
         font-family: var(--font-heading);
         font-weight: 700;
-        
+
         &:hover, &:focus {
             background-color: var(--color-accent);
             color: white;
             border-color: var(--color-accent);
         }
     }
+}
+
+// Subscribe popup modernization
+.subscribe-popup {
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  border: 1px solid var(--color-border);
+  position: relative;
+
+  h6 {
+    font-family: var(--font-heading);
+  }
+
+  .button {
+    background-color: var(--color-accent);
+    border: none;
+    color: white;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: darken(#00B894, 10%);
+    }
+  }
+
+  input[type="email"] {
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    padding: 6px 10px;
+    font-family: var(--font-body);
+    transition: border-color 0.2s ease;
+
+    &:focus {
+      border-color: var(--color-accent);
+      outline: none;
+    }
+  }
+
+  .close-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: opacity 0.2s ease;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+// Share buttons modernization
+#share-buttons {
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: center;
+
+  > div {
+    position: relative;
+    text-align: center;
+    height: 28px;
+    width: 28px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: scale(1.2);
+    }
+
+    > svg {
+      height: 12px;
+      fill: #d5d5d5;
+      margin-top: 4px;
+      transition: fill 0.2s ease;
+    }
+  }
+
+  > div.facebook:hover > svg { fill: #3B5998; }
+  > div.twitter:hover > svg { fill: #55ACEE; }
+  > div.linkedin:hover > svg { fill: #0077b5; }
+  > div.mail:hover > svg { fill: #7D7D7D; }
+
+  > div.facebook > svg { height: 16px; margin-top: 8px; }
+  > div.twitter > svg { height: 18px; margin-top: 7px; }
+  > div.linkedin > svg { height: 17px; margin-top: 6px; }
+  > div.mail > svg { height: 12px; margin-top: 11px; }
+}
+
+// Improved article content typography
+.container article {
+  img {
+    border-radius: var(--radius-md);
+    max-width: 100%;
+    height: auto;
+  }
+
+  blockquote {
+    border-left: 4px solid var(--color-accent);
+    padding-left: 1.5rem;
+    color: var(--color-text-light);
+    font-style: italic;
+  }
+
+  code {
+    border-radius: var(--radius-sm);
+  }
+
+  pre {
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+  }
+}
+
+// Language dropdown
+.dropdown-menu {
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--color-border);
+
+  .dropdown-item {
+    transition: background-color 0.15s ease;
+
+    &:hover {
+      background-color: rgba(0, 184, 148, 0.1);
+    }
+  }
+}
+
+// Selection color
+::selection {
+  background-color: rgba(0, 184, 148, 0.2);
+  color: var(--color-text);
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  header.masthead {
+    .page-heading, .post-heading, .site-heading {
+      padding: 100px 0 60px;
+
+      h1 {
+        font-size: 2.5rem;
+      }
+
+      .subheading {
+        font-size: 1.2rem;
+      }
+    }
+  }
+
+  .post-preview {
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+
+    .post-title {
+      font-size: 1.4rem;
+    }
+  }
 }

@@ -9,7 +9,7 @@
         <ul class="list-inline text-center">
           {% if site.email %}
           <li class="list-inline-item">
-            <a href="mailto:{{ site.email | encode_email }}">
+            <a href="mailto:{{ site.email | encode_email }}" aria-label="Email">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
@@ -19,7 +19,7 @@
           {% endif %}
           {% if site.twitter_username %}
           <li class="list-inline-item">
-            <a href="https://twitter.com/{{ site.twitter_username }}">
+            <a href="https://twitter.com/{{ site.twitter_username }}" aria-label="Twitter">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
@@ -29,7 +29,7 @@
           {% endif %}
           {% if site.facebook_username %}
           <li class="list-inline-item">
-            <a href="https://www.facebook.com/{{ site.facebook_username }}">
+            <a href="https://www.facebook.com/{{ site.facebook_username }}" aria-label="Facebook">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
@@ -39,7 +39,7 @@
           {% endif %}
           {% if site.linkedin_username %}
           <li class="list-inline-item">
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" aria-label="LinkedIn">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -49,7 +49,7 @@
           {% endif %}
           {% if site.github_username %}
           <li class="list-inline-item">
-            <a href="https://github.com/{{ site.github_username }}">
+            <a href="https://github.com/{{ site.github_username }}" aria-label="GitHub">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -59,7 +59,7 @@
           {% endif %}
           {% if site.medium_username %}
           <li class="list-inline-item">
-            <a href="https://medium.com/@{{ site.medium_username }}">
+            <a href="https://medium.com/@{{ site.medium_username }}" aria-label="Medium">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-medium fa-stack-1x fa-inverse"></i>
@@ -69,7 +69,7 @@
           {% endif %}
           {% if site.instagram_username %}
           <li class="list-inline-item">
-            <a href="https://instagram.com/{{ site.instagram_username }}">
+            <a href="https://instagram.com/{{ site.instagram_username }}" aria-label="Instagram">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
@@ -78,7 +78,7 @@
           </li>
           {% endif %}
           <li class="list-inline-item">
-            <a href="https://www.paypal.com/paypalme/javierfreire175">
+            <a href="https://www.paypal.com/paypalme/javierfreire175" aria-label="PayPal">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-paypal fa-stack-1x fa-inverse"></i>
@@ -86,25 +86,14 @@
             </a>
           </li>
           <li class="list-inline-item">
-            <a href="https://www.strava.com/athletes/vonfreiren">
+            <a href="https://www.strava.com/athletes/vonfreiren" aria-label="Strava">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fab fa-strava fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
-<!--          <li class="list-inline-item">-->
-<!--            <a href="{{"/contact" | relative_url }}">-->
-<!--              <span class="fa-stack fa-lg">-->
-<!--                <i class="fas fa-circle fa-stack-2x"></i>-->
-<!--                <i class="fab fa-bitcoin fa-stack-1x fa-inverse"></i>-->
-<!--              </span>-->
-<!--            </a>-->
-<!--          </li>-->
         </ul>
-        <link rel="alternate" type="application/atom+xml" title="Life of a Modern Man" href="https://mrfreire.net/feed.xml">
-
-
 
         <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
       </div>
