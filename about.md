@@ -50,6 +50,13 @@ In my spare time you will, these are some of the activities I enjoy most:
 <hr>
 
 
+## Projects
+
+- [Taxxy](https://www.taxxy.eu) — crypto tax software that prices every trade at the minute it happened and fills official tax forms (Form 8949, SA108, Modelo 100, Quadro RT and more) for 50+ countries. Free during public beta.
+- [Finance tools](https://finance.mrfreire.net/) — my personal finance and investment tooling.
+
+<hr>
+
 ## Posts in different languages
 
 Once written in English, the posts are automatically translated to other languages and published. Please note that I don't review the translations in detail, so they might not be 100% accurate.
